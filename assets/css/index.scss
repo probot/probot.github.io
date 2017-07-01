@@ -1,0 +1,76 @@
+---
+---
+
+@import "primer-css/index.scss";
+@import "colors.scss";
+
+.featurette {
+  padding-top: $spacer * 10;
+  padding-bottom: $spacer * 10;
+}
+
+.circle-badge {
+  width: 72px;
+  height: 72px;
+  line-height: 72px;
+  background-color: rgba(#fff, 0.85);
+  color: $text-gray-dark;
+  border-radius: 50%;
+}
+
+.octicon {
+  display: inline-block;
+  vertical-align: text-top;
+  fill: currentColor;
+}
+
+.cover {
+  height: 140px;
+  & * {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.cover-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center;
+  z-index: 0;
+}
+
+
+figure {
+  margin: 0;
+  padding: $spacer-3;
+}
+code {
+  font-size: 14px;
+}
+
+
+.timeline-comment {
+  position: relative;
+}
+
+.timeline-comment:before {
+    border-width: 8px;
+    border-right-color: #d1d5da;
+}
+.timeline-comment:after {
+    position: absolute;
+    top: 11px;
+    right: 100%;
+    left: -16px;
+    display: block;
+    width: 0;
+    height: 0;
+    pointer-events: none;
+    content: " ";
+    border-color: transparent;
+    border-style: solid solid outset;
+}

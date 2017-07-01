@@ -1,0 +1,115 @@
+---
+layout: default
+---
+<div class="bg-brand-blue-light border-bottom">
+  <div class="container-lg px-3">
+    <div class="py-3 clearfix">
+      <nav class="text-bold d-block float-right">
+        <a class="text-inherit px-2 d-inline-block" href="#">Explore</a>
+        <a class="text-inherit px-2 d-inline-block" href="#">Build</a>
+        <a class="text-inherit px-2 d-inline-block" href="#">Contribute</a>
+      </nav>
+    </div>
+
+    <header class="jumbotron ">
+      <div class="pb-0 pt-md-4 py-lg-6">
+        <div class="d-flex flex-items-center flex-justify-center">
+          <div class="flex-column col-2">
+            <img style="max-width:90%;" src="/assets/logo.png">
+          </div>
+          <div class="flex-column col-10">
+            <h1 class="alt-h1 mt-md-4 mb-3 mx-2 lh-condensed">
+              Stop relying on a human<br>
+              to do the work of a robot.
+            </h1>
+            <div class="alt-lead mb-5 mx-2 lh-condensed" style="opacity:0.5;">GitHub Apps to automate and improve your workflow</div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+</div>
+<div>
+  <div class="container-lg py-6">
+    <div class="columns">
+      {% for plugin in site.plugins %}
+        <div class="column one-third  anim-fade-in mb-4">
+          <a href="{{ plugin.url }}" class="d-block bg-white rounded-1 box-shadow border text-inherit no-underline"
+              style="background-color: #{{ plugin.color }}">
+            <div class="cover text-center position-relative p-4">
+              <div class="cover-bg" style="background-image: url({{ plugin.background }});"></div>
+            </div>
+            <h3 class="lh-condensed px-3 pt-3">{{ plugin.title }}</h3>
+            <p class="lh-condensed px-3 pb-3">{{ plugin.description }}</p>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="border-top bg-gray-light featurette">
+  <div class="container-lg">
+    <h2 class="alt-h1 text-center">Build your own bot</h2>
+    <p class="alt-lead text-center mb-6">Something about how easy it is to get started.</p>
+
+    <div class="mt-6">
+      <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center my-4">
+        <div class="col-6 d-flex flex-column pr-6">
+          <h3 class="alt-h3 mb-2">Easily scriptable:</h3>
+          <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+        <div class="col-6 d-flex flex-column">
+          <div class="rounded-2 overflow-hidden border" style="margin-left: 60px;">
+{% highlight javascript %}
+module.exports = robot => {
+robot.on('issues.opened', context => {
+const params = context.issue({
+  body: 'Hello World!'
+});
+context.github.issues.createComment(params);
+});
+}
+{% endhighlight %}
+          </div>
+
+          <div class="mt-6">
+            <img src="https://github.com/probot.png" height="44" class="avatar rounded-1 float-left">
+            <div class="timeline-comment box rounded-2 border bg-white" style="margin-left: 60px;">
+              <div class="bg-gray px-3 py-2 border-bottom">
+                <strong>@probot</strong> commented
+              </div>
+              <p class="m-0 p-3">Hello World!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="mt-6">
+        <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center my-4">
+          <div class="col-6 d-flex flex-column pr-6">
+            <img src="https://assets-cdn.github.com/images/modules/site/home-illo-business.svg" class="d-block width-fit mx-auto mb-4">
+          </div>
+          <div class="col-6 d-flex flex-column pr-6">
+            <h3 class="alt-h3 mb-2">Full access to the GitHub API</h3>
+            <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <h3>Somethign cool about it</h3>
+    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+    <h3>Somethign cool about it</h3>
+    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+    <h3>Somethign cool about it</h3>
+    <p> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
+  </div>
+</div>
+<div class="bg-gray-dark mt-6 pt-6" style="height: 300px;">
+</div>
