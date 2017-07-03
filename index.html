@@ -63,13 +63,13 @@ layout: default
           <div class="rounded-2 overflow-hidden border" style="margin-left: 60px;">
 {% highlight javascript %}
 module.exports = robot => {
-robot.on('issues.opened', context => {
-const params = context.issue({
-  body: 'Hello World!'
-});
-context.github.issues.createComment(params);
-});
-}
+  robot.on('issues.opened', context => {
+    const params = context.issue({
+      body: 'Hello World!'
+    });
+    context.github.issues.createComment(params);
+  });
+};
 {% endhighlight %}
           </div>
 
