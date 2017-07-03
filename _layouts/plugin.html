@@ -2,17 +2,19 @@
 layout: default
 ---
 
-<div class="border-bottom bg-brand-blue-light">
+<div class="border-bottom bg-gray-dark text-white">
   <div class="container-lg px-3">
-    <div class="py-3 clearfix">
-      <h1 class="h3 float-left">
-        <img src="/assets/probot-head.png" width="32" alt="">
-        <strong class="">Probot</strong>
+    <div class="py-4 d-flex d-flex-row">
+      <h1 class="alt-h5 col-4 lh-default v-align-middle">
+        <a href="/" class="no-underline text-uppercase text-inherit">
+          <img style="margin: -12px 8px -10px 0;" src="/assets/probot-head.png" height="36" alt="">
+          Probot
+        </a>
       </h1>
-      <nav class="text-bold d-block float-right">
-        <a class="text-inherit px-2 d-inline-block" href="#">Explore</a>
-        <a class="text-inherit px-2 d-inline-block" href="#">Build</a>
-        <a class="text-inherit px-2 d-inline-block" href="#">Contribute</a>
+      <nav class="text-bold col-8 text-right">
+        <a class="text-inherit px-2 d-inline-block" href="/#explore">Explore</a>
+        <a class="text-inherit px-2 d-inline-block" href="/#build">Build</a>
+        <a class="text-inherit px-2 d-inline-block" href="https://github.com/probot/probot">Contribute</a>
       </nav>
     </div>
   </div>
@@ -21,8 +23,9 @@ layout: default
 <div class="border-bottom">
   <div class="container-lg px-3 jumbotron jumbotron-minitron">
     <div class="d-flex d-flex-row gutter-spacious flex-items-center">
-      <div class="flex-column col-3 text-center cover position-relative rounded-2"
-           style="background-image: url({{ page.background }}); background-size: cover; background-position: center;">
+      <div class="flex-column col-3 text-center">
+        <div class="cover rounded-2"
+           style="background-image: url({{ page.background }}); background-size: cover; background-position: center;"></div>
       </div>
       <div class="flex-column col-7">
         <h1 class="alt-h1 lh-condensed-ultra">{{ page.title }}</h1>
@@ -31,7 +34,6 @@ layout: default
       <div class="flex-column col-2 text-right">
         <a class="btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new">Install</a>
       </div>
-
     </div>
   </div>
 </div>
@@ -61,7 +63,12 @@ layout: default
         {% endfor %}
 
         <h4 class="mt-4 alt-h4 text-gray">About</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+        <p>
+          <span class="text-gray-light">Author:</span>
+          <img class="avatar" src="https://github.com/{{ page.author }}.png" height="26">
+          <span class="text-bold text-inherit">@{{ page.author }}</span>
+        </p>
         <p><span class="text-gray-light">Updated:</span> June 12, 2017</p>
         <p><strong>{{ page.installs | default: 0 }}</strong> <span class="text-gray-light">installs</span></p>
         <p><strong>{{ page.stars | default: 0 }}</strong> <span class="text-gray-light">stars</span></p>

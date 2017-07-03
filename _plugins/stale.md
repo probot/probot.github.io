@@ -1,6 +1,6 @@
 ---
 title: Stale
-description: close stale Issues and Pull Requests
+description: Close stale Issues and Pull Requests
 slug: probot-stale
 octicon: clock
 color: DAECE3
@@ -17,6 +17,7 @@ organizations:
 - exercism
 - github
 - npm
+author: github
 ---
 
 After installing the integration, create `.github/stale.yml` in the default branch to enable it:

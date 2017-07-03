@@ -1,23 +1,23 @@
 ---
 layout: default
 ---
-<div class="bg-brand-blue-light border-bottom">
+<div class="bg-gray-dark text-white border-bottom">
   <div class="container-lg px-3">
-    <div class="py-3 clearfix">
+    <div class="py-4 clearfix">
       <nav class="text-bold d-block float-right">
-        <a class="text-inherit px-2 d-inline-block" href="#">Explore</a>
-        <a class="text-inherit px-2 d-inline-block" href="#">Build</a>
-        <a class="text-inherit px-2 d-inline-block" href="#">Contribute</a>
+        <a class="text-inherit px-2 d-inline-block" href="/#explore">Explore</a>
+        <a class="text-inherit px-2 d-inline-block" href="/#build">Build</a>
+        <a class="text-inherit px-2 d-inline-block" href="https://github.com/probot/probot">Contribute</a>
       </nav>
     </div>
 
-    <header class="jumbotron ">
+    <header class="py-6">
       <div class="pb-0 pt-md-4 py-lg-6">
         <div class="d-flex flex-items-center flex-justify-center">
-          <div class="flex-column col-2">
-            <img style="max-width:90%;" src="/assets/logo.png">
+          <div class="flex-column col-3 text-right pr-4">
+            <img height="175" src="/assets/logo.png">
           </div>
-          <div class="flex-column col-10">
+          <div class="flex-column col-9">
             <h1 class="alt-h1 mt-md-4 mb-3 mx-2 lh-condensed">
               Stop relying on a human<br>
               to do the work of a robot.
@@ -29,13 +29,15 @@ layout: default
     </header>
   </div>
 </div>
-<div>
-  <div class="container-lg py-6">
-    <div class="columns">
-      {% for plugin in site.plugins %}
-        <div class="column one-third  anim-fade-in mb-4">
-          <a href="{{ plugin.url }}" class="d-block bg-white rounded-1 box-shadow border text-inherit no-underline"
-              style="background-color: #{{ plugin.color }}">
+<div id="explore">
+  <div class="container-lg px-3 py-6">
+    <h2 class="alt-h2 text-center">Explore</h2>
+    <p class="alt-lead text-center">Find all the things to do all the things.</p>
+
+    <div class="d-md-flex flex-wrap gutter flex-auto">
+      {% for plugin in site.plugins limit:6 %}
+        <div class="flex-column col-lg-4 col-md-6 anim-fade-in mb-3 mt-3">
+          <a href="{{ plugin.url }}" class="d-block bg-white rounded-1 box-shadow border text-inherit no-underline" style="height:100%">
             <div class="cover text-center position-relative p-4">
               <div class="cover-bg" style="background-image: url({{ plugin.background }});"></div>
             </div>
@@ -48,8 +50,8 @@ layout: default
   </div>
 </div>
 
-<div class="border-top bg-gray-light featurette">
-  <div class="container-lg">
+<div id="build" class="border-top bg-gray-light featurette">
+  <div class="container-lg px-3">
     <h2 class="alt-h1 text-center">Build your own bot</h2>
     <p class="alt-lead text-center mb-6">Something about how easy it is to get started.</p>
 

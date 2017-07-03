@@ -1,10 +1,10 @@
 ---
 title: Settings
 description: Pull Requests for repository settings
-slug: configurer
+slug: settings
 octicon: gear
 color: F0B446
-background: http://media.istockphoto.com/vectors/bright-yellow-and-grey-office-or-waiting-room-vector-id534481994
+background: http://media.istockphoto.com/vectors/human-hands-clapping-vector-id610140086
 topics:
 - administration
 ---

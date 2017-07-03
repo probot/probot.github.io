@@ -1,6 +1,6 @@
 ---
 title: Certificate of Origin
-description: enforce the DCO on Pull Requests
+description: Enforce the DCO on Pull Requests
 slug: dco
 octicon: law
 color: 89A4C7
