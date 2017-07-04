@@ -3,16 +3,15 @@ title: Certificate of Origin
 description: Enforce the DCO on Pull Requests
 slug: dco
 octicon: law
-color: 89A4C7
-background: http://media.istockphoto.com/vectors/coming-soon-vector-id616221958
 screenshots:
 - https://cloud.githubusercontent.com/assets/173/24482273/a35dc23e-14b5-11e7-9371-fd241873e2c3.png
-stars: 142
-installs: 48
 organizations:
 - linuxfoundation
 - kubernetes
 - nodejs
+stars: 142
+installs: 48
+author: bkeepers
 ---
 
 

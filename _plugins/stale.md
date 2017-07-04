@@ -17,7 +17,9 @@ organizations:
 - exercism
 - github
 - npm
-author: github
+author: bkeepers
+stars: 112
+installs: 305
 ---
 
 After installing the integration, create `.github/stale.yml` in the default branch to enable it:

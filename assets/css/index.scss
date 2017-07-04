@@ -4,6 +4,11 @@
 @import "primer-css/index.scss";
 @import "colors.scss";
 
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 .featurette {
   padding-top: $spacer * 10;
   padding-bottom: $spacer * 10;
@@ -42,7 +47,6 @@
   background-position: center;
   z-index: 0;
 }
-
 
 figure {
   margin: 0;

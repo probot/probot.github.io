@@ -7,6 +7,9 @@ color: F0B446
 background: http://media.istockphoto.com/vectors/human-hands-clapping-vector-id610140086
 topics:
 - administration
+stars: 114
+installs: 38
+author: bkeepers
 ---
 
 This GitHub Integration syncs repository settings defined in `.github/config.yml` to GitHub, enabling Pull Requests for repository settings.

@@ -14,14 +14,14 @@ layout: default
     <header class="py-6">
       <div class="pb-0 pt-md-4 py-lg-6">
         <div class="d-flex flex-items-center flex-justify-center">
-          <div class="flex-column col-3 text-right pr-4">
-            <img height="200" src="/assets/logo.png">
+          <div class="col-3 text-right p-4">
+            <img src="/assets/logo.png">
           </div>
           <div class="flex-column col-9">
             <h1 class="alt-h2 text-uppercase lh-condensed text-gray">Probot</h1>
             <h2 class="alt-h1 lh-condensed">
-              Stop relying on a human<br>
-              to do the work of a robot.
+              Why should a human<br>
+              do the work of a robot?
             </h2>
             <div class="alt-lead text-gray">GitHub Apps to automate and improve your workflow</div>
           </div>
@@ -31,22 +31,34 @@ layout: default
   </div>
 </div>
 <div id="explore">
-  <div class="container-lg px-3 py-6">
+  <div class="container-lg px-3 featurette">
     <h2 class="alt-h2 text-center">Explore</h2>
-    <p class="alt-lead text-center">Find all the things to do all the things.</p>
+    <p class="lead text-center col-md-8 col-sm-10 mx-auto">Replace this with a pitch about all the awesome apps built by the community that you can just use.</p>
 
     <div class="d-md-flex flex-wrap gutter flex-auto">
       {% for plugin in site.plugins limit:6 %}
-        <div class="flex-column col-lg-4 col-md-6 anim-fade-in mb-3 mt-3">
-          <a href="{{ plugin.url }}" class="d-block bg-white rounded-1 box-shadow border text-inherit no-underline" style="height:100%">
-            <div class="cover text-center position-relative p-4">
-              <div class="cover-bg" style="background-image: url({{ plugin.background }});"></div>
+        <div class="col-lg-4 col-md-6 mb-3 mt-3">
+          <a href="{{ plugin.url }}" class="d-flex flex-column bg-white rounded-1 box-shadow border text-inherit no-underline" style="height:100%">
+            <h3 class="h4 px-3 pt-3">{{ plugin.title }}</h3>
+            <p class="text-gray lh-condensed px-3 pb-3">{{ plugin.description }}</p>
+            <div class="text-gray-light pl-3 pr-2 py-2 bg-gray-light border-top" style="margin-top: auto;">
+              <div class="d-flex flex-row">
+                <div class="col-3 tooltipped tooltipped-s" aria-label="{{ plugin.installs }} installations">{% octicon cloud-download width:14 class:"v-align-middle" %} <span class="">{{ plugin.installs }}</span></div>
+                <div class="col-3 tooltipped tooltipped-s" aria-label="{{ plugin.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ plugin.stars }}</span></div>
+                <div class="col-6 text-right" style="margin-top: auto;">
+                  <img class="avatar tooltipped tooltipped-s" aria-label="Made by {{ plugin.author }}" height="24" src="https://github.com/{{ plugin.author }}.png">
+                </div>
+              </div>
             </div>
-            <h3 class="lh-condensed px-3 pt-3">{{ plugin.title }}</h3>
-            <p class="lh-condensed px-3 pb-3">{{ plugin.description }}</p>
           </a>
         </div>
       {% endfor %}
+    </div>
+
+    <div class="text-center my-6">
+      <h3 class="alt-h2">By the community, for the community</h3>
+      <p class="lead mx-auto col-md-8">Find a bunch of really cool plugins built by other people in the community, just for you.</p>
+      <a class="btn btn-outline">Explore more plugins</a>
     </div>
   </div>
 </div>
@@ -87,8 +99,6 @@ module.exports = robot => {
           </div>
         </div>
       </div>
-
-
 
       <div class="mt-6">
         <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center my-4">
