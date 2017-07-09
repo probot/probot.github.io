@@ -28,6 +28,10 @@ defaults:
       type: plugins
     values:
       layout: plugin
+  - scope:
+      path: "docs"
+    values:
+      layout: docs
 
 gems:
   - jekyll-octicons
