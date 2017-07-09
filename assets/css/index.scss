@@ -25,8 +25,9 @@ img {
 
 .octicon {
   display: inline-block;
-  vertical-align: text-top;
+  vertical-align: middle;
   fill: currentColor;
+
 }
 
 .cover {
@@ -77,4 +78,22 @@ code {
     content: " ";
     border-color: transparent;
     border-style: solid solid outset;
+}
+
+.markdown-body {
+  h1 { @include alt-h1; }
+  h2 { @include alt-h2; }
+  h3 { @include alt-h3; }
+
+  h1, h2, h3 {
+    margin-top: $spacer-6;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  p {
+    color: $text-gray;
+  }
 }

@@ -1,5 +1,5 @@
 ---
-title: Certificate of Origin
+title: Developer Certificate of Origin
 description: Enforce the DCO on Pull Requests
 slug: dco
 octicon: law

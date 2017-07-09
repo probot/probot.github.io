@@ -4,58 +4,53 @@ layout: default
 
 {% include nav.html %}
 
-<div class="border-bottom">
+<div class="">
   <div class="container-lg px-3 jumbotron jumbotron-minitron">
     <div class="d-flex d-flex-row gutter-spacious flex-items-center">
-      <div class="flex-column col-3 text-center">
-        <div class="cover rounded-2"
-           style="background-image: url({{ page.background }}); background-size: cover; background-position: center;"></div>
-      </div>
-      <div class="flex-column col-7">
+      <div class="flex-column col-9">
         <h1 class="alt-h1 lh-condensed-ultra">{{ page.title }}</h1>
-        <p class="text-gray">{{ page.description }}</p>
+        <p class="text-gray-light">{{ page.description }}</p>
+        <div class="text-gray-light">
+          <div class="d-inline mr-3 tooltipped tooltipped-s" aria-label="{{ page.installs }} installations">{% octicon cloud-download width:14 class:"v-align-middle" %} <span class="">{{ page.installs }}</span></div>
+          <div class="d-inline mr-3 tooltipped tooltipped-s" aria-label="{{ page.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ page.stars }}</span></div>
+        </div>
       </div>
-      <div class="flex-column col-2 text-right">
-        <a class="btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new">Install</a>
+      <div class="flex-column col-3 text-center">
+        <a class="d-block btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new">Install</a>
       </div>
     </div>
   </div>
 </div>
 
-<div class="">
+<div class="bg-gray-dark text-white">
   <div class="container-lg px-3 py-6">
-    <div class="d-flex flex-row-reverse d-flex-row gutter-spacious">
+    <div class="d-flex flex-row d-flex-row gutter-spacious">
       <div class="flex-coumn col-9">
-        <div class="mb-6 bg-white">
-          <div class="d-flex flex-items-center  flex-justify-center">
+        <div class="">
+          <div class="d-flex flex-items-center flex-justify-center rounded-1 bg-white overflow-hidden p-3">
             {% for screenshot in page.screenshots limit:1 %}
               <img src="{{ screenshot }}" style="max-width:100%; max-height:100%;">
             {% endfor %}
           </div>
+          {% if page.screenshots.size > 1 %}
           <div class="d-flex flex-items-center flex-justify-center p-2">
             {% for screenshot in page.screenshots %}
-              <div class="rounded border mx-1" style="width:125px; height: 70px; background-image: url({{ screenshot }}); background-size: cover; background-position: center;">
+              <div class="rounded-1 border border-gray-light mx-1" style="width:125px; height: 70px; background-image: url({{ screenshot }}); background-size: cover; background-position: center;">
               </div>
             {% endfor %}
           </div>
+          {% endif %}
         </div>
       </div>
       <div class="flex-column col-3">
         <h4 class="alt-h4 text-gray">Topics</h4>
         {% for topic in page.topics %}
-          <a class="bg-blue-light rounded-2 px-2 py-1" href="#">#{{ topic }}</a>
+          <a class="text-inherit" href="#">#{{ topic }}</a>
         {% endfor %}
 
         <h4 class="mt-4 alt-h4 text-gray">About</h4>
 
-        <p>
-          <span class="text-gray-light">Author:</span>
-          <img class="avatar" src="https://github.com/{{ page.author }}.png" height="26">
-          <span class="text-bold text-inherit">@{{ page.author }}</span>
-        </p>
         <p><span class="text-gray-light">Updated:</span> June 12, 2017</p>
-        <p><strong>{{ page.installs | default: 0 }}</strong> <span class="text-gray-light">installs</span></p>
-        <p><strong>{{ page.stars | default: 0 }}</strong> <span class="text-gray-light">stars</span></p>
       </div>
     </div>
   </div>
@@ -63,7 +58,7 @@ layout: default
 
 <div class="py-6">
   <div class="container-lg px-3">
-    <div class="d-flex flex-row-reverse d-flex-row gutter-spacious">
+    <div class="d-flex flex-row gutter-spacious">
       <div class="flex-coumn col-9">
         <div class="markdown-body">
           {{ content }}

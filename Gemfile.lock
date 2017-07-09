@@ -163,7 +163,6 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
-    json (2.0.3)
     kramdown (1.13.2)
     liquid (3.0.6)
     listen (3.0.6)
@@ -207,10 +206,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 140)
+  github-pages
   jekyll-livereload
   jekyll-octicons
-  json
   rb-fsevent (= 0.9.8)
 
 BUNDLED WITH
