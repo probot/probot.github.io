@@ -2,7 +2,10 @@
 ---
 
 @import "primer-css/index.scss";
+@import "pages/home.scss";
 @import "colors.scss";
+@import "markdown.scss";
+@import "switcher.scss";
 
 img {
   max-width: 100%;
@@ -14,118 +17,12 @@ img {
   padding-bottom: $spacer * 10;
 }
 
-.circle-badge {
-  width: 72px;
-  height: 72px;
-  line-height: 72px;
-  background-color: rgba(#fff, 0.85);
-  color: $text-gray-dark;
-  border-radius: 50%;
-}
-
 .octicon {
   display: inline-block;
   vertical-align: middle;
   fill: currentColor;
-
 }
 
-.cover {
-  height: 140px;
-  & * {
-    position: relative;
-    z-index: 1;
-  }
-}
-
-.cover-bg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-size: cover;
-  background-position: center;
-  z-index: 0;
-}
-
-figure {
-  margin: 0;
-  padding: $spacer-3;
-}
 code {
   font-size: 14px;
-}
-
-
-.timeline-comment {
-  position: relative;
-}
-
-.timeline-comment:before {
-    border-width: 8px;
-    border-right-color: #d1d5da;
-}
-.timeline-comment:after {
-    position: absolute;
-    top: 11px;
-    right: 100%;
-    left: -16px;
-    display: block;
-    width: 0;
-    height: 0;
-    pointer-events: none;
-    content: " ";
-    border-color: transparent;
-    border-style: solid solid outset;
-}
-
-.markdown-body {
-  h1 { @include alt-h1; }
-  h2 { @include alt-h2; }
-  h3 { @include alt-h3; }
-
-  h1, h2, h3 {
-    margin-top: $spacer-6;
-
-    &:first-child {
-      margin-top: 0;
-    }
-  }
-
-  p {
-    color: $text-gray;
-  }
-}
-
-.sixteen-by-nine {
-  position: relative;
-
-  &:before {
-    display: block;
-    content: "";
-    width: 100%;
-    padding-top: (9 / 16) * 100%;
-  }
-
-  > .content {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
-}
-
-.switcher-input {
-  display: none;
-}
-
-.switcher-item {
-  transition: opacity .15s ease-in-out;
-  opacity: 0;
-
-  input:checked + & {
-    opacity: 1;
-  }
 }
