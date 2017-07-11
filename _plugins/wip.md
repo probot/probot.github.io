@@ -8,4 +8,5 @@ background: http://media.istockphoto.com/vectors/hanging-light-bulbs-with-glowin
 author: gr2m
 stars: 4
 installs: 7
+repository: gr2m/wip-bot
 ---

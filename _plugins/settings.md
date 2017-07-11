@@ -10,6 +10,7 @@ topics:
 stars: 114
 installs: 38
 author: bkeepers
+repository: probot/configurer
 ---
 
 This GitHub Integration syncs repository settings defined in `.github/config.yml` to GitHub, enabling Pull Requests for repository settings.

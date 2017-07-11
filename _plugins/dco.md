@@ -12,6 +12,7 @@ organizations:
 stars: 142
 installs: 48
 author: bkeepers
+repository: probot/dco
 ---
 
 

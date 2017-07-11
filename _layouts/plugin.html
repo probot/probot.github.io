@@ -6,17 +6,20 @@ layout: default
 
 <div class="">
   <div class="container-lg px-3 jumbotron jumbotron-minitron">
-    <div class="d-flex d-flex-row gutter-spacious flex-items-center">
+    <div class="d-flex d-flex-row gutter-spacious">
       <div class="flex-column col-9">
         <h1 class="alt-h1 lh-condensed-ultra">{{ page.title }}</h1>
-        <p class="text-gray-light">{{ page.description }}</p>
+        <div class="text-gray-light">{{ page.description }}</div>
+      </div>
+      <div class="flex-column col-3 text-center">
+        <a class="mt-1 mb-2 d-block btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new">
+          {% octicon plus class:"mr-2" %}
+          Add to GitHub
+        </a>
         <div class="text-gray-light">
           <div class="d-inline mr-3 tooltipped tooltipped-s" aria-label="{{ page.installs }} installations">{% octicon cloud-download width:14 class:"v-align-middle" %} <span class="">{{ page.installs }}</span></div>
           <div class="d-inline mr-3 tooltipped tooltipped-s" aria-label="{{ page.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ page.stars }}</span></div>
         </div>
-      </div>
-      <div class="flex-column col-3 text-center">
-        <a class="d-block btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new">Install</a>
       </div>
     </div>
   </div>
@@ -46,14 +49,27 @@ layout: default
         </div>
       </div>
       <div class="flex-column col-3">
-        <h4 class="alt-h4 text-gray">Topics</h4>
-        {% for topic in page.topics %}
-          <a class="text-inherit" href="#">#{{ topic }}</a>
-        {% endfor %}
+        <h4 class="mb-1 alt-h4 text-gray">Topics</h4>
+        <div class="mb-3">
+          {% for topic in page.topics %}
+            <a class="text-white" class="text-inherit" href="#">#{{ topic }}</a>
+          {% endfor %}
+        </div>
 
-        <h4 class="mt-4 alt-h4 text-gray">About</h4>
+        <h4 class="mb-1 alt-h4 text-gray">Used by</h4>
+        <div class="mb-3">
+          {% for organization in page.organizations %}
+            <a href="https://github.com/{{ organization }}"><img class="avatar avatar-group-item bg-white" src="https://github.com/{{ organization }}.png" height="35" width="35"></a>
+          {% endfor %}
+        </div>
 
-        <p><span class="text-gray-light">Updated:</span> June 12, 2017</p>
+        <h4 class="mb-1 alt-h4 text-gray">Updated</h4>
+        <p><span class="text-white">June 12, 2017</p>
+
+        <h4 class="mb-1 alt-h4 text-gray">Repository</h4>
+        <p>
+          <a class="text-inherit" href="https://github.com/{{ page.repository }}">{{ page.repository }}</a>
+        </p>
       </div>
     </div>
   </div>
@@ -68,10 +84,6 @@ layout: default
         </div>
       </div>
       <div class="flex-column col-3">
-        <h4 class="mt-4 alt-h4 text-gray">This App is used by</h4>
-        {% for organization in page.organizations %}
-          <a href="https://github.com/{{ organization }}"><img class="avatar avatar-group-item" src="https://github.com/{{ organization }}.png" height="35"></a>
-        {% endfor %}
       </div>
     </div>
   </div>
