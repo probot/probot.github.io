@@ -27,16 +27,19 @@ layout: default
     <div class="d-flex flex-row d-flex-row gutter-spacious">
       <div class="flex-coumn col-9">
         <div class="">
-          <div class="d-flex flex-items-center flex-justify-center rounded-1 bg-white overflow-hidden p-3">
-            {% for screenshot in page.screenshots limit:1 %}
-              <img src="{{ screenshot }}" style="max-width:100%; max-height:100%;">
+          <div class="sixteen-by-nine rounded-1 bg-white overflow-hidden">
+            {% for screenshot in page.screenshots %}
+              <input class="switcher-input" id="screenshot-{{ forloop.index }}" type="radio" name="switcher"{% if forloop.index == 1 %} checked{% endif %}>
+              <div class="switcher-item content d-flex flex-items-center flex-justify-center p-3">
+                <img src="{{ screenshot }}" style="max-width:100%; max-height:100%;">
+              </div>
             {% endfor %}
           </div>
           {% if page.screenshots.size > 1 %}
-          <div class="d-flex flex-items-center flex-justify-center p-2">
+          <div class="d-flex flex-items-center flex-justify-center mt-3">
             {% for screenshot in page.screenshots %}
-              <div class="rounded-1 border border-gray-light mx-1" style="width:125px; height: 70px; background-image: url({{ screenshot }}); background-size: cover; background-position: center;">
-              </div>
+              <label for="screenshot-{{ forloop.index }}" class="rounded-1 border border-gray-light mx-2" style="width:125px; height: 70px; background-image: url({{ screenshot }}); background-size: cover; background-position: center;">
+              </label>
             {% endfor %}
           </div>
           {% endif %}
