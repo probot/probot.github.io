@@ -18,16 +18,16 @@ sass:
     - node_modules/**/*/node_modules
 
 collections:
-  plugins:
+  apps:
     output: true
     permalink: /apps/:name/
 
 defaults:
   - scope:
       path: ""
-      type: plugins
+      type: apps
     values:
-      layout: plugin
+      layout: app
   - scope:
       path: "docs"
     values:
