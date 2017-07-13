@@ -1,6 +1,6 @@
 .markdown-body {
-  h1 { @include alt-h1; }
-  h2 { @include alt-h2; }
+  h1 { @include alt-h3; }
+  h2 { @include alt-h3; }
   h3 { @include alt-h3; }
 
   h1, h2, h3 {
