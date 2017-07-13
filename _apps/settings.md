@@ -2,9 +2,6 @@
 title: Settings
 description: Pull Requests for repository settings
 slug: settings
-octicon: gear
-color: F0B446
-background: http://media.istockphoto.com/vectors/human-hands-clapping-vector-id610140086
 topics:
 - administration
 stars: 114

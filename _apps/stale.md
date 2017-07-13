@@ -2,9 +2,6 @@
 title: Stale
 description: Close stale Issues and Pull Requests
 slug: probot-stale
-octicon: clock
-color: DAECE3
-background: http://media.istockphoto.com/vectors/giving-vector-id517930622
 screenshots:
 - https://user-images.githubusercontent.com/173/27765695-4c016050-5e7e-11e7-9016-c2f6d8c27da4.png
 - https://user-images.githubusercontent.com/173/27765705-93f94940-5e7e-11e7-8527-3a91bb64ca70.png
@@ -22,6 +19,18 @@ stars: 112
 installs: 305
 repository: probot/stale
 ---
+
+Automatically close stale Issues and Pull Requests that tend to accumulate during a project.
+
+## How it works
+
+1. After a period of inactivity, a label will be applied to mark an issue as stale, and optionally a comment will be posted to notify contributors that the Issue or Pull Request will be closed.
+
+1. If the Issue or Pull Request is updated, or anyone comments, then the stale label is removed and nothing further is done until it becomes stale again.
+
+1. If no more activity occurs, the Issue or Pull Request will be automatically closed with an optional comment.
+
+## Installation
 
 After installing the integration, create `.github/stale.yml` in the default branch to enable it:
 
