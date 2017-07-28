@@ -1,8 +1,8 @@
 ---
 title: Duplicate Issues
-description: Identify duplicate issues
+description: Automatically detects duplicate issues
 slug: dup
-stars: 14
+stars: 15
 installs: 4
 author: MarshallOfSound
 repository: MarshallOfSound/probot-issue-duplicate-detection

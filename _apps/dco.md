@@ -8,7 +8,7 @@ organizations:
 - linuxfoundation
 - kubernetes
 - nodejs
-stars: 142
+stars: 19
 installs: 48
 author: bkeepers
 repository: probot/dco

@@ -10,4 +10,8 @@ group :jekyll_plugins do
   gem 'jekyll-livereload'
 end
 
+group :scripts do
+  gem 'octokit'
+end
+
 gem 'rb-fsevent', '0.9.8' # See issue https://github.com/guard/listen/issues/431

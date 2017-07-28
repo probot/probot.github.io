@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+# Sync star counts from GitHub
+
+require "octokit"
+client = Octokit::Client.new(:access_token => ENV["GITHUB_TOKEN"])
+
+require "jekyll"
+config = Jekyll.configuration("source" => File.expand_path('../', File.dirname(__FILE__)))
+site = Jekyll::Site.new(config)
+site.read
+
+site.collections["apps"].docs.each do |app|
+  repo = client.repository(app['repository'])
+
+  content = File.read(app.path)
+  content.sub!(/^stars: \d+$/, "stars: #{repo[:stargazers_count]}")
+  File.write(app.path, content)
+end

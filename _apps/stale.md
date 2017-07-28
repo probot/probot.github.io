@@ -15,7 +15,7 @@ organizations:
 - github
 - npm
 author: bkeepers
-stars: 112
+stars: 124
 installs: 305
 repository: probot/stale
 ---
