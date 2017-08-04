@@ -16,4 +16,5 @@
 
 #### Reference
 
-- [API Docs](https://probot.github.io/probot/latest/)
+- [`robot`](https://probot.github.io/probot/latest/Robot.html)
+- [`context`](https://probot.github.io/probot/latest/Context.html)
