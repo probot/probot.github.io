@@ -6,14 +6,9 @@ layout: default
 
 <div class="container-lg px-3">
   <div class="d-flex flex-row gutter-spacious">
-    <div class="col-3 py-6">
-      <ul class="menu">
-        <li class="menu-item"><a class="d-block" href="/docs/">Getting Started</a></li>
-        <li class="menu-item"><a class="d-block" href="/docs/development/">Development</a></li>
-        <li class="menu-item"><a class="d-block" href="/docs/deployment/">Deployment</a></li>
-        <li class="menu-item"><a class="d-block" href="/docs/best-practices/">Best Practices</a></li>
-        <li class="menu-item"><a class="d-block" href="https://probot.github.io/probot/latest/">API Docs</a></li>
-      </ul>
+    <div id="toc" class="col-3 py-6">
+      {% capture toc %}{% include toc.md %}{% endcapture %}
+      {{ toc | markdownify }}
     </div>
     <div class="col-9 markdown-body p-6">
       {{ content }}

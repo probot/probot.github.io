@@ -26,3 +26,15 @@ img {
 code {
   font-size: 14px;
 }
+
+#toc {
+  h4 {
+    @extend .alt-h4, .text-gray;
+    margin-bottom: $spacer-2;
+  }
+
+  ul {
+    margin-bottom: $spacer-4;
+    list-style: none;
+  }
+}
