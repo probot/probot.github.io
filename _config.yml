@@ -37,3 +37,5 @@ gems:
   - jekyll-octicons
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-readme-index
+  - jemoji
