@@ -9,15 +9,20 @@ topics:
 - project-management
 organizations:
 - atom
-- rails
-- homebrew
-- exercism
-- github
-- npm
+- Homebrew
+- fchollet
+- hexojs
+- apollographql
+- sequelize
+- hubotio
+- mochajs
+- nodemailer
+- tldr-pages
 author: bkeepers
-stars: 124
-installs: 305
+stars: 129
+installations: 98
 repository: probot/stale
+host: https://probot-stale.herokuapp.com
 ---
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.

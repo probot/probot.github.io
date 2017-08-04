@@ -9,7 +9,7 @@ organizations:
 - kubernetes
 - nodejs
 stars: 19
-installs: 48
+installations: 48
 author: bkeepers
 repository: probot/dco
 topics:
