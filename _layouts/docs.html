@@ -8,7 +8,7 @@ layout: default
   <div class="d-flex flex-row gutter-spacious">
     <div class="col-3 py-6">
       <ul class="menu">
-        <li class="menu-item"><a class="d-block" href="/docs/plugins/">Getting Started</a></li>
+        <li class="menu-item"><a class="d-block" href="/docs/">Getting Started</a></li>
         <li class="menu-item"><a class="d-block" href="/docs/development/">Development</a></li>
         <li class="menu-item"><a class="d-block" href="/docs/deployment/">Deployment</a></li>
         <li class="menu-item"><a class="d-block" href="/docs/best-practices/">Best Practices</a></li>
@@ -17,6 +17,8 @@ layout: default
     </div>
     <div class="col-9 markdown-body p-6">
       {{ content }}
+
+      <a class="btn btn-small btn-outline" href="https://github.com/probot/probot/edit/master/{{ page.path }}">Suggest changes</a>
     </div>
   </div>
 </div>

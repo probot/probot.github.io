@@ -1,3 +1,7 @@
+---
+permalink: /docs/
+---
+
 # Plugins
 
 A plugin is just a [Node.js module](https://nodejs.org/api/modules.html) that exports a function:
