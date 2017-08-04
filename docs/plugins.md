@@ -1,7 +1,3 @@
----
----
-
-
 # Plugins
 
 A plugin is just a [Node.js module](https://nodejs.org/api/modules.html) that exports a function:
@@ -94,15 +90,57 @@ $ probot run -a APP_ID -P private-key.pem ./index.js
 Listening on http://localhost:3000
 ```
 
-## Publishing your bot
+## HTTP Routes
 
-Plugins can be published in NPM modules, which can either be deployed as stand-alone bots, or combined with other plugins.
+Calling `robot.route('/my-plugin')` will return an [express](http://expressjs.com/) router that you can use to expose HTTP endpoints from your plugin.
 
-Use the [plugin-template](https://github.com/probot/plugin-template) repository to get started building your plugin as a node module.
+```js
+module.exports = robot => {
+  // Get an express router to expose new HTTP endpoints
+  const app = robot.route('/my-plugin');
+
+  // Use any middleware
+  app.use(require('express').static(__dirname + '/public'));
+
+  // Add a new route
+  app.get('/hello-world', (req, res) => {
+    res.end('Hello World');
+  });
+};
+```
+
+Visit https://localhost:3000/my-plugin/hello-world to access the endpoint.
+
+It is strongly encouraged to use the name of your package as the prefix so none of your routes or middleware conflict with other plugins. For example, if [`probot/owners`](https://github.com/probot/owners) exposed an endpoint, the plugin would call `robot.route('/owners')` to prefix all endpoints with `/owners`.
+
+See the [express documentation](http://expressjs.com/en/guide/routing.html) for more information.
+
+## Simulating webhooks
+
+As you are developing your plugin, you will likely want to test it by repeatedly trigging the same webhook. You can simulate a webhook being delivered by saving the payload to a file, and then calling `probot simulate` from the command line.
+
+To save a copy of the payload, go to the  [settings](https://github.com/settings/apps) page for your App, and go to the **Advanced** tab. Click on one of the **Recent Deliveries** to expand it and see the details of the webhook event. Copy the JSON from the the **Payload** and save it to a new file. (`test/fixtures/issues.labeled.json` in this example).
+
+![](https://user-images.githubusercontent.com/173/28491924-e03e91f2-6ebe-11e7-9570-6d48da68c6ca.png)
+
+Next, simulate this event being delivered by running:
 
 ```
-$ curl -L https://github.com/probot/plugin-template/archive/master.tar.gz | tar xvz
-$ mv plugin-template-master probot-myplugin && cd probot-myplugin
+$ node_modules/.bin/probot simulate issues test/fixtures/issues.labeled.json ./index.js
+```
+
+## Publishing your bot
+
+Plugins can be published in npm modules, which can either be deployed as stand-alone bots, or combined with other plugins.
+
+Use [create-probot-plugin](https://github.com/probot/create-probot-plugin) to get started building your plugin as a node module.
+
+```
+$ npm install -g create-probot-app
+
+$ create-probot-plugin my-plugin
+$ cd my-plugin
+$ npm install
 ```
 
 ## Next
