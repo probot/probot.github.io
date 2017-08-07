@@ -2,7 +2,7 @@
 next: docs/deployment.md
 ---
 
-### Pagination
+# Pagination
 
 Many GitHub API endpoints are paginated. The `github.paginate` method can be used to get each page of the results.
 

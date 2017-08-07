@@ -2,9 +2,9 @@
 next: docs/development.md
 ---
 
-## Hello World
+# Hello World
 
-A plugin is just a [Node.js module](https://nodejs.org/api/modules.html) that exports a function:
+A Probot plugin is just a [Node.js module](https://nodejs.org/api/modules.html) that exports a function:
 
 ```js
 module.exports = robot => {

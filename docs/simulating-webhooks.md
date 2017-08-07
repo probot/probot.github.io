@@ -2,7 +2,7 @@
 next: docs/testing.md
 ---
 
-## Simulating webhooks
+# Simulating webhooks
 
 As you are developing your plugin, you will likely want to test it by repeatedly trigging the same webhook. You can simulate a webhook being delivered by saving the payload to a file, and then calling `probot simulate` from the command line.
 

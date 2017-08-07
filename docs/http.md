@@ -2,8 +2,7 @@
 next: docs/simulating-webhooks.md
 ---
 
-
-## HTTP Routes
+# HTTP Routes
 
 Calling `robot.route('/my-plugin')` will return an [express](http://expressjs.com/) router that you can use to expose HTTP endpoints from your plugin.
 
