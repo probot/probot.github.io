@@ -2,7 +2,7 @@
 next: docs/webhooks.md
 ---
 
-# Developing a plugin
+# Developing a Plugin
 
 To develop a Probot plugin, you will first need a recent version of [Node.js](https://nodejs.org/) installed.
 
