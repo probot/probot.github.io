@@ -39,3 +39,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-readme-index
   - jemoji
+
+branch: master
