@@ -7,7 +7,6 @@ Getting Started:
 Advanced:
   - docs/http.md
   - docs/simulating-webhooks.md
-  - docs/testing.md
   - docs/pagination.md
   - docs/deployment.md
   - docs/best-practices.md
