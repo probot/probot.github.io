@@ -22,7 +22,7 @@ Welcome is a simple way to welcome new users based off maintainer defined commen
 
 The 3 plugins it combines with are [new-issue-welcome](https://github.com/behaviorbot/new-issue-welcome), [new-pr-welcome](https://github.com/behaviorbot/new-issue-welcome), and [first-pr-merge](https://github.com/behaviorbot/new-issue-welcome)
 
-Create a `config.yml` file to declare the contents of the comments:
+Create a `.github/config.yml` file to declare the contents of the comments:
 
 ``` yaml
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
