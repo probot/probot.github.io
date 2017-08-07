@@ -2,23 +2,7 @@
 next: docs/best-practices.md
 ---
 
-# Deploy
-
-## Publishing your bot
-
-Plugins can be published in npm modules, which can either be deployed as stand-alone bots, or combined with other plugins.
-
-Use [create-probot-plugin](https://github.com/probot/create-probot-plugin) to get started building your plugin as a node module.
-
-```
-$ npm install -g create-probot-app
-
-$ create-probot-plugin my-plugin
-$ cd my-plugin
-$ npm install
-```
-
----
+# Deployment
 
 Every plugin can either be deployed as a stand-alone bot, or combined with other plugins in one deployment.
 
