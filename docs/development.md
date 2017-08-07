@@ -4,7 +4,7 @@ next: docs/webhooks.md
 
 # Developing a Plugin
 
-To develop a Probot plugin, you will first need a recent version of [Node.js](https://nodejs.org/) installed.
+To develop a Probot plugin, you will first need a recent version of [Node.js](https://nodejs.org/) installed. Probot uses the `async/await` keywords, so Node.js 7.6 is the minimum required version.
 
 ## Generating a new plugin
 
