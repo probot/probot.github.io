@@ -7,7 +7,7 @@ screenshots:
 organizations:
 - probot
 stars: 47
-installs: 94
+installations: 94
 author: hiimbex
 repository: behaviorbot/update-docs
 topics:
