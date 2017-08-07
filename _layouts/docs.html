@@ -13,7 +13,35 @@ layout: default
     <div class="col-9 markdown-body p-6">
       {{ content }}
 
-      <a class="btn btn-small btn-outline" href="https://github.com/probot/probot/edit/master/{{ page.path }}">Suggest changes</a>
+      {% for doc in site.pages %}
+        {% if page.next == doc.path %}
+          {% assign next = doc %}
+        {% endif %}
+
+        {% if doc.next == page.path %}
+          {% assign previous = doc %}
+        {% endif %}
+      {% endfor %}
+
+      <div class="d-flex border-bottom border-gray-light mt-6 mb-3 py-3 text-gray-light">
+        <div class="col-6">
+          {% if previous %}
+            {% octicon chevron-left class:"v-align-text-bottom" %}
+            <a href="{{ previous.url }}">{{ previous.title }}</a>
+          {% endif %}
+        </div>
+        <div class="col-6 text-right">
+          {% if next %}
+            <a href="{{ next.url }}">{{ next.title }}</a>
+            {% octicon chevron-right class:"v-align-text-bottom" %}
+          {% endif %}
+        </div>
+      </div>
+
+      <p class="alt-text-small text-gray-light">
+        Find a mistake or want to help improve this documentation?
+        <a href="https://github.com/probot/probot/edit/master/{{ page.path }}">Suggest changes on GitHub</a>
+      </p>
     </div>
   </div>
 </div>

@@ -1,5 +1,6 @@
 #### Getting Started
 
+- [Introduction](/docs/)
 - [Hello World](/docs/hello-world/)
 - [Running an app locally](/docs/development/)
 - [Receiving webhooks](/docs/webhooks/)
@@ -8,7 +9,7 @@
 #### Advanced
 
 - [HTTP Routes](/docs/http/)
-- [Simulating events](/docs/simulating-events/)
+- [Simulating webhooks](/docs/simulating-webhooks/)
 - [Testing](/docs/testing/)
 - [Pagination](/docs/pagination/)
 - [Deployment](/docs/deployment/)

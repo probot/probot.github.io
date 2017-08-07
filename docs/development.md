@@ -1,3 +1,24 @@
+---
+next: docs/webhooks.md
+---
+
+## Running plugins
+
+Before you can run your plugin against GitHub, you'll need to set up your [development environment](development.md) and configure a GitHub App for testing. You will need the ID and private key of a GitHub App to run the bot.
+
+Once you have an app created, install `probot`:
+
+```
+$ npm install -g probot
+```
+
+and run your bot from your plugin's directory, replacing `APP_ID` and `private-key.pem` below with your App's ID and the path to the private key of your app.
+
+```
+$ probot run -a APP_ID -P private-key.pem ./index.js
+Listening on http://localhost:3000
+```
+
 # Development
 
 To run a plugin locally, you'll need to create a GitHub App and configure it to deliver webhooks to your local machine.

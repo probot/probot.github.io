@@ -1,4 +1,24 @@
+---
+next: docs/best-practices.md
+---
+
 # Deploy
+
+## Publishing your bot
+
+Plugins can be published in npm modules, which can either be deployed as stand-alone bots, or combined with other plugins.
+
+Use [create-probot-plugin](https://github.com/probot/create-probot-plugin) to get started building your plugin as a node module.
+
+```
+$ npm install -g create-probot-app
+
+$ create-probot-plugin my-plugin
+$ cd my-plugin
+$ npm install
+```
+
+---
 
 Every plugin can either be deployed as a stand-alone bot, or combined with other plugins in one deployment.
 
@@ -72,7 +92,7 @@ Probot runs like [any other Node app](https://devcenter.heroku.com/articles/depl
         -----> Launching... done
               http://arcane-lowlands-8408.herokuapp.com deployed to Heroku
 
-1. Your plugin should be up and running! To verify that your plugin 
+1. Your plugin should be up and running! To verify that your plugin
    is receiving webhook data, you can tail your app's logs:
 
       $ heroku config:set LOG_LEVEL=trace
