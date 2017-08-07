@@ -1,0 +1,18 @@
+Getting Started:
+  - docs/README.md
+  - docs/hello-world.md
+  - docs/development.md
+  - docs/webhooks.md
+  - docs/github-api.md
+Advanced:
+  - docs/http.md
+  - docs/simulating-webhooks.md
+  - docs/testing.md
+  - docs/pagination.md
+  - docs/deployment.md
+  - docs/best-practices.md
+Reference:
+  - title: robot
+    url: "https://probot.github.io/probot/latest/Robot.htm"
+  - title: context
+    url: "https://probot.github.io/probot/latest/Contex.html"
