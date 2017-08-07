@@ -2,28 +2,56 @@
 next: docs/webhooks.md
 ---
 
-## Running plugins
+# Developing a plugin
 
-Before you can run your plugin against GitHub, you'll need to set up your [development environment](development.md) and configure a GitHub App for testing. You will need the ID and private key of a GitHub App to run the bot.
+To develop a Probot plugin, you will first need a recent version of [Node.js](https://nodejs.org/) installed.
 
-Once you have an app created, install `probot`:
+## Generating a new plugin
 
-```
-$ npm install -g probot
-```
+[create-probot-plugin](https://github.com/probot/create-probot-plugin) is the best way to start building a new plugin. It will generate a new plugin with everything you need to get started and run your plugin in production.
 
-and run your bot from your plugin's directory, replacing `APP_ID` and `private-key.pem` below with your App's ID and the path to the private key of your app.
+To get started, install the module from npm:
 
 ```
-$ probot run -a APP_ID -P private-key.pem ./index.js
-Listening on http://localhost:3000
+$ npm install -g create-probot-plugin
 ```
 
-# Development
+Next, run the app:
 
-To run a plugin locally, you'll need to create a GitHub App and configure it to deliver webhooks to your local machine.
+```
+$ create-probot-plugin my-first-plugin
+```
 
-1. Make sure you have a recent version of [Node.js](https://nodejs.org/) installed
+This will ask you a series of questions about your plugin, which should look something like this:
+
+```
+Let's create a Probot plugin!
+? Plugin's package name: my-first-plugin
+? Description of plugin: A "Hello World" GitHub App built with Probot
+? Plugin author's full name: Brandon Keepers
+? Plugin author's email address: bkeepers@github.com
+? Plugin author's homepage:
+? Plugin's GitHub user or org name: bkeepers
+? Plugin's repo name: my-first-plugin
+created file: my-first-plugin/.env.example
+created file: my-first-plugin/.gitignore
+created file: my-first-plugin/.travis.yml
+created file: my-first-plugin/LICENSE
+created file: my-first-plugin/README.md
+created file: my-first-plugin/app.json
+created file: my-first-plugin/index.js
+created file: my-first-plugin/package-lock.json
+created file: my-first-plugin/package.json
+created file: my-first-plugin/docs/deploy.md
+Done!
+```
+
+The most important files note here are `index.js`, which is where the code for your plugin will go, and `package.json`, which makes this a standard [npm module](https://docs.npmjs.com/files/package.json).
+
+## Configure a GitHub App
+
+To run your plugin in development, you will need to configure a GitHub App to deliver webhooks to your local machine.
+
 1. [Create a new GitHub App](https://github.com/settings/apps/new) with:
     - **Webhook URL**: Set to `https://example.com/` and we'll update it in a minute.
     - **Webhook Secret:** `development`
@@ -38,6 +66,20 @@ You'll need to create a test repository and install your app by clicking the "In
 Whenever you come back to work on the app after you've already had it running once, you should only need to run `$ npm start`.
 
 Optionally, you can also run your plugin through [nodemon](https://github.com/remy/nodemon#nodemon) which will listen on any files changes in your local development environment and automatically restart the server. After installing nodemon, you can run `nodemon --exec "npm start"` and from there the server will automatically restart upon file changes.
+
+## Running the plugin
+
+Once you've set the `APP_ID` of your GitHub app in `.env` and downloaded the  private key, you're ready to run your bot.
+
+
+```
+$ npm start
+> probot run ./index.js
+
+Yay, the plugin was loaded!
+18:11:55.838Z DEBUG PRobot: Loaded plugin: ./index.js
+Listening on https://bkeepers.localtunnel.me
+```
 
 ## Debugging
 

@@ -2,7 +2,7 @@
 
 - [Introduction](/docs/)
 - [Hello World](/docs/hello-world/)
-- [Running an app locally](/docs/development/)
+- [Developing a plugin](/docs/development/)
 - [Receiving webhooks](/docs/webhooks/)
 - [Interacting with GitHub](/docs/github-api/)
 
