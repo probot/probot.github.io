@@ -14,6 +14,7 @@ author: bkeepers
 repository: probot/dco
 topics:
 - licensing
+- code-review
 ---
 
 

@@ -13,8 +13,7 @@ installations: 123
 author: hiimbex
 repository: behaviorbot/welcome
 topics:
-- open source
-- welcome
+- community-management
 ---
 
 
@@ -41,7 +40,7 @@ newPRWelcomeComment: >
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  Congrats on merging your first pull request! We here at behaviorbot are proud of you! 
+  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
 
 # It is recommend to include as many gifs and emojis as possible
 ```

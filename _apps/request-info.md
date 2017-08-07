@@ -9,8 +9,8 @@ installations: 13
 author: hiimbex
 repository: behaviorbot/request-info
 topics:
-- open source
-- request-more-info
+- community-management
+- project-management
 ---
 
 

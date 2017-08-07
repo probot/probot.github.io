@@ -4,6 +4,7 @@ description: Pull Requests for repository settings
 slug: settings
 topics:
 - administration
+- code-review
 stars: 123
 installations: 38
 author: bkeepers

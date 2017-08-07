@@ -11,12 +11,12 @@ installations: 94
 author: hiimbex
 repository: behaviorbot/update-docs
 topics:
-- open source
-- documentation
+- code-review
+- community-management
 ---
 
 
-Update Docs comments on newly opened Pull Requests that do not update either the README or a file in the `/docs` folder. 
+Update Docs comments on newly opened Pull Requests that do not update either the README or a file in the `/docs` folder.
 
 Create a `.github/config.yml` file that contains the contents you would like to reply within an `updateDocsComment`. Optionally, you can also add an `updateDocsWhiteList` that includes terms, that if found in the title, the bot will not comment on.
 
