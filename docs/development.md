@@ -63,14 +63,9 @@ To run your plugin in development, you will need to configure a GitHub App to de
 
 You'll need to create a test repository and install your app by clicking the "Install" button on the settings page of your app.
 
-Whenever you come back to work on the app after you've already had it running once, you should only need to run `$ npm start`.
-
-Optionally, you can also run your plugin through [nodemon](https://github.com/remy/nodemon#nodemon) which will listen on any files changes in your local development environment and automatically restart the server. After installing nodemon, you can run `nodemon --exec "npm start"` and from there the server will automatically restart upon file changes.
-
 ## Running the plugin
 
 Once you've set the `APP_ID` of your GitHub app in `.env` and downloaded the  private key, you're ready to run your bot.
-
 
 ```
 $ npm start
@@ -81,7 +76,9 @@ Yay, the plugin was loaded!
 Listening on https://bkeepers.localtunnel.me
 ```
 
+Optionally, you can also run your plugin through [nodemon](https://github.com/remy/nodemon#nodemon) which will listen on any files changes in your local development environment and automatically restart the server. After installing nodemon, you can run `nodemon --exec "npm start"` and from there the server will automatically restart upon file changes.
+
 ## Debugging
 
-1. Always run `$ npm install` and restart the server if package.json has changed.
+1. Always run `$ npm install` and restart the server if `package.json` has changed.
 1. To turn on verbose logging, start server by running: `$ LOG_LEVEL=trace npm start`
