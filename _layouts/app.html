@@ -41,7 +41,7 @@ layout: default
           {% if page.screenshots.size > 1 %}
           <div class="d-flex flex-items-center flex-justify-center mt-3">
             {% for screenshot in page.screenshots %}
-              <label for="screenshot-{{ forloop.index }}" class="rounded-1 border border-gray-light mx-2" style="width:125px; height: 70px; background-image: url({{ screenshot }}); background-size: cover; background-position: center;">
+              <label for="screenshot-{{ forloop.index }}" class="rounded-1 border border-gray-light mx-2" style="width:125px; height: 70px; background-image: url({{ screenshot }}); background-size: cover; background-position: center; cursor: pointer;">
               </label>
             {% endfor %}
           </div>
@@ -69,6 +69,10 @@ layout: default
         <h4 class="mb-1 alt-h4 text-gray">Repository</h4>
         <p>
           <a class="text-inherit" href="https://github.com/{{ page.repository }}">{{ page.repository }}</a>
+        </p>
+        <h4 class="mb-1 alt-h4 text-gray">Author</h4>
+        <p>
+          <a class="text-inherit" href="https://github.com/{{ page.author }}">{{ page.author }}</a>
         </p>
       </div>
     </div>
