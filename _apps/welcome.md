@@ -9,7 +9,7 @@ screenshots:
 organizations:
 - probot
 stars: 99
-installs: 123
+installations: 123
 author: hiimbex
 repository: behaviorbot/welcome
 topics:

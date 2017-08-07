@@ -43,4 +43,4 @@ Git even has a `-s` command line option to append this automatically to your com
 $ git commit -s -m 'This is my commit message'
 ```
 
-Once installed, this integration will set the [status](https://developer.github.com/v3/repos/statuses/) to `failed` if commits in a Pull Request do not contain a valid `Signed-off-by` line.
+Once installed, this app will set the [status](https://developer.github.com/v3/repos/statuses/) to `failed` if commits in a Pull Request do not contain a valid `Signed-off-by` line.

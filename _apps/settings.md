@@ -7,15 +7,15 @@ topics:
 stars: 123
 installations: 38
 author: bkeepers
-repository: probot/configurer
+repository: probot/settings
 ---
 
-This GitHub Integration syncs repository settings defined in `.github/config.yml` to GitHub, enabling Pull Requests for repository settings.
+This GitHub App syncs repository settings defined in `.github/settings.yml` to GitHub, enabling Pull Requests for repository settings.
 
 ## Usage
 
-1. **[Install the integration](https://github.com/integrations/configurer/installations/new)**.
-2. Create a `.github/config.yml` file in your repository. Changes to this file on the default branch will be synced to GitHub.
+1. **[Install the app](https://github.com/integrations/configurer/installations/new)**.
+2. Create a `.github/settings.yml` file in your repository. Changes to this file on the default branch will be synced to GitHub.
 
 All settings are optional.
 
@@ -87,6 +87,6 @@ collaborators:
 
 ```
 
-**WARNING:** Note that this integration inherently _escalates anyone with `push` permissions to the **admin** role_, since they can push config settings to the `master` branch, which will be synced. In the future, we may add restrictions to allow changes to the config file to be merged only by specific people/teams, or those with **admin** access _(via a combination of protected branches, required statuses, and branch restrictions)_. Until then, use caution when merging PRs and adding collaborators.
+**WARNING:** Note that this app inherently _escalates anyone with `push` permissions to the **admin** role_, since they can push config settings to the `master` branch, which will be synced. In the future, we may add restrictions to allow changes to the config file to be merged only by specific people/teams, or those with **admin** access _(via a combination of protected branches, required statuses, and branch restrictions)_. Until then, use caution when merging PRs and adding collaborators.
 
-This integration is open source. Check out [probot/configurer](https://github.com/probot/configurer) to suggest improvements or run your own instance.
+This app is open source. Check out [probot/settings](https://github.com/probot/settings) to suggest improvements or run your own instance.

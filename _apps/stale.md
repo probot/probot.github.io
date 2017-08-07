@@ -37,7 +37,7 @@ Automatically close stale Issues and Pull Requests that tend to accumulate durin
 
 ## Installation
 
-After installing the integration, create `.github/stale.yml` in the default branch to enable it:
+After installing the app, create `.github/stale.yml` in the default branch to enable it:
 
 ```yml
 # Number of days of inactivity before an issue becomes stale

@@ -65,7 +65,7 @@ layout: default
       <p class="lead mx-auto col-md-8">
         Discover dozens of apps that extend GitHub and improve your workflow.
       </p>
-      <a class="btn btn-outline btn-large">
+      <a class="btn btn-outline btn-large" href="https://github.com/search?q=topic%3Aprobot-plugin&type=Repositories">
         {% octicon telescope class:"mr-2" %}
         Explore more apps
       </a>
@@ -91,7 +91,7 @@ layout: default
       <div class="col-6">
         <h3 class="alt-h3 mb-2">Optimized for GitHub</h3>
         <p class="">
-          Receive webhooks and use the authenticated client to access the GitHub API. Granular permissions give each app access to the data it needs and nothing more.
+          Receive webhooks and use the authenticated client to access the GitHub API. Granular permissions give each app access only to the data it needs and nothing more.
         </p>
       </div>
     </div>
@@ -106,7 +106,7 @@ layout: default
           <div class="rounded-2 overflow-hidden border" style="margin-left: 60px;">
 {% highlight javascript %}
 module.exports = robot => {
-  robot.on('issues.opened', context => {
+  robot.on('issues.opened', async context => {
     const params = context.issue({
       body: 'Hello World!'
     });
