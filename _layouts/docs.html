@@ -42,12 +42,10 @@ layout: default
       {% for doc in site.pages %}
         {% if page.next == doc.path %}
           {% assign next = doc %}
-          {% break %}
         {% endif %}
 
         {% if doc.next == page.path %}
           {% assign previous = doc %}
-          {% break %}
         {% endif %}
       {% endfor %}
 
