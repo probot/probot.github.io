@@ -7,5 +7,5 @@ stars: 3
 installations: 5
 repository: jbjonesjr/probot-snooze
 topics:
-- issues
+- project-management
 ---
