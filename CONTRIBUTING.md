@@ -47,18 +47,17 @@ description: What your App does
 slug: Shortened version of app name
 screenshots:
 - https://somewebsite.com/your-screenshot.png
-organizations:
-- a list of organizations that use your app
-- you can include your own
 author: your-github-handle
 repository: where your code is located (ie behaviorbot/welcome)
+# Choose one or more of the below listed topics that you think describes what your app does
 topics:
 - administration
 - code-review
 - community-management
 - licensing
 - project-management
-Choose one or more of the above listed topics that you think describes what your app does
+
+# All other stats fields you see on the website, will be grabbed as real data, such as organizations, installations, and stars.
 ---
 
 Any documentation can go here. Many plugins just use their README.md here.
