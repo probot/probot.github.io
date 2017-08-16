@@ -6,4 +6,7 @@ stars: 15
 installations: 4
 author: MarshallOfSound
 repository: MarshallOfSound/probot-issue-duplicate-detection
+topics:
+- community-management
+- project-management
 ---

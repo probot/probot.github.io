@@ -6,4 +6,6 @@ author: jbjonesjr
 stars: 3
 installations: 5
 repository: jbjonesjr/probot-snooze
+topics:
+- project-management
 ---

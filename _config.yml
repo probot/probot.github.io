@@ -18,6 +18,9 @@ sass:
     - node_modules/**/*/node_modules
 
 collections:
+  topics:
+    output: true
+    permalink: /apps/:name/
   apps:
     output: true
     permalink: /apps/:name/
@@ -28,6 +31,11 @@ defaults:
       type: apps
     values:
       layout: app
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: topic
   - scope:
       path: "docs"
     values:

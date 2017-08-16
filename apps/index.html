@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="container-lg px-3 featurette">
+  <div class="d-flex flex-row-reverse">
+    <div class="col-9">
+      <div class="d-md-flex flex-wrap gutter flex-auto">
+        {% for app in site.apps limit:9 %}
+          {% include app.html app=app col=2 %}
+        {% endfor %}
+      </div>
+
+    </div>
+    <div class="col-3">
+      {% include topics.html %}
+    </div>
+  </div>
+</div>
+
+<div class="bg-gray-light border-top border-gray-light">
+  <div class="container-lg px-3">
+    <div class="offset-3">
+      List yo app, yo!
+    </div>
+  </div>
+</div>

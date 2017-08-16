@@ -1,0 +1,13 @@
+<h2 class="alt-h4 mb-2">Topics</h2>
+
+<ul class="list-style-none">
+  {% for topic in site.topics %}
+    {% if page.url == topic.url %}
+      {% assign classes = "text-brand-red" %}
+    {% else %}
+      {% assign classes = "link-gray" %}
+    {% endif %}
+
+    <li><a class="py-1 d-block {{ classes }}" href="{{ topic.url }}">{{ topic.title }}</a></li>
+  {% endfor %}
+</ul>

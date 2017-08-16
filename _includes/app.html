@@ -1,0 +1,21 @@
+{% if include.col == 2 %}
+  {% assign classes = "col-lg-6 col-md-6" %}
+{% else %}
+  {% assign classes = "col-lg-4 col-md-6" %}
+{% endif %}
+
+<div class="{{ classes }} my-3">
+  <a href="{{ app.url }}" class="d-flex flex-column bg-white rounded-1 box-shadow border text-inherit no-underline" style="height:100%">
+    <h3 class="h4 px-3 pt-3">{{ include.app.title }}</h3>
+    <p class="text-gray lh-condensed px-3 pb-3">{{ include.app.description }}</p>
+    <div class="text-gray-light pl-3 pr-2 py-2 bg-gray-light border-top" style="margin-top: auto;">
+      <div class="d-flex flex-row">
+        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ include.app.installations }} installations">{% octicon cloud-download width:14 class:"v-align-middle" %} <span class="">{{ include.app.installations }}</span></div>
+        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ include.app.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ include.app.stars }}</span></div>
+        <div class="col-6 text-right">
+          <img class="avatar tooltipped tooltipped-s" aria-label="Made by {{ include.app.author }}" height="24" src="https://github.com/{{ include.app.author }}.png">
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
