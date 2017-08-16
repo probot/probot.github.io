@@ -4,10 +4,7 @@ description: Replies to newly opened pull requests that do no update a file in t
 slug: update-docs
 screenshots:
 - https://user-images.githubusercontent.com/13410355/28179044-97207bee-67b5-11e7-80d0-0c8ede4a325f.png
-organizations:
-- probot
 stars: 47
-installations: 94
 author: hiimbex
 repository: behaviorbot/update-docs
 topics:
@@ -16,7 +13,7 @@ topics:
 ---
 
 
-Update Docs comments on newly opened Pull Requests that do not update either the README or a file in the `/docs` folder. 
+Update Docs comments on newly opened Pull Requests that do not update either the README or a file in the `/docs` folder.
 
 Create a `.github/config.yml` file that contains the contents you would like to reply within an `updateDocsComment`. Optionally, you can also add an `updateDocsWhiteList` that includes terms, that if found in the title, the bot will not comment on.
 

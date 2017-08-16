@@ -15,7 +15,6 @@ layout: default
           Add to GitHub
         </a>
         <div class="text-gray-light">
-          <div class="d-inline mr-3 tooltipped tooltipped-s" aria-label="{{ page.installations }} installations">{% octicon cloud-download width:14 class:"v-align-middle" %} <span class="">{{ page.installations }}</span></div>
           <div class="d-inline mr-3 tooltipped tooltipped-s" aria-label="{{ page.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ page.stars }}</span></div>
         </div>
       </div>
@@ -51,13 +50,6 @@ layout: default
         <div class="mb-3">
           {% for topic in page.topics %}
             <a class="text-white" class="text-inherit" href="#">#{{ topic }}</a>
-          {% endfor %}
-        </div>
-
-        <h4 class="mb-1 alt-h4 text-gray">Used by</h4>
-        <div class="mb-3">
-          {% for organization in page.organizations %}
-            <a href="https://github.com/{{ organization }}"><img class="avatar avatar-group-item bg-white" src="https://github.com/{{ organization }}.png" height="35" width="35"></a>
           {% endfor %}
         </div>
 
