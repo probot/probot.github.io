@@ -16,4 +16,8 @@ group :scripts do
   gem 'octokit'
 end
 
+group :test do
+  gem 'html-proofer'
+end
+
 gem 'rb-fsevent', '0.9.8' # See issue https://github.com/guard/listen/issues/431

@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "html-proofer"
+
+url_ignores = [
+  # add links to ignore here
+]
+
+HTMLProofer::Runner.new(["_site"],
+  :type => :directory,
+  :url_ignore => url_ignores,
+  :verbose => !!ENV["VERBOSE"],
+  :check_html => true
+).run
