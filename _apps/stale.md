@@ -7,20 +7,8 @@ screenshots:
 - https://user-images.githubusercontent.com/173/27765705-93f94940-5e7e-11e7-8527-3a91bb64ca70.png
 topics:
 - project-management
-organizations:
-- atom
-- Homebrew
-- fchollet
-- hexojs
-- apollographql
-- sequelize
-- hubotio
-- mochajs
-- nodemailer
-- tldr-pages
 author: bkeepers
 stars: 129
-installations: 98
 repository: probot/stale
 host: https://probot-stale.herokuapp.com
 ---

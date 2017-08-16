@@ -5,7 +5,6 @@ slug: settings
 topics:
 - administration
 stars: 123
-installations: 38
 author: bkeepers
 repository: probot/settings
 ---
