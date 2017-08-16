@@ -1,27 +1,26 @@
 ---
 layout: default
 ---
-<div class="">
-  <div class="container-lg px-3">
-    <header class="py-6">
-      <div class="pb-0 pt-md-4 py-lg-6">
-        <div class="d-flex flex-items-center flex-justify-center gutter-spacious">
-          <div class="col-3 offset-1 text-right">
-            <img src="/assets/logo.png">
-          </div>
-          <div class="flex-column col-8">
-            <h1 class="alt-h2 text-uppercase lh-condensed text-brand-blue">Probot</h1>
-            <h2 class="alt-h2 lh-condensed">
-              GitHub Apps to automate <br>and improve your workflow
-            </h2>
-            <p class="alt-lead text-gray-light mt-2 lh-condensed" style="opacity: 0.6">
-              Use one of the pre-built open source apps that extend GitHub, or easily build and share your own.
-            </p>
-          </div>
+<div class="container-lg px-3">
+  <header class="py-6">
+    <div class="pb-0 pt-md-4 py-lg-6">
+      <div class="d-md-flex flex-md-items-center flex-md-row-reverse flex-md-justify-center gutter-md-spacious">
+        <div class="col-md-8 text-center text-md-left">
+          <h1 class="alt-h2 text-uppercase lh-condensed text-brand-blue">Probot</h1>
+          <h2 class="alt-h2 lh-condensed">
+            GitHub Apps to automate <br>and improve your workflow
+          </h2>
+          <p class="alt-lead text-gray-light mt-2 lh-condensed" style="opacity: 0.6">
+            Use the pre-built apps to extend GitHub,<br>
+            and easily build and share your own.
+          </p>
+        </div>
+        <div class="col-3 mx-auto mx-md-0 offset-md-1 text-center text-md-right">
+          <img src="/assets/logo.png" class="width-fit">
         </div>
       </div>
-    </header>
-  </div>
+    </div>
+  </header>
 </div>
 
 <div id="explore" class="bg-gray-light border-top border-gray-light">
@@ -75,10 +74,10 @@ layout: default
     </p>
 
     <div class="page-section d-flex flex-column flex-md-row gutter flex-items-center flex-md-items-center">
-      <div class="col-6 d-flex flex-column">
+      <div class="col-md-6 hide-md">
           <img src="https://assets-cdn.github.com/images/modules/site/home-illo-conversation.svg" class="d-block width-fit mx-6">
       </div>
-      <div class="col-6">
+      <div class="col-md-6">
         <h3 class="alt-h3 mb-2">Optimized for GitHub</h3>
         <p class="">
           Receive webhooks and use the authenticated client to access the GitHub API. Granular permissions give each app access only to the data it needs and nothing more.
@@ -87,12 +86,12 @@ layout: default
     </div>
 
     <div class="page-section">
-      <div class="d-flex flex-md-row gutter flex-items-center flex-md-items-center">
-        <div class="col-6">
+      <div class="d-md-flex flex-md-row gutter-md flex-md-items-center">
+        <div class="col-md-6">
           <h3 class="alt-h3 mb-2">Easily scriptable</h3>
           <p class="">Focus on what you want to build. A simple API—built on the latest ES6 JavaScript features—hides the details you don't care about.</p>
         </div>
-        <div class="col-6">
+        <div class="col-md-6">
           <div class="rounded-2 overflow-hidden border" style="margin-left: 60px;">
 {% highlight javascript %}
 module.exports = robot => {
@@ -108,16 +107,8 @@ module.exports = robot => {
         </div>
       </div>
 
-      <div class="d-flex flex-md-row gutter mt-4">
-        <div class="col-6">
-          <h2 class="alt-h3 mb-2"></h2>
-          <p>Apps are first class actors within GitHub.</p>
-          <p class="mt-3">
-            <a href="/docs/">Get started with Probot {% octicon chevron-right %}</a>
-          </p>
-        </div>
-
-        <div class="col-6">
+      <div class="d-md-flex flex-md-row flex-md-row-reverse gutter mt-4">
+        <div class="col-md-6">
           <img src="https://github.com/probot.png" height="44" width="44" class="avatar rounded-1 float-left">
           <div class="timeline-comment box rounded-2 border bg-white" style="margin-left: 60px;">
             <div class="bg-gray px-3 py-2 border-bottom">
@@ -125,6 +116,13 @@ module.exports = robot => {
             </div>
             <p class="m-0 p-3">Hello World!</p>
           </div>
+        </div>
+        <div class="col-md-6">
+          <h2 class="alt-h3 mb-2"></h2>
+          <p>Apps are first class actors within GitHub.</p>
+          <p class="mt-3">
+            <a href="/docs/">Get started with Probot {% octicon chevron-right %}</a>
+          </p>
         </div>
       </div>
     </div>

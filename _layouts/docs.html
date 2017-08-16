@@ -3,38 +3,8 @@ layout: default
 ---
 
 <div class="container-lg px-3 py-6">
-  <div class="d-flex flex-row gutter-spacious">
-    <div id="toc" class="col-3 py-6">
-      {% for section in site.data.toc %}
-        <h2 class="alt-h4">{{ section[0] }}</h2>
-
-        <ul class="mt-2 mb-4 list-style-none">
-          {% for item in section[1] %}
-            <li>
-              {% if item.url %}
-                {% assign link = item %}
-              {% else %}
-                {% for doc in site.pages %}
-                  {% if doc.path == item %}
-                    {% assign link = doc %}
-                    {% break %}
-                  {% endif %}
-                {% endfor %}
-              {% endif %}
-
-              {% if page.url == link.url %}
-                {% assign classes = "text-brand-red" %}
-              {% else %}
-                {% assign classes = "text-gray-light" %}
-              {% endif %}
-
-              <a class="d-block no-underline py-1 {{classes}}" href="{{ link.url }}">{{ link.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endfor %}
-    </div>
-    <div class="col-9 markdown-body p-6">
+  <div class="d-md-flex flex-md-row flex-md-row-reverse gutter-md-spacious">
+    <div class="col-md-9 markdown-body p-md-6">
       {{ content }}
 
       {% for doc in site.pages %}
@@ -66,6 +36,36 @@ layout: default
         Find a mistake or want to help improve this documentation?
         <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">Suggest changes on GitHub</a>
       </p>
+    </div>
+    <div id="toc" class="col-md-3 py-6">
+      {% for section in site.data.toc %}
+        <h2 class="alt-h4">{{ section[0] }}</h2>
+
+        <ul class="mt-2 mb-4 list-style-none">
+          {% for item in section[1] %}
+            <li>
+              {% if item.url %}
+                {% assign link = item %}
+              {% else %}
+                {% for doc in site.pages %}
+                  {% if doc.path == item %}
+                    {% assign link = doc %}
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+
+              {% if page.url == link.url %}
+                {% assign classes = "text-brand-red" %}
+              {% else %}
+                {% assign classes = "text-gray-light" %}
+              {% endif %}
+
+              <a class="d-block no-underline py-1 {{classes}}" href="{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
     </div>
   </div>
 </div>
