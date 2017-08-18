@@ -34,7 +34,7 @@ Work in Progress pull request are also welcome to get feedback early on, or if t
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
 
-## Adding your app 
+## Adding your app
 
 You can add your plugin by adding it as `_apps/your-plugin-name.md`
 
@@ -49,13 +49,6 @@ screenshots:
 - https://somewebsite.com/your-screenshot.png
 author: your-github-handle
 repository: where your code is located (ie behaviorbot/welcome)
-# Choose one or more of the below listed topics that you think describes what your app does
-topics:
-- administration
-- code-review
-- community-management
-- licensing
-- project-management
 
 # All other stats fields you see on the website, will be grabbed as real data, such as organizations, installations, and stars.
 ---
@@ -74,7 +67,7 @@ When considering hosting new plugins here's what we look for, the app:
 - Does something not already done by an existing probot plugin
 - Has minimal tests
 - Has minimal documentation
-- Is open source 
+- Is open source
 - Has a license
 - Has a code of conduct
 - Has someone willing to at least minimally maintain them for the near future

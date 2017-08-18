@@ -7,8 +7,6 @@ screenshots:
 stars: 20
 author: bkeepers
 repository: probot/dco
-topics:
-- licensing
 ---
 
 
