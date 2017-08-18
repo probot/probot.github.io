@@ -1,0 +1,25 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "html-proofer"
+
+# add links to ignore here
+url_ignores = [
+  # Installation links require being signed in to GitHub
+  %r{https://github.com/apps/.*/installations/new},
+  "https://mochajs.org/",
+]
+
+begin
+  HTMLProofer::Runner.new(["_site"],
+    :type => :directory,
+    :url_ignore => url_ignores,
+    :file_ignore => [%r{_site/api/}],
+    :verbose => !!ENV["VERBOSE"],
+    :check_html => true,
+    :empty_alt_ignore => true
+  ).run
+rescue => e
+  puts "\n", e
+  exit 1
+end
