@@ -8,9 +8,8 @@ screenshots:
 topics:
 - project-management
 author: bkeepers
-stars: 129
+stars: 128
 repository: probot/stale
-host: https://probot-stale.herokuapp.com
 ---
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.
