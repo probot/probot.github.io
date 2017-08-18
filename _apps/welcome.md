@@ -9,9 +9,6 @@ screenshots:
 stars: 5
 author: hiimbex
 repository: behaviorbot/welcome
-topics:
-- open source
-- welcome
 ---
 
 

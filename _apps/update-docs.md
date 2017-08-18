@@ -7,9 +7,6 @@ screenshots:
 stars: 1
 author: hiimbex
 repository: behaviorbot/update-docs
-topics:
-- open source
-- documentation
 ---
 
 

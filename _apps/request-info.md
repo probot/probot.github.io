@@ -7,9 +7,6 @@ screenshots:
 stars: 2
 author: hiimbex
 repository: behaviorbot/request-info
-topics:
-- open source
-- request-more-info
 ---
 
 
