@@ -9,6 +9,8 @@ exclude:
   - package-lock.json
   - README.md
   - node_modules
+  - _submodules
+  - script
 
 sass:
   style: :compressed
