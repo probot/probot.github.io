@@ -12,6 +12,6 @@ Advanced:
   - docs/best-practices.md
 Reference:
   - title: robot
-    url: "https://probot.github.io/probot/latest/Robot.html"
+    url: "https://probot.github.io/api/latest/Robot.html"
   - title: context
-    url: "https://probot.github.io/probot/latest/Context.html"
+    url: "https://probot.github.io/api/latest/Context.html"
