@@ -9,11 +9,16 @@ url_ignores = [
   %r{https://github.com/apps/.*/installations/new},
 ]
 
-HTMLProofer::Runner.new(["_site"],
-  :type => :directory,
-  :url_ignore => url_ignores,
-  :file_ignore => [%r{_site/api/}],
-  :verbose => !!ENV["VERBOSE"],
-  :check_html => true,
-  :empty_alt_ignore => true
-).run
+begin
+  HTMLProofer::Runner.new(["_site"],
+    :type => :directory,
+    :url_ignore => url_ignores,
+    :file_ignore => [%r{_site/api/}],
+    :verbose => !!ENV["VERBOSE"],
+    :check_html => true,
+    :empty_alt_ignore => true
+  ).run
+rescue => e
+  puts "\n", e
+  exit 1
+end
