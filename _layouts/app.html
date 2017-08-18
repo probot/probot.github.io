@@ -10,7 +10,7 @@ layout: default
         <div class="text-gray-light">{{ page.description }}</div>
       </div>
       <div class="flex-column col-3 text-center">
-        <a class="mt-1 mb-2 d-block btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new">
+        <a class="mt-1 mb-2 d-block btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new" data-proofer-ignore>
           {% octicon plus class:"mr-2" %}
           Add to GitHub
         </a>
@@ -31,7 +31,7 @@ layout: default
             {% for screenshot in page.screenshots %}
               <input class="switcher-input" id="screenshot-{{ forloop.index }}" type="radio" name="switcher"{% if forloop.index == 1 %} checked{% endif %}>
               <div class="switcher-item content d-flex flex-items-center flex-justify-center p-3">
-                <img src="{{ screenshot }}" style="max-width:100%; max-height:100%;">
+                <img src="{{ screenshot }}" style="max-width:100%; max-height:100%;" alt="Screenshot of {{ page.title }} app">
               </div>
             {% endfor %}
           </div>

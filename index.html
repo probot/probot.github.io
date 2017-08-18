@@ -16,7 +16,7 @@ layout: default
           </p>
         </div>
         <div class="col-3 mx-auto mx-md-0 offset-md-1 text-center text-md-right">
-          <img src="/assets/logo.png" class="width-fit">
+          <img src="/assets/logo.png" class="width-fit" alt="Probot logo">
         </div>
       </div>
     </div>
@@ -41,7 +41,7 @@ layout: default
               <div class="d-flex flex-row">
                 <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ app.stars }}</span></div>
                 <div class="col-9 text-right">
-                  <img class="avatar tooltipped tooltipped-s" aria-label="Made by {{ app.author }}" height="24" src="https://github.com/{{ app.author }}.png">
+                  <img class="avatar tooltipped tooltipped-s" alt="Made by {{ app.author }}" aria-label="Made by {{ app.author }}" height="24" src="https://github.com/{{ app.author }}.png">
                 </div>
               </div>
             </div>
@@ -75,7 +75,7 @@ layout: default
 
     <div class="page-section d-flex flex-column flex-md-row gutter flex-items-center flex-md-items-center">
       <div class="col-md-6 hide-md">
-          <img src="https://assets-cdn.github.com/images/modules/site/home-illo-conversation.svg" class="d-block width-fit mx-6">
+          <img alt="" src="https://assets-cdn.github.com/images/modules/site/home-illo-conversation.svg" class="d-block width-fit mx-6">
       </div>
       <div class="col-md-6">
         <h3 class="alt-h3 mb-2">Optimized for GitHub</h3>
@@ -109,7 +109,7 @@ module.exports = robot => {
 
       <div class="d-md-flex flex-md-row flex-md-row-reverse gutter mt-4">
         <div class="col-md-6">
-          <img src="https://github.com/probot.png" height="44" width="44" class="avatar rounded-1 float-left">
+          <img alt="" src="https://github.com/probot.png" height="44" width="44" class="avatar rounded-1 float-left">
           <div class="timeline-comment box rounded-2 border bg-white" style="margin-left: 60px;">
             <div class="bg-gray px-3 py-2 border-bottom">
               <strong>@probot</strong> commented

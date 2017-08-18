@@ -13,7 +13,7 @@ This GitHub App syncs repository settings defined in `.github/settings.yml` to G
 
 ## Usage
 
-1. **[Install the app](https://github.com/integrations/configurer/installations/new)**.
+1. **[Install the app](https://github.com/apps/settings/installations/new)**.
 2. Create a `.github/settings.yml` file in your repository. Changes to this file on the default branch will be synced to GitHub.
 
 All settings are optional.
