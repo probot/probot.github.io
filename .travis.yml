@@ -1,5 +1,5 @@
 before_script: "./script/bootstrap"
-script: "./script/cibuild"
+script: "./script/test"
 
 #environment
 language: ruby
