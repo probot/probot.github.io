@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# Sync star counts from GitHub
+# Sync data for apps from GitHub
 
 require 'open-uri'
 
@@ -17,6 +17,7 @@ site.collections["apps"].docs.each do |app|
 
   content = File.read(app.path)
   content.sub!(/^stars: \d+$/, "stars: #{repo[:stargazers_count]}")
+  content.sub!(/^updated:.*$/, "updated: #{repo[:pushed_at]}")
 
   if app['host']
     stats = JSON.parse(URI(app['host'] + '/stats').open.read)
