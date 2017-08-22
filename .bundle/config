@@ -1,4 +1,0 @@
----
-BUNDLE_PATH: "/Users/github/Desktop/probot.github.io/probot.github.io/vendor/gems"
-BUNDLE_DISABLE_SHARED_GEMS: "true"
-BUNDLE_BIN: "bin"
