@@ -17,7 +17,7 @@ You can tell from this example just how toxic I am 😜
 
 ## Usage
 
-1. Install the bot on the intended repositories. The plugin requires the following **Permissions and Events**:
+1. Install the bot on the intended repositories. The app requires the following **Permissions and Events**:
 - Issues: **Read & Write**
   - **Issue Comment** events
 2. Add a `.github/config.yml` file that contains the following:

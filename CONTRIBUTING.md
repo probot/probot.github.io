@@ -36,9 +36,9 @@ Work in Progress pull request are also welcome to get feedback early on, or if t
 
 ## Adding your app
 
-You can add your plugin by adding it as `_apps/your-plugin-name.md`
+You can add your app by adding it as `_apps/your-app-name.md`
 
-Here are the things you need to include about your plugin:
+Here are the things you need to include about your app:
 
 ```
 ---
@@ -53,7 +53,7 @@ repository: where your code is located (ie behaviorbot/welcome)
 # All other stats fields you see on the website, will be grabbed as real data, such as organizations, installations, and stars.
 ---
 
-Any documentation can go here. Many plugins just use their README.md here.
+Any documentation can go here. Many apps just use their README.md here.
 
 ```
 
@@ -64,7 +64,7 @@ We will list un-hosted apps on the website to help gain more exposure. We will c
 When considering hosting new plugins here's what we look for, the app:
 
 - Works (ie it can run without errors and perform some sort of action on GitHub through the API)
-- Does something not already done by an existing probot plugin
+- Does something not already done by an existing probot app
 - Has minimal tests
 - Has minimal documentation
 - Is open source
