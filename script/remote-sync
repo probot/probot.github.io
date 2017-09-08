@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+set -x            # print commands before execution
+set -o errexit    # always exit on error
+set -o pipefail   # honor exit codes when piping
+set -o nounset    # fail on unset variables
+
+# expected environment variables
+# GIT_AUTHOR_NAME
+# GIT_AUTHOR_EMAIL
+
+REPOSITORY=https://github.com/probot/probot.github.io.git
+
+rm -rf work
+git clone --depth=1 $REPOSITORY work
+cd work
+script/bootstrap
+script/sync-data
+
+git diff-index --quiet HEAD -- || {
+  git add .
+  git commit -am "Sync data"
+  git push origin master --follow-tags
+}
+
+rm -rf work
