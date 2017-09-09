@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# Run script/sync-data and push changes.
+
+set -x            # print commands before execution
+set -o errexit    # always exit on error
+set -o pipefail   # honor exit codes when piping
+
+echo "===> Syncing data"
+script/sync-data
+
+git diff --quiet || {
+  echo "===> Committing and pushing changes"
+  git commit -am "Sync data"
+
+  REPO=`git config remote.origin.url`
+
+  if [[ -n "$GH_TOKEN" ]]; then
+    REPO=${REPO/https:\/\//https://${GH_TOKEN}@}
+  fi
+
+  git push $REPO HEAD:$TRAVIS_BRANCH
+}
