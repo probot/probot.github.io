@@ -1,6 +1,6 @@
 #!/bin/sh
 
 case "$TRAVIS_EVENT_TYPE" in
-  cron|pr ) script/remote-sync;;
+  cron|pull_request ) script/remote-sync;;
   *       ) script/test;;
 esac
