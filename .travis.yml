@@ -8,8 +8,7 @@ notifications:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - GIT_AUTHOR_NAME="Probot"
-  - GIT_AUTHOR_EMAIL="bkeepers+probot@github.com"
-  - secure: gGUZ+Mtu0LgGhxh9Gd/0gOvoCvoFipi/c6N/4lw5vQtCj7bweQw9/4D6ywpdAc2EDqp9oQ67qBuqLWk5kIhtD3eR7F8thzfF/EeqwizHN6ILqFivDb5a2vFa4b00IOAQFICH9whPT9l673lQ9aysnLlQXi2SwQdV4ysW9UkJaUtKPVSUGer46kN/YvtqyaV//kYksugqUz6pZzPxEtdAgvDIQ8R8p7G0cE/CRcAfHB1D/jS3AfIKzdgdbRxRlTPr0fIi8DQhDGr3o/sPLXotblG9btonVov2jcJpM6+2mZBaiR5V2h9WzjLa3ubk3qq26qKzURVjdFCx5USd/BB+clyadgMxgARKhODq65UYGPaiSZ8poheFz7PtfyvIx6L6miqG8B6uPiIy9553xnVT7Z+ZrqrE7hqUmyzPTfXQ6bAje3Aez2NTjRw0fri5O/pjyhrbkb/0trXguKrvFqeBRYxklM4ES6XHfNmo88APfB7FBs/k5TCgdKSC9FuJwY5IFLt0zWIvtAGTHn//1Zvjak+fXbo5nKzYinfb6c7Ba7v22o+VKawxJd6YUOMpLbCfD59puRtRlP/fnydNJqc553Oqvz/dMLfvMMCB95ZnfZ9rdhPMpNN0GWU7k3NeSorAOVKnAmLDRHAyfO3YOignvOKo0Ymnhq9OcGb+Of7jq4M=
+  - GIT_AUTHOR_NAME="Brandon Keepers"
+  - GIT_AUTHOR_EMAIL="bkeepers@github.com"
 sudo: false
 cache: bundler
