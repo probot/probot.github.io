@@ -1,4 +1,6 @@
 #!/bin/sh
 
-script/test
-script/remote-sync
+case "$TRAVIS_EVENT_TYPE" in
+  cron|pr ) script/remote-sync;;
+  *       ) script/test;;
+esac
