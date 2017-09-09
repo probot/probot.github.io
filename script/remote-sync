@@ -18,5 +18,5 @@ git diff --quiet || {
     REPO=${REPO/https:\/\//https://${GH_TOKEN}@}
   fi
 
-  git push $REPO
+  git push $REPO HEAD:$TRAVIS_BRANCH
 }
