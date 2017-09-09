@@ -4,7 +4,7 @@
 require 'open-uri'
 
 require "octokit"
-client = Octokit::Client.new(:access_token => ENV["GITHUB_TOKEN"])
+client = Octokit::Client.new(:access_token => ENV["GH_TOKEN"])
 
 require "jekyll"
 config = Jekyll.configuration("source" => File.expand_path('../', File.dirname(__FILE__)))

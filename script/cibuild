@@ -1,0 +1,4 @@
+#!/bin/sh
+
+script/test
+script/remote-sync

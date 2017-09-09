@@ -1,26 +1,22 @@
 #!/usr/bin/env bash
+# Run script/sync-data and push changes.
 
 set -x            # print commands before execution
 set -o errexit    # always exit on error
 set -o pipefail   # honor exit codes when piping
-set -o nounset    # fail on unset variables
 
-# expected environment variables
-# GIT_AUTHOR_NAME
-# GIT_AUTHOR_EMAIL
-
-REPOSITORY=https://github.com/probot/probot.github.io.git
-
-rm -rf work
-git clone --depth=1 $REPOSITORY work
-cd work
-script/bootstrap
+echo "===> Syncing data"
 script/sync-data
 
-git diff-index --quiet HEAD -- || {
-  git add .
+git diff --quiet || {
+  echo "===> Committing and pushing changes"
   git commit -am "Sync data"
-  git push origin master --follow-tags
-}
 
-rm -rf work
+  REPO=`git config remote.origin.url`
+
+  if [[ -n "$GH_TOKEN" ]]; then
+    REPO=${REPO/https:\/\//https://${GH_TOKEN}@}
+  fi
+
+  git push $REPO
+}
