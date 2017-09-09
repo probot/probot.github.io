@@ -36,25 +36,26 @@ Work in Progress pull request are also welcome to get feedback early on, or if t
 
 ## Adding your app
 
-You can add your app by adding it as `_apps/your-app-name.md`
-
-Here are the things you need to include about your app:
+You can add your app to the [website](https://probot.github.io/apps/) by creating a [new file in `_apps/`](https://github.com/probot/probot.github.io/new/master/_apps?filename=your-app-name.md) with this template:
 
 ```
 ---
-title: Title of Your App
-description: What your App does
+# A human-friendly name of your listing
+title: Title of Your app
+# A short description of what your app does
+description: What your app does
+# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: Shortened version of app name
+# Include a few screenshots that show your app in action
 screenshots:
 - https://somewebsite.com/your-screenshot.png
-author: your-github-handle
-repository: where your code is located (ie behaviorbot/welcome)
-
-# All other stats fields you see on the website, will be grabbed as real data, such as organizations, installations, and stars.
+# Your GitHub username
+author: your-username
+# The repository where the code is located
+repository: your-username/your-app
 ---
 
 Any documentation can go here. Many apps just use their README.md here.
-
 ```
 
 ## Hosting your app

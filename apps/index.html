@@ -12,27 +12,25 @@ title: Featured Apps
       {% for app in apps %}
         {% include app.html app=app %}
       {% endfor %}
-    </div>
 
-    <div class="mt-6 pt-6">
-      <div class="d-md-flex gutter-md">
-        <div class="col-md-4">
-          <h3 class="alt-h4"><a href="https://github.com/search?q=topic%3Aprobot-app&type=Repositories">Browse GitHub</a></h3>
-          <p class="text-gray-light">
-            Browse the <a href="https://github.com/search?q=topic%3Aprobot-app&type=Repositories">#probot-app</a> topic on GitHub to find more apps to use and contribute to.
-          </p>
-        </div>
+      <div class="col-lg-4 col-md-6 mb-3 mt-3">
+        <a href="https://github.com/probot/probot.github.io/blob/master/CONTRIBUTING.md#adding-your-app" class="d-block rounded-1 border border-dashed border-gray-dark link-gray no-underline p-3" style="height:100%">
+          <h3 class="h4">
+            {% octicon plus class:"v-align-text-bottom" %}
+            Share your app
+          </h3>
 
-        <div class="col-md-4">
-          <h3 class="alt-h4"><a href="/docs/">Build your own app</a></h3>
-          <p class="text-gray-light">Don't see an app that meets your needs? Nothing to fear, you can build one.</p>
-        </div>
-
-        <div class="col-md-4">
-          <h3 class="alt-h4"><a href="https://github.com/probot/probot.github.io/blob/master/CONTRIBUTING.md#adding-your-app">Share your app</a></h3>
-          <p class="text-gray-light">Is your app ready for prime time? List it in the app directory to gain more exposure.</p>
-        </div>
+          <p class="text-gray-light">Is your app ready for prime time? Submit it to the app directory.</p>
+        </a>
       </div>
     </div>
+
+    <div class="col-md-5 mx-auto mt-6 text-center">
+      <h3 class="alt-h4">Find more apps</h3>
+      <p class="text-gray-light">
+        Browse the <a href="https://github.com/search?q=topic%3Aprobot-app&type=Repositories">#probot-app</a> topic on GitHub to find more apps to use and contribute to, or <a href="/docs/">build your own</a>.
+      </p>
+    </div>
+
   </div>
 </div>
