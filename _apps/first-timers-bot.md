@@ -4,7 +4,7 @@ description: A friendly bot that helps with onboarding new Open Source Contribut
 slug: first-timers-bot
 screenshots:
 - https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png
-author: agonzalez0515 & ArlenePerez
+author: agonzalez0515 ArlenePerez
 stars: 10
 repository: hoodiehq/first-timers-bot
 updated: 2017-09-11 10:43:30 UTC
@@ -36,19 +36,19 @@ Say I’m a Hoodie contributor and find a typo somewhere. Instead of fixing the 
     </tr>
     <tr>
         <td>1) <a href="https://github.com/apps/first-timers-bot">Install App</a> on a repo of your choice</td>
-        <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Install-App.png"></td>
+        <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Install-App.png" alt="Install App"></td>
     </tr>
     <tr>
         <td>2) Click on the file you want to edit.</td>
-        <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/editPic.png"></td>
+        <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/editPic.png" alt="Edit Pic"></td>
     </tr>
     <tr>
         <td>3) Make the change and write your commit message under <b>Commit changes</b>.  Make sure to check <i>Create a new branch</i> at the bottom and the branch needs to start with <b>"first-timers-"</b>.</td>
-        <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Committing-Branch.png"></td>
+        <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Committing-Branch.png" alt="Committing Branch"></td>
     </tr>
     <tr>
         <td>4) Click on the <b>issues</b> tab and notice your issue was created with your change and commit message. The contributor would then follow the steps on the issue message.</td>
-        <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Generated.png"</td>
+        <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Generated.png" alt="Issue Generated"></td>
     </tr>
 </table>
 
@@ -56,7 +56,7 @@ Say I’m a Hoodie contributor and find a typo somewhere. Instead of fixing the 
 
 [Issue Example Here](https://github.com/arlene-perez/bot-app-test/issues/1)
 
-<p align="center"><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png" alt="Issue Done"></p>
 
 ### 👩‍💻💕About Us
 <!-- Contributors START
