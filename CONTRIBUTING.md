@@ -49,8 +49,8 @@ slug: Shortened version of app name
 # Include a few screenshots that show your app in action
 screenshots:
 - https://somewebsite.com/your-screenshot.png
-# Your GitHub username
-author: your-username
+# The GitHub usernames of anyone who authored the app
+authors: [ your-username, other-usernames ]
 # The repository where the code is located
 repository: your-username/your-app
 ---
