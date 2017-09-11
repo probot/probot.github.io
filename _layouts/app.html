@@ -50,10 +50,12 @@ layout: default
         <p>
           <a class="text-inherit" href="https://github.com/{{ page.repository }}">{{ page.repository }}</a>
         </p>
-        <h4 class="mb-1 alt-h4 text-gray">Author</h4>
-        <p>
-          <a class="text-inherit" href="https://github.com/{{ page.author }}">{{ page.author }}</a>
-        </p>
+        <h4 class="mb-1 alt-h4 text-gray">Authors</h4>
+        {% for author in page.authors %}
+          <p>
+            <a class="text-inherit" href="https://github.com/{{ author }}">{{ author }}</a>
+          </p>
+        {% endfor %}
         <h4 class="mb-1 alt-h4 text-gray">Updated</h4>
         <p><span class="text-white">{{ page.updated | date: "%B %e, %Y"}}</p>
       </div>
