@@ -4,15 +4,13 @@ description: A friendly bot that helps with onboarding new Open Source Contribut
 slug: first-timers-bot
 screenshots:
 - https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png
-author: agonzalez0515 ArlenePerez
+authors: [ agonzalez0515, ArlenePerez ]
 stars: 10
 repository: hoodiehq/first-timers-bot
 updated: 2017-09-11 10:43:30 UTC
 ---
 
 # first-timers-bot
-
-[![Build Status](https://travis-ci.org/hoodiehq/first-timers-bot.svg?branch=master)](https://travis-ci.org/hoodiehq/first-timers-bot)[![Greenkeeper badge](https://badges.greenkeeper.io/hoodiehq/first-timers-bot.svg)](https://greenkeeper.io/)
 
 ### 🐶🎯⛳ The Motivation
 
