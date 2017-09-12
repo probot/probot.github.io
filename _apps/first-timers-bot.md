@@ -4,7 +4,7 @@ description: A friendly bot that helps with onboarding new Open Source Contribut
 slug: first-timers-bot
 screenshots:
 - https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png
-authors: [ agonzalez0515, ArlenePerez ]
+authors: [ agonzalez0515, Techforchange ]
 stars: 10
 repository: hoodiehq/first-timers-bot
 updated: 2017-09-11 10:43:30 UTC
