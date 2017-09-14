@@ -7,3 +7,5 @@ screenshots:
 authors: [ gr2m ]
 repository: gr2m/wip-bot
 ---
+
+If you don’t want your PR to be merged accidentally, add the word "wip" or "WIP" to its title and WIP bot will set its status to error. That’s all :)
