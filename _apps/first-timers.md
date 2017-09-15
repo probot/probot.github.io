@@ -5,9 +5,9 @@ slug: first-timers
 screenshots:
 - https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png
 authors: [ agonzalez0515, Techforchange ]
-stars: 18
+stars: 22
 repository: hoodiehq/first-timers-bot
-updated: 2017-09-14 00:48:33 UTC
+updated: 2017-09-15 03:37:16 UTC
 ---
 
 # first-timers-bot
