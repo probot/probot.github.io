@@ -33,7 +33,7 @@ Say I’m a Hoodie contributor and find a typo somewhere. Instead of fixing the 
         <th>Example</th>
     </tr>
     <tr>
-        <td>1) <a href="https://github.com/apps/first-timers-bot">Install App</a> on a repo of your choice</td>
+        <td>1) <a href="https://github.com/apps/first-timers">Install App</a> on a repo of your choice</td>
         <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Install-App.png" alt="Install App"></td>
     </tr>
     <tr>
