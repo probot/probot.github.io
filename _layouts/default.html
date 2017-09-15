@@ -8,8 +8,14 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     {% seo %}
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js" charset="utf-8"></script>
+    <script defer src="/assets/js/office-hours.js" charset="utf-8"></script>
   </head>
   <body>
+    <a class="alt-text text-white d-block bg-brand-red text-center text-white p-3 office-hours-nag d-none" href="/contribute/#office-hours">
+      Join us for office hours
+      <span class="js-office-hours-start-time" data-format="fromNow"></span>.
+    </a>
     {% include nav.html %}
 
     {{ content }}

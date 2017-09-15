@@ -1,0 +1,74 @@
+---
+layout: default
+title: Contribute
+office_hours_link: https://github.zoom.us/j/221410810
+---
+
+<div class="container-lg px-3 featurette">
+  <h1 class="alt-h2 text-center">Join the Community</h1>
+  <p class="alt-lead col-md-8 text-center text-gray mx-auto">
+    We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+  </p>
+
+  <div class="d-flex gutter featurette text-center">
+    <div class="col-4 text-center">
+      <a class="btn btn-outline" href="https://probot-slackin.herokuapp.com/">
+        {% octicon comment-discussion class:"mr-1" %}
+        Chat on Slack
+      </a>
+    </div>
+
+    <div class="col-4 text-center">
+      <a class="btn btn-outline" href="https://github.com/probot/probot">
+        {% octicon mark-github class:"mr-1" %}
+        Contribute on GitHub
+      </a>
+    </div>
+
+    <div class="col-4 text-center">
+      <a class="btn btn-outline" href="https://twitter.com/ProbotTheRobot">
+        Follow on Twitter
+      </a>
+    </div>
+  </div>
+
+
+  <div id="office-hours" class="d-md-flex flex-row-reverse my-6">
+    <div class="col-md-6 flex-md-self-center">
+      <h2 class="alt-h3">Office Hours</h2>
+      <p>
+        Join us every
+        <strong>
+          <span class="js-office-hours-start-time" data-format="dddd">Friday</span> at
+          <span class="js-office-hours-start-time" data-format="h:mm A">17:00 UTC</span>
+        </strong>
+        to give feedback, ask questions, get help, or just chat about ideas.
+      </p>
+
+      <span class="addtocalendar atc-style-blue">
+        <a class="atcb-link btn btn-outline">
+          {% octicon calendar class:"mr-2" %} Add to Calendar
+        </a>
+
+        <var class="atc_event">
+          <var class="atc_date_start js-office-hours-start-time"></var>
+          <var class="atc_date_end js-office-hours-end-time"></var>
+          <var class="atc_title">Probot Office Hours</var>
+          <var class="atc_description">Join us every Friday to give feedback, ask questions, get help, or just chat about ideas.</var>
+          <var class="atc_location">{{ page.office_hours_link }}</var>
+        </var>
+      </span>
+
+      <a href="{{ page.office_hours_link }}" class="btn btn-outline ml-2 office-hours-nag d-none">
+        {% octicon device-camera-video class:"mr-2" %} Join Now
+      </a>
+    </div>
+    <div class="col-md-6 py-4 px-md-6">
+      <a href="{{ page.office_hours_link }}">
+        <img src="/assets/office-hours.png" alt="" class="width-fit">
+      </a>
+    </div>
+  </div>
+</div>
+
+<script async src="//addtocalendar.com/atc/1.5/atc.min.js" charset="utf-8"></script>
