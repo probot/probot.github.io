@@ -1,7 +1,7 @@
 ---
 title: First Timers Bot
 description: A friendly bot that helps with onboarding new Open Source Contributors
-slug: first-timers-bot
+slug: first-timers
 screenshots:
 - https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png
 authors: [ agonzalez0515, Techforchange ]
@@ -22,7 +22,7 @@ Creating what we call [starter issues](http://hood.ie/blog/starter-issues.html) 
 
 ### 💡💥❓ How things work
 
-Say I’m a Hoodie contributor and find a typo somewhere. Instead of fixing the issue directly in the master branch or creating a pull request which is time-consuming, I can simply create a new branch that is called something like _first-timers-only-typo-in-title._ GitHub will then notify the **First Timers Bot** about the new branch using Webhooks. The bot is listening to any new branch starting with **first-timers-only** and it will create a new issue on your repo. It is currently setup to the Hoodie repo with a template and assigns the first-timers-only and up-for-grabs labels but can be modified by the developer. The commit body can be used to add some context information and if left empty, the 🤔 **What you will need to know** section of the issue will simply say "Nothing :)".
+Say I’m a Hoodie contributor and find a typo somewhere. Instead of fixing the issue directly in the master branch or creating a pull request which is time-consuming, I can simply create a new branch that is called something like _first-timers-typo-in-title._ GitHub will then notify the **First Timers Bot** about the new branch using Webhooks. The bot is listening to any new branch starting with **first-timers** and it will create a new issue on your repo. The commit body can be used to add some context information and if left empty, the 🤔 **What you will need to know** section of the issue will simply say "Nothing :)".
 
 
 ### 😮🙌👀🎉 Use Our Bot!
@@ -33,7 +33,7 @@ Say I’m a Hoodie contributor and find a typo somewhere. Instead of fixing the 
         <th>Example</th>
     </tr>
     <tr>
-        <td>1) <a href="https://github.com/apps/first-timers-bot">Install App</a> on a repo of your choice</td>
+        <td>1) <a href="https://github.com/apps/first-timers">Install App</a> on a repo of your choice</td>
         <td><img src="https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Install-App.png" alt="Install App"></td>
     </tr>
     <tr>
