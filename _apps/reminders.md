@@ -16,4 +16,4 @@ Use any form of `/remind me [what] [when]`, such as:
 
 - /remind me to deploy on Oct 10
 - /remind me next Monday to review the requirements
-- /remind me that the
+- /remind me that the specs on the rotary girder need checked in 6 months
