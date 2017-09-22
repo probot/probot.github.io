@@ -6,7 +6,7 @@ screenshots:
 - https://raw.githubusercontent.com/gr2m/wip-bot/master/assets/wip.gif
 authors: [ gr2m ]
 repository: gr2m/wip-bot
-stars: 7
+stars: 8
 updated: 2017-09-17 00:18:55 UTC
 ---
 

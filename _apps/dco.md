@@ -7,7 +7,7 @@ screenshots:
 stars: 27
 authors: [ bkeepers ]
 repository: probot/dco
-updated: 2017-09-20 07:39:12 UTC
+updated: 2017-09-22 14:34:09 UTC
 ---
 
 
