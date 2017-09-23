@@ -7,6 +7,8 @@ screenshots:
 - https://user-images.githubusercontent.com/235875/30776885-3ab13158-a074-11e7-95df-8b6eb7d6b795.png
 authors: [ jarrodldavis ]
 repository: jarrodldavis/probot-gpg
+stars: 4
+updated: 2017-09-23 21:30:52 UTC
 ---
 ## Usage
 
