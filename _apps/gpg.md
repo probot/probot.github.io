@@ -3,8 +3,8 @@ title: GPG
 description: Enforce GPG signatures on Pull Requests
 slug: gpg
 screenshots:
-- https://user-images.githubusercontent.com/235875/30776187-bed103a8-a067-11e7-9ecc-5540c03114e1.png
-- https://user-images.githubusercontent.com/235875/30776885-3ab13158-a074-11e7-95df-8b6eb7d6b795.png
+- https://user-images.githubusercontent.com/235875/30783301-3b314432-a106-11e7-8e15-68ef7584f076.png
+- https://user-images.githubusercontent.com/235875/30783306-54c68524-a106-11e7-89b4-78bf126d3008.png
 authors: [ jarrodldavis ]
 repository: jarrodldavis/probot-gpg
 stars: 4
