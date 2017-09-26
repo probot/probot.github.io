@@ -1,0 +1,6 @@
+#!/bin/sh
+# Usage: script/optimize-screenshots path/to/images
+#
+# Requires imagemagick to be installed (`brew install imagemagick` on a Mac)
+
+mogrify -trim $@
