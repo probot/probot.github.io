@@ -42,6 +42,6 @@ For best results, enable branch protection (in the repository's settings) and re
 
 ## License
 
-Released under the [MIT license](http://tlvince.mit-license.org).
+Released under the [MIT license](https://tlvince.mit-license.org).
 
 Robot emoji courtesy of [EmojiOne](https://www.emojione.com/emoji/1f916).
