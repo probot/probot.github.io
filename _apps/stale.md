@@ -3,8 +3,8 @@ title: Stale
 description: Close stale Issues and Pull Requests
 slug: stale
 screenshots:
-- https://user-images.githubusercontent.com/173/27765695-4c016050-5e7e-11e7-9016-c2f6d8c27da4.png
-- https://user-images.githubusercontent.com/173/27765705-93f94940-5e7e-11e7-8527-3a91bb64ca70.png
+- /assets/screenshots/stale/1.png
+- /assets/screenshots/stale/2.png
 authors: [ bkeepers ]
 stars: 161
 repository: probot/stale
