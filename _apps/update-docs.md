@@ -3,7 +3,7 @@ title: Update Docs
 description: Replies to newly opened pull requests that do no update a file in the `/docs` folder or the `README`
 slug: update-docs
 screenshots:
-- https://user-images.githubusercontent.com/13410355/28179044-97207bee-67b5-11e7-80d0-0c8ede4a325f.png
+- /assets/screenshots/update-docs/1.png
 stars: 4
 authors: [ hiimbex ]
 repository: behaviorbot/update-docs

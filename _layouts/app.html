@@ -29,7 +29,7 @@ layout: default
         <div class="sixteen-by-nine rounded-1 bg-white overflow-hidden">
           {% for screenshot in page.screenshots %}
             <input class="switcher-input" id="screenshot-{{ forloop.index }}" type="radio" name="switcher"{% if forloop.index == 1 %} checked{% endif %}>
-            <div class="switcher-item content d-flex flex-items-center flex-justify-center p-3">
+            <div class="switcher-item content d-flex flex-items-center flex-justify-center p-6">
               <img src="{{ screenshot }}" style="max-width:100%; max-height:100%;" alt="Screenshot of {{ page.title }} app">
             </div>
           {% endfor %}

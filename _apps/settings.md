@@ -6,7 +6,7 @@ stars: 138
 authors: [ bkeepers ]
 repository: probot/settings
 screenshots:
-- https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
+- /assets/screenshots/settings/1.png
 updated: 2017-09-14 02:55:05 UTC
 ---
 
