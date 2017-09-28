@@ -7,7 +7,7 @@ screenshots:
 stars: 11
 authors: [ hiimbex ]
 repository: behaviorbot/sentiment-bot
-updated: 2017-08-17 17:44:08 UTC
+updated: 2017-09-28 17:46:23 UTC
 ---
 
 Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct. It does so by taking data from a `.github/config.yml`.
