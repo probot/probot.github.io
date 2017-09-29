@@ -31,9 +31,9 @@ function displayTime(elements, time) {
     var value;
 
     if(format == 'fromNow') {
-      value = time.fromNow();
+      value = time.local().fromNow();
     } else {
-      value = time.format(format);
+      value = time.local().format(format);
     }
 
     el.innerHTML = value;
