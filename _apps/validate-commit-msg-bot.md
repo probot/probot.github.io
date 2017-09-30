@@ -1,11 +1,15 @@
 ---
 title: validate-commit-msg-bot
-description: Runs validate-commit-msg over all commits of new or edited pull requests and sets an appropriate a status check.
+description: Runs validate-commit-msg over all commits of new or edited pull requests
+  and sets an appropriate a status check.
 slug: validate-commit-msg-bot
 screenshots:
 - https://github.com/tlvince/validate-commit-msg-bot/raw/master/docs/status-check-screenshot.png
-authors: [ tlvince ]
+authors:
+- tlvince
 repository: tlvince/validate-commit-msg-bot
+stars: 3
+updated: 2017-08-23 08:22:00 UTC
 ---
 
 > validate-commit-msg aaS
