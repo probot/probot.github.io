@@ -8,6 +8,7 @@ url_ignores = [
   # Installation links require being signed in to GitHub
   %r{https://github.com/apps/.*/installations/new},
   "https://mochajs.org/",
+  %r{mit-license\.org}, # misconfigured SSL or old certs on Travis CI?
 ]
 
 begin
