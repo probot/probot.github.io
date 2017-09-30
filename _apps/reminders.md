@@ -4,7 +4,9 @@ description: reminders for Issues and Pull Requests
 slug: reminders
 screenshots:
 - https://user-images.githubusercontent.com/173/30673997-505a993a-9e77-11e7-8f0f-d5a606816e8e.png
-authors: [ jbjonesjr, bkeepers ]
+authors:
+- jbjonesjr
+- bkeepers
 repository: probot/reminders
 stars: 1
 updated: 2017-09-28 15:05:10 UTC

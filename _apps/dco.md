@@ -5,7 +5,8 @@ slug: dco
 screenshots:
 - https://cloud.githubusercontent.com/assets/173/24482273/a35dc23e-14b5-11e7-9371-fd241873e2c3.png
 stars: 26
-authors: [ bkeepers ]
+authors:
+- bkeepers
 repository: probot/dco
 updated: 2017-09-29 05:46:26 UTC
 ---

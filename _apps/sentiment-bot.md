@@ -1,11 +1,13 @@
 ---
 title: Sentiment Bot
-description: Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct
+description: Replies to toxic comments with a maintainer designated reply and a link
+  to the repo's code of conduct
 slug: sentiment-bot
 screenshots:
 - https://user-images.githubusercontent.com/13410355/29323857-fcfe4b4e-8196-11e7-9a08-6184fd46edbb.png
 stars: 11
-authors: [ hiimbex ]
+authors:
+- hiimbex
 repository: behaviorbot/sentiment-bot
 updated: 2017-09-28 17:46:23 UTC
 ---

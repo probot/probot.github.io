@@ -5,7 +5,8 @@ slug: gpg
 screenshots:
 - https://user-images.githubusercontent.com/235875/30783301-3b314432-a106-11e7-8e15-68ef7584f076.png
 - https://user-images.githubusercontent.com/235875/30783306-54c68524-a106-11e7-89b4-78bf126d3008.png
-authors: [ jarrodldavis ]
+authors:
+- jarrodldavis
 repository: jarrodldavis/probot-gpg
 stars: 6
 updated: 2017-09-29 03:23:16 UTC

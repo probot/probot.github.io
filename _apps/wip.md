@@ -4,7 +4,8 @@ description: Prevent merging of Pull Requests with "WIP" in the title
 slug: wip
 screenshots:
 - https://raw.githubusercontent.com/gr2m/wip-bot/master/assets/wip.gif
-authors: [ gr2m ]
+authors:
+- gr2m
 repository: gr2m/wip-bot
 stars: 9
 updated: 2017-09-17 00:18:55 UTC
