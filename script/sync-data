@@ -4,27 +4,26 @@
 require "bundler/setup"
 require "open-uri"
 require "octokit"
-client = Octokit::Client.new(:access_token => ENV["GH_TOKEN"])
+require "yaml"
+client = Octokit::Client.new(:access_token => ENV["GITHUB_TOKEN"])
 
-require "jekyll"
-config = Jekyll.configuration("source" => File.expand_path("../", File.dirname(__FILE__)))
-site = Jekyll::Site.new(config)
-site.read
+files = ARGV[0] ? [ARGV[0]] : Dir.glob('_apps/*.md')
 
-site.collections["apps"].docs.each do |app|
+files.each do |path|
+  app = YAML.load_file(path)
   puts "Syncing #{app['repository']}"
-  repo = client.repository(app['repository'])
 
-  content = File.read(app.path)
-  content.sub!(/^stars: \d+$/, "stars: #{repo[:stargazers_count]}")
-  content.sub!(/^updated:.*$/, "updated: #{repo[:pushed_at]}")
+  repo = client.repository(app['repository'])
+  app['stars'] = repo[:stargazers_count]
+  app['updated'] = repo[:pushed_at].to_s
 
   if app['host']
     stats = JSON.parse(URI(app['host'] + '/stats').open.read)
-    content.sub!(/^installations: \d+$/, "installations: #{stats['installations']}")
-    yaml = YAML.dump(stats['popular'].map { |org| org['login'] }).sub('---', '')
-    content.sub!(/^organizations:\n(- .*\n)*/, "organizations:#{yaml}")
+    app['installations'] = stats['installations']
+    app['organizations'] = stats['popular'].map { |org| org['login'] }
   end
 
-  File.write(app.path, content)
+  content = File.read(path)
+  content.sub!(/---(.*?)---/m, "#{YAML.dump(app)}---")
+  File.write(path, content)
 end
