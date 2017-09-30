@@ -9,7 +9,7 @@ authors:
 - Techforchange
 stars: 25
 repository: hoodiehq/first-timers-bot
-updated: 2017-09-30 05:04:51 UTC
+updated: 2017-09-30 05:57:19 UTC
 ---
 
 # first-timers-bot
