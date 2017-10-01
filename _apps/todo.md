@@ -6,9 +6,9 @@ screenshots:
 - https://user-images.githubusercontent.com/10660468/31048765-83569c30-a5f2-11e7-933a-a119d43ad029.png
 authors: [JasonEtco]
 repository: JasonEtco/todo
+stars: 10
+updated: 2017-09-30 05:57:19 UTC
 ---
-> A GitHub App built with [Probot](https://github.com/probot/probot) that creates new issues based on actionable comments in your code.
-
 ## Usage
 
 If I pushed this:
