@@ -6,8 +6,6 @@ screenshots:
 - https://user-images.githubusercontent.com/10660468/31048765-83569c30-a5f2-11e7-933a-a119d43ad029.png
 authors: [JasonEtco]
 repository: JasonEtco/todo
-stars: 10
-updated: 2017-09-30 05:57:19 UTC
 ---
 ## Usage
 
@@ -31,7 +29,13 @@ function ruleOverPunyHumans () {
 
 There are a couple of configuration options in case you need to change the default behaviour. Note that the defaults are likely fine for most projects, so you might not need to change them.
 
-Add a file called `todo.yml` in the `.github` folder at the root of your project.
+Add a `todo` object in your `.github/config.yml` file like this:
+
+```yml
+todo:
+  keyword: "@makeAnIssue"
+
+```
 
 ### Available options
 
