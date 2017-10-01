@@ -7,20 +7,16 @@ screenshots:
 authors: [JasonEtco]
 repository: JasonEtco/todo
 ---
-# todo &middot; [![Build Status](https://img.shields.io/travis/JasonEtco/todo.svg)](https://travis-ci.org/JasonEtco/todo) [![Codecov](https://img.shields.io/codecov/c/github/JasonEtco/todo.svg)](https://codecov.io/gh/JasonEtco/todo/)
-
 > A GitHub App built with [Probot](https://github.com/probot/probot) that creates new issues based on actionable comments in your code.
 
 ## Usage
-
-Using `todo` should be really simple. Once you've installed it in your repository, simply push some code (to your default branch, a PR; doesn't matter). If the code you pushed includes the configured keyword (default is `@todo`), then the integration will create a new issue for you using the comment your wrote in your code!
 
 If I pushed this:
 
 ```js
 /**
  * @todo Take over the world
- * @body Humans are weak; Robots are strong. We must cleans the world of the virus that is humanity.
+ * @body Humans are weak; Robots are strong. We must cleanse the world of the virus that is humanity.
  */
 function ruleOverPunyHumans () {
   // We must strategize beep boop
@@ -45,15 +41,3 @@ Add a file called `todo.yml` in the `.github` folder at the root of your project
 | keyword | `string` | The keyword to use to generate issue titles | `@todo` |
 | blobLines | `number` or `false` | The number of lines of code to show, starting from the keyword. | 5 |
 | caseSensitive | `boolean` | Should the keyword be case sensitive? | false |
-
-## Setup
-
-```
-# Install dependencies
-npm install
-
-# Run the bot
-npm start
-```
-
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
