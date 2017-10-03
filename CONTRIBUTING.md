@@ -2,7 +2,7 @@
 
 [fork]: https://github.com/probot/probot.github.io/fork
 [pr]: https://github.com/probot/probot.github.io/compare
-[style]: https://github.com/probot/eslint-config-probot
+[style]: https://github.com/standard/standard
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
@@ -12,17 +12,18 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 ## Submitting a pull request
 
 0. [Fork][fork] and clone the repository
-0. Configure and install the dependencies: `npm install`
-0. Make sure the tests pass on your machine: `npm test`
+0. Configure and install the dependencies: `script/bootstrap`
 0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change, add tests, and make sure the tests still pass
+0. Run the server: `script/server`
+0. Make your changes
 0. Push to your fork and [submit a pull request][pr]
 0. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
+**Note:** on Windows, instead of `script/bootstrap` you'll need to run `bundle install` and `npm install`. Instead of `script/server`, you'll need to run `bundle exec jekyll serve`.
+
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
-- Follow the [style guide][style] which is a custom eslint linter.
-- Write and update tests.
+- Follow the [style guide][style] which uses the standard linter.
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
 - Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
