@@ -4,8 +4,11 @@ description: Creates new issues from actionable comments in your code.
 slug: todo
 screenshots:
 - https://user-images.githubusercontent.com/10660468/31048765-83569c30-a5f2-11e7-933a-a119d43ad029.png
-authors: [JasonEtco]
+authors:
+- JasonEtco
 repository: JasonEtco/todo
+stars: 6
+updated: 2017-10-04 23:31:21 UTC
 ---
 ## Usage
 
