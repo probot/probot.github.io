@@ -9,7 +9,7 @@ authors:
 - jarrodldavis
 repository: jarrodldavis/probot-gpg
 stars: 6
-updated: 2017-10-01 03:27:21 UTC
+updated: 2017-10-04 10:13:41 UTC
 ---
 ## Usage
 
