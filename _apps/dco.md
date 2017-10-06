@@ -8,7 +8,7 @@ stars: 27
 authors:
 - bkeepers
 repository: probot/dco
-updated: 2017-10-03 12:04:54 UTC
+updated: 2017-10-06 07:05:12 UTC
 ---
 
 
