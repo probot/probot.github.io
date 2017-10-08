@@ -44,5 +44,3 @@ plugins:
   - jemoji
 
 branch: master
-
-image: /assets/card.png
