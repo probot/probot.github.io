@@ -8,8 +8,8 @@ screenshots:
 authors:
 - jarrodldavis
 repository: jarrodldavis/probot-gpg
-stars: 7
-updated: 2017-10-07 03:07:38 UTC
+stars: 9
+updated: 2017-10-09 02:37:52 UTC
 ---
 ## Usage
 
