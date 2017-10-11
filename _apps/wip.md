@@ -7,7 +7,7 @@ screenshots:
 authors:
 - gr2m
 repository: gr2m/wip-bot
-stars: 14
+stars: 15
 updated: 2017-09-17 00:18:55 UTC
 ---
 
