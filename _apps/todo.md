@@ -7,8 +7,8 @@ screenshots:
 authors:
 - JasonEtco
 repository: JasonEtco/todo
-stars: 26
-updated: 2017-10-12 02:02:56 UTC
+stars: 27
+updated: 2017-10-12 19:10:13 UTC
 ---
 ## Usage
 
