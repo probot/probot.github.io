@@ -7,7 +7,7 @@ screenshots:
 - https://user-images.githubusercontent.com/173/27765705-93f94940-5e7e-11e7-8527-3a91bb64ca70.png
 authors:
 - bkeepers
-stars: 172
+stars: 175
 repository: probot/stale
 updated: 2017-09-29 14:55:30 UTC
 ---

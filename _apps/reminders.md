@@ -8,7 +8,7 @@ authors:
 - jbjonesjr
 - bkeepers
 repository: probot/reminders
-stars: 3
+stars: 4
 updated: 2017-09-28 15:05:10 UTC
 ---
 
