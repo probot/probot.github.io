@@ -7,8 +7,8 @@ screenshots:
 authors:
 - gr2m
 repository: gr2m/wip-bot
-stars: 17
-updated: 2017-10-14 12:29:22 UTC
+stars: 18
+updated: 2017-10-14 18:56:03 UTC
 ---
 
 If you don’t want a pull request to be merged accidentally, add the word "wip" or "WIP" to its title and WIP bot will set its status to error. That’s all :)
