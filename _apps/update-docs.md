@@ -10,6 +10,7 @@ authors:
 - hiimbex
 repository: behaviorbot/update-docs
 updated: 2017-10-01 12:48:25 UTC
+host: https://probot-update-docs.herokuapp.com
 ---
 
 

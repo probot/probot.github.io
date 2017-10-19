@@ -10,6 +10,19 @@ authors:
 - hiimbex
 repository: behaviorbot/request-info
 updated: 2017-10-17 21:59:03 UTC
+host: https://probot-request-info.herokuapp.com
+installations: 26
+organizations:
+- desktop
+- benbalter
+- terkelg
+- probot
+- Mte90
+- WPBP
+- behaviorbot
+- chriscantu
+- CodeAtCode
+- vuematerial
 ---
 
 

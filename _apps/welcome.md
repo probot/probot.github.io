@@ -11,6 +11,7 @@ authors:
 - hiimbex
 repository: behaviorbot/welcome
 updated: 2017-09-15 14:50:57 UTC
+host: https://probot-welcome.herokuapp.com
 ---
 
 

@@ -10,6 +10,7 @@ authors:
 - hiimbex
 repository: behaviorbot/sentiment-bot
 updated: 2017-10-10 14:39:23 UTC
+host: https://probot-sentiment-bot.herokuapp.com
 ---
 
 Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct. It does so by taking data from a `.github/config.yml`.

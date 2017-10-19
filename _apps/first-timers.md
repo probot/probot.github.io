@@ -10,6 +10,7 @@ authors:
 stars: 66
 repository: hoodiehq/first-timers-bot
 updated: 2017-10-19 07:58:48 UTC
+host: https://first-timers-bot.glitch.me
 ---
 
 # first-timers-bot
