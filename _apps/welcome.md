@@ -10,7 +10,7 @@ stars: 17
 authors:
 - hiimbex
 repository: behaviorbot/welcome
-updated: 2017-09-15 14:50:57 UTC
+updated: 2017-10-19 16:21:15 UTC
 ---
 
 

@@ -7,8 +7,8 @@ screenshots:
 authors:
 - erickzhao
 repository: erickzhao/invite-contributors
-stars: 0
-updated: 2017-10-19 12:18:07 UTC
+stars: 3
+updated: 2017-10-19 15:53:25 UTC
 ---
 
 # invite-contributors

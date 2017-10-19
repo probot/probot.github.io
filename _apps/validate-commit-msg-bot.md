@@ -9,7 +9,7 @@ authors:
 - tlvince
 repository: tlvince/validate-commit-msg-bot
 stars: 3
-updated: 2017-08-23 08:22:00 UTC
+updated: 2017-10-19 17:04:07 UTC
 ---
 
 > validate-commit-msg aaS

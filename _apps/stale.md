@@ -9,7 +9,7 @@ authors:
 - bkeepers
 stars: 183
 repository: probot/stale
-updated: 2017-10-15 11:46:44 UTC
+updated: 2017-10-19 14:42:26 UTC
 ---
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.
