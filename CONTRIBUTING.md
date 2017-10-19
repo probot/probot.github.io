@@ -54,6 +54,8 @@ screenshots:
 authors: [ your-username, other-usernames ]
 # The repository where the code is located
 repository: your-username/your-app
+# The address where this app is deployed
+host: https://my-probot-app.awesomecloudhost.com
 ---
 
 Any documentation can go here. Many apps just use their README.md here.

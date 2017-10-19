@@ -31,7 +31,7 @@ layout: default
     </p>
 
     <div class="d-md-flex flex-wrap gutter flex-auto">
-      {% assign apps = site.apps | sort: 'stars' | reverse %}
+      {% assign apps = site.apps | sort: 'installations' | reverse %}
       {% for app in apps limit:6 %}
         {% include app.html app=app %}
       {% endfor %}
