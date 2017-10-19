@@ -1,7 +1,7 @@
 ---
 title: invite-contributors
 description: Automatically invite authors of merged pull requests to your organization
-slug: https://github.com/apps/invite-contributors
+slug: invite-contributors
 screenshots:
 - https://i.imgur.com/USwS3CF.png
 authors:
