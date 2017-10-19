@@ -1,17 +1,14 @@
 ---
-# A human-friendly name of your listing
 title: invite-contributors
-# A short description of what your app does
 description: Automatically invite authors of merged pull requests to your organization
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: https://github.com/apps/invite-contributors
-# Include a few screenshots that show your app in action
 screenshots:
 - https://i.imgur.com/USwS3CF.png
-# The GitHub usernames of anyone who authored the app
-authors: [ erickzhao ]
-# The repository where the code is located
+authors:
+- erickzhao
 repository: erickzhao/invite-contributors
+stars: 0
+updated: 2017-10-19 12:18:07 UTC
 ---
 
 # invite-contributors
