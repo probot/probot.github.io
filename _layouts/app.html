@@ -59,6 +59,15 @@ layout: default
         {% endfor %}
         <h4 class="mb-1 alt-h4 text-gray">Updated</h4>
         <p><span class="text-white">{{ page.updated | date: "%B %e, %Y"}}</p>
+
+        {% if page.organizations %}
+          <h4 class="mb-1 alt-h4 text-gray">Used By</h4>
+          {% for org in page.organizations %}
+            <a href="https://github.com/{{ org }}" aria-label="{{ org }}" class="tooltipped tooltipped-n avatar-group-item">
+              <img class="avatar" src="https://github.com/{{ org }}.png" alt="{{ org }}" width="35" height="35">
+            </a>
+          {% endfor %}
+        {% endif %}
       </div>
     </div>
   </div>
@@ -71,16 +80,6 @@ layout: default
         <div class="markdown-body">
           {{ content }}
         </div>
-      </div>
-      <div class="col-md-3">
-        {% if page.organizations %}
-          <h4 class="mb-1 alt-h4 text-gray">Used By</h4>
-          {% for org in page.organizations %}
-            <a href="https://github.com/{{ org }}" aria-label="{{ org }}" class="tooltipped tooltipped-n avatar-group-item">
-              <img class="avatar" src="https://github.com/{{ org }}.png" alt="{{ org }}" width="35" height="35">
-            </a>
-          {% endfor %}
-        {% endif %}
       </div>
     </div>
   </div>
