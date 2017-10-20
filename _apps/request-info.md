@@ -9,7 +9,7 @@ stars: 8
 authors:
 - hiimbex
 repository: behaviorbot/request-info
-updated: 2017-10-19 15:52:27 UTC
+updated: 2017-10-20 03:21:57 UTC
 ---
 
 

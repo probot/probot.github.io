@@ -7,7 +7,7 @@ screenshots:
 authors:
 - erickzhao
 repository: erickzhao/invite-contributors
-stars: 3
+stars: 5
 updated: 2017-10-19 15:53:25 UTC
 ---
 
