@@ -9,8 +9,15 @@ stars: 5
 authors:
 - hiimbex
 repository: behaviorbot/update-docs
-updated: 2017-10-01 12:48:25 UTC
+updated: 2017-10-19 16:03:37 UTC
 host: https://probot-update-docs.herokuapp.com
+installations: 8
+organizations:
+- adonisjs
+- xcodeswift
+- behaviorbot
+- marclop
+- robotland
 ---
 
 

@@ -7,8 +7,14 @@ screenshots:
 authors:
 - erickzhao
 repository: erickzhao/invite-contributors
-stars: 2
-updated: 2017-10-19 12:18:07 UTC
+stars: 5
+updated: 2017-10-19 15:53:25 UTC
+host: https://vast-stream-78160.herokuapp.com
+installations: 4
+organizations:
+- flyve-mdm
+- aethonanbot
+- elodiebot
 ---
 
 # invite-contributors

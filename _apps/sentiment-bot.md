@@ -9,8 +9,18 @@ stars: 12
 authors:
 - hiimbex
 repository: behaviorbot/sentiment-bot
-updated: 2017-10-10 14:39:23 UTC
+updated: 2017-10-19 15:54:50 UTC
 host: https://probot-sentiment-bot.herokuapp.com
+installations: 17
+organizations:
+- MvvmCross
+- carambalabs
+- probot
+- xcodeswift
+- vuematerial
+- WormieCorp
+- marclop
+- AdmiringWorm
 ---
 
 Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct. It does so by taking data from a `.github/config.yml`.
