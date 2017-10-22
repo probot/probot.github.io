@@ -8,7 +8,7 @@ authors:
 - erickzhao
 repository: erickzhao/invite-contributors
 stars: 5
-updated: 2017-10-21 17:27:00 UTC
+updated: 2017-10-21 22:18:19 UTC
 ---
 
 # invite-contributors
