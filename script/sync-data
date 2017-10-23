@@ -18,9 +18,13 @@ files.each do |path|
   app['updated'] = repo[:pushed_at].to_s
 
   if app['host']
-    stats = JSON.parse(URI(app['host'] + '/stats').open.read)
-    app['installations'] = stats['installations']
-    app['organizations'] = stats['popular'].map { |org| org['login'] }
+    begin
+      stats = JSON.parse(URI(app['host'] + '/probot/stats').open.read)
+      app['installations'] = stats['installations']
+      app['organizations'] = stats['popular'].map { |org| org['login'] }
+    rescue => e
+      warn e.message
+    end
   end
 
   content = File.read(path)

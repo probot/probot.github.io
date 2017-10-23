@@ -8,7 +8,7 @@ title: Featured Apps
     <h1 class="alt-h2">{{ page.title }}</h1>
 
     <div class="d-md-flex flex-wrap gutter flex-auto">
-      {% assign apps = site.apps | sort: 'stars' | reverse %}
+      {% assign apps = site.apps | sort: 'installations' | reverse %}
       {% for app in apps %}
         {% include app.html app=app %}
       {% endfor %}

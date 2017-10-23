@@ -15,6 +15,9 @@ layout: default
           Add to GitHub
         </a>
         <div class="text-gray-light">
+          {% if page.installations %}
+          <div class="mr-2 d-inline tooltipped tooltipped-s" aria-label="{{ page.installations }} installations">{% octicon cloud-download heigh:16 class:"v-align-middle" %} <span class="">{{ page.installations }}</span></div>
+          {% endif %}
           <div class="d-inline tooltipped tooltipped-s" aria-label="{{ page.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ page.stars }}</span></div>
         </div>
       </div>
@@ -56,6 +59,15 @@ layout: default
         {% endfor %}
         <h4 class="mb-1 alt-h4 text-gray">Updated</h4>
         <p><span class="text-white">{{ page.updated | date: "%B %e, %Y"}}</p>
+
+        {% if page.organizations %}
+          <h4 class="mb-1 alt-h4 text-gray">Used By</h4>
+          {% for org in page.organizations %}
+            <a href="https://github.com/{{ org }}" aria-label="{{ org }}" class="tooltipped tooltipped-n avatar-group-item">
+              <img class="avatar bg-white" src="https://github.com/{{ org }}.png" alt="{{ org }}" width="35" height="35">
+            </a>
+          {% endfor %}
+        {% endif %}
       </div>
     </div>
   </div>

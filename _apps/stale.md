@@ -9,7 +9,20 @@ authors:
 - bkeepers
 stars: 186
 repository: probot/stale
-updated: 2017-10-22 06:11:49 UTC
+updated: 2017-10-22 19:01:14 UTC
+host: https://probot-stale.herokuapp.com
+installations: 231
+organizations:
+- atom
+- facebook
+- Homebrew
+- nwjs
+- fchollet
+- apollographql
+- hexojs
+- strongloop
+- sequelize
+- gatsbyjs
 ---
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.

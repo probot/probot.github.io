@@ -11,6 +11,19 @@ authors:
 - hiimbex
 repository: behaviorbot/welcome
 updated: 2017-10-19 16:21:15 UTC
+host: https://probot-welcome.herokuapp.com
+installations: 43
+organizations:
+- electron
+- kivy
+- StevenBlack
+- MarshallOfSound
+- benbalter
+- carambalabs
+- karthik
+- probot
+- electron-userland
+- publiclab
 ---
 
 

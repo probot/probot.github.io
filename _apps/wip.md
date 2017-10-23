@@ -9,6 +9,19 @@ authors:
 repository: gr2m/wip-bot
 stars: 23
 updated: 2017-10-20 18:53:47 UTC
+host: https://wip-bot.now.sh
+installations: 79
+organizations:
+- dotnet
+- kivy
+- aurelia
+- saltstack
+- Microsoft
+- reactiveui
+- hoodiehq
+- semantic-release
+- devtools-html
+- Humanizr
 ---
 
 If you don’t want a pull request to be merged accidentally, add the word "wip" or "WIP" to its title and WIP bot will set its status to error. That’s all :)

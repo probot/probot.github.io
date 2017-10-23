@@ -9,6 +9,19 @@ authors:
 - bkeepers
 repository: probot/dco
 updated: 2017-10-19 15:02:50 UTC
+host: https://probot-dco.herokuapp.com
+installations: 64
+organizations:
+- hyperledger
+- jaegertracing
+- envoyproxy
+- phpmyadmin
+- WeblateOrg
+- coreinfrastructure
+- redhat-developer
+- jbosstools
+- mainflux
+- mdeguzis
 ---
 
 

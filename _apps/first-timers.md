@@ -10,6 +10,19 @@ authors:
 stars: 72
 repository: hoodiehq/first-timers-bot
 updated: 2017-10-22 17:56:49 UTC
+host: https://first-timers-bot.now.sh
+installations: 99
+organizations:
+- jekyll
+- processing
+- Moya
+- hoodiehq
+- skywinder
+- mikaelbr
+- gr2m
+- sotayamashita
+- cpmech
+- jeremykenedy
 ---
 
 # first-timers-bot
