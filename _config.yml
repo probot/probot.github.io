@@ -37,6 +37,7 @@ defaults:
       layout: docs
 
 plugins:
+  - jekyll-redirect-from
   - jekyll-octicons
   - jekyll-sitemap
   - jekyll-seo-tag
