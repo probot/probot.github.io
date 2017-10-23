@@ -5,9 +5,9 @@
     <div class="text-gray-light pl-3 pr-2 py-2 bg-gray-light border-top" style="margin-top: auto;">
       <div class="d-flex flex-row">
         {% if app.installations %}
-        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.installations }} installations">{% octicon cloud-download heigh:16 class:"v-align-middle" %} <span class="">{{ app.installations }}</span></div>
+        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.installations }} installations">{% octicon cloud-download heigh:16 class:"v-align-middle" %} <span class="v-align-middle">{{ app.installations }}</span></div>
         {% endif %}
-        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ app.stars }}</span></div>
+        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="v-align-middle">{{ app.stars }}</span></div>
         <div class="col-9 text-right">
           {% for author in app.authors %}
             <img class="avatar tooltipped tooltipped-s" alt="Made by {{ author }}" aria-label="Made by {{ author }}" height="24" src="https://github.com/{{ author }}.png">
