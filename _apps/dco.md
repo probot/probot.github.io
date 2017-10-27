@@ -10,7 +10,7 @@ authors:
 repository: probot/dco
 updated: 2017-10-19 15:02:50 UTC
 host: https://probot-dco.herokuapp.com
-installations: 66
+installations: 67
 organizations:
 - hyperledger
 - jaegertracing
@@ -19,8 +19,8 @@ organizations:
 - WeblateOrg
 - coreinfrastructure
 - redhat-developer
-- jbosstools
 - mainflux
+- jbosstools
 - mdeguzis
 ---
 
