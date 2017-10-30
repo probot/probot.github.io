@@ -19,8 +19,8 @@ organizations:
 - WeblateOrg
 - coreinfrastructure
 - redhat-developer
-- jbosstools
 - mainflux
+- jbosstools
 - mdeguzis
 ---
 

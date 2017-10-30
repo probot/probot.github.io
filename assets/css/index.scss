@@ -28,6 +28,25 @@ code {
   font-size: 14px;
 }
 
+/*
+ * Extend the footer to the bottom of the page,
+ * even if there’s not enough content to make the page scroll.
+ */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.container-lg {
+  flex: 1;
+}
+
+#toc .toc-wrap {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 40px;
+}
+
 .flex-1 {
   flex: 1;
 }
