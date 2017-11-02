@@ -13,7 +13,6 @@ updated: 2017-11-01 10:43:58 UTC
 host: https://validate-commit-msg-bot.now.sh
 installations: 11
 organizations:
-- eggjs
 - angular-pouchdb
 - christophehurpeau
 - tlvince
