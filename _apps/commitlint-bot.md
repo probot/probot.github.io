@@ -16,17 +16,9 @@ repository: ahmed-taj/commitlint-bot
 host: https://commitlint.now.sh/
 ---
 
-# commitlint-bot
-
-[![Travis](https://img.shields.io/travis/ahmed-taj/commitlint-bot.svg)](https://travis-ci.org/ahmed-taj/commitlint-bot)
-[![npm](https://img.shields.io/npm/v/commitlint-bot.svg)](https://www.npmjs.com/package/commitlint-bot)
-
-
 <p align="center">
   <img src="https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/robot.svg" width="256" alt="commitlint-bot logo" />
 </p>
-
-> Built with [probot](https://github.com/probot/probot) framework
 
 A GitHub App that runs [commitlint](https://github.com/marionebl/commitlint) over all commits of new or edited pull requests
 and sets an appropriate status check.
