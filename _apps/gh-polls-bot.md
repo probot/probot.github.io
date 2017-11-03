@@ -23,9 +23,7 @@ host: https://gh-polls-bot.now.sh
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that automatically creates [gh-polls](https://github.com/apex/gh-polls) in GitHub issues.
 
-[![Travis][travis-badge]][travis]
-[![Codecov Status][codecov-badge]][codecov]
-[![license][license-badge]][license]
+[![Build Status](https://api.travis-ci.org/evenchange4/gh-polls-bot.svg?branch=master)](https://travis-ci.org/evenchange4/gh-polls-bot) [![codecov](https://codecov.io/gh/evenchange4/gh-polls-bot/branch/master/graph/badge.svg)](https://codecov.io/gh/evenchange4/gh-polls-bot)
 
 ## Usage
 
@@ -44,10 +42,3 @@ host: https://gh-polls-bot.now.sh
 ## LICENSE
 
 MIT: [http://michaelhsu.mit-license.org](http://michaelhsu.mit-license.org)
-
-[travis-badge]: https://img.shields.io/travis/evenchange4/gh-polls-bot/master.svg?style=flat-square
-[travis]: https://travis-ci.org/evenchange4/gh-polls-bot
-[codecov-badge]: https://img.shields.io/codecov/c/github/evenchange4/gh-polls-bot.svg?style=flat-square
-[codecov]: https://codecov.io/github/evenchange4/gh-polls-bot?branch=master
-[license-badge]: https://img.shields.io/github/license/evenchange4/gh-polls-bot.svg?style=flat-square
-[license]: http://michaelhsu.mit-license.org/
