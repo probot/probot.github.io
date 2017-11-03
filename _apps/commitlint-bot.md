@@ -2,7 +2,7 @@
 # A human-friendly name of your listing
 title: commitlint-bot
 # A short description of what your app does
-description: A GitHub App that runs [commitlint](https://github.com/marionebl/commitlint) over all commits of new or edited pull requests and sets an appropriate status check.
+description: A GitHub App that lints all commits of new or edited pull requests and sets an appropriate status check.
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: commitlint-bot
 # Include a few screenshots that show your app in action
