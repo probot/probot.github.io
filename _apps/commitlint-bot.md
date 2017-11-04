@@ -1,19 +1,19 @@
 ---
-# A human-friendly name of your listing
 title: commitlint-bot
-# A short description of what your app does
-description: A GitHub App that lints all commits of new or edited pull requests and sets an appropriate status check.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
+description: A GitHub App that lints all commits of new or edited pull requests and
+  sets an appropriate status check.
 slug: commitlint-bot
-# Include a few screenshots that show your app in action
 screenshots:
 - https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/status.png
-# The GitHub usernames of anyone who authored the app
-authors: [ ahmed-taj ]
-# The repository where the code is located
+authors:
+- ahmed-taj
 repository: ahmed-taj/commitlint-bot
-# The address where this app is deployed
-host: https://commitlint.now.sh/
+host: https://commitlint.now.sh
+stars: 10
+updated: 2017-11-02 17:52:44 UTC
+installations: 1
+organizations:
+- ahmed-taj
 ---
 
 <p align="center">
