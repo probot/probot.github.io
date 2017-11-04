@@ -4,7 +4,7 @@ title: Polls
 # A short description of what your app does
 description: Automatically create polls in GitHub issues.
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
-slug: gh-polls-bot
+slug: polls
 # Include a few screenshots that show your app in action
 screenshots:
 - https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/screenshot.png
