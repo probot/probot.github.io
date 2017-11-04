@@ -1,22 +1,29 @@
 ---
-# A human-friendly name of your listing
 title: Polls
-# A short description of what your app does
 description: Automatically create polls in GitHub issues.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: polls
-# Include a few screenshots that show your app in action
 screenshots:
 - https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/screenshot.png
 - https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/demo.gif
 - https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/logo.png
 authors:
-# The GitHub usernames of anyone who authored the app
-authors: [ evenchange4 ]
-# The repository where the code is located
+- evenchange4
 repository: evenchange4/gh-polls-bot
-# The address where this app is deployed
 host: https://gh-polls-bot.now.sh
+stars: 60
+updated: 2017-11-04 02:53:57 UTC
+installations: 21
+organizations:
+- apex
+- detailyang
+- ahmetb
+- evhub
+- cheton
+- notrab
+- JonSn0w
+- evenchange4
+- MCS-Lite
+- desiringgod
 ---
 
 # GitHub Polls Bot
