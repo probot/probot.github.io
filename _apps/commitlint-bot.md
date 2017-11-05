@@ -1,10 +1,10 @@
 ---
-title: commitlint-bot
+title: commitlint
 description: A GitHub App that lints all commits of new or edited pull requests and
   sets an appropriate status check.
-slug: commitlint-bot
+slug: commitlint
 screenshots:
-- https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/status.png
+- https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/status.png
 authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
@@ -17,7 +17,7 @@ organizations:
 ---
 
 <p align="center">
-  <img src="https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/robot.svg" width="256" alt="commitlint-bot logo" />
+  <img src="https://avatars0.githubusercontent.com/in/6357" width="256" alt="commitlint logo" />
 </p>
 
 A GitHub App that runs [commitlint](https://github.com/marionebl/commitlint) over all commits of new or edited pull requests
@@ -25,11 +25,11 @@ and sets an appropriate status check.
 
 ## Usage
 
-1. Browse to [GitHub Apps - commitlint-bot][apps]
+1. Browse to [GitHub Apps - commitlint][apps]
 2. Accept the permissions
 3. Allow access to repositories
 
-On the next pull request, a status check from `commitlint-bot` will appear:
+On the next pull request, a status check from `commitlint` will appear:
 
 ![status-check-screenshot][]
 
@@ -37,11 +37,11 @@ Problem details will be reported as a comment like this:
 
 ![status-comment-screenshot][]
 
-For best results, enable branch protection (in the repository's settings) and require the `commitlint-bot` status check to pass before merging:
+For best results, enable branch protection (in the repository's settings) and require the `commitlint` status check to pass before merging:
 
 ![branch-protection-screenshot][]
 
-[apps]: https://github.com/apps/commitlint-bot
+[apps]: https://github.com/apps/commitlint
 [status-check-screenshot]: https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/status.png
 [status-comment-screenshot]: https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/comment.png
 [branch-protection-screenshot]: https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/setting.png
