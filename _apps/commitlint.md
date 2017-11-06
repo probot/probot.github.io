@@ -1,6 +1,6 @@
 ---
 title: commitlint
-description: A GitHub App that lints all commits of new or edited pull requests and
+description: Lints all commits of new or edited pull requests and
   sets an appropriate status check.
 slug: commitlint
 screenshots:

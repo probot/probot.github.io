@@ -1,6 +1,6 @@
 ---
 title: First Timers Bot
-description: A friendly bot that helps with onboarding new Open Source Contributors
+description: Create starter issues to help onboard new open source contributors
 slug: first-timers
 screenshots:
 - https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png
