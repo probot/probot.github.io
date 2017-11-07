@@ -1,6 +1,7 @@
 require "bundler/setup"
 require "safe_yaml"
 require "minitest/autorun"
+require "net/http"
 
 describe "lint test" do
   BANNED_WORDS = Regexp.new('\b(' + [
@@ -46,6 +47,12 @@ describe "lint test" do
             assert !match, "`#{match[1]}` should not be used in #{field}"
           end
         end
+      end
+
+      it "host returns 200" do
+        uri = URI(data["host"] + '/probot/stats')
+        res = Net::HTTP.get_response(uri)
+        assert_equal "200", res.code, "Expected 200 response from #{uri}"
       end
     end
   end
