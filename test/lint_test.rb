@@ -11,18 +11,19 @@ describe "lint test" do
     "probot",         # Now you're just name dropping
   ].join('|') + ')\b', Regexp::IGNORECASE | Regexp::MULTILINE)
 
+  FIELDS = SafeYAML.load_file("test/frontmatter.yml")
+
   Dir.glob("_apps/*.md").each do |path|
     describe path do
       # Load frontmatter
       data = SafeYAML.load_file(path)
-      fields = SafeYAML.load_file("test/frontmatter.yml")
 
       it "does not have extraneous fields" do
-        extra_fields = data.keys - fields.keys
+        extra_fields = data.keys - FIELDS.keys
         assert extra_fields.empty?, "Unexpected metadata: #{extra_fields.inspect}"
       end
 
-      fields.each do |name, attrs|
+      FIELDS.each do |name, attrs|
         if attrs["required"]
           it "${name} is required" do
             assert data.key?(name), "#{name} is required"
