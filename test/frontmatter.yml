@@ -49,3 +49,7 @@ fields:
 
   updated:
     type: String
+
+  # Misc
+  redirect_from:
+    required: false
