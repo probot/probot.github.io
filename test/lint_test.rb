@@ -7,7 +7,8 @@ describe "lint test" do
   BANNED_WORDS = Regexp.new('\b(' + [
     "GitHub App",     # They're all GitHub Apps
     "bot",            # TODO: link to docs about why bot is not preferred
-    "automatically"   # They're all automatic
+    "automatically",  # They're all automatic
+    "probot",         # Now you're just name dropping
   ].join('|') + ')\b', Regexp::IGNORECASE | Regexp::MULTILINE)
 
   Dir.glob("_apps/*.md").each do |path|
