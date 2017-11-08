@@ -9,20 +9,20 @@ authors:
 - Techforchange
 stars: 80
 repository: hoodiehq/first-timers-bot
-updated: 2017-11-02 13:14:09 UTC
+updated: 2017-11-06 06:18:41 UTC
 host: https://first-timers-bot.now.sh
-installations: 121
+installations: 179
 organizations:
 - jekyll
 - processing
 - Moya
 - hoodiehq
 - skywinder
+- semantic-release
 - mikaelbr
+- terkelg
 - gr2m
 - sotayamashita
-- cpmech
-- jeremykenedy
 ---
 
 # first-timers-bot

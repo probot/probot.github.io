@@ -8,20 +8,20 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
-stars: 38
+stars: 44
 updated: 2017-11-02 15:33:07 UTC
-installations: 37
+installations: 45
 organizations:
 - thibmaek
 - material-motion
 - phatblat
+- fennecdjay
+- ChrisMcKenzie
 - JasonEtco
 - TheKevJames
 - miklb
+- nju33
 - mattstratton
-- napalm-automation
-- jonasbn
-- nikolay
 ---
 ## Usage
 
