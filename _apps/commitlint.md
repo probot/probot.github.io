@@ -1,7 +1,7 @@
 ---
 title: commitlint
-description: Lints all commits of new or edited pull requests and
-  sets an appropriate status check.
+description: Lints all commits of new or edited pull requests and sets an appropriate
+  status check.
 slug: commitlint
 screenshots:
 - https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/status.png
@@ -9,10 +9,11 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
 host: https://commitlint.now.sh
-stars: 15
+stars: 18
 updated: 2017-11-05 06:24:10 UTC
-installations: 1
+installations: 2
 organizations:
+- algolia
 - ahmed-taj
 ---
 

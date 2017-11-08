@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/update-docs
 updated: 2017-10-19 16:03:37 UTC
 host: https://probot-update-docs.herokuapp.com
-installations: 10
+installations: 11
 organizations:
 - adonisjs
 - xcodeswift

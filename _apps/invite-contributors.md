@@ -10,11 +10,12 @@ repository: erickzhao/invite-contributors
 stars: 6
 updated: 2017-11-06 05:29:49 UTC
 host: https://vast-stream-78160.herokuapp.com
-installations: 5
+installations: 6
 organizations:
 - cla-assistant
 - flyve-mdm
 - aethonanbot
+- chaijs
 - elodiebot
 - dddpppmmm
 ---
