@@ -1,5 +1,5 @@
 ---
-title: First Timers Bot
+title: First Timers
 description: Create starter issues to help onboard new open source contributors
 slug: first-timers
 screenshots:
