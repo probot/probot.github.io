@@ -4,18 +4,15 @@ require "minitest/autorun"
 require "net/http"
 
 describe "lint test" do
-  BANNED_WORDS = Regexp.new('\b(' + [
-    "GitHub App",     # They're all GitHub Apps
-    "bot",            # TODO: link to docs about why bot is not preferred
-    "automatically",  # They're all automatic
-    "probot",         # Now you're just name dropping
-  ].join('|') + ')\b', Regexp::IGNORECASE | Regexp::MULTILINE)
+  FRONTMATTER = SafeYAML.load_file("test/frontmatter.yml")
+
+  BANNED_WORDS = Regexp.new('\b(' +
+    FRONTMATTER["banned_words"].join('|') +
+    ')\b', Regexp::IGNORECASE | Regexp::MULTILINE)
 
   EXCEPTIONS = {
     "bot" => ["sentiment-bot"]
   }
-
-  FIELDS = SafeYAML.load_file("test/frontmatter.yml")
 
   Dir.glob("_apps/*.md").each do |path|
     describe path do
@@ -23,11 +20,11 @@ describe "lint test" do
       data = SafeYAML.load_file(path)
 
       it "does not have extraneous fields" do
-        extra_fields = data.keys - FIELDS.keys
+        extra_fields = data.keys - FRONTMATTER["fields"].keys
         assert extra_fields.empty?, "Unexpected metadata: #{extra_fields.inspect}"
       end
 
-      FIELDS.each do |name, attrs|
+      FRONTMATTER["fields"].each do |name, attrs|
         if attrs["required"]
           it "${name} is required" do
             assert data.key?(name), "#{name} is required"
@@ -49,7 +46,7 @@ describe "lint test" do
       it "does not use banned words" do
         %w(title description slug).each do |field|
           match = data[field].match(BANNED_WORDS)
-          if match && !Array(EXCEPTIONS[match[1].downcase]).include?(data["slug"])
+          if match && !Array(FRONTMATTER["exceptions"][match[1].downcase]).include?(data["slug"])
             assert !match, "`#{match[1]}` should not be used in #{field}"
           end
         end
