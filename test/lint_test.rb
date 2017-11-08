@@ -11,6 +11,10 @@ describe "lint test" do
     "probot",         # Now you're just name dropping
   ].join('|') + ')\b', Regexp::IGNORECASE | Regexp::MULTILINE)
 
+  EXCEPTIONS = {
+    "bot" => ["sentiment-bot"]
+  }
+
   FIELDS = SafeYAML.load_file("test/frontmatter.yml")
 
   Dir.glob("_apps/*.md").each do |path|
@@ -45,7 +49,7 @@ describe "lint test" do
       it "does not use banned words" do
         %w(title description slug).each do |field|
           match = data[field].match(BANNED_WORDS)
-          if match
+          if match && !Array(EXCEPTIONS[match[1].downcase]).include?(data["slug"])
             assert !match, "`#{match[1]}` should not be used in #{field}"
           end
         end
