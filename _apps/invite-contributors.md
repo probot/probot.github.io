@@ -1,6 +1,6 @@
 ---
 title: invite-contributors
-description: Automatically invite authors of merged pull requests to your organization
+description: Invite authors of merged pull requests to your organization
 slug: invite-contributors
 screenshots:
 - https://i.imgur.com/USwS3CF.png

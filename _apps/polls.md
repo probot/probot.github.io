@@ -1,6 +1,6 @@
 ---
 title: Polls
-description: Automatically create polls in GitHub issues.
+description: Create polls in GitHub issues.
 slug: polls
 screenshots:
 - https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/screenshot.png
