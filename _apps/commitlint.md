@@ -9,12 +9,13 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
 host: https://commitlint.now.sh
-stars: 18
-updated: 2017-11-05 06:24:10 UTC
-installations: 2
+stars: 19
+updated: 2017-11-08 18:31:05 UTC
+installations: 3
 organizations:
 - algolia
 - ahmed-taj
+- philoserf
 ---
 
 <p align="center">
