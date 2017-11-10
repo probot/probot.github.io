@@ -3,12 +3,12 @@
 // Change to true to show nags
 var debug = false;
 
-// Adjust to Friday at 17:00 UTC / 1pm Eastern
-var attrs = {day: "Friday", hour: 17, minute: 0, second: 0, millisecond: 0}
+// Adjust to Thursday at 17:00 UTC / 1pm Eastern
+var attrs = {day: "Thursday", hour: 17, minute: 0, second: 0, millisecond: 0}
 
 var start = moment().utc().set(attrs)
 
-// If it's already passed today, go to next Friday
+// If it's already passed today, go to the next occurrence
 if(start < moment()) {
   start.add({days: 7})
 }
