@@ -18,9 +18,9 @@ The intent of this app is to close issues that have not received a response to a
 
 ### Scheduled
 
-Once per hour, it searches for issues that are:
+Once per hour, it searches for issues that:
 
-* Open
+* Are open
 * Have a label named the same as the `responseRequiredLabel` value in the configuration
 * The `responseRequiredLabel` was applied more than `daysUntilClose` ago
 
