@@ -12,9 +12,9 @@ host: https://probot-no-response.herokuapp.com
 
 Automatically closes Issues where the author hasn't responded to a request for more information.
 
-## Bot Workflow
+## App Workflow
 
-The intent of this bot is to close issues that have not received a response to a maintainer's request for more information. Many times issues will be filed without enough information to be properly investigated. This allows maintainers to label an issue as requiring more information from the original author. If the information is not received in a timely manner, the issue will be closed. If the original author comes back and gives more information, the label is removed and the issue is reopened if necessary.
+The intent of this app is to close issues that have not received a response to a maintainer's request for more information. Many times issues will be filed without enough information to be properly investigated. This allows maintainers to label an issue as requiring more information from the original author. If the information is not received in a timely manner, the issue will be closed. If the original author comes back and gives more information, the label is removed and the issue is reopened if necessary.
 
 ### Scheduled
 
@@ -43,7 +43,7 @@ It will:
 
 ## Usage
 
-1. **[Configure the GitHub App](https://github.com/integration/probot-no-response)**
+1. **[Configure the GitHub App](https://github.com/apps/no-response)**
 2. Create `.github/no-response.yml`
 
 A `.github/no-response.yml` file is required to enable the app. The file can be empty, or it can override any of these default settings:
@@ -63,5 +63,3 @@ closeComment: >
   to take action. Please reach out if you have or find the answers we need so
   that we can investigate further.
 ```
-
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
