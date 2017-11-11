@@ -1,13 +1,13 @@
-<div class="col-lg-4 col-md-6 mb-3 mt-3">
-  <a href="{{ app.url }}" class="d-flex flex-column bg-white rounded-1 box-shadow border text-inherit no-underline" style="height:100%">
+<div class="col-lg-4 col-md-6 mb-3 mt-3 d-flex flex-column">
+  <a href="{{ app.url }}" class="d-flex flex-column bg-white rounded-1 box-shadow border text-inherit no-underline flex-1 overflow-hidden" style="height:100%">
     <h3 class="h4 px-3 pt-3">{{ app.title }}</h3>
     <p class="text-gray lh-condensed px-3 pb-3">{{ app.description }}</p>
     <div class="text-gray-light pl-3 pr-2 py-2 bg-gray-light border-top" style="margin-top: auto;">
       <div class="d-flex flex-row">
         {% if app.installations %}
-        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.installations }} installations">{% octicon cloud-download heigh:16 class:"v-align-middle" %} <span class="v-align-middle">{{ app.installations }}</span></div>
+        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.installations }} installations">{% octicon cloud-download height:16 class:"v-align-middle" %} <span class="v-align-middle">{{ app.installations }}</span></div>
         {% endif %}
-        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="v-align-middle">{{ app.stars }}</span></div>
+        <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.stars }} stars">{% octicon star height:16 class:"v-align-middle" %} <span class="v-align-middle">{{ app.stars }}</span></div>
         <div class="col-9 text-right">
           {% for author in app.authors %}
             <img class="avatar tooltipped tooltipped-s" alt="Made by {{ author }}" aria-label="Made by {{ author }}" height="24" src="https://github.com/{{ author }}.png">

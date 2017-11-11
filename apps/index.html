@@ -13,14 +13,13 @@ title: Featured Apps
         {% include app.html app=app %}
       {% endfor %}
 
-      <div class="col-lg-4 col-md-6 mb-3 mt-3">
-        <a href="https://github.com/probot/probot.github.io/blob/master/CONTRIBUTING.md#adding-your-app" class="d-block rounded-1 border border-dashed border-gray-dark link-gray no-underline p-3" style="height:100%">
-          <h3 class="h4">
+      <div class="col-lg-4 col-md-6 mb-3 mt-3 d-flex flex-column">
+        <a href="https://github.com/probot/probot.github.io/blob/master/CONTRIBUTING.md#adding-your-app" class="d-flex flex-column flex-1 rounded-1 border border-dashed border-gray-dark link-gray no-underline">
+          <h3 class="h4 px-3 pt-3">
             {% octicon plus class:"v-align-text-bottom" %}
             Share your app
           </h3>
-
-          <p class="text-gray-light">Is your app ready for prime time? Submit it to the app directory.</p>
+          <p class="lh-condensed px-3 pb-3">Is your app ready for prime time? Submit it to the app directory.</p>
         </a>
       </div>
     </div>
