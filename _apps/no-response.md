@@ -1,6 +1,7 @@
 ---
 title: No Response
-description: Closes Issues where the author hasn't responded to a request for more information.
+description: Closes Issues where the author hasn't responded to a request for more
+  information.
 slug: no-response
 screenshots:
 - https://raw.githubusercontent.com/probot/no-response/master/docs/no-response-test.png
@@ -8,6 +9,12 @@ authors:
 - lee-dohm
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
+stars: 16
+updated: 2017-11-10 23:14:57 UTC
+installations: 4
+organizations:
+- eggjs
+- electron-userland
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.

@@ -8,6 +8,11 @@ authors:
 - dessant
 repository: dessant/support-requests
 host: https://probot-support-requests.glitch.me
+stars: 0
+updated: 2017-11-11 13:18:29 UTC
+installations: 2
+organizations:
+- kivy
 ---
 
 A GitHub App that comments on and closes issues labeled as support requests.
