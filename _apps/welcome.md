@@ -29,7 +29,7 @@ organizations:
 
 Welcome is a simple way to welcome new users based off maintainer defined comments.
 
-The 3 plugins it combines with are [new-issue-welcome](https://github.com/behaviorbot/new-issue-welcome), [new-pr-welcome](https://github.com/behaviorbot/new-issue-welcome), and [first-pr-merge](https://github.com/behaviorbot/new-issue-welcome)
+The 3 plugins it combines with are [new-issue-welcome](https://github.com/behaviorbot/new-issue-welcome), [new-pr-welcome](https://github.com/behaviorbot/new-pr-welcome), and [first-pr-merge](https://github.com/behaviorbot/first-pr-merge)
 
 Create a `.github/config.yml` file to declare the contents of the comments:
 
