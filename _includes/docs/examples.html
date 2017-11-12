@@ -1,0 +1,7 @@
+{% assign apps = site.apps | sample:4 %}
+
+<ul>
+{% for app in apps %}
+  <li><a href="{{ app.url }}">{{ app.title }}</a> - {{ app.description }}</li>
+{% endfor %}
+</ul>
