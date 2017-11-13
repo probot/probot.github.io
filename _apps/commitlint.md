@@ -44,9 +44,9 @@ For best results, enable branch protection (in the repository's settings) and re
 ![branch-protection-screenshot][]
 
 [apps]: https://github.com/apps/commitlint
-[status-check-screenshot]: https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/status.png
-[status-comment-screenshot]: https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/comment.png
-[branch-protection-screenshot]: https://github.com/ahmed-taj/commitlint-bot/blob/master/docs/setting.png
+[status-check-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/status.png
+[status-comment-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/comment.png
+[branch-protection-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/setting.png
 
 ## Credits
 
