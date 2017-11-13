@@ -11,7 +11,7 @@ repository: ahmed-taj/commitlint-bot
 host: https://commitlint.now.sh
 stars: 20
 updated: 2017-11-08 18:31:05 UTC
-installations: 4
+installations: 5
 organizations:
 - algolia
 - ahmed-taj
