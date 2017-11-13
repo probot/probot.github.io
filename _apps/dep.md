@@ -4,6 +4,7 @@ description: A dependency manager for your Pull Requests.
 slug: dep
 screenshots:
 - https://github.com/ahmed-taj/dep/raw/master/docs/assets/comment.png
+- https://github.com/ahmed-taj/dep/raw/master/docs/assets/status.png
 authors:
 - ahmed-taj
 repository: ahmed-taj/dep
