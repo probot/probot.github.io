@@ -11,18 +11,18 @@ authors:
 repository: behaviorbot/sentiment-bot
 updated: 2017-10-19 15:54:50 UTC
 host: https://probot-sentiment-bot.herokuapp.com
-installations: 21
+installations: 22
 organizations:
 - nlohmann
 - MvvmCross
 - carambalabs
 - probot
 - xcodeswift
-- vuematerial
 - WormieCorp
 - neetjn
 - JourneyOver
 - Mariatta
+- marclop
 ---
 
 Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct. It does so by taking data from a `.github/config.yml`.

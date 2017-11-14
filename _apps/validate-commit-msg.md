@@ -20,7 +20,6 @@ organizations:
 - tlvince
 - nikolay
 - luanmuniz
-- philoserf
 - Robophil
 - lostintangent
 redirect_from: "/apps/validate-commit-msg-bot/"

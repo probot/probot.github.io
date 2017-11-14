@@ -10,10 +10,11 @@ repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
 stars: 47
 updated: 2017-11-02 15:33:07 UTC
-installations: 55
+installations: 58
 organizations:
 - thibmaek
 - material-motion
+- icco
 - phatblat
 - fennecdjay
 - ChrisMcKenzie
@@ -21,7 +22,6 @@ organizations:
 - bobsru
 - TheKevJames
 - miklb
-- nju33
 ---
 ## Usage
 
