@@ -8,9 +8,9 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
-stars: 47
+stars: 48
 updated: 2017-11-02 15:33:07 UTC
-installations: 59
+installations: 60
 organizations:
 - thibmaek
 - material-motion
