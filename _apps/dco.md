@@ -21,7 +21,7 @@ organizations:
 - coreinfrastructure
 - redhat-developer
 - mainflux
-- jbosstools
+- theia-ide
 ---
 
 
