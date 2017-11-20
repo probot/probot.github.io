@@ -1,8 +1,8 @@
 <div class="col-lg-4 col-md-6 mb-3 mt-3 d-flex flex-column">
-  <a href="{{ app.url }}" class="d-flex flex-column bg-white rounded-1 box-shadow border text-inherit no-underline flex-1 overflow-hidden" style="height:100%">
+  <a href="{{ app.url }}" class="d-flex flex-column bg-white rounded-1 box-shadow border text-inherit no-underline flex-1" style="height:100%">
     <h3 class="h4 px-3 pt-3">{{ app.title }}</h3>
     <p class="text-gray lh-condensed px-3 pb-3">{{ app.description }}</p>
-    <div class="text-gray-light pl-3 pr-2 py-2 bg-gray-light border-top" style="margin-top: auto;">
+    <div class="text-gray-light pl-3 pr-2 py-2 bg-gray-light border-top rounded-1" style="margin-top: auto; border-top-left-radius: 0 !important; border-top-right-radius: 0 !important;">
       <div class="d-flex flex-row">
         {% if app.installations %}
         <div class="col-3 tooltipped tooltipped-s" aria-label="{{ app.installations }} installations">{% octicon cloud-download height:16 class:"v-align-middle" %} <span class="v-align-middle">{{ app.installations }}</span></div>
