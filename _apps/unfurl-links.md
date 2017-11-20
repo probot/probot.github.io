@@ -9,3 +9,5 @@ authors:
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 ---
+
+When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
