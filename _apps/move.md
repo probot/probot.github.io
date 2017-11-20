@@ -9,6 +9,11 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
+stars: 0
+updated: 2017-11-19 23:09:21 UTC
+installations: 2
+organizations:
+- kivy
 ---
 
 A GitHub App that Moves issues to a different repository.
