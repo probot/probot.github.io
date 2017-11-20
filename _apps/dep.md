@@ -9,6 +9,11 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://dep.now.sh
+stars: 5
+updated: 2017-11-12 08:33:38 UTC
+installations: 2
+organizations:
+- tunnckoCore
 ---
 
 <p align="center">
