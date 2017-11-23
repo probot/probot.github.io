@@ -15,6 +15,7 @@ installations: 15
 organizations:
 - adonisjs
 - xcodeswift
+- PHPMap
 - behaviorbot
 - ilovecode1
 - marclop

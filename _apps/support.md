@@ -15,6 +15,7 @@ organizations:
 - kivy
 - MinecraftForge
 - nozzle
+- PHPMap
 ---
 
 A GitHub App that comments on and closes issues labeled as support requests.

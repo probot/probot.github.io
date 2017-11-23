@@ -19,9 +19,9 @@ organizations:
 - phatblat
 - fennecdjay
 - ChrisMcKenzie
+- PHPMap
 - JasonEtco
 - bobsru
-- TheKevJames
 ---
 ## Usage
 
