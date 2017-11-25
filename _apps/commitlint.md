@@ -10,7 +10,7 @@ authors:
 repository: ahmed-taj/commitlint-bot
 host: https://commitlint.now.sh
 stars: 23
-updated: 2017-11-08 18:31:05 UTC
+updated: 2017-11-25 11:28:29 UTC
 installations: 5
 organizations:
 - db-migrate

@@ -10,7 +10,7 @@ authors:
 repository: ahmed-taj/dep
 host: https://dep.now.sh
 stars: 5
-updated: 2017-11-12 08:33:38 UTC
+updated: 2017-11-25 11:27:00 UTC
 installations: 3
 organizations:
 - probot
