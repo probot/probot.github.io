@@ -8,6 +8,7 @@ Advanced:
   - docs/http.md
   - docs/simulating-webhooks.md
   - docs/testing.md
+  - docs/logging.md
   - docs/pagination.md
   - docs/extensions.md
   - docs/deployment.md
