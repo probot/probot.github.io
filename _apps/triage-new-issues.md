@@ -31,7 +31,7 @@ host: https://triage-new-issues.now.sh
 Install it using [**yarn**](https://yarnpkg.com) **v1** or above / [**npm**](https://www.npmjs.com) **v5** or above.
 
 ```
-$ yarn add {%= name %}
+$ yarn add triage-new-issues
 ```
 
 ## Install it to your profile
