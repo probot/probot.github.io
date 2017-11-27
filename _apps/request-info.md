@@ -5,13 +5,13 @@ description: Requests more info on issues and pull requests with the default tit
 slug: request-info
 screenshots:
 - https://user-images.githubusercontent.com/13410355/28132821-d37bf2a8-66f2-11e7-9e7b-5930ba65d67a.png
-stars: 13
+stars: 14
 authors:
 - hiimbex
 repository: behaviorbot/request-info
 updated: 2017-10-21 13:29:36 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 58
+installations: 57
 organizations:
 - nlohmann
 - cdnjs

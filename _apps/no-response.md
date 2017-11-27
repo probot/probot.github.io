@@ -11,7 +11,7 @@ repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 17
 updated: 2017-11-13 22:25:45 UTC
-installations: 10
+installations: 9
 organizations:
 - eggjs
 - rmm5t
