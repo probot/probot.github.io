@@ -11,7 +11,7 @@ repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 2
 updated: 2017-11-19 23:09:21 UTC
-installations: 3
+installations: 4
 organizations:
 - kivy
 - probot
