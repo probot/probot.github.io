@@ -10,7 +10,7 @@ repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
 stars: 48
 updated: 2017-11-18 18:24:21 UTC
-installations: 69
+installations: 70
 organizations:
 - thibmaek
 - material-motion

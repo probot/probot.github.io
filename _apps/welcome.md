@@ -22,8 +22,8 @@ organizations:
 - MarshallOfSound
 - getinsomnia
 - benbalter
-- carambalabs
 - probot
+- carambalabs
 ---
 
 
