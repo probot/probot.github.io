@@ -41,7 +41,7 @@ A GitHub Probot App that monitors and prevents Public Repositories from being cr
 
 By default when a new repository is created with Public visibility, an Issue will be created in the repository warning that it is Public to the internet [Monitor-Only mode is enabled].
 
-A `.github/prevent-public-repos.yml` file is recommended to override the [default settings](./lib/defaults.js) created in Repository `org-settings`. This repository will contain global settings for the organization.
+A `.github/prevent-public-repos.yml` file is recommended to override the [default settings](https://github.com/issc29/probot-prevent-public-repos/blob/master/lib/defaults.js) created in Repository `org-settings`. This repository will contain global settings for the organization.
 
 ```yml
 # Configuration for Prevent-Public-Repos
@@ -75,7 +75,7 @@ When setting up this Probot App you can also set a number of Environment Variabl
 
 ## Deployment
 
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
+See [docs/deploy.md](https://github.com/issc29/probot-prevent-public-repos/blob/master/docs/deploy.md) if you would like to run your own instance of this app.
 
 Possible Environment Variables:
 - FILE_NAME [default: '.github/prevent-public-repos.yml'] - Sets the location/file name of the config yml file
