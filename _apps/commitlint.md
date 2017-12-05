@@ -9,9 +9,9 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
 host: https://commitlint.now.sh
-stars: 23
+stars: 24
 updated: 2017-12-02 14:17:57 UTC
-installations: 6
+installations: 5
 organizations:
 - db-migrate
 - algolia
