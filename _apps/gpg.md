@@ -14,8 +14,8 @@ host: http://probot-gpg-production.herokuapp.com
 installations: 19
 organizations:
 - saltstack
-- twuni
 - mattstratton
+- twuni
 - nikolay
 - luanmuniz
 - jarrodldavis

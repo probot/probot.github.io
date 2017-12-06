@@ -10,18 +10,18 @@ repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
 stars: 49
 updated: 2017-12-05 05:46:12 UTC
-installations: 74
+installations: 77
 organizations:
 - thibmaek
+- goreleaser
 - material-motion
+- caarlos0
 - SpoonX
 - icco
+- getantibody
 - phatblat
 - fennecdjay
 - guillermocalvo
-- ChrisMcKenzie
-- PHPMap
-- JasonEtco
 ---
 ## Usage
 
