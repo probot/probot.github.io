@@ -10,9 +10,9 @@ authors:
 - evenchange4
 repository: evenchange4/gh-polls-bot
 host: https://gh-polls-bot.now.sh
-stars: 110
+stars: 111
 updated: 2017-12-02 00:43:19 UTC
-installations: 56
+installations: 57
 organizations:
 - apex
 - chaijs

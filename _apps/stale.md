@@ -11,18 +11,18 @@ stars: 238
 repository: probot/stale
 updated: 2017-11-12 22:20:31 UTC
 host: https://probot-stale.herokuapp.com
-installations: 368
+installations: 370
 organizations:
 - atom
 - facebook
 - Homebrew
 - nwjs
-- apollographql
 - fchollet
 - gohugoio
 - hexojs
 - bumptech
 - strongloop
+- storybooks
 ---
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.

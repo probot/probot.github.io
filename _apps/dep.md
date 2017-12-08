@@ -9,12 +9,14 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://dep.now.sh
-stars: 5
+stars: 6
 updated: 2017-11-25 11:27:00 UTC
-installations: 3
+installations: 5
 organizations:
 - probot
 - tunnckoCore
+- philoserf
+- aVengineers
 ---
 
 <p align="center">
