@@ -9,12 +9,13 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
-stars: 3
+stars: 4
 updated: 2017-11-19 23:09:21 UTC
-installations: 9
+installations: 10
 organizations:
 - kivy
 - probot
+- Dallas-Makerspace
 - devopsdays
 - aVengineers
 - Triadai

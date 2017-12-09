@@ -8,7 +8,7 @@ screenshots:
 authors:
 - tlvince
 repository: tlvince/validate-commit-msg-bot
-stars: 5
+stars: 6
 updated: 2017-11-09 09:50:12 UTC
 host: https://validate-commit-msg-bot.now.sh
 installations: 24
