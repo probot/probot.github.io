@@ -9,7 +9,7 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://dep.now.sh
-stars: 7
+stars: 8
 updated: 2017-11-25 11:27:00 UTC
 installations: 6
 organizations:

@@ -18,8 +18,8 @@ organizations:
 - behaviorbot
 - PHPMap
 - ilovecode1
-- marclop
 - philoserf
+- marclop
 - cms-gem-daq-project
 - aVengineers
 - robotland

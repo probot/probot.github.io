@@ -20,8 +20,8 @@ organizations:
 - jsonresume
 - bolt
 - desktop
-- benbalter
 - nozzle
+- benbalter
 - terkelg
 ---
 
