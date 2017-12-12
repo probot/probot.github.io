@@ -8,9 +8,9 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
-stars: 50
+stars: 51
 updated: 2017-12-05 05:46:12 UTC
-installations: 82
+installations: 84
 organizations:
 - thibmaek
 - goreleaser
@@ -18,10 +18,10 @@ organizations:
 - SpoonX
 - icco
 - getantibody
+- drinchev
 - phatblat
 - mtxr
-- fennecdjay
-- guillermocalvo
+- ignatandrei
 ---
 ## Usage
 

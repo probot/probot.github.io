@@ -20,8 +20,8 @@ organizations:
 - ahmetb
 - probot
 - evhub
-- Glavin001
 - hql287
+- Glavin001
 - jbarlow83
 - cheton
 ---
