@@ -5,22 +5,23 @@ description: Replies to newly opened pull requests that do no update a file in t
 slug: update-docs
 screenshots:
 - https://user-images.githubusercontent.com/13410355/28179044-97207bee-67b5-11e7-80d0-0c8ede4a325f.png
-stars: 5
+stars: 6
 authors:
 - hiimbex
 repository: behaviorbot/update-docs
-updated: 2017-10-19 16:03:37 UTC
+updated: 2017-12-08 07:07:31 UTC
 host: https://probot-update-docs.herokuapp.com
-installations: 15
+installations: 17
 organizations:
 - adonisjs
 - xcodeswift
 - behaviorbot
 - PHPMap
 - ilovecode1
-- marclop
 - philoserf
+- marclop
 - cms-gem-daq-project
+- aVengineers
 - robotland
 ---
 
