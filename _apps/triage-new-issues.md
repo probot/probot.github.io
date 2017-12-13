@@ -1,28 +1,24 @@
 ---
-# A human-friendly name of your listing
 title: Triage New Issues
-
-# A short description of what your app does
-description: Adds `triage` label to newly-created issues and then removes it when other label(s) are added
-
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
+description: Adds `triage` label to newly-created issues and then removes it when
+  other label(s) are added
 slug: triage-new-issues
-
-# Include a few screenshots that show your app in action
 screenshots:
 - https://i.imgur.com/bdbDaPz.png
 - https://i.imgur.com/HMndYuP.png
 - https://i.imgur.com/fOp0Est.png
 - https://i.imgur.com/ldrHDzZ.png
-
-# The GitHub usernames of anyone who authored the app
-authors: [ tunnckoCore, olstenlarck ]
-
-# The repository where the code is located
+authors:
+- tunnckoCore
+- olstenlarck
 repository: tunnckoCore/triage-new-issues
-
-# The address where this app is deployed
 host: https://triage-new-issues.now.sh
+stars: 2
+updated: 2017-12-13 17:02:46 UTC
+installations: 3
+organizations:
+- tunnckoCore
+- aVengineers
 ---
 
 

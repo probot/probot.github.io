@@ -8,6 +8,11 @@ authors:
 - dessant
 repository: dessant/lock-threads
 host: https://probot-lock-threads.glitch.me
+stars: 0
+updated: 2017-12-11 23:16:31 UTC
+installations: 1
+organizations:
+- kivy
 ---
 
 A GitHub App that locks closed issues and pull requests after

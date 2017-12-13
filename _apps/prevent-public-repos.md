@@ -1,19 +1,17 @@
 ---
-# A human-friendly name of your listing
 title: Prevent Public Repos
-# A short description of what your app does
 description: Prevent Repos from being made public in an organization
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: prevent-public-repos
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/6920330/33576380-9a90cc92-d90d-11e7-9e61-6512240cdbf6.png
-# The GitHub usernames of anyone who authored the app
-authors: [ issc29 ]
-# The repository where the code is located
+authors:
+- issc29
 repository: issc29/probot-prevent-public-repos
-# The address where this app is deployed
 host: https://probot-prevent-public-repos.herokuapp.com
+stars: 5
+updated: 2017-12-08 16:19:00 UTC
+installations: 2
+organizations: []
 ---
 
 # Prevent-Public-Repos Probot App
