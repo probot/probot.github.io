@@ -8,13 +8,17 @@ authors:
 - dessant
 repository: dessant/support-requests
 host: https://probot-support-requests.glitch.me
-stars: 0
+stars: 1
 updated: 2017-11-12 11:15:14 UTC
-installations: 6
+installations: 9
 organizations:
 - kivy
 - MinecraftForge
 - nozzle
+- PHPOffice
+- PHPMap
+- aVengineers
+- Triadai
 ---
 
 A GitHub App that comments on and closes issues labeled as support requests.
