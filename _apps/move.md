@@ -10,7 +10,7 @@ authors:
 repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 4
-updated: 2017-11-19 23:09:21 UTC
+updated: 2017-12-13 03:03:26 UTC
 installations: 10
 organizations:
 - kivy

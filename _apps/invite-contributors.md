@@ -15,6 +15,7 @@ organizations:
 - cla-assistant
 - flyve-mdm
 - aethonanbot
+- sydneyhaskell
 - aVengineers
 - chaijs
 - elodiebot

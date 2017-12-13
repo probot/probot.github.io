@@ -19,8 +19,8 @@ organizations:
 - kivy
 - StevenBlack
 - electron-userland
-- MarshallOfSound
 - getinsomnia
+- MarshallOfSound
 - benbalter
 - probot
 - carambalabs
