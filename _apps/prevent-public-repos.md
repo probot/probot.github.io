@@ -13,7 +13,7 @@ authors: [ issc29 ]
 # The repository where the code is located
 repository: issc29/probot-prevent-public-repos
 # The address where this app is deployed
-host: https://probot-prevent-public-repos.herokuapp.com/
+host: https://probot-prevent-public-repos.herokuapp.com
 ---
 
 # Prevent-Public-Repos Probot App
