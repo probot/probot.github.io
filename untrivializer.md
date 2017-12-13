@@ -25,7 +25,7 @@ A lot of times we'll write up an issue without really thinking it through:
 
 > Do thing _Foo_, it's super easy.
 
-Doing those things (almost without fail) takes way, way more time than we think it will. Why? A couple reasons: 
+Doing those things (almost without fail) takes way, way more time than we think it will. Why? A couple reasons:
 
 * If we're making a comment like that we're probably not thinking through all the little details anyway,
 * We're all just [terrible at estimating, _even when we know we're terrible at estimating_](https://en.wikipedia.org/wiki/Planning_fallacy) (it's truly incredible),
@@ -50,5 +50,3 @@ npm install
 # Run the bot
 npm start
 ```
-
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
