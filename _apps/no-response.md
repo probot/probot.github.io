@@ -14,8 +14,8 @@ updated: 2017-11-13 22:25:45 UTC
 installations: 13
 organizations:
 - eggjs
-- rmm5t
 - electron-userland
+- rmm5t
 - probot
 - db-migrate
 - guillermocalvo
