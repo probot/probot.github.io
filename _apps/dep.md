@@ -8,7 +8,7 @@ screenshots:
 authors:
 - ahmed-taj
 repository: ahmed-taj/dep
-host: http://dep-bot.herokuapp.com
+host: https://dep-bot.herokuapp.com
 stars: 8
 updated: 2017-12-15 15:03:49 UTC
 installations: 6
