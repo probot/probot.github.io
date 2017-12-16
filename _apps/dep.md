@@ -8,7 +8,7 @@ screenshots:
 authors:
 - ahmed-taj
 repository: ahmed-taj/dep
-host: https://dep.now.sh
+host: http://dep-bot.herokuapp.com
 stars: 8
 updated: 2017-12-15 15:03:49 UTC
 installations: 6
