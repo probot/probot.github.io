@@ -14,8 +14,8 @@ host: https://probot-sentiment-bot.herokuapp.com
 installations: 28
 organizations:
 - nlohmann
-- MvvmCross
 - probot
+- MvvmCross
 - carambalabs
 - xcodeswift
 - Dallas-Makerspace

@@ -11,11 +11,12 @@ repository: ahmed-taj/dep
 host: https://dep.now.sh
 stars: 8
 updated: 2017-12-16 11:43:01 UTC
-installations: 6
+installations: 8
 organizations:
 - probot
 - tunnckoCore
 - laughedelic
+- Skelware
 - philoserf
 - aVengineers
 ---
