@@ -15,8 +15,8 @@ installations: 26
 organizations:
 - chaijs
 - SpoonX
-- angular-pouchdb
 - axetroy
+- angular-pouchdb
 - devcenter-square
 - christophehurpeau
 - flyve-mdm

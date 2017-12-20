@@ -18,8 +18,8 @@ organizations:
 - rmm5t
 - probot
 - db-migrate
-- guillermocalvo
 - CyclopsMC
+- guillermocalvo
 - mailwatch
 - Dallas-Makerspace
 - TeamLapen

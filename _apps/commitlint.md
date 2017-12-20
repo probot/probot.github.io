@@ -9,7 +9,7 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
 host: https://commitlint.now.sh
-stars: 25
+stars: 26
 updated: 2017-12-18 04:49:01 UTC
 installations: 9
 organizations:
