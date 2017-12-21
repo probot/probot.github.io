@@ -10,12 +10,13 @@ repository: dessant/support-requests
 host: https://probot-support-requests.glitch.me
 stars: 1
 updated: 2017-12-13 02:58:50 UTC
-installations: 9
+installations: 10
 organizations:
 - kivy
 - MinecraftForge
 - nozzle
 - PHPOffice
+- red-eclipse
 - PHPMap
 - aVengineers
 - Triadai
