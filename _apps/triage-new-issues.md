@@ -14,8 +14,8 @@ authors:
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 2
-updated: 2017-12-21 05:32:07 UTC
-installations: 6
+updated: 2017-12-22 06:47:14 UTC
+installations: 7
 organizations:
 - Robdel12
 - tunnckoCore
