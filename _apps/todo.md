@@ -10,7 +10,7 @@ repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
 stars: 51
 updated: 2017-12-05 05:46:12 UTC
-installations: 87
+installations: 88
 organizations:
 - thibmaek
 - goreleaser
