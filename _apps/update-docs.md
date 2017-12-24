@@ -9,7 +9,7 @@ stars: 7
 authors:
 - hiimbex
 repository: behaviorbot/update-docs
-updated: 2017-12-08 07:07:31 UTC
+updated: 2017-12-24 06:54:07 UTC
 host: https://probot-update-docs.herokuapp.com
 installations: 17
 organizations:
