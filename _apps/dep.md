@@ -11,12 +11,13 @@ repository: ahmed-taj/dep
 host: https://dep-bot.herokuapp.com
 stars: 9
 updated: 2017-12-16 11:43:01 UTC
-installations: 9
+installations: 10
 organizations:
 - probot
 - tunnckoCore
 - laughedelic
 - Skelware
+- legalweb
 - philoserf
 - aVengineers
 ---

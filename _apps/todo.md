@@ -8,7 +8,7 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
-stars: 54
+stars: 55
 updated: 2017-12-26 03:04:13 UTC
 installations: 89
 organizations:
