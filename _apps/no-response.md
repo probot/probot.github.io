@@ -11,18 +11,18 @@ repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 21
 updated: 2017-11-13 22:25:45 UTC
-installations: 15
+installations: 16
 organizations:
 - eggjs
 - electron-userland
 - rmm5t
+- SpongePowered
 - probot
 - db-migrate
 - CyclopsMC
 - guillermocalvo
 - mailwatch
 - Dallas-Makerspace
-- TeamLapen
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.
