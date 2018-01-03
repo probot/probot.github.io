@@ -9,7 +9,7 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://dep-bot.herokuapp.com
-stars: 9
+stars: 10
 updated: 2017-12-29 18:47:33 UTC
 installations: 11
 organizations:
