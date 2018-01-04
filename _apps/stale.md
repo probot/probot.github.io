@@ -7,11 +7,11 @@ screenshots:
 - https://user-images.githubusercontent.com/173/27765705-93f94940-5e7e-11e7-8527-3a91bb64ca70.png
 authors:
 - bkeepers
-stars: 255
+stars: 256
 repository: probot/stale
-updated: 2017-12-21 06:00:47 UTC
+updated: 2018-01-04 15:38:51 UTC
 host: https://probot-stale.herokuapp.com
-installations: 399
+installations: 402
 organizations:
 - atom
 - facebook
