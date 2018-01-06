@@ -9,7 +9,7 @@ authors:
 - jarrodldavis
 repository: jarrodldavis/probot-gpg
 stars: 14
-updated: 2017-12-29 06:09:19 UTC
+updated: 2018-01-04 21:05:34 UTC
 host: http://probot-gpg-production.herokuapp.com
 installations: 21
 organizations:

@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/sentiment-bot
 updated: 2017-12-07 11:27:04 UTC
 host: https://probot-sentiment-bot.herokuapp.com
-installations: 28
+installations: 29
 organizations:
 - nlohmann
 - probot
@@ -19,9 +19,9 @@ organizations:
 - carambalabs
 - xcodeswift
 - Dallas-Makerspace
+- JourneyOver
 - WormieCorp
 - neetjn
-- JourneyOver
 - Mariatta
 ---
 
