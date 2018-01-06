@@ -1,6 +1,6 @@
 ---
 # A human-friendly name of your listing
-title: Probot: OOO
+title: OOO
 # A short description of what your app does
 description: Respond to @mentions with an auto-response when you are OOO
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
