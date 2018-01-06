@@ -14,7 +14,7 @@ authors: [ swinton ]
 # The repository where the code is located
 repository: swinton/probot-ooo
 # The address where this app is deployed
-host: https://probot-ooo.herokuapp.com/
+host: https://probot-ooo.herokuapp.com
 ---
 
 # Probot: OOO
