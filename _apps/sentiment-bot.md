@@ -20,8 +20,8 @@ organizations:
 - xcodeswift
 - Dallas-Makerspace
 - JourneyOver
-- WormieCorp
 - neetjn
+- WormieCorp
 - Mariatta
 ---
 
