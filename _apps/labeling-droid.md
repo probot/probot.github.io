@@ -1,6 +1,6 @@
 ---
 title: Labeling Droid
-description: Add a label automatically to know PR status at first glance.
+description: Add a label to know PR status at first glance.
 slug: labeling-droid
 screenshots:
 - https://user-images.githubusercontent.com/1587053/34649116-d6f44b7a-f3eb-11e7-80b6-59e26d60c4d4.png
@@ -16,7 +16,7 @@ installations: 3
 organizations:
 ---
 
-Add a label automatically to know PR status at first glance.
+Add a label to know PR status at first glance.
 
 ## Motivation
 
