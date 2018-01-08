@@ -9,7 +9,7 @@ screenshots:
 authors:
 - sotayamashita
 stars: 0
-repository: sotayamashita/labeling-dorid
+repository: sotayamashita/labeling-droid
 updated: 2018-01-07 00:00:00 UTC
 host: https://labeling-droid.glitch.me/
 installations: 3
