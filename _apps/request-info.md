@@ -18,8 +18,8 @@ organizations:
 - eggjs
 - electron-userland
 - jsonresume
-- bolt
 - desktop
+- bolt
 - nozzle
 - benbalter
 - terkelg

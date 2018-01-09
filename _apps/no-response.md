@@ -10,8 +10,8 @@ authors:
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 21
-updated: 2017-11-13 22:25:45 UTC
-installations: 19
+updated: 2018-01-09 17:55:34 UTC
+installations: 20
 organizations:
 - kivy
 - eggjs
@@ -19,10 +19,10 @@ organizations:
 - rmm5t
 - SpongePowered
 - probot
+- graylog-labs
 - db-migrate
 - CyclopsMC
 - guillermocalvo
-- mailwatch
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.

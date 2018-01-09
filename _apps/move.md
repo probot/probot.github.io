@@ -11,18 +11,18 @@ repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 6
 updated: 2018-01-05 13:51:45 UTC
-installations: 13
+installations: 15
 organizations:
 - kivy
 - ethereum
 - SpongePowered
 - probot
 - red-eclipse
+- intel-hpdd
 - Dallas-Makerspace
 - devopsdays
 - TeamLapen
 - Triadai
-- aVengineers
 ---
 
 A GitHub App that Moves issues to a different repository.
