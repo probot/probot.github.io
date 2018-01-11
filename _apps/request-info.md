@@ -14,8 +14,8 @@ host: https://probot-request-info.herokuapp.com
 installations: 74
 organizations:
 - nlohmann
-- cdnjs
 - eggjs
+- cdnjs
 - electron-userland
 - jsonresume
 - desktop

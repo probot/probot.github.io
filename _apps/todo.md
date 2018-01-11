@@ -10,7 +10,7 @@ repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
 stars: 55
 updated: 2017-12-31 00:24:15 UTC
-installations: 94
+installations: 97
 organizations:
 - thibmaek
 - SpongePowered

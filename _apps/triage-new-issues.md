@@ -14,7 +14,7 @@ authors:
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 2
-updated: 2018-01-10 16:01:15 UTC
+updated: 2018-01-11 04:32:34 UTC
 installations: 10
 organizations:
 - ethereum
