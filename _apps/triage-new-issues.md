@@ -14,11 +14,12 @@ authors:
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 2
-updated: 2018-01-11 04:32:34 UTC
-installations: 10
+updated: 2018-01-12 00:04:53 UTC
+installations: 12
 organizations:
 - ethereum
 - Robdel12
+- xcodeswift
 - tunnckoCore
 - red-eclipse
 - legalweb

@@ -8,9 +8,9 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-api.jasonet.co
-stars: 55
-updated: 2017-12-31 00:24:15 UTC
-installations: 97
+stars: 56
+updated: 2018-01-12 04:41:59 UTC
+installations: 99
 organizations:
 - thibmaek
 - SpongePowered
