@@ -18,8 +18,8 @@ organizations:
 - chaijs
 - detailyang
 - ahmetb
-- probot
 - hql287
+- probot
 - evhub
 - Glavin001
 - jbarlow83

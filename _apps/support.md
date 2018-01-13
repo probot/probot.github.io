@@ -8,9 +8,9 @@ authors:
 - dessant
 repository: dessant/support-requests
 host: https://probot-support-requests.glitch.me
-stars: 1
+stars: 2
 updated: 2018-01-05 13:50:53 UTC
-installations: 10
+installations: 11
 organizations:
 - mui-org
 - kivy
