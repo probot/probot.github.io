@@ -7,7 +7,7 @@ screenshots:
 authors:
 - JasonEtco
 repository: JasonEtco/todo
-host: https://todo-api.jasonet.co
+host: https://todo-github-app.now.sh
 stars: 57
 updated: 2018-01-14 00:23:37 UTC
 installations: 99
