@@ -14,8 +14,8 @@ installations: 11
 organizations:
 - mui-org
 - kivy
-- MinecraftForge
 - nozzle
+- MinecraftForge
 - PHPOffice
 - red-eclipse
 - PHPMap
