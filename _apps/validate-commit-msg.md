@@ -18,8 +18,8 @@ organizations:
 - axetroy
 - angular-pouchdb
 - devcenter-square
-- christophehurpeau
 - flyve-mdm
+- christophehurpeau
 - tlvince
 - nikolay
 - luanmuniz

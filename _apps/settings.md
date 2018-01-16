@@ -21,7 +21,7 @@ organizations:
 - probot
 - TGMPA
 - purpleidea
-- GaryJones
+- pages-themes
 ---
 
 This GitHub App syncs repository settings defined in `.github/settings.yml` to GitHub, enabling Pull Requests for repository settings.

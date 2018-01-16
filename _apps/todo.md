@@ -8,9 +8,9 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
-stars: 59
-updated: 2018-01-15 15:02:49 UTC
-installations: 101
+stars: 60
+updated: 2018-01-16 16:18:29 UTC
+installations: 102
 organizations:
 - thibmaek
 - SpongePowered
