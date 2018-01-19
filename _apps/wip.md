@@ -8,18 +8,18 @@ authors:
 - gr2m
 repository: gr2m/wip-bot
 stars: 44
-updated: 2018-01-18 14:17:54 UTC
+updated: 2018-01-19 18:34:28 UTC
 host: https://wip-bot.now.sh
-installations: 272
+installations: 275
 organizations:
 - dotnet
 - jekyll
 - yiisoft
 - kivy
-- aurelia
 - home-assistant
-- saltstack
+- aurelia
 - Microsoft
+- saltstack
 - PowerShell
 - reactioncommerce
 ---
