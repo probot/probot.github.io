@@ -10,7 +10,7 @@ repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
 stars: 64
 updated: 2018-01-19 15:05:29 UTC
-installations: 104
+installations: 105
 organizations:
 - thibmaek
 - SpongePowered
