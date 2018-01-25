@@ -11,7 +11,7 @@ repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 6
 updated: 2018-01-16 00:15:03 UTC
-installations: 17
+installations: 19
 organizations:
 - kivy
 - home-assistant
