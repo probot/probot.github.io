@@ -10,8 +10,9 @@ repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
 stars: 65
 updated: 2018-01-19 15:05:29 UTC
-installations: 106
+installations: 107
 organizations:
+- mas-cli
 - thibmaek
 - SpongePowered
 - goreleaser
@@ -21,7 +22,6 @@ organizations:
 - icco
 - getantibody
 - drinchev
-- phatblat
 ---
 ## Usage
 
