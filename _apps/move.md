@@ -16,8 +16,8 @@ organizations:
 - kivy
 - home-assistant
 - ethereum
-- SpongePowered
 - probot
+- SpongePowered
 - red-eclipse
 - intel-hpdd
 - Dallas-Makerspace

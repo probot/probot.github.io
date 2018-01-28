@@ -18,8 +18,8 @@ organizations:
 - Graylog2
 - electron-userland
 - rmm5t
-- SpongePowered
 - probot
+- SpongePowered
 - graylog-labs
 - db-migrate
 - niosus
