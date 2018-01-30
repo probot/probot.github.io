@@ -22,7 +22,7 @@ organizations:
 - christophehurpeau
 - tlvince
 - nikolay
-- luanmuniz
+- glpi-project
 redirect_from: "/apps/validate-commit-msg-bot/"
 ---
 

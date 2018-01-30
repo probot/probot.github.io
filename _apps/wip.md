@@ -7,10 +7,10 @@ screenshots:
 authors:
 - gr2m
 repository: gr2m/wip-bot
-stars: 50
+stars: 51
 updated: 2018-01-25 16:31:20 UTC
 host: https://wip-bot.now.sh
-installations: 292
+installations: 294
 organizations:
 - dotnet
 - jekyll
@@ -19,8 +19,8 @@ organizations:
 - home-assistant
 - aurelia
 - Microsoft
-- saltstack
 - PowerShell
+- saltstack
 - reactioncommerce
 ---
 

@@ -9,20 +9,20 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://dep-bot.herokuapp.com
-stars: 14
+stars: 15
 updated: 2018-01-20 12:12:54 UTC
-installations: 16
+installations: 19
 organizations:
 - probot
 - tunnckoCore
 - laughedelic
+- flyve-mdm
 - allejo
 - UziTech
+- CharlyJazz
 - Skelware
+- glpi-project
 - legalweb
-- philoserf
-- greenkeeper-keeper
-- andrecsouza
 ---
 
 <p align="center">

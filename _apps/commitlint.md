@@ -9,7 +9,7 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
 host: https://commitlint.herokuapp.com
-stars: 35
+stars: 36
 updated: 2017-12-18 04:49:01 UTC
 installations: 12
 organizations:
