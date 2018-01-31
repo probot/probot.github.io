@@ -4,7 +4,7 @@ description: Enforce the DCO on Pull Requests
 slug: dco
 screenshots:
 - https://cloud.githubusercontent.com/assets/173/24482273/a35dc23e-14b5-11e7-9371-fd241873e2c3.png
-stars: 42
+stars: 43
 authors:
 - bkeepers
 repository: probot/dco
