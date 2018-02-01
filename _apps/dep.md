@@ -11,7 +11,7 @@ repository: ahmed-taj/dep
 host: https://dep-bot.herokuapp.com
 stars: 15
 updated: 2018-01-20 12:12:54 UTC
-installations: 19
+installations: 20
 organizations:
 - probot
 - tunnckoCore
