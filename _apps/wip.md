@@ -7,10 +7,10 @@ screenshots:
 authors:
 - gr2m
 repository: gr2m/wip-bot
-stars: 51
-updated: 2018-01-25 16:31:20 UTC
+stars: 53
+updated: 2018-02-03 11:52:17 UTC
 host: https://wip-bot.now.sh
-installations: 301
+installations: 303
 organizations:
 - dotnet
 - jekyll

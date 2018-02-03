@@ -20,8 +20,8 @@ organizations:
 - PHPMap
 - ilovecode1
 - u3u
-- marclop
 - philoserf
+- marclop
 - cms-gem-daq-project
 ---
 
