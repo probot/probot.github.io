@@ -14,7 +14,6 @@ installations: 115
 organizations:
 - mas-cli
 - thibmaek
-- SpongePowered
 - goreleaser
 - heinrichreimer
 - caarlos0
@@ -22,6 +21,7 @@ organizations:
 - TokTok
 - icco
 - getantibody
+- drinchev
 ---
 ## Usage
 

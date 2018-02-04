@@ -1,20 +1,18 @@
 ---
-# A human-friendly name of your listing
 title: OOO
-# A short description of what your app does
 description: Respond to @mentions with an auto-response when you are OOO
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: ooo
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/27806/34545993-8e21b866-f0b6-11e7-9cc4-750d6f9b2ed5.png
 - https://user-images.githubusercontent.com/27806/34633882-c505d878-f244-11e7-89c2-c367afdb738a.png
-# The GitHub usernames of anyone who authored the app
-authors: [ swinton ]
-# The repository where the code is located
+authors:
+- swinton
 repository: swinton/probot-ooo
-# The address where this app is deployed
 host: https://probot-ooo.herokuapp.com
+stars: 4
+updated: 2018-01-06 15:08:10 UTC
+installations: 1
+organizations: []
 ---
 
 # Probot: OOO

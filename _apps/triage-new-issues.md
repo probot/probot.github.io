@@ -15,8 +15,9 @@ repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 2
 updated: 2018-02-03 02:38:23 UTC
-installations: 14
+installations: 15
 organizations:
+- Semantic-Org
 - Robdel12
 - xcodeswift
 - tunnckoCore
@@ -26,7 +27,6 @@ organizations:
 - telusdigital
 - philoserf
 - funky-cactus
-- aVengineers
 ---
 
 
