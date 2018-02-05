@@ -11,7 +11,7 @@ stars: 109
 repository: hoodiehq/first-timers-bot
 updated: 2018-01-30 18:35:47 UTC
 host: https://first-timers-bot.now.sh
-installations: 214
+installations: 215
 organizations:
 - jekyll
 - processing
