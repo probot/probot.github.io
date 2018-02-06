@@ -10,10 +10,11 @@ authors:
 repository: probot/dco
 updated: 2018-02-03 20:24:59 UTC
 host: https://probot-dco.herokuapp.com
-installations: 126
+installations: 127
 organizations:
 - hyperledger
 - pi-hole
+- openebs
 - jaegertracing
 - envoyproxy
 - linkerd
@@ -21,7 +22,6 @@ organizations:
 - rook
 - db-migrate
 - WeblateOrg
-- runconduit
 ---
 
 

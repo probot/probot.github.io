@@ -11,8 +11,9 @@ repository: swinton/probot-ooo
 host: https://probot-ooo.herokuapp.com
 stars: 4
 updated: 2018-01-06 15:08:10 UTC
-installations: 1
-organizations: []
+installations: 2
+organizations:
+- JasonEtco
 ---
 
 # Probot: OOO
