@@ -18,8 +18,8 @@ organizations:
 - algolia
 - upfrontIO
 - ahmed-taj
-- funky-cactus
 - rossinimartins
+- funky-cactus
 - cirs
 - aVengineers
 - caiquecastro
