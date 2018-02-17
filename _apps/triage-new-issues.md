@@ -14,19 +14,19 @@ authors:
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 2
-updated: 2018-02-16 12:27:50 UTC
-installations: 21
+updated: 2018-02-16 22:33:54 UTC
+installations: 22
 organizations:
 - Semantic-Org
 - Laravel-Backpack
 - Robdel12
 - xcodeswift
+- jahirfiquitiva
 - tunnckoCore
 - red-eclipse
 - prologuephp
 - StoDevX
 - legalweb
-- telusdigital
 ---
 
 

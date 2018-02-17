@@ -11,7 +11,7 @@ stars: 300
 repository: probot/stale
 updated: 2018-02-12 15:57:18 UTC
 host: https://probot-stale.herokuapp.com
-installations: 499
+installations: 505
 organizations:
 - atom
 - facebook
