@@ -9,20 +9,20 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
 host: https://commitlint.herokuapp.com
-stars: 40
+stars: 43
 updated: 2018-02-15 12:17:13 UTC
-installations: 16
+installations: 17
 organizations:
 - db-migrate
 - caarlos0
 - algolia
 - upfrontIO
 - ahmed-taj
+- theo4u
 - rossinimartins
-- funky-cactus
-- cirs
-- aVengineers
 - caiquecastro
+- cirs
+- funky-cactus
 ---
 
 <p align="center">

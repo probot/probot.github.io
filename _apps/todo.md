@@ -8,13 +8,12 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
-stars: 73
-updated: 2018-02-17 04:23:29 UTC
-installations: 124
+stars: 77
+updated: 2018-02-18 16:46:08 UTC
+installations: 125
 organizations:
 - mas-cli
 - thibmaek
-- goreleaser
 - heinrichreimer
 - Laravel-Backpack
 - caarlos0
@@ -22,6 +21,7 @@ organizations:
 - TokTok
 - icco
 - timvideos
+- getantibody
 ---
 ## Usage
 

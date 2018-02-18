@@ -13,8 +13,8 @@ authors:
 - olstenlarck
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
-stars: 2
-updated: 2018-02-16 22:33:54 UTC
+stars: 3
+updated: 2018-02-18 16:45:26 UTC
 installations: 22
 organizations:
 - Semantic-Org
