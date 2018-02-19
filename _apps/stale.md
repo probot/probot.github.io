@@ -9,9 +9,9 @@ authors:
 - bkeepers
 stars: 301
 repository: probot/stale
-updated: 2018-02-18 16:45:57 UTC
+updated: 2018-02-19 00:06:47 UTC
 host: https://probot-stale.herokuapp.com
-installations: 508
+installations: 510
 organizations:
 - atom
 - facebook
@@ -20,8 +20,8 @@ organizations:
 - prettier
 - gohugoio
 - hexojs
-- bumptech
 - storybooks
+- bumptech
 - strongloop
 ---
 
