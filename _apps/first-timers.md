@@ -7,11 +7,11 @@ screenshots:
 authors:
 - agonzalez0515
 - Techforchange
-stars: 115
+stars: 116
 repository: hoodiehq/first-timers-bot
 updated: 2018-02-20 00:58:29 UTC
 host: https://first-timers-bot.now.sh
-installations: 214
+installations: 216
 organizations:
 - jekyll
 - videojs
