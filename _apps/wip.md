@@ -10,7 +10,7 @@ repository: gr2m/wip-bot
 stars: 64
 updated: 2018-02-19 01:26:15 UTC
 host: https://wip-bot.now.sh
-installations: 353
+installations: 355
 organizations:
 - electron
 - dotnet
