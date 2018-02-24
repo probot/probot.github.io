@@ -13,7 +13,7 @@ authors: [ JasonEtco ]
 # The repository where the code is located
 repository: JasonEtco/ci-reporter
 # The address where this app is deployed
-host: https://ci-reporter-etc.herokuapp.com/probot/stats
+host: https://ci-reporter-etc.herokuapp.com
 ---
 ## Usage
 
