@@ -1,19 +1,23 @@
 ---
-# A human-friendly name of your listing
 title: CI Reporter
-# A short description of what your app does
 description: Pastes the error output of a failing build into the relevant PR.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: ci-reporter
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/10660468/36135324-78809222-1058-11e8-99cd-6cc100971066.png
-# The GitHub usernames of anyone who authored the app
-authors: [ JasonEtco ]
-# The repository where the code is located
+authors:
+- JasonEtco
 repository: JasonEtco/ci-reporter
-# The address where this app is deployed
 host: https://ci-reporter-etc.herokuapp.com
+stars: 19
+updated: 2018-02-25 16:47:50 UTC
+installations: 6
+organizations:
+- probot
+- electron
+- Unibeautify
+- JasonEtco
+- StarExec
+- JostCrow
 ---
 ## Usage
 
