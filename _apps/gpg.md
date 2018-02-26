@@ -11,8 +11,9 @@ repository: jarrodldavis/probot-gpg
 stars: 15
 updated: 2018-01-17 01:45:53 UTC
 host: http://probot-gpg-production.herokuapp.com
-installations: 26
+installations: 27
 organizations:
+- ahmadnassri
 - saltstack
 - TokTok
 - serokell
@@ -22,7 +23,6 @@ organizations:
 - nikolay
 - glpi-project
 - luanmuniz
-- jarrodldavis
 ---
 ## Usage
 
