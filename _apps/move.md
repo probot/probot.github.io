@@ -13,8 +13,8 @@ stars: 7
 updated: 2018-01-16 00:15:03 UTC
 installations: 21
 organizations:
-- kivy
 - home-assistant
+- kivy
 - ethereum
 - probot
 - jahirfiquitiva

@@ -9,9 +9,9 @@ authors:
 - Techforchange
 stars: 116
 repository: hoodiehq/first-timers-bot
-updated: 2018-02-24 20:26:45 UTC
+updated: 2018-02-27 18:31:25 UTC
 host: https://first-timers-bot.now.sh
-installations: 216
+installations: 217
 organizations:
 - jekyll
 - videojs
