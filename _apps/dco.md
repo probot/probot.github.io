@@ -8,7 +8,7 @@ stars: 46
 authors:
 - bkeepers
 repository: probot/dco
-updated: 2018-02-22 02:19:26 UTC
+updated: 2018-02-28 15:34:24 UTC
 host: https://probot-dco.herokuapp.com
 installations: 140
 organizations:

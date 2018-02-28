@@ -10,8 +10,8 @@ authors:
 repository: ahmed-taj/commitlint-bot
 host: https://commitlint.herokuapp.com
 stars: 44
-updated: 2018-02-15 12:17:13 UTC
-installations: 20
+updated: 2018-02-28 18:12:46 UTC
+installations: 21
 organizations:
 - db-migrate
 - caarlos0

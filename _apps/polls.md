@@ -16,8 +16,8 @@ installations: 88
 organizations:
 - apex
 - chaijs
-- detailyang
 - ahmetb
+- detailyang
 - hql287
 - probot
 - Laravel-Backpack
