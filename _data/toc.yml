@@ -12,6 +12,7 @@ Advanced:
   - docs/pagination.md
   - docs/extensions.md
   - docs/deployment.md
+  - docs/persistence.md
   - docs/best-practices.md
 Reference:
   - title: robot
