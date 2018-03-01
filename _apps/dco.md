@@ -10,18 +10,18 @@ authors:
 repository: probot/dco
 updated: 2018-02-28 15:34:24 UTC
 host: https://probot-dco.herokuapp.com
-installations: 140
+installations: 141
 organizations:
 - hyperledger
 - gradle
 - pi-hole
+- vitessio
 - openebs
 - jaegertracing
 - linkerd
 - envoyproxy
 - git-for-windows
 - hackmdio
-- phpmyadmin
 ---
 
 

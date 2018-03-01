@@ -9,7 +9,7 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://dep-bot.herokuapp.com
-stars: 19
+stars: 20
 updated: 2018-02-28 15:32:27 UTC
 installations: 27
 organizations:
@@ -20,8 +20,8 @@ organizations:
 - tunnckoCore
 - mithro
 - flyve-mdm
-- SymbiFlow
 - ahmed-taj
+- SymbiFlow
 - allejo
 ---
 
