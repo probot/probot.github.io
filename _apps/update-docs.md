@@ -20,9 +20,9 @@ organizations:
 - PHPMap
 - ilovecode1
 - u3u
-- philoserf
 - marclop
 - cms-gem-daq-project
+- philoserf
 ---
 
 

@@ -19,8 +19,8 @@ organizations:
 - electron-userland
 - jsonresume
 - desktop
-- bolt
 - nozzle
+- bolt
 - hql287
 - benbalter
 ---
