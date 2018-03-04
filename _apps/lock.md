@@ -17,7 +17,6 @@ organizations:
 - node-serialport
 - jahirfiquitiva
 - LibreTime
-- philoserf
 - funky-cactus
 ---
 

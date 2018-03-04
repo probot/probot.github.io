@@ -17,8 +17,8 @@ organizations:
 - eggjs
 - cdnjs
 - electron-userland
-- jsonresume
 - desktop
+- jsonresume
 - nozzle
 - bolt
 - hql287
