@@ -8,7 +8,7 @@ authors:
 - JasonEtco
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
-stars: 26
+stars: 27
 updated: 2018-03-04 17:43:49 UTC
 installations: 11
 organizations:
