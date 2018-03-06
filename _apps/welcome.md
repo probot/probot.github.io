@@ -20,8 +20,8 @@ organizations:
 - StevenBlack
 - getinsomnia
 - electron-userland
-- MarshallOfSound
 - Semantic-Org
+- MarshallOfSound
 - hql287
 - benbalter
 ---
