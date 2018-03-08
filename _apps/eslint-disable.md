@@ -6,7 +6,7 @@ screenshots:
 - https://user-images.githubusercontent.com/318208/36699828-d1a92b82-1b45-11e8-9a4d-91da0852d7da.png
 authors: [ koddsson ]
 repository: koddsson/eslint-disable-probot
-host: https://dry-brook-60381.herokuapp.com/
+host: https://dry-brook-60381.herokuapp.com
 ---
 ## Usage
 
