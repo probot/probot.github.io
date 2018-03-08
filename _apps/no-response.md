@@ -11,7 +11,7 @@ repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 23
 updated: 2018-01-09 17:55:34 UTC
-installations: 33
+installations: 34
 organizations:
 - prettier
 - kivy
@@ -22,7 +22,7 @@ organizations:
 - benbalter
 - probot
 - pachyderm
-- graylog-labs
+- wix
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.

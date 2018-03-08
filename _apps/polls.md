@@ -19,8 +19,8 @@ organizations:
 - ahmetb
 - detailyang
 - hql287
-- probot
 - terkelg
+- probot
 - Laravel-Backpack
 - evhub
 - Glavin001
