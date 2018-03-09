@@ -19,8 +19,8 @@ organizations:
 - Graylog2
 - electron-userland
 - rmm5t
-- benbalter
 - probot
+- benbalter
 - pachyderm
 - wix
 ---

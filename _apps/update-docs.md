@@ -17,12 +17,12 @@ organizations:
 - xcodeswift
 - KengoTODA
 - behaviorbot
-- PHPMap
 - ilovecode1
+- PHPMap
 - u3u
 - marclop
 - cms-gem-daq-project
-- aVengineers
+- philoserf
 ---
 
 

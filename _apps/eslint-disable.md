@@ -4,9 +4,14 @@ description: Comments on pull requests that try to disable eslint rules.
 slug: eslint-disable-watcher
 screenshots:
 - https://user-images.githubusercontent.com/318208/36699828-d1a92b82-1b45-11e8-9a4d-91da0852d7da.png
-authors: [ koddsson ]
+authors:
+- koddsson
 repository: koddsson/eslint-disable-probot
 host: https://eslint-disable-probot.herokuapp.com
+stars: 8
+updated: 2018-03-07 14:42:43 UTC
+installations: 2
+organizations: []
 ---
 ## Usage
 

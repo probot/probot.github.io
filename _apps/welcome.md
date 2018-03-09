@@ -23,7 +23,7 @@ organizations:
 - Semantic-Org
 - MarshallOfSound
 - hql287
-- benbalter
+- probot
 ---
 
 

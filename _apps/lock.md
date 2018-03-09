@@ -18,6 +18,7 @@ organizations:
 - jahirfiquitiva
 - LibreTime
 - funky-cactus
+- philoserf
 ---
 
 A GitHub App that locks closed issues and pull requests after
