@@ -11,7 +11,7 @@ repository: ahmed-taj/dep
 host: https://dep-bot.herokuapp.com
 stars: 23
 updated: 2018-02-28 15:32:27 UTC
-installations: 30
+installations: 31
 organizations:
 - probot
 - Laravel-Backpack

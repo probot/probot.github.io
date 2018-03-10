@@ -15,7 +15,7 @@ repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 4
 updated: 2018-03-07 00:27:05 UTC
-installations: 25
+installations: 26
 organizations:
 - Semantic-Org
 - Laravel-Backpack
