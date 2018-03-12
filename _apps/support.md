@@ -16,8 +16,8 @@ organizations:
 - kivy
 - nozzle
 - MinecraftForge
-- Laravel-Backpack
 - PHPOffice
+- Laravel-Backpack
 - wix
 - Radarr
 - pmmp

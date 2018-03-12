@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/request-info
 updated: 2018-02-27 09:06:08 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 96
+installations: 97
 organizations:
 - nlohmann
 - eggjs
