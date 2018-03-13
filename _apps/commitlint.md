@@ -16,8 +16,8 @@ organizations:
 - db-migrate
 - caarlos0
 - algolia
-- upfrontIO
 - ahmed-taj
+- upfrontIO
 - theo4u
 - telligro
 - y-mehta
