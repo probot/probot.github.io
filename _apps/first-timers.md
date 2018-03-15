@@ -9,7 +9,7 @@ authors:
 - Techforchange
 stars: 121
 repository: hoodiehq/first-timers-bot
-updated: 2018-03-13 16:18:46 UTC
+updated: 2018-03-15 01:40:28 UTC
 host: https://first-timers-bot.now.sh
 installations: 221
 organizations:
