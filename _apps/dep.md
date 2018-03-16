@@ -21,8 +21,8 @@ organizations:
 - mithro
 - flyve-mdm
 - upfrontIO
-- SymbiFlow
 - ahmed-taj
+- SymbiFlow
 ---
 
 <p align="center">
