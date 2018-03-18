@@ -15,9 +15,9 @@ Advanced:
   - docs/persistence.md
   - docs/best-practices.md
 Reference:
-  - title: GitHub API
-    url: "http://octokit.github.io/rest.js/"
   - title: robot
     url: "https://probot.github.io/api/latest/Robot.html"
   - title: context
     url: "https://probot.github.io/api/latest/Context.html"
+  - title: context.github
+    url: "http://octokit.github.io/rest.js/"
