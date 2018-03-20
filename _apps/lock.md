@@ -10,7 +10,7 @@ repository: dessant/lock-threads
 host: https://probot-lock-threads.glitch.me
 stars: 1
 updated: 2018-01-16 00:18:50 UTC
-installations: 9
+installations: 8
 organizations:
 - kivy
 - Semantic-Org

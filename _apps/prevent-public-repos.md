@@ -14,6 +14,7 @@ installations: 13
 organizations:
 - logrhythm
 - engineersmy
+- finnerds
 - Albatoss
 ---
 
