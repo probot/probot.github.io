@@ -3,8 +3,8 @@
 // Change to true to show nags
 var debug = false;
 
-// Adjust to Thursday at 18:00 UTC / 1pm EST
-var attrs = {day: "Thursday", hour: 18, minute: 0, second: 0, millisecond: 0}
+// Adjust to Thursday at 17:00 UTC / 1pm EDT
+var attrs = {day: "Thursday", hour: 17, minute: 0, second: 0, millisecond: 0}
 
 var start = moment().utc().set(attrs)
 
