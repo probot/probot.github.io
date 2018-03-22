@@ -6,7 +6,7 @@ screenshots:
 - https://user-images.githubusercontent.com/8315038/37742479-cc18daaa-2d33-11e8-886e-6de63df96edd.png
 authors: [ szeck87 ]
 repository: szeck87/issue-complete
-host: https://issue-complete.glitch.me/probot/
+host: https://issue-complete.glitch.me
 ---
 
 ## What It Does
