@@ -9,12 +9,6 @@ var attrs = {day: "Thursday", hour: 18, minute: 0, second: 0, millisecond: 0}
 var start = moment().utc().set(attrs)
 var end = start.clone().add({hour: 1})
 
-// If it's already passed today, go to the next occurrence
-if(start < moment()) {
-  start.add({days: 7})
-}
-
-var end = moment(start).add({hour: 1})
 
 if(debug || start < moment().utc().add(4, 'hours')) {
   document.body.classList.add('office-hours-soon')
