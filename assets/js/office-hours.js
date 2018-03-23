@@ -7,6 +7,7 @@ var debug = false;
 var attrs = {day: "Thursday", hour: 18, minute: 0, second: 0, millisecond: 0}
 
 var start = moment().utc().set(attrs)
+var end = start.clone().add({hour: 1})
 
 // If it's already passed today, go to the next occurrence
 if(start < moment()) {
@@ -22,8 +23,8 @@ if(debug || start < moment().utc().add(4, 'hours')) {
   });
 }
 
-displayTime(document.querySelectorAll('.js-office-hours-start-time'), start);
-displayTime(document.querySelectorAll('.js-office-hours-end-time'), end);
+displayTime(document.querySelectorAll('.js-office-hours-start-time'), start.clone());
+displayTime(document.querySelectorAll('.js-office-hours-end-time'), end.clone());
 
 function displayTime(elements, time) {
   elements.forEach(function(el) {
