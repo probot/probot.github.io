@@ -22,7 +22,7 @@ organizations:
 - tlvince
 - nikolay
 - luanmuniz
-- gregswindle
+- enieber
 redirect_from: "/apps/validate-commit-msg-bot/"
 ---
 
