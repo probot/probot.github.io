@@ -11,7 +11,7 @@ repository: tlvince/validate-commit-msg-bot
 stars: 6
 updated: 2018-02-14 10:49:59 UTC
 host: https://validate-commit-msg-bot.now.sh
-installations: 27
+installations: 28
 organizations:
 - chaijs
 - SpoonX
@@ -19,10 +19,10 @@ organizations:
 - angular-pouchdb
 - devcenter-square
 - christophehurpeau
+- SuriyaaKudoIsc
 - tlvince
 - nikolay
 - luanmuniz
-- enieber
 redirect_from: "/apps/validate-commit-msg-bot/"
 ---
 

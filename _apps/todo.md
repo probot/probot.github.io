@@ -9,9 +9,10 @@ authors:
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
 stars: 115
-updated: 2018-03-27 09:51:47 UTC
-installations: 156
+updated: 2018-03-29 16:55:57 UTC
+installations: 160
 organizations:
+- sweetalert2
 - mas-cli
 - thibmaek
 - heinrichreimer
@@ -21,7 +22,6 @@ organizations:
 - icco
 - timvideos
 - getantibody
-- phatblat
 ---
 ## Usage
 
