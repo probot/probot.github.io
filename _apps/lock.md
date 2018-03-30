@@ -8,13 +8,14 @@ authors:
 - dessant
 repository: dessant/lock-threads
 host: https://probot-lock-threads.glitch.me
-stars: 5
+stars: 6
 updated: 2018-03-29 11:19:53 UTC
-installations: 10
+installations: 11
 organizations:
 - atom
 - kivy
 - Semantic-Org
+- ethereum
 - node-serialport
 - jahirfiquitiva
 - LibreTime
