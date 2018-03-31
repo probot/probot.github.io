@@ -19,9 +19,9 @@ organizations:
 - LibreTime
 - aethonanbot
 - sydneyhaskell
-- aVengineers
 - elodiebot
 - dddpppmmm
+- funky-cactus
 ---
 
 # invite-contributors
