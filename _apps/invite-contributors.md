@@ -14,8 +14,8 @@ installations: 14
 organizations:
 - Laravel-Backpack
 - cla-assistant
-- contentful-userland
 - flyve-mdm
+- contentful-userland
 - LibreTime
 - aethonanbot
 - sydneyhaskell

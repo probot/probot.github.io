@@ -10,10 +10,11 @@ repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 31
 updated: 2018-03-31 08:08:41 UTC
-installations: 17
+installations: 21
 organizations:
 - probot
 - gillesdemey
+- ahmadnassri
 - timvideos
 - tunnckoCore
 - electron
@@ -21,7 +22,6 @@ organizations:
 - Unibeautify
 - im-tomu
 - mithro
-- JasonEtco
 ---
 ## Usage
 
