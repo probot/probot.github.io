@@ -18,8 +18,8 @@ organizations:
 - KengoTODA
 - behaviorbot
 - ilovecode1
-- PHPMap
 - u3u
+- PHPMap
 - varunsridharan
 - marclop
 - cms-gem-daq-project
