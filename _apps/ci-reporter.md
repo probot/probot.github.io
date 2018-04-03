@@ -18,9 +18,9 @@ organizations:
 - timvideos
 - tunnckoCore
 - electron
+- leinardi
 - nice-registry
 - Unibeautify
-- leinardi
 - im-tomu
 ---
 ## Usage
