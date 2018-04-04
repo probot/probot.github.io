@@ -19,7 +19,7 @@ organizations:
 - LibreTime
 - aethonanbot
 - sydneyhaskell
-- elodiebot
+- elofyi
 - dddpppmmm
 - funky-cactus
 ---

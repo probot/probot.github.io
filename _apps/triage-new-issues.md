@@ -25,8 +25,8 @@ organizations:
 - thefrontside
 - jahirfiquitiva
 - tunnckoCore
-- eXist-db
 - leinardi
+- eXist-db
 ---
 
 
