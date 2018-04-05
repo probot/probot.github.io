@@ -9,9 +9,9 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://dep-bot.herokuapp.com
-stars: 23
-updated: 2018-02-28 15:32:27 UTC
-installations: 28
+stars: 26
+updated: 2018-03-24 06:37:02 UTC
+installations: 36
 organizations:
 - probot
 - Laravel-Backpack
@@ -21,8 +21,8 @@ organizations:
 - mithro
 - flyve-mdm
 - ahmed-taj
+- upfrontIO
 - SymbiFlow
-- allejo
 ---
 
 <p align="center">

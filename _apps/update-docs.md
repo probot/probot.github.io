@@ -11,18 +11,18 @@ authors:
 repository: behaviorbot/update-docs
 updated: 2018-02-19 01:59:35 UTC
 host: https://probot-update-docs.herokuapp.com
-installations: 19
+installations: 21
 organizations:
 - adonisjs
 - xcodeswift
 - KengoTODA
 - behaviorbot
-- PHPMap
 - ilovecode1
 - u3u
+- PHPMap
+- varunsridharan
 - marclop
 - cms-gem-daq-project
-- aVengineers
 ---
 
 

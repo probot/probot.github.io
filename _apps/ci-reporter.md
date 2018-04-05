@@ -8,20 +8,20 @@ authors:
 - JasonEtco
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
-stars: 27
-updated: 2018-03-06 10:11:47 UTC
-installations: 12
+stars: 32
+updated: 2018-04-04 05:41:50 UTC
+installations: 23
 organizations:
 - probot
+- gillesdemey
+- ahmadnassri
 - timvideos
 - tunnckoCore
 - electron
+- leinardi
+- nice-registry
 - Unibeautify
-- mithro
 - im-tomu
-- JasonEtco
-- flatiron-labs
-- united-drivers
 ---
 ## Usage
 
