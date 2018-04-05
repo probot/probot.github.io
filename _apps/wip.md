@@ -7,7 +7,7 @@ screenshots:
 authors:
 - gr2m
 repository: gr2m/wip-bot
-stars: 78
+stars: 80
 updated: 2018-04-04 17:35:02 UTC
 host: https://wip-bot.now.sh
 installations: 454
