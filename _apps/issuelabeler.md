@@ -1,6 +1,6 @@
 ---
 title: Issue Labeler
-description: A GitHub bot to label issues automatically based on title and body against list of defined labels.
+description: Label issues based on title and body against list of defined labels.
 slug: issuelabeler
 screenshots:
 - https://raw.githubusercontent.com/riyadhalnur/issuelabeler/master/assets/screenshot.png
@@ -9,7 +9,7 @@ repository: riyadhalnur/issuelabeler
 host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production
 ---
 
-A GitHub bot to label issues automatically based on title and body against list of defined labels. Built with [probot](https://github.com/probot/probot).  
+A GitHub bot to label issues based on title and body against list of defined labels. Built with [probot](https://github.com/probot/probot).  
 
 ## Installation  
 After installation, create `.github/labeler.yml` in the default branch to enable it:
