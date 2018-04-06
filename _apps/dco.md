@@ -16,12 +16,12 @@ organizations:
 - fluent
 - gradle
 - pi-hole
+- src-d
 - vitessio
 - openebs
 - jaegertracing
 - linkerd
 - envoyproxy
-- git-for-windows
 ---
 
 
