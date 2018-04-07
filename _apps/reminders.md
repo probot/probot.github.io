@@ -11,7 +11,7 @@ repository: probot/reminders
 stars: 23
 updated: 2018-04-05 15:54:14 UTC
 host: https://probot-reminders.herokuapp.com
-installations: 148
+installations: 151
 organizations:
 - eggjs
 - chaijs

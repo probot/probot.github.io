@@ -13,7 +13,7 @@ authors:
 - olstenlarck
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
-stars: 4
+stars: 5
 updated: 2018-04-03 05:25:10 UTC
 installations: 30
 organizations:
@@ -25,8 +25,8 @@ organizations:
 - thefrontside
 - jahirfiquitiva
 - tunnckoCore
-- leinardi
 - eXist-db
+- red-eclipse
 ---
 
 
