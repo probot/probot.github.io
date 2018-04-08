@@ -8,9 +8,9 @@ authors:
 repository: probot/settings
 screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
-updated: 2018-04-07 08:34:36 UTC
+updated: 2018-04-08 10:49:36 UTC
 host: https://github-configurer.herokuapp.com
-installations: 129
+installations: 130
 organizations:
 - apollographql
 - CNXTEoEorg

@@ -16,8 +16,8 @@ organizations:
 - prettier
 - ethereum
 - kivy
-- wireapp
 - eggjs
+- wireapp
 - CachetHQ
 - Graylog2
 - electron-userland

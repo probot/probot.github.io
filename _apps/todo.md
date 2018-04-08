@@ -8,9 +8,9 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
-stars: 116
+stars: 117
 updated: 2018-04-06 15:20:22 UTC
-installations: 165
+installations: 166
 organizations:
 - mas-cli
 - thibmaek

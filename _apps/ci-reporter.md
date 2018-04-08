@@ -9,9 +9,10 @@ authors:
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 33
-updated: 2018-04-05 14:17:13 UTC
-installations: 22
+updated: 2018-04-07 23:29:36 UTC
+installations: 23
 organizations:
+- thibmaek
 - probot
 - gillesdemey
 - ahmadnassri
@@ -21,7 +22,6 @@ organizations:
 - nice-registry
 - Unibeautify
 - im-tomu
-- mithro
 ---
 ## Usage
 
