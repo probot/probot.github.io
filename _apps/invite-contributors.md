@@ -10,7 +10,7 @@ repository: erickzhao/invite-contributors
 stars: 17
 updated: 2017-11-06 05:29:49 UTC
 host: https://vast-stream-78160.herokuapp.com
-installations: 14
+installations: 15
 organizations:
 - Laravel-Backpack
 - cla-assistant
@@ -20,8 +20,8 @@ organizations:
 - aethonanbot
 - sydneyhaskell
 - elofyi
-- dddpppmmm
-- funky-cactus
+- baas-cloud
+- chaijs
 ---
 
 # invite-contributors
