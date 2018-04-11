@@ -18,8 +18,8 @@ organizations:
 - nozzle
 - MinecraftForge
 - PHPOffice
-- wix
 - Laravel-Backpack
+- wix
 - Radarr
 - GameServerManagers
 ---
