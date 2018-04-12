@@ -11,18 +11,18 @@ repository: ahmed-taj/dep
 host: https://dep-bot.herokuapp.com
 stars: 26
 updated: 2018-03-24 06:37:02 UTC
-installations: 38
+installations: 39
 organizations:
 - probot
 - Laravel-Backpack
 - thefrontside
 - timvideos
 - tunnckoCore
+- TECLIB
 - mithro
 - flyve-mdm
 - ahmed-taj
 - upfrontIO
-- SymbiFlow
 ---
 
 <p align="center">

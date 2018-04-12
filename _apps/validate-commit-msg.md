@@ -21,8 +21,8 @@ organizations:
 - christophehurpeau
 - tlvince
 - nikolay
-- luanmuniz
 - enieber
+- luanmuniz
 redirect_from: "/apps/validate-commit-msg-bot/"
 ---
 
