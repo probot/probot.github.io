@@ -9,7 +9,7 @@ stars: 26
 authors:
 - hiimbex
 repository: behaviorbot/sentiment-bot
-updated: 2017-12-07 11:27:04 UTC
+updated: 2018-04-13 17:43:17 UTC
 host: https://probot-sentiment-bot.herokuapp.com
 installations: 36
 organizations:
