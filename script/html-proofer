@@ -9,6 +9,7 @@ url_ignores = [
   %r{https://github.com/apps/.*/installations/new},
   "https://mochajs.org/",
   %r{mit-license\.org}, # misconfigured SSL or old certs on Travis CI?
+  %r{https://localhost:*/*}, # Ignore links to localhost in documentation
 ]
 
 begin
@@ -18,7 +19,12 @@ begin
     :file_ignore => [%r{_site/api/}],
     :verbose => !!ENV["VERBOSE"],
     :check_html => true,
-    :empty_alt_ignore => true
+    :empty_alt_ignore => true,
+    :typhoeus => {
+      # Work around SSL errors: https://github.com/gjtorikian/html-proofer/issues/376
+      :ssl_verifypeer => false,
+      :ssl_verifyhost => 0
+    }
   ).run
 rescue => e
   puts "\n", e
