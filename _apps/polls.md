@@ -10,20 +10,20 @@ authors:
 - evenchange4
 repository: evenchange4/gh-polls-bot
 host: https://gh-polls-bot.now.sh
-stars: 111
-updated: 2017-12-13 16:57:39 UTC
-installations: 60
+stars: 124
+updated: 2018-01-15 01:35:10 UTC
+installations: 108
 organizations:
 - apex
+- RxSwiftCommunity
 - chaijs
-- detailyang
+- jaegertracing
 - ahmetb
-- probot
+- detailyang
+- terkelg
 - hql287
-- evhub
-- Glavin001
-- jbarlow83
-- cheton
+- probot
+- Laravel-Backpack
 ---
 
 # GitHub Polls Bot

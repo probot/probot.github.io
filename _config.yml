@@ -13,6 +13,8 @@ exclude:
   - script
   - vendor
 
+markdown: GFM
+
 sass:
   style: :compressed
   sass_dir: _sass

@@ -7,21 +7,21 @@ screenshots:
 authors:
 - JasonEtco
 repository: JasonEtco/todo
-host: https://todo-api.jasonet.co
-stars: 51
-updated: 2017-12-05 05:46:12 UTC
-installations: 85
+host: https://todo-github-app.now.sh
+stars: 118
+updated: 2018-04-06 15:20:22 UTC
+installations: 171
 organizations:
+- mas-cli
 - thibmaek
-- goreleaser
+- heinrichreimer
+- Laravel-Backpack
+- Radarr
 - caarlos0
 - SpoonX
+- ahmadnassri
 - icco
-- getantibody
-- drinchev
-- phatblat
-- mtxr
-- ignatandrei
+- timvideos
 ---
 ## Usage
 

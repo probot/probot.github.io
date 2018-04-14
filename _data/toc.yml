@@ -12,9 +12,14 @@ Advanced:
   - docs/pagination.md
   - docs/extensions.md
   - docs/deployment.md
+  - docs/persistence.md
   - docs/best-practices.md
 Reference:
   - title: robot
     url: "https://probot.github.io/api/latest/Robot.html"
   - title: context
     url: "https://probot.github.io/api/latest/Context.html"
+  - title: context.github
+    url: "http://octokit.github.io/rest.js/"
+  - title: GitHub Webhook Events
+    url: "https://developer.github.com/webhooks/#events"

@@ -8,17 +8,21 @@ screenshots:
 authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
-host: https://commitlint.now.sh
-stars: 25
-updated: 2017-12-02 14:17:57 UTC
-installations: 9
+host: https://commitlint.herokuapp.com
+stars: 57
+updated: 2018-04-08 19:32:53 UTC
+installations: 38
 organizations:
-- db-migrate
 - caarlos0
+- TECLIB
+- ajsb85
 - algolia
+- flyve-mdm
 - ahmed-taj
-- aVengineers
-- caiquecastro
+- SuriyaaKudoIsc
+- upfrontIO
+- CharlyJazz
+- glpi-project
 ---
 
 <p align="center">

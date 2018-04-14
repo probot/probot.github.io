@@ -3,23 +3,25 @@ title: invite-contributors
 description: Invite authors of merged pull requests to your organization
 slug: invite-contributors
 screenshots:
-- https://i.imgur.com/USwS3CF.png
+- https://i.imgur.com/IoTF1aD.png
 authors:
 - erickzhao
 repository: erickzhao/invite-contributors
-stars: 8
+stars: 17
 updated: 2017-11-06 05:29:49 UTC
 host: https://vast-stream-78160.herokuapp.com
-installations: 8
+installations: 16
 organizations:
+- Laravel-Backpack
 - cla-assistant
+- contentful-userland
 - flyve-mdm
+- react-native-sensors
+- LibreTime
 - aethonanbot
 - sydneyhaskell
-- aVengineers
-- chaijs
-- elodiebot
-- dddpppmmm
+- baas-cloud
+- elofyi
 ---
 
 # invite-contributors
@@ -32,9 +34,17 @@ organizations:
 
 1. Configure the GitHub App.
 2. invite-contributors will automatically invite new users who have their pull requests merged to your organization.
-3. If you want to add new contributors to a specific team in your organization, add a `.github/invite-contributors.yml` file into your repository such as below. *Note that entering the team name and team slug are both valid formats.*
+3. More options are available if you add a `.github/invite-contributors.yml` file into your repository such as below.
+
 ```
-# team name
+# If true, this will add new contributors as outside collaborators
+# to the repo their PR was merged in. Team name is ignored if this
+# flag is set to true.
+isOutside: false
+
+# Specify team name to add new contributors to a specific team
+# within your organization.
+# Use team name or team-name-slug
 team: MY TEAM NAME
 ```
 

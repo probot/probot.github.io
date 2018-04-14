@@ -9,19 +9,20 @@ authors:
 - lee-dohm
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
-stars: 20
-updated: 2017-11-13 22:25:45 UTC
-installations: 12
+stars: 25
+updated: 2018-04-13 15:51:35 UTC
+installations: 46
 organizations:
+- prettier
+- ethereum
+- kivy
 - eggjs
-- rmm5t
+- wireapp
+- CachetHQ
+- Graylog2
 - electron-userland
+- rmm5t
 - probot
-- db-migrate
-- guillermocalvo
-- CyclopsMC
-- Dallas-Makerspace
-- aVengineers
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.

@@ -8,16 +8,21 @@ screenshots:
 authors:
 - ahmed-taj
 repository: ahmed-taj/dep
-host: https://dep.now.sh
-stars: 8
-updated: 2017-11-25 11:27:00 UTC
-installations: 6
+host: https://dep-bot.herokuapp.com
+stars: 26
+updated: 2018-03-24 06:37:02 UTC
+installations: 40
 organizations:
 - probot
+- Laravel-Backpack
+- thefrontside
+- timvideos
 - tunnckoCore
-- laughedelic
-- philoserf
-- aVengineers
+- TECLIB
+- mithro
+- flyve-mdm
+- ahmed-taj
+- upfrontIO
 ---
 
 <p align="center">
