@@ -7,7 +7,7 @@ layout: default
     <div class="d-md-flex d-md-flex-row gutter-md-spacious">
       <div class="col-md-9">
         <h1 class="alt-h1 lh-condensed-ultra">{{ page.title }}</h1>
-        <div class="text-gray-light">{{ page.description }}</div>
+        <div class="text-gray-light">{{ page.description | markdownify }}</div>
       </div>
       <div class="col-md-3 text-center">
         <a class="mt-md-1 mb-2 d-block btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new" data-proofer-ignore ga-on="click" ga-event-category="App Install">

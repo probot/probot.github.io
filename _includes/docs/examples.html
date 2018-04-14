@@ -2,6 +2,6 @@
 
 <ul>
 {% for app in apps %}
-  <li><a href="{{ app.url }}">{{ app.title }}</a> - {{ app.description }}</li>
+  <li><a href="{{ app.url }}">{{ app.title }}</a> - {{ app.description | markdownify }}</li>
 {% endfor %}
 </ul>

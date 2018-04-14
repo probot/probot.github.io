@@ -1,7 +1,7 @@
 <div class="col-lg-4 col-md-6 mb-3 mt-3 d-flex flex-column">
   <a href="{{ app.url }}" class="d-flex flex-column bg-white rounded-1 box-shadow border text-inherit no-underline flex-1" style="height:100%">
     <h3 class="h4 px-3 pt-3">{{ app.title }}</h3>
-    <p class="text-gray lh-condensed px-3 pb-3">{{ app.description }}</p>
+    <p class="text-gray lh-condensed px-3 pb-3">{{ app.description | markdownify }}</p>
     <div class="text-gray-light pl-3 pr-2 py-2 bg-gray-light border-top" style="margin-top: auto; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
       <div class="d-flex flex-row">
         {% if app.installations %}
