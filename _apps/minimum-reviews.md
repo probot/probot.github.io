@@ -1,19 +1,17 @@
 ---
-# A human-friendly name of your listing
 title: Minimum reviews
-# A short description of what your app does
 description: Enforce a minimum number of reviews on Pull Requests
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: minimum-reviews
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/24159/38566574-0015d8b6-3cb2-11e8-872f-e9495192581e.png
-# The GitHub usernames of anyone who authored the app
-authors: [ raulriera ]
-# The repository where the code is located
+authors:
+- raulriera
 repository: raulriera/probot-minimum-reviews
-# The address where this app is deployed
 host: https://horn-produce.glitch.me/
+stars: 3
+updated: 2018-04-12 23:37:15 UTC
+installations: 1
+organizations: []
 ---
 
 # Probot: Minimum Reviews

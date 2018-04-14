@@ -4,9 +4,16 @@ description: Marks incomplete issues with a label and comment
 slug: issue-complete
 screenshots:
 - https://user-images.githubusercontent.com/8315038/37742479-cc18daaa-2d33-11e8-886e-6de63df96edd.png
-authors: [ szeck87 ]
+authors:
+- szeck87
 repository: szeck87/issue-complete
 host: https://issue-complete.glitch.me
+stars: 2
+updated: 2018-04-07 04:43:38 UTC
+installations: 3
+organizations:
+- Maatwebsite
+- Glavin001
 ---
 
 ## What It Does
