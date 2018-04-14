@@ -8,11 +8,12 @@ stars: 47
 authors:
 - bkeepers
 repository: probot/dco
-updated: 2018-04-10 16:23:51 UTC
+updated: 2018-04-13 15:34:56 UTC
 host: https://probot-dco.herokuapp.com
-installations: 163
+installations: 169
 organizations:
 - prometheus
+- gatsbyjs
 - hyperledger
 - fluent
 - gradle
@@ -21,7 +22,6 @@ organizations:
 - vitessio
 - openebs
 - jaegertracing
-- linkerd
 ---
 
 
