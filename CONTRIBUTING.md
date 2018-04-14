@@ -64,7 +64,7 @@ Any documentation can go here. Many apps just use their README.md here.
 ## Requirements for apps
 
 - Performs a useful action through the GitHub API that solves an existing problem for developers
-- Is original: ie does something not already done by an existing probot app
+- Is original: for example, it does something not already done by an existing probot app
 - Has tests
 - Has documentation
 - Is open source
