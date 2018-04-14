@@ -16,7 +16,7 @@ issue-complete looks at the body of an issue and adds a label and comment if it 
 ## Setup
 
 1. Install the [GitHub app](https://github.com/apps/issue-complete)
-2. Create a `.github/issuecomplete.yml` file in your repository (see [issuecomplete.yml](issuecomplete.yml) for a template). If you don't create this, the app will use defaults.
+2. Create a `.github/issuecomplete.yml` file in your repository (see [issuecomplete.yml](https://github.com/szeck87/issue-complete/blob/master/issuecomplete.yml) for a template). If you don't create this, the app will use defaults.
 
 ```yaml
 # The name of the label to apply when an issue does not have all tasks checked
@@ -31,6 +31,9 @@ commentText: >
   More text here.
   And more text here.
 
+# Whether or not to ensure all checkboxes are checked
+checkCheckboxes: true  
+
 keywords:
   - gist
   - recreate
@@ -38,4 +41,4 @@ keywords:
 
 ## Deploy
 
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
+See [docs/deploy.md](https://github.com/szeck87/issue-complete/blob/master/docs/deploy.md) if you would like to run your own instance of this app.
