@@ -61,16 +61,12 @@ host: https://my-probot-app.awesomecloudhost.com
 Any documentation can go here. Many apps just use their README.md here.
 ```
 
-## Hosting your app
+## Requirements for apps
 
-We will list un-hosted apps on the website to help gain more exposure. We will consider hosting apps on a case by case basis.
-
-When considering hosting new plugins here's what we look for, the app:
-
-- Works (ie it can run without errors and perform some sort of action on GitHub through the API)
-- Does something not already done by an existing probot app
-- Has minimal tests
-- Has minimal documentation
+- Performs a useful action through the GitHub API that solves an existing problem for developers
+- Is original: for example, it does something not already done by an existing probot app
+- Has tests
+- Has documentation
 - Is open source
 - Has a license
 - Has a code of conduct
