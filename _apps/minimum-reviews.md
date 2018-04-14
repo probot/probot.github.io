@@ -4,7 +4,7 @@ title: Minimum reviews
 # A short description of what your app does
 description: Enforce a minimum number of reviews on Pull Requests
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
-slug: n/a
+slug: minimum-reviews
 # Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/24159/38566574-0015d8b6-3cb2-11e8-872f-e9495192581e.png
@@ -17,8 +17,6 @@ host: https://horn-produce.glitch.me/
 ---
 
 # Probot: Minimum Reviews
-
-> a GitHub App built with [Probot](https://github.com/probot/probot) that enforces a minimum number of reviews in Pull Requests.
 
 ![Screenshot](https://user-images.githubusercontent.com/24159/38566574-0015d8b6-3cb2-11e8-872f-e9495192581e.png)
 
@@ -47,7 +45,3 @@ notReadyMessage: 'Pending review approvals'
 # 'failure, error, and pending' are the suggested options
 notReadyState: 'pending'
 ```
-
-## Deployment
-
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
