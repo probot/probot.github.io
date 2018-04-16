@@ -11,7 +11,20 @@ host: https://similer-code-searcher.glitch.me
 
 # Similar code Searcher
 
-a GitHub App built with probot that searches files similar with deleted code in Pull Request. 
+## What does this bot solve
+
+Developers sometimes forget to change files or components that should be changed at the same time.
+
+## How does bot work
+
+Propose files that should be changed simultaneously by searching for similar lines.
+
+## How to Use:
+
+1. The developer(you) submits a pull request
+2. Similar-code-searcher(bot) suggests similar source code files
+3. The developer and reviewers verify that should be change at the same time.
+4. Change similar code or ignore suggestion and merge PR
 
 ## Usage
 
