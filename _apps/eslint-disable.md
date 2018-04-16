@@ -9,7 +9,7 @@ authors:
 repository: koddsson/eslint-disable-probot
 host: https://eslint-disable-probot.herokuapp.com
 stars: 11
-updated: 2018-03-23 23:06:25 UTC
+updated: 2018-04-16 03:03:56 UTC
 installations: 6
 organizations:
 - thibmaek
