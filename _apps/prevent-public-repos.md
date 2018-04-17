@@ -16,7 +16,6 @@ organizations:
 - telusdigital
 - logrhythm
 - engineersmy
-- whitbread-eos
 - finnerds
 ---
 

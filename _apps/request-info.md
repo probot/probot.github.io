@@ -9,7 +9,7 @@ stars: 23
 authors:
 - hiimbex
 repository: behaviorbot/request-info
-updated: 2018-04-16 17:58:39 UTC
+updated: 2018-04-17 15:41:11 UTC
 host: https://probot-request-info.herokuapp.com
 installations: 110
 organizations:
