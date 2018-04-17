@@ -11,6 +11,8 @@ host: https://similer-code-searcher.glitch.me
 
 # Similar code Searcher
 
+![screeenshot](https://github.com/Ikuyadeu/similar-code-searcher/raw/master/images/Screenshot.png)
+
 ## What does this bot solve
 
 Developers sometimes forget to change files or components that should be changed at the same time.
