@@ -1,6 +1,6 @@
 ---
 title: Duplicator
-description: Create full copies of issues with a single command Edit
+description: Create full copies of issues with a single command
 slug: duplicator
 screenshots:
 - https://user-images.githubusercontent.com/24159/38773624-51f04930-401f-11e8-8caa-8265eb5fa1ac.png
@@ -14,7 +14,7 @@ host: https://rapid-sousaphone.glitch.me/
 
 # Probot: Duplicator
 
-![Screenshot](https://user-images.githubusercontent.com/24159/38566574-0015d8b6-3cb2-11e8-872f-e9495192581e.png)
+![Screenshot](https://user-images.githubusercontent.com/24159/38773624-51f04930-401f-11e8-8caa-8265eb5fa1ac.png)
 
 ## Usage
 
