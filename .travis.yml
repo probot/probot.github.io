@@ -1,4 +1,3 @@
-before_script: "./script/bootstrap"
 script: "./script/cibuild"
 language: ruby
 rvm:
