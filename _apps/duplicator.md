@@ -10,6 +10,10 @@ authors:
 - raulriera
 repository: raulriera/probot-duplicator
 host: https://rapid-sousaphone.glitch.me/
+stars: 2
+updated: 2018-04-18 17:52:50 UTC
+installations: 2
+organizations: []
 ---
 
 # Probot: Duplicator

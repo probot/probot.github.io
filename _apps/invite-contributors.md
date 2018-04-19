@@ -15,8 +15,8 @@ organizations:
 - Laravel-Backpack
 - cla-assistant
 - contentful-userland
-- flyve-mdm
 - react-native-sensors
+- flyve-mdm
 - LibreTime
 - aethonanbot
 - sydneyhaskell
