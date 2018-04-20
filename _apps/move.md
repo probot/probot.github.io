@@ -11,7 +11,7 @@ repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 11
 updated: 2018-04-17 20:46:30 UTC
-installations: 32
+installations: 33
 organizations:
 - atom
 - home-assistant

@@ -1,6 +1,7 @@
 ---
 title: helPR
-description: Assigns labels to issues based on the status of the PR associated with it.
+description: Assigns labels to issues based on the status of the PR associated with
+  it.
 slug: helpr
 screenshots:
 - https://raw.githubusercontent.com/rsarky/helpr/master/screenshots/usage-img1.jpg
@@ -8,6 +9,10 @@ authors:
 - rsarky
 repository: rsarky/helpr
 host: https://evening-depths-50399.herokuapp.com
+stars: 4
+updated: 2018-04-20 09:11:34 UTC
+installations: 1
+organizations: []
 ---
 
 <p align="center">
