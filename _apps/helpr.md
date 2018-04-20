@@ -7,7 +7,7 @@ screenshots:
 authors:
 - rsarky
 repository: rsarky/helpr
-host: https://evening-depths-50399.herokuapp.com/
+host: https://evening-depths-50399.herokuapp.com
 ---
 
 <p align="center">
