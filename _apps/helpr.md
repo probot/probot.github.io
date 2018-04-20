@@ -3,7 +3,7 @@ title: helPR
 description: Assigns labels to issues based on the status of the PR associated with it.
 slug: helpr
 screenshots:
-- https://github.com/rsarky/helpr/blob/master/screenshots/usage-img1.jpg
+- https://raw.githubusercontent.com/rsarky/helpr/master/screenshots/usage-img1.jpg
 authors:
 - rsarky
 repository: rsarky/helpr
@@ -27,12 +27,12 @@ Using helpr is pretty straightforward. Just [install](https://github.com/apps/he
 
 Consider this open issue :
 
-![issue](https://github.com/rsarky/helpr/blob/master/screenshots/usage-img2.jpg)
+![issue](https://raw.githubusercontent.com/rsarky/helpr/master/screenshots/usage-img2.jpg)
 <br><br>
 
 Now when someone references this issue in a pull request helpr will automatically add the label `pr-available` :
 
-![labelled](https://github.com/rsarky/helpr/blob/master/screenshots/usage-img1.jpg)
+![labelled](https://raw.githubusercontent.com/rsarky/helpr/master/screenshots/usage-img1.jpg)
 <br><br>
 
 
