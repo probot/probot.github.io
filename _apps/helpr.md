@@ -64,15 +64,3 @@ opened: 'pr-available'
 merged: 'pr-merged'
 rejected: 'pr-rejected'
 ```
-
-## Setup
-
-```sh
-# Install dependencies
-npm install
-
-# Run the bot
-npm start
-```
-
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
