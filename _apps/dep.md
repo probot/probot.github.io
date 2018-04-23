@@ -11,7 +11,7 @@ repository: ahmed-taj/dep
 host: https://probot-dep.now.sh
 stars: 30
 updated: 2018-03-24 06:37:02 UTC
-installations: 40
+installations: 43
 organizations:
 - probot
 - Laravel-Backpack
@@ -19,10 +19,10 @@ organizations:
 - timvideos
 - tunnckoCore
 - TECLIB
+- cmfcmf
 - mithro
 - flyve-mdm
 - ahmed-taj
-- upfrontIO
 ---
 
 <p align="center">
