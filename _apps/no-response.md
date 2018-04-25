@@ -11,7 +11,7 @@ repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 25
 updated: 2018-04-13 15:51:35 UTC
-installations: 52
+installations: 53
 organizations:
 - prettier
 - ethereum
