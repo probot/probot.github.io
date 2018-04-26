@@ -10,7 +10,7 @@ authors:
 repository: ahmed-taj/dep
 host: https://probot-dep.now.sh
 stars: 30
-updated: 2018-03-24 06:37:02 UTC
+updated: 2018-04-26 13:03:17 UTC
 installations: 43
 organizations:
 - probot

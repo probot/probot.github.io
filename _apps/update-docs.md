@@ -17,8 +17,8 @@ organizations:
 - xcodeswift
 - KengoTODA
 - behaviorbot
-- ilovecode1
 - u3u
+- ilovecode1
 - PHPMap
 - varunsridharan
 - marclop

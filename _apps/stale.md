@@ -11,18 +11,18 @@ stars: 360
 repository: probot/stale
 updated: 2018-04-24 18:36:28 UTC
 host: https://probot-stale.herokuapp.com
-installations: 633
+installations: 684
 organizations:
 - atom
 - facebook
-- Homebrew
+- sebastianbergmann
 - Shopify
+- Homebrew
 - Semantic-Org
 - nwjs
 - prettier
 - gohugoio
 - ethereum
-- storybooks
 ---
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.
