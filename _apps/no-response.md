@@ -9,9 +9,9 @@ authors:
 - lee-dohm
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
-stars: 25
+stars: 26
 updated: 2018-04-13 15:51:35 UTC
-installations: 53
+installations: 54
 organizations:
 - prettier
 - ethereum

@@ -19,8 +19,8 @@ organizations:
 - flyve-mdm
 - LibreTime
 - aethonanbot
-- sydneyhaskell
 - baas-cloud
+- sydneyhaskell
 - elofyi
 ---
 
