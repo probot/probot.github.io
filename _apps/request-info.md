@@ -22,7 +22,7 @@ organizations:
 - bolt
 - probot
 - hql287
-- benbalter
+- goreleaser
 ---
 
 
