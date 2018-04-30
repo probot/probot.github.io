@@ -8,7 +8,7 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
-stars: 121
+stars: 120
 updated: 2018-04-27 13:14:43 UTC
 installations: 181
 organizations:
