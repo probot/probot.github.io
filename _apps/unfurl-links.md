@@ -8,9 +8,9 @@ authors:
 - bkeepers
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
-stars: 33
+stars: 32
 updated: 2018-04-30 00:17:22 UTC
-installations: 70
+installations: 69
 organizations:
 - reactiveui
 - probot

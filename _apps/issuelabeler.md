@@ -10,10 +10,11 @@ repository: riyadhalnur/issuelabeler
 host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production
 stars: 1
 updated: 2018-04-06 07:25:51 UTC
-installations: 3
+installations: 4
 organizations:
 - nodeschool
 - aonez
+- cms-gem-daq-project
 - dibosh
 ---
 
