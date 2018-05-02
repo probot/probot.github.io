@@ -7,15 +7,15 @@ screenshots:
 authors:
 - erickzhao
 repository: erickzhao/invite-contributors
-stars: 18
+stars: 19
 updated: 2018-04-15 23:17:35 UTC
 host: https://vast-stream-78160.herokuapp.com
 installations: 16
 organizations:
 - Laravel-Backpack
 - cla-assistant
-- contentful-userland
 - react-native-sensors
+- contentful-userland
 - flyve-mdm
 - LibreTime
 - aethonanbot
