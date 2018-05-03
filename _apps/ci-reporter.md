@@ -10,7 +10,7 @@ repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 32
 updated: 2018-04-30 11:50:59 UTC
-installations: 37
+installations: 38
 organizations:
 - thibmaek
 - probot
