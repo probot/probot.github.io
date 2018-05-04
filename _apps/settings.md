@@ -20,8 +20,8 @@ organizations:
 - wp-cli
 - probot
 - benbalter
+- Anahkiasen
 - TGMPA
-- purpleidea
 ---
 
 This GitHub App syncs repository settings defined in `.github/settings.yml` to GitHub, enabling Pull Requests for repository settings.

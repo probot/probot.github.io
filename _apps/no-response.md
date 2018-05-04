@@ -11,9 +11,11 @@ repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 27
 updated: 2018-04-13 15:51:35 UTC
-installations: 58
+installations: 60
 organizations:
+- Homebrew
 - prettier
+- webtorrent
 - ethereum
 - kivy
 - eggjs
@@ -21,8 +23,6 @@ organizations:
 - CachetHQ
 - Graylog2
 - electron-userland
-- rmm5t
-- artf
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.

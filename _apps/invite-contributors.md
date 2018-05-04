@@ -14,8 +14,8 @@ installations: 16
 organizations:
 - Laravel-Backpack
 - cla-assistant
-- react-native-sensors
 - contentful-userland
+- react-native-sensors
 - flyve-mdm
 - LibreTime
 - aethonanbot

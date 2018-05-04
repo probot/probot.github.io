@@ -9,9 +9,9 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
 host: https://probot-commitlint.now.sh
-stars: 60
+stars: 61
 updated: 2018-04-28 00:10:53 UTC
-installations: 37
+installations: 38
 organizations:
 - caarlos0
 - TECLIB
@@ -20,9 +20,9 @@ organizations:
 - flyve-mdm
 - ahmed-taj
 - upfrontIO
+- blackxored
 - CharlyJazz
 - glpi-project
-- theo4u
 ---
 
 <p align="center">
