@@ -7,8 +7,8 @@ screenshots:
 authors:
 - erickzhao
 repository: erickzhao/invite-contributors
-stars: 19
-updated: 2018-05-02 20:41:49 UTC
+stars: 20
+updated: 2018-05-05 14:10:11 UTC
 host: https://vast-stream-78160.herokuapp.com
 installations: 16
 organizations:

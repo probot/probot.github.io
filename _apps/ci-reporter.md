@@ -10,18 +10,18 @@ repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 32
 updated: 2018-05-04 12:46:23 UTC
-installations: 39
+installations: 44
 organizations:
+- semantic-release
 - thibmaek
 - probot
+- octokit
 - Radarr
 - gillesdemey
+- gr2m
 - ahmadnassri
 - timvideos
 - tunnckoCore
-- electron
-- nice-registry
-- Unibeautify
 ---
 ## Usage
 
