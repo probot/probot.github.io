@@ -9,8 +9,8 @@ authors:
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 32
-updated: 2018-05-04 12:46:23 UTC
-installations: 44
+updated: 2018-05-06 15:25:23 UTC
+installations: 45
 organizations:
 - semantic-release
 - thibmaek
