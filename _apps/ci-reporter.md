@@ -9,7 +9,7 @@ authors:
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 32
-updated: 2018-05-06 15:25:23 UTC
+updated: 2018-05-07 21:14:12 UTC
 installations: 46
 organizations:
 - explosion
@@ -17,11 +17,11 @@ organizations:
 - thibmaek
 - probot
 - octokit
+- offu
 - Radarr
 - gillesdemey
 - gr2m
 - ahmadnassri
-- timvideos
 ---
 ## Usage
 
