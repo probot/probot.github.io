@@ -41,9 +41,9 @@ exemptProjects: false
 exemptMilestones: false
 
 # Label to use when marking as inappropriate
-staleLabel: inappropriate
+profanityLabel: inappropriate
 
-# Comment to post when marking as stale. Set to `false` to disable
+# Comment to post when marking as inappropriate. Set to `false` to disable
 markComment: >
   This issue has been automatically marked as inappropriate because
   it contains forbidden words. It will be closed if no further edit
@@ -65,7 +65,6 @@ limitPerRun: 30
 
 # Optionally, specify configuration settings that are specific to just 'issues' or 'pulls':
 # pulls:
-#   daysUntilStale: 30
 #   markComment: >
 #   This issue has been automatically marked as inappropriate because
 #   it contains forbidden words. It will be closed if no further edit
