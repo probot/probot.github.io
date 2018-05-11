@@ -9,9 +9,10 @@ authors:
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 32
-updated: 2018-05-08 22:35:39 UTC
-installations: 46
+updated: 2018-05-11 16:37:16 UTC
+installations: 48
 organizations:
+- ant-design
 - explosion
 - semantic-release
 - thibmaek
@@ -21,7 +22,6 @@ organizations:
 - Radarr
 - gillesdemey
 - gr2m
-- ahmadnassri
 ---
 ## Usage
 
