@@ -13,9 +13,9 @@ authors:
 - olstenlarck
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
-stars: 8
+stars: 7
 updated: 2018-05-08 11:41:00 UTC
-installations: 37
+installations: 39
 organizations:
 - CachetHQ
 - Semantic-Org
