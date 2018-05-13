@@ -1,6 +1,6 @@
 ---
 title: Lock Threads
-description: Locks closed issues and pull requests.
+description: Locks closed issues and pull requests after a period of inactivity.
 slug: lock
 screenshots:
 - https://raw.githubusercontent.com/dessant/lock-threads/master/assets/screenshot.png
@@ -29,7 +29,7 @@ a period of inactivity.
 
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/lock)**
+1. [Install the GitHub App](https://github.com/apps/lock)
 2. Create `.github/lock.yml` based on the template below
 3. It will start scanning for closed issues and/or pull requests within an hour
 
@@ -43,13 +43,30 @@ The file can be empty, or it can override any of these default settings:
 
 # Number of days of inactivity before a closed issue or pull request is locked
 daysUntilLock: 365
+
+# Issues and pull requests with these labels will not be locked. Set to `[]` to disable
+exemptLabels: []
+
+# Label to add before locking, such as `outdated`. Set to `false` to disable
+lockLabel: false
+
 # Comment to post before locking. Set to `false` to disable
 lockComment: >
-  This thread has been automatically locked because it has not had recent
-  activity. Please open a new issue for related bugs and link to relevant
-  comments in this thread.
+  This thread has been automatically locked since there has not been
+  any recent activity after it was closed. Please open a new issue for
+  related bugs.
+
 # Limit to only `issues` or `pulls`
 # only: issues
+
+# Optionally, specify configuration settings just for `issues` or `pulls`
+# issues:
+#   exemptLabels:
+#     - help-wanted
+#   lockLabel: outdated
+
+# pulls:
+#   daysUntilLock: 30
 ```
 
 ## Supporting the Project
