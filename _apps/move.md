@@ -1,6 +1,6 @@
 ---
 title: Move Issues
-description: Moves issues to a different repository.
+description: Moves issues between repositories.
 slug: move
 screenshots:
 - https://raw.githubusercontent.com/dessant/move-issues/master/assets/source-issue.png
@@ -25,28 +25,42 @@ organizations:
 - jahirfiquitiva
 ---
 
-A GitHub App that Moves issues to a different repository.
+A GitHub App that moves issues between repositories.
 
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/move)**
-2. Create `.github/move.yml` based on the template below
-3. Move an issue by creating a comment with the command: `/move to <repo>`
+1. [Install the GitHub App](https://github.com/apps/move)
+   for all source and target repositories
+2. Create `.github/move.yml` in the source repository based on the template below
+3. Move an issue by creating a comment with this command: `/move to <repo>`
+
+Users must have write access to the source and target repositories
+in order to move issues.
 
 #### Configuration
 
-Create `.github/move.yml` in the default branch to enable the app.
-The file can be empty, or it can override any of these default settings:
+Create `.github/move.yml` in the default branch of the source repository
+to enable the app. The file can be empty, or it can override any of these
+default settings:
 
 ```yml
 # Configuration for move-issues - https://github.com/dessant/move-issues
 
-# Delete the command comment. Ignored when the comment also contains other content
+# Delete the command comment when it contains no other content
 deleteCommand: true
+
 # Close the source issue after moving
 closeSourceIssue: true
+
 # Lock the source issue after moving
 lockSourceIssue: false
+
+# Mention issue and comment authors
+mentionAuthors: true
+
+# Preserve mentions in the issue content
+keepContentMentions: false
+
 # Set custom aliases for targets
 # aliases:
 #   r: repo
@@ -55,13 +69,13 @@ lockSourceIssue: false
 
 #### Command Syntax
 
-```sh
+```
 /move [to ][<owner>/]<repo>
 ```
 
 ###### Examples:
 
-```sh
+```
 /move to repo
 /move to owner/repo
 /move repo
