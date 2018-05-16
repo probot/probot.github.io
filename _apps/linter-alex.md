@@ -4,7 +4,8 @@ description: Ensure sensitive, considerate writing before you merge your Pull Re
 slug: linter-alex
 screenshots:
 - https://user-images.githubusercontent.com/27806/40088811-47f2c860-586e-11e8-9c4b-0f5b569a034c.png
-authors: swinton
+authors: 
+- swinton
 repository: swinton/linter-alex
 host: https://linter-alex.herokuapp.com
 ---
