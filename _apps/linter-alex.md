@@ -22,7 +22,7 @@ host: https://linter-alex.herokuapp.com
 
 Want to try it out? :sparkles: :cool: :sparkles: You can install the app directly from [**this page**](https://github.com/apps/linter-alex).
 
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
+See [docs/deploy.md](https://github.com/swinton/linter-alex/blob/master/docs/deploy.md) if you would like to run your own instance of this app.
 
 ## Feedback?
 
