@@ -7,6 +7,8 @@ require "html-proofer"
 url_ignores = [
   # Installation links require being signed in to GitHub
   %r{https://github.com/apps/.*/installations/new},
+  # Checks runs require being signed in to GitHub
+  %r{https://github.com/.*/runs/\d+},
   "https://mochajs.org/",
   %r{mit-license\.org}, # misconfigured SSL or old certs on Travis CI?
   %r{https://localhost:*/*}, # Ignore links to localhost in documentation
