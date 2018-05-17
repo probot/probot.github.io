@@ -10,7 +10,7 @@ repository: dessant/support-requests
 host: https://probot-support-requests.glitch.me
 stars: 10
 updated: 2018-05-06 15:05:36 UTC
-installations: 29
+installations: 30
 organizations:
 - Homebrew
 - mui-org
