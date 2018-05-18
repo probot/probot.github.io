@@ -9,6 +9,16 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
+Want to chat with Probot users and contributors? [Join us in Slack](https://probot-slackin.herokuapp.com/)!
+
+## Issues
+
+We'd love you to open issues, if they're relevant to this repository: feature requests, bug reports, questions about our processes, declarations of gratefulness, etc. are all welcome.
+
+In particular, if you have a large PR you want to send our way, it may make sense to open an issue to discuss it with the maintainers first.
+
+We also use the label 'help wanted' to show issues we want help on! If you'd like to get started working in this repository, it'd be best to jump into those issues.
+
 ## Submitting a pull request
 
 0. [Fork][fork] and clone the repository
@@ -71,3 +81,13 @@ Any documentation can go here. Many apps just use their README.md here.
 - Has a license
 - Has a code of conduct
 - Has someone willing to at least minimally maintain them for the near future
+
+
+## Bots
+
+We have one bot enabled on this repo:
+
+- [Stale](https://probot.github.io/apps/stale/): We use Stale to ensure that conversations here remain relevant. This is for us, the maintainers, so that we don't feel like we've got hundreds of issues to deal with; if you still have an issue, please let us know! We don't want to close issues that are painful for you. Stale just helps us have a bit more breathing space by making sure issues don't pile up forever.
+
+If you're concerned about our bots or feel that they are insensitive in some way, please let us know.
+
