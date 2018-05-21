@@ -6,7 +6,7 @@ screenshots:
 - https://user-images.githubusercontent.com/25513006/40001110-229e98b0-5796-11e8-8924-79bd0cbb91f2.png
 authors: [ nickgarlis ]
 repository: nickgarlis/probot-history
-host: https://probot-history.now.sh
+host: https://probot-history.herokuapp.com/
 ---
 
 ## Usage
