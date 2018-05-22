@@ -10,7 +10,7 @@ repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 34
 updated: 2018-05-21 17:42:18 UTC
-installations: 58
+installations: 59
 organizations:
 - ant-design
 - explosion

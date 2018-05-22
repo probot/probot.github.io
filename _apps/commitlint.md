@@ -9,7 +9,7 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
 host: https://probot-commitlint.now.sh
-stars: 62
+stars: 63
 updated: 2018-04-28 00:10:53 UTC
 installations: 39
 organizations:
