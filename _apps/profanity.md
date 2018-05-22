@@ -14,7 +14,7 @@ host: https://probot-profanity.now.sh
 
 1. **[Configure the GitHub App](https://github.com/apps/profanity)**
 2. Create `.github/profanity.yml` based on the following template
-3. It will start scanning for offensive issues and/or pull requests within an hour.
+3. It will start scanning for offensive issues and/or pull requests within an hour and automatically censor/mark any new ones.
 
 A `.github/profanity.yml` file is required to enable the plugin. The file can be empty, or it can override any of these default settings:
 
