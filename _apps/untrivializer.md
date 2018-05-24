@@ -11,7 +11,7 @@ repository: entendu/untrivializer
 host: https://puffy-aftermath.glitch.me
 stars: 6
 updated: 2017-12-15 23:13:31 UTC
-installations: 7
+installations: 8
 organizations:
 - red-eclipse
 - BlueBayTravel
