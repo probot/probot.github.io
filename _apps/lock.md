@@ -21,7 +21,7 @@ organizations:
 - zeit
 - standard
 - kivy
-- caskroom
+- paularmstrong
 ---
 
 A GitHub App that locks closed issues and pull requests after
