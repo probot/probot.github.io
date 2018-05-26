@@ -14,7 +14,6 @@ installations: 4
 organizations:
 - Maatwebsite
 - Glavin001
-- DanielFatkic
 ---
 
 ## What It Does
