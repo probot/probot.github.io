@@ -21,8 +21,8 @@ organizations:
 - xcodeswift
 - jahirfiquitiva
 - pliablepixels
-- behaviorbot
 - u3u
+- behaviorbot
 ---
 
 Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct. It does so by taking data from a `.github/config.yml`.

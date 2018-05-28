@@ -16,9 +16,9 @@ organizations:
 - adonisjs
 - xcodeswift
 - KengoTODA
+- u3u
 - behaviorbot
 - splash-cli
-- u3u
 - ilovecode1
 - PHPMap
 - varunsridharan
