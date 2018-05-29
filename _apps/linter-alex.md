@@ -10,8 +10,9 @@ repository: swinton/linter-alex
 host: https://linter-alex.herokuapp.com
 stars: 20
 updated: 2018-05-24 13:26:09 UTC
-installations: 2
+installations: 3
 organizations:
+- probot
 - 4cm4k1
 ---
 

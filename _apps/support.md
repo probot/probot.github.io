@@ -19,8 +19,8 @@ organizations:
 - nozzle
 - MinecraftForge
 - PHPOffice
-- crate
 - wix
+- crate
 - Laravel-Backpack
 ---
 
