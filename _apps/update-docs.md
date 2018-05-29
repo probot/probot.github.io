@@ -15,8 +15,8 @@ installations: 27
 organizations:
 - adonisjs
 - xcodeswift
-- KengoTODA
 - u3u
+- KengoTODA
 - behaviorbot
 - splash-cli
 - ilovecode1
