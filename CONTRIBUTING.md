@@ -83,11 +83,11 @@ Any documentation can go here. Many apps just use their README.md here.
 - Has someone willing to at least minimally maintain them for the near future
 
 
-## Bots
+## Apps
 
-We have one bot enabled on this repo:
+We have one app enabled on this repo:
 
 - [Stale](https://probot.github.io/apps/stale/): We use Stale to ensure that conversations here remain relevant. This is for us, the maintainers, so that we don't feel like we've got hundreds of issues to deal with; if you still have an issue, please let us know! We don't want to close issues that are painful for you. Stale just helps us have a bit more breathing space by making sure issues don't pile up forever.
 
-If you're concerned about our bots or feel that they are insensitive in some way, please let us know.
+If you're concerned about our apps or feel that they are insensitive in some way, please let us know.
 
