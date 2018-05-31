@@ -8,8 +8,8 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
-stars: 131
-updated: 2018-05-29 19:48:19 UTC
+stars: 132
+updated: 2018-05-31 02:01:58 UTC
 installations: 193
 organizations:
 - mas-cli
