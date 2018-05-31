@@ -12,7 +12,7 @@ We also use this website to show off some of the cool probot plugins built by th
 
 ## Install and Usage
 
-If you'd like to work on this repository, clone it. We use [Jekyll](https://jekyllrb.com/) to build the website, hosted on [GitHub Pages](https://pages.github.com/). We also use Git submodules to pull docs from [probot/docs](http://github.com/probot/docs).
+If you'd like to work on this repository, clone it. We use [Jekyll](https://jekyllrb.com/) to build the website, hosted on [GitHub Pages](https://pages.github.com/). We also use Git submodules to pull docs from the docs folder in  [probot/probot](https://github.com/probot/probot/tree/master/docs).
 
 Once you've cloned this repo, run these commands in this directory:
 
@@ -33,7 +33,7 @@ We'd love to have you contribute! PRs are gladly accepted, and issues are also g
 
 If you're interested in contributing, check out our [contributing docs](CONTRIBUTING.md) to get started.
 
-Want to chat with Probot users and contributors? [Join us in Slack](https://probot-slackin.herokuapp.com/)!
+Want to get more involved with the Probot community? [Take a look at our community page](https://probot.github.io/community/)!
 
 ## License
 
