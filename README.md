@@ -17,13 +17,10 @@ If you'd like to work on this repository, clone it. We use [Jekyll](https://jeky
 Once you've cloned this repo, run these commands in this directory:
 
 ```sh
-# Let's install some Ruby gems. Make sure your Ruby version is at least v2.2.0.
-bundle install
-# And let's get the probot/docs submodule started
-# Note: --init is only needed the first time you run this command
-git submodule update --init --recursive
-# And lets run the website locally!
-bundle exec jekyll serve
+# Only needed the first time:
+script/bootstrap
+# And each time you work locally:
+script/serve
 ```
 
 You should then be able to navigate to the URL printed in your console, and see live edits you make render in your browser. You'll likely have to familiarize yourself with how Jekyll works to do larger edits, but it's worth the effort!
