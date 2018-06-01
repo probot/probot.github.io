@@ -15,8 +15,8 @@ Advanced:
   - docs/persistence.md
   - docs/best-practices.md
 Reference:
-  - title: robot
-    url: "https://probot.github.io/api/latest/Robot.html"
+  - title: app
+    url: "https://probot.github.io/api/latest/Application.html"
   - title: context
     url: "https://probot.github.io/api/latest/Context.html"
   - title: context.github
