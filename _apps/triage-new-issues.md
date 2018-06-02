@@ -23,10 +23,10 @@ organizations:
 - Robdel12
 - xcodeswift
 - thefrontside
-- jahirfiquitiva
 - tunnckoCore
 - eXist-db
 - red-eclipse
+- prologuephp
 ---
 
 
