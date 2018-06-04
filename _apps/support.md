@@ -15,11 +15,11 @@ organizations:
 - Homebrew
 - mui-org
 - kivy
+- wix
 - CachetHQ
 - nozzle
 - MinecraftForge
 - PHPOffice
-- wix
 - crate
 - Laravel-Backpack
 ---
