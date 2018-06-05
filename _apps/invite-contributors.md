@@ -10,9 +10,10 @@ repository: erickzhao/invite-contributors
 stars: 20
 updated: 2018-05-05 14:10:11 UTC
 host: https://vast-stream-78160.herokuapp.com
-installations: 18
+installations: 19
 organizations:
 - nteract
+- stylelint
 - Laravel-Backpack
 - cla-assistant
 - react-native-sensors
@@ -20,7 +21,6 @@ organizations:
 - flyve-mdm
 - LibreTime
 - aethonanbot
-- baas-cloud
 - divyenduz
 ---
 

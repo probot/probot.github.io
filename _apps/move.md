@@ -11,10 +11,11 @@ repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 16
 updated: 2018-06-01 13:07:06 UTC
-installations: 45
+installations: 46
 organizations:
 - atom
 - Homebrew
+- flutter
 - home-assistant
 - kivy
 - tidyverse
@@ -22,7 +23,6 @@ organizations:
 - r-lib
 - ethereum
 - probot
-- GameServerManagers
 ---
 
 A GitHub App that moves issues between repositories.
