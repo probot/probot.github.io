@@ -11,10 +11,11 @@ repository: rsarky/helpr
 host: https://evening-depths-50399.herokuapp.com
 stars: 4
 updated: 2018-04-20 09:11:34 UTC
-installations: 5
+installations: 6
 organizations:
 - Glavin001
 - Unibeautify
+- DarkPacks
 ---
 
 <p align="center">
