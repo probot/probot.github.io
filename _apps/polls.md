@@ -21,9 +21,9 @@ organizations:
 - jaegertracing
 - ahmetb
 - detailyang
+- RasaHQ
 - terkelg
 - probot
-- hql287
 ---
 
 # GitHub Polls Bot
