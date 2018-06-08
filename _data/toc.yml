@@ -15,10 +15,10 @@ Advanced:
   - docs/persistence.md
   - docs/best-practices.md
 Reference:
-  - title: robot
-    url: "https://probot.github.io/api/latest/Robot.html"
+  - title: Application
+    url: "https://probot.github.io/api/latest/global.html#Application"
   - title: context
-    url: "https://probot.github.io/api/latest/Context.html"
+    url: "https://probot.github.io/api/latest/global.html#Context"
   - title: context.github
     url: "http://octokit.github.io/rest.js/"
   - title: GitHub Webhook Events
