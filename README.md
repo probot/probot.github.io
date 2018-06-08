@@ -20,7 +20,7 @@ Once you've cloned this repo, run these commands in this directory:
 # Only needed the first time:
 script/bootstrap
 # And each time you work locally:
-script/serve
+script/server
 ```
 
 You should then be able to navigate to the URL printed in your console, and see live edits you make render in your browser. You'll likely have to familiarize yourself with how Jekyll works to do larger edits, but it's worth the effort!

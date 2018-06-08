@@ -9,7 +9,7 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
-Want to chat with Probot users and contributors? [Join us in Slack](https://probot-slackin.herokuapp.com/)!
+Want to get more involved with the Probot community? [Take a look at our community page](https://probot.github.io/community/)!
 
 ## Issues
 
