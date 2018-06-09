@@ -10,7 +10,7 @@ screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
 updated: 2018-06-02 13:56:48 UTC
 host: https://github-configurer.herokuapp.com
-installations: 150
+installations: 153
 organizations:
 - apollographql
 - CNXTEoEorg
