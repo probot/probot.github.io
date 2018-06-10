@@ -13,7 +13,6 @@ host: https://github-configurer.herokuapp.com
 installations: 153
 organizations:
 - apollographql
-- CNXTEoEorg
 - denysdovhan
 - bkeepers
 - chaijs
