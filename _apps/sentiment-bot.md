@@ -18,8 +18,8 @@ organizations:
 - probot
 - MvvmCross
 - modo-studio
-- xcodeswift
 - jahirfiquitiva
+- xcodeswift
 - pliablepixels
 - u3u
 - behaviorbot

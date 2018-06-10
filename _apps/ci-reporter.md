@@ -10,7 +10,7 @@ repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 34
 updated: 2018-06-08 07:38:46 UTC
-installations: 73
+installations: 72
 organizations:
 - ant-design
 - ReactiveX
@@ -18,10 +18,10 @@ organizations:
 - explosion
 - semantic-release
 - thibmaek
-- probot
 - octokit
 - offu
 - Radarr
+- gillesdemey
 ---
 ## Usage
 

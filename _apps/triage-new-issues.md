@@ -21,9 +21,9 @@ organizations:
 - Semantic-Org
 - Laravel-Backpack
 - Robdel12
-- xcodeswift
 - thefrontside
 - tunnckoCore
+- xcodeswift
 - eXist-db
 - red-eclipse
 - prologuephp
