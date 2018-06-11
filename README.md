@@ -18,14 +18,17 @@ Once you've cloned this repo, run these commands in this directory:
 
 ```sh
 # Only needed the first time:
-script/bootstrap
+$ script/bootstrap
 # And each time you work locally:
-script/server
+$ script/server
+# Below is the expected output:
+Server address: http://127.0.0.1:4000
+Server running... press ctrl-c to stop.
 ```
 
-You should then be able to navigate to the URL printed in your console, and see live edits you make render in your browser. You'll likely have to familiarize yourself with how Jekyll works to do larger edits, but it's worth the effort!
+You should then be able to navigate to the server address, and see live edits you make render in your browser. You'll likely have to familiarize yourself with how Jekyll works to do larger edits, but it's worth the effort!
 
-Another note: You can see more commands we use, such as our native build and server functions, in `script`. Go take a look.
+Another note: You can see more commands we use, such as our native build and server functions, in the [`script`](https://github.com/probot/probot.github.io/tree/master/script) folder. Go take a look!
 
 ## Contribute
 

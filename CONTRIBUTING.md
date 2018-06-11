@@ -17,7 +17,7 @@ We'd love you to open issues, if they're relevant to this repository: feature re
 
 In particular, if you have a large PR you want to send our way, it may make sense to open an issue to discuss it with the maintainers first.
 
-We also use the label 'help wanted' to show issues we want help on! If you'd like to get started working in this repository, it'd be best to jump into those issues.
+We also use the label 'help wanted' to show issues we want help on! If you'd like to get started working in this repository, it'd be best to jump into those issues. View those issues [here](https://github.com/probot/probot.github.io/labels/help%20wanted)!
 
 ## Submitting a pull request
 

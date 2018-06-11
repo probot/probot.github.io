@@ -4,7 +4,7 @@ set -e
 export CC=gcc
 
 echo "==> Installing gem dependencies…"
-gem install bundle
+which bundle || gem install bundle
 bundle check --path vendor/gems 2>&1 > /dev/null || {
   time bundle install --binstubs bin --path vendor/gems
 }
