@@ -49,7 +49,7 @@ Work in Progress pull request are also welcome to get feedback early on, or if t
 
 You can add your app to the [website](https://probot.github.io/apps/) by creating a [new file in `_apps/`](https://github.com/probot/probot.github.io/new/master/_apps?filename=your-app-name.md) with this template:
 
-```
+```yaml
 ---
 # A human-friendly name of your listing
 title: Title of Your app
