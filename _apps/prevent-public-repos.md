@@ -14,10 +14,10 @@ installations: 36
 organizations:
 - bkeepers
 - telus
+- Pivotal
 - logrhythm
 - engineersmy
 - eVisionSoftware
-- Pivotal
 - savannahinformatics
 ---
 
