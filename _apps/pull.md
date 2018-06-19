@@ -2,7 +2,6 @@
 title: Pull
 description: Keep your forks up-to-date.
 slug: pull
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/5880908/40864471-046ffcd2-65c2-11e8-83cb-706e24bde80d.png
 - https://user-images.githubusercontent.com/5880908/40864529-32647474-65c2-11e8-9cdd-d325f2d7a6e4.png
