@@ -5,9 +5,15 @@ slug: pull
 screenshots:
 - https://user-images.githubusercontent.com/5880908/40864471-046ffcd2-65c2-11e8-83cb-706e24bde80d.png
 - https://user-images.githubusercontent.com/5880908/40864529-32647474-65c2-11e8-9cdd-d325f2d7a6e4.png
-authors: [ wei ]
+authors:
+- wei
 repository: wei/pull
 host: https://pull.now.sh
+stars: 19
+updated: 2018-06-10 05:45:48 UTC
+installations: 6
+organizations:
+- wei
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.

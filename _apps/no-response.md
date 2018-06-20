@@ -16,8 +16,8 @@ organizations:
 - Homebrew
 - facebook
 - prettier
-- webtorrent
 - flutter
+- webtorrent
 - ethereum
 - standard
 - kivy

@@ -9,11 +9,10 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://probot-dep.now.sh
-stars: 33
-updated: 2018-06-08 19:16:50 UTC
-installations: 59
+stars: 34
+updated: 2018-06-20 09:11:52 UTC
+installations: 58
 organizations:
-- probot
 - Laravel-Backpack
 - JabRef
 - thefrontside
@@ -23,6 +22,7 @@ organizations:
 - gaocegege
 - TECLIB
 - cmfcmf
+- mithro
 ---
 
 <p align="center">
