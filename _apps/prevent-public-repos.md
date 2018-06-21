@@ -18,6 +18,7 @@ organizations:
 - logrhythm
 - engineersmy
 - eVisionSoftware
+- SEED-EA
 - savannahinformatics
 ---
 
