@@ -2,7 +2,7 @@
 # A human-friendly name of your listing
 title: reviewed
 # A short description of what your app does
-description: automatically add label to pull request when all reviewers approved.
+description: Add label to pull request when all reviewers approved.
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: reviewed
 # Include a few screenshots that show your app in action
