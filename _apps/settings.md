@@ -2,7 +2,7 @@
 title: Settings
 description: Pull Requests for repository settings
 slug: settings
-stars: 210
+stars: 212
 authors:
 - bkeepers
 repository: probot/settings
@@ -10,7 +10,7 @@ screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
 updated: 2018-06-14 23:35:14 UTC
 host: https://github-configurer.herokuapp.com
-installations: 153
+installations: 156
 organizations:
 - apollographql
 - denysdovhan
@@ -20,8 +20,8 @@ organizations:
 - probot
 - benbalter
 - Anahkiasen
+- tweag
 - TGMPA
-- purpleidea
 ---
 
 This GitHub App syncs repository settings defined in `.github/settings.yml` to GitHub, enabling Pull Requests for repository settings.
