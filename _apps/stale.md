@@ -11,16 +11,16 @@ stars: 409
 repository: probot/stale
 updated: 2018-06-23 13:52:12 UTC
 host: https://probot-stale.herokuapp.com
-installations: 694
+installations: 845
 organizations:
-- atom
 - facebook
+- atom
+- Homebrew
 - sebastianbergmann
 - Shopify
-- Homebrew
-- Semantic-Org
 - nwjs
 - prettier
+- webtorrent
 - gohugoio
 - ethereum
 ---

@@ -9,20 +9,20 @@ authors:
 - ahmed-taj
 repository: ahmed-taj/dep
 host: https://probot-dep.now.sh
-stars: 34
+stars: 35
 updated: 2018-06-20 09:11:52 UTC
-installations: 59
+installations: 58
 organizations:
 - Laravel-Backpack
 - JabRef
 - thefrontside
 - timvideos
 - tunnckoCore
-- ZEPL
 - gaocegege
 - TECLIB
 - cmfcmf
 - mithro
+- decidim
 ---
 
 <p align="center">

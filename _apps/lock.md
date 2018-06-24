@@ -9,7 +9,7 @@ authors:
 repository: dessant/lock-threads
 host: https://probot-lock-threads.glitch.me
 stars: 38
-updated: 2018-05-30 01:22:26 UTC
+updated: 2018-06-24 16:20:54 UTC
 installations: 64
 organizations:
 - Homebrew
