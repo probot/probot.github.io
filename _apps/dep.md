@@ -10,7 +10,7 @@ authors:
 repository: ahmed-taj/dep
 host: https://probot-dep.now.sh
 stars: 35
-updated: 2018-06-20 09:11:52 UTC
+updated: 2018-06-25 02:01:16 UTC
 installations: 58
 organizations:
 - Laravel-Backpack
