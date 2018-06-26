@@ -13,9 +13,9 @@ authors:
 - olstenlarck
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
-stars: 8
-updated: 2018-06-23 06:29:36 UTC
-installations: 46
+stars: 9
+updated: 2018-06-26 14:36:50 UTC
+installations: 48
 organizations:
 - CachetHQ
 - Semantic-Org
@@ -26,7 +26,7 @@ organizations:
 - tunnckoCore
 - xcodeswift
 - eXist-db
-- red-eclipse
+- pymedusa
 ---
 
 

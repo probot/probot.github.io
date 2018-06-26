@@ -4,9 +4,17 @@ description: Comment on the issues that do not include some contents then close 
 slug: close-issue-app
 screenshots:
 - https://raw.githubusercontent.com/offu/close-issue-app/master/screenshot.png
-authors: [ helloqiu, whtsky ]
+authors:
+- helloqiu
+- whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
+stars: 2
+updated: 2018-06-26 16:32:11 UTC
+installations: 2
+organizations:
+- offu
+- helloqiu
 ---
 [![Build Status](https://travis-ci.org/offu/close-issue-app.svg?branch=master)](https://travis-ci.org/offu/close-issue-app)
 [![codecov](https://codecov.io/gh/offu/close-issue-app/branch/master/graph/badge.svg)](https://codecov.io/gh/offu/close-issue-app)  

@@ -10,8 +10,8 @@ authors:
 repository: ahmed-taj/dep
 host: https://probot-dep.now.sh
 stars: 35
-updated: 2018-06-25 02:01:16 UTC
-installations: 58
+updated: 2018-06-26 12:46:51 UTC
+installations: 61
 organizations:
 - Laravel-Backpack
 - JabRef

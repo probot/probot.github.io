@@ -4,9 +4,15 @@ description: Triage pull request
 slug: pr-triage
 screenshots:
 - https://user-images.githubusercontent.com/1587053/35917561-f4928e02-0c51-11e8-95d3-81b4f44ed6d2.png
-authors: [ sotayamashita ]
+authors:
+- sotayamashita
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
+stars: 3
+updated: 2018-06-26 07:18:11 UTC
+installations: 1
+organizations:
+- pr-triage
 ---
 
 ## Install
