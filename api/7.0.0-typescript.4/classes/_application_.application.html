@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>probot | probot</title>
+	<title>Application | probot</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style type="text/css">/*! normalize.css v1.1.3 | MIT License | git.io/normalize */
@@ -879,7 +879,7 @@ img { max-width: 100%; }
 		<div class="container">
 			<div class="table-wrap">
 				<div class="table-cell">
-					<strong><a href="index.html">probot</a></strong>
+					<strong><a href="../index.html">probot</a></strong>
 				</div>
 				<div class="table-cell" id="tsd-widgets">
 					<div id="tsd-filter">
@@ -907,68 +907,443 @@ img { max-width: 100%; }
 </header>
 <nav class="tsd-navigation secondary">
 	<ul>
+		<li class="current tsd-kind-class tsd-parent-kind-external-module">
+			<a href="_application_.application.html" class="tsd-kind-icon">Application</a>
+			<ul>
+				<li class=" tsd-kind-constructor tsd-parent-kind-class">
+					<a href="_application_.application.html#constructor" class="tsd-kind-icon">constructor</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="_application_.application.html#app" class="tsd-kind-icon">app</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="_application_.application.html#cache" class="tsd-kind-icon">cache</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="_application_.application.html#catcherrors" class="tsd-kind-icon">catch<wbr>Errors</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="_application_.application.html#events" class="tsd-kind-icon">events</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="_application_.application.html#log" class="tsd-kind-icon">log</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="_application_.application.html#router" class="tsd-kind-icon">router</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-class tsd-is-private">
+					<a href="_application_.application.html#auth" class="tsd-kind-icon">auth</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-class">
+					<a href="_application_.application.html#load" class="tsd-kind-icon">load</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-class">
+					<a href="_application_.application.html#on" class="tsd-kind-icon">on</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-class">
+					<a href="_application_.application.html#receive" class="tsd-kind-icon">receive</a>
+				</li>
+				<li class=" tsd-kind-method tsd-parent-kind-class">
+					<a href="_application_.application.html#route" class="tsd-kind-icon">route</a>
+				</li>
+			</ul>
+		</li>
+		<li class=" tsd-kind-interface tsd-parent-kind-external-module">
+			<a href="../interfaces/_application_.cache.html" class="tsd-kind-icon">Cache</a>
+		</li>
+		<li class=" tsd-kind-interface tsd-parent-kind-external-module">
+			<a href="../interfaces/_application_.cacheconfig.html" class="tsd-kind-icon">Cache<wbr>Config</a>
+		</li>
+		<li class=" tsd-kind-interface tsd-parent-kind-external-module">
+			<a href="../interfaces/_application_.options.html" class="tsd-kind-icon">Options</a>
+		</li>
+		<li class=" tsd-kind-interface tsd-parent-kind-external-module">
+			<a href="../interfaces/_application_.webhookevent.html" class="tsd-kind-icon">Webhook<wbr>Event</a>
+		</li>
 	</ul>
 </nav>
 <div class="container container-main">
 	<div class="content-wrap">
-		<div class="tsd-panel tsd-typography">
-			<h1 id="probot">Probot</h1>
-			<p><a href="https://www.npmjs.com/package/probot"><img src="https://img.shields.io/npm/v/probot.svg" alt="npm version"></a> <a href="https://twitter.com/ProbotTheRobot"><img src="https://img.shields.io/twitter/follow/ProbotTheRobot.svg?style=social&amp;logo=twitter&amp;label=Follow" alt=""></a></p>
-			<blockquote>
-				<p>🤖 A framework for building GitHub Apps to automate and improve your workflow</p>
-			</blockquote>
-			<p>If you&#39;ve ever thought, &quot;wouldn&#39;t it be cool if GitHub could…&quot;; I&#39;m going to stop you right there. Most features can actually be added via <a href="https://developer.github.com/apps/">GitHub Apps</a>, which extend GitHub and can be installed directly on organizations and user accounts and granted access to specific repositories. They come with granular permissions and built-in webhooks. Apps are first class actors within GitHub.</p>
-			<h2 id="how-it-works">How it works</h2>
-			<p><strong>Probot is a framework for building <a href="http://developer.github.com/apps">GitHub Apps</a> in <a href="https://nodejs.org/">Node.js</a></strong>. GitHub Apps can listen to webhook events sent by a repository or organization. Probot uses its internal event emitter to perform actions based on those events. A simple Probot App might look like this:</p>
-			<pre><code class="lang-js"><span class="hljs-built_in">module</span>.exports = <span class="hljs-function"><span class="hljs-params">robot</span> =&gt;</span> {
-  robot.on(<span class="hljs-string">'issues.opened'</span>, <span class="hljs-keyword">async</span> context =&gt; {
-    <span class="hljs-keyword">const</span> issueComment = context.issue({ <span class="hljs-attr">body</span>: <span class="hljs-string">'Thanks for opening this issue!'</span> })
-    <span class="hljs-keyword">return</span> context.github.issues.createComment(issueComment)
-  })
-}
-</code></pre>
-			<h2 id="building-a-probot-app">Building a Probot App</h2>
-			<p>If you&#39;ve landed in this GitHub repository and are looking to start building your own Probot App, look no further than <a href="https://probot.github.io/docs/">probot.github.io</a>! The Probot website contains our extensive getting started documentation and will guide you through the set up process.</p>
-			<p>This repository hosts the code for the npm Probot package which is what all Probot Apps run on. Most folks who land in this repository are likely looking to get started <a href="https://probot.github.io/docs/">building their own app</a>.</p>
-			<h2 id="contributing">Contributing</h2>
-			<p>Probot is built by people just like you! Most of the interesting things are built <em>with</em> Probot, so consider starting by <a href="https://probot.github.io/docs/">writing a new app</a> or improving one of the <a href="https://github.com/search?q=topic%3Aprobot-app&amp;type=Repositories">existing ones</a>.</p>
-			<p>If you&#39;re interested in contributing to Probot itself, check out our <a href="CONTRIBUTING.md">contributing docs</a> to get started.</p>
-			<p>Want to chat with Probot users and contributors? <a href="https://probot-slackin.herokuapp.com/">Join us in Slack</a>!</p>
-			<h2 id="ideas">Ideas</h2>
-			<p>Have an idea for a cool new GitHub App (built with Probot)? That&#39;s great! If you want feedback, help, or just to share it with the world you can do so by <a href="https://github.com/probot/ideas/issues/new">creating an issue in the <code>probot/ideas</code> repository</a>!</p>
-		</div>
-		<div style="position:relative;"><a name="typedoc-main-index" class="tsd-anchor"></a></div>
+		<section class="tsd-panel tsd-comment">
+			<div class="tsd-comment tsd-typography">
+				<div class="lead">
+					<p>The <code>app</code> parameter available to apps</p>
+				</div>
+				<dl class="tsd-comment-tags">
+					<dt>property</dt>
+					<dd><p>{logger} log - A logger</p>
+					</dd>
+				</dl>
+			</div>
+		</section>
+		<section class="tsd-panel tsd-hierarchy">
+			<h3>Hierarchy</h3>
+			<ul class="tsd-hierarchy">
+				<li>
+					<span class="target">Application</span>
+				</li>
+			</ul>
+		</section>
 		<section class="tsd-panel-group tsd-index-group">
 			<h2>Index</h2>
 			<section class="tsd-panel tsd-index-panel">
 				<div class="tsd-index-content">
 					<section class="tsd-index-section ">
-						<h3>External modules</h3>
+						<h3>Constructors</h3>
 						<ul class="tsd-index-list">
-							<li class="tsd-kind-external-module"><a href="modules/_application_.html" class="tsd-kind-icon">"application"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_context_.html" class="tsd-kind-icon">"context"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_github_app_.html" class="tsd-kind-icon">"github-<wbr>app"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_github_graphql_.html" class="tsd-kind-icon">"github/graphql"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_github_index_.html" class="tsd-kind-icon">"github/index"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_github_logging_.html" class="tsd-kind-icon">"github/logging"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_github_pagination_.html" class="tsd-kind-icon">"github/pagination"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_github_rate_limiting_.html" class="tsd-kind-icon">"github/rate-<wbr>limiting"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_index_.html" class="tsd-kind-icon">"index"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_logger_.html" class="tsd-kind-icon">"logger"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_middleware_log_request_errors_.html" class="tsd-kind-icon">"middleware/log-<wbr>request-<wbr>errors"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_middleware_logging_.html" class="tsd-kind-icon">"middleware/logging"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_plugins_default_.html" class="tsd-kind-icon">"plugins/default"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_plugins_sentry_.html" class="tsd-kind-icon">"plugins/sentry"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_plugins_stats_.html" class="tsd-kind-icon">"plugins/stats"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_private_key_.html" class="tsd-kind-icon">"private-<wbr>key"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_resolver_.html" class="tsd-kind-icon">"resolver"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_serializers_.html" class="tsd-kind-icon">"serializers"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_server_.html" class="tsd-kind-icon">"server"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_webhook_proxy_.html" class="tsd-kind-icon">"webhook-<wbr>proxy"</a></li>
-							<li class="tsd-kind-external-module"><a href="modules/_wrap_logger_.html" class="tsd-kind-icon">"wrap-<wbr>logger"</a></li>
+							<li class="tsd-kind-constructor tsd-parent-kind-class"><a href="_application_.application.html#constructor" class="tsd-kind-icon">constructor</a></li>
+						</ul>
+					</section>
+					<section class="tsd-index-section ">
+						<h3>Properties</h3>
+						<ul class="tsd-index-list">
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="_application_.application.html#app" class="tsd-kind-icon">app</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="_application_.application.html#cache" class="tsd-kind-icon">cache</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="_application_.application.html#catcherrors" class="tsd-kind-icon">catch<wbr>Errors</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="_application_.application.html#events" class="tsd-kind-icon">events</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="_application_.application.html#log" class="tsd-kind-icon">log</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="_application_.application.html#router" class="tsd-kind-icon">router</a></li>
+						</ul>
+					</section>
+					<section class="tsd-index-section ">
+						<h3>Methods</h3>
+						<ul class="tsd-index-list">
+							<li class="tsd-kind-method tsd-parent-kind-class tsd-is-private"><a href="_application_.application.html#auth" class="tsd-kind-icon">auth</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-class"><a href="_application_.application.html#load" class="tsd-kind-icon">load</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-class"><a href="_application_.application.html#on" class="tsd-kind-icon">on</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-class"><a href="_application_.application.html#receive" class="tsd-kind-icon">receive</a></li>
+							<li class="tsd-kind-method tsd-parent-kind-class"><a href="_application_.application.html#route" class="tsd-kind-icon">route</a></li>
 						</ul>
 					</section>
 				</div>
+			</section>
+		</section>
+		<section class="tsd-panel-group tsd-member-group ">
+			<h2>Constructors</h2>
+			<section class="tsd-panel tsd-member tsd-kind-constructor tsd-parent-kind-class">
+				<a name="constructor" class="tsd-anchor"></a>
+				<h3>constructor</h3>
+				<ul class="tsd-signatures tsd-kind-constructor tsd-parent-kind-class">
+					<li class="tsd-signature tsd-kind-icon">new <wbr>Application<span class="tsd-signature-symbol">(</span>options<span class="tsd-signature-symbol">: </span><a href="../interfaces/_application_.options.html" class="tsd-signature-type">Options</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="_application_.application.html" class="tsd-signature-type">Application</a></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<ul>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L26">application.ts:26</a></li>
+							</ul>
+						</aside>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5>options: <a href="../interfaces/_application_.options.html" class="tsd-signature-type">Options</a></h5>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <a href="_application_.application.html" class="tsd-signature-type">Application</a></h4>
+					</li>
+				</ul>
+			</section>
+		</section>
+		<section class="tsd-panel-group tsd-member-group ">
+			<h2>Properties</h2>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="app" class="tsd-anchor"></a>
+				<h3>app</h3>
+				<div class="tsd-signature tsd-kind-icon">app<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">function</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L22">application.ts:22</a></li>
+					</ul>
+				</aside>
+				<div class="tsd-type-declaration">
+					<h4>Type declaration</h4>
+					<ul class="tsd-parameters">
+						<li class="tsd-parameter-siganture">
+							<ul class="tsd-signatures tsd-kind-type-literal tsd-parent-kind-property tsd-is-not-exported">
+								<li class="tsd-signature tsd-kind-icon"><span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span></li>
+							</ul>
+							<ul class="tsd-descriptions">
+								<li class="tsd-description">
+									<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">string</span></h4>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="cache" class="tsd-anchor"></a>
+				<h3>cache</h3>
+				<div class="tsd-signature tsd-kind-icon">cache<span class="tsd-signature-symbol">:</span> <a href="../interfaces/_application_.cache.html" class="tsd-signature-type">Cache</a></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L23">application.ts:23</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="catcherrors" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> catch<wbr>Errors</h3>
+				<div class="tsd-signature tsd-kind-icon">catch<wbr>Errors<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">true</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">false</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L25">application.ts:25</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="events" class="tsd-anchor"></a>
+				<h3>events</h3>
+				<div class="tsd-signature tsd-kind-icon">events<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">EventEmitter</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L21">application.ts:21</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="log" class="tsd-anchor"></a>
+				<h3>log</h3>
+				<div class="tsd-signature tsd-kind-icon">log<span class="tsd-signature-symbol">:</span> <a href="../interfaces/_wrap_logger_.loggerwithtarget.html" class="tsd-signature-type">LoggerWithTarget</a></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L26">application.ts:26</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="router" class="tsd-anchor"></a>
+				<h3>router</h3>
+				<div class="tsd-signature tsd-kind-icon">router<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">express.Router</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L24">application.ts:24</a></li>
+					</ul>
+				</aside>
+			</section>
+		</section>
+		<section class="tsd-panel-group tsd-member-group ">
+			<h2>Methods</h2>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-class tsd-is-private">
+				<a name="auth" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagPrivate">Private</span> auth</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-private">
+					<li class="tsd-signature tsd-kind-icon">auth<span class="tsd-signature-symbol">(</span>id<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">number</span>, log<span class="tsd-signature-symbol">?: </span><a href="../interfaces/_wrap_logger_.loggerwithtarget.html" class="tsd-signature-type">LoggerWithTarget</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><a href="../interfaces/_github_index_.githubapi.html" class="tsd-signature-type">GitHubAPI</a><span class="tsd-signature-symbol">&gt;</span></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<ul>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L182">application.ts:182</a></li>
+							</ul>
+						</aside>
+						<div class="tsd-comment tsd-typography">
+							<div class="lead">
+								<p>Authenticate and get a GitHub client that can be used to make API calls.</p>
+							</div>
+							<p>You&#39;ll probably want to use <code>context.github</code> instead.</p>
+							<p><strong>Note</strong>: <code>app.auth</code> is asynchronous, so it needs to be prefixed with a
+								<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await"><code>await</code></a>
+							to wait for the magic to happen.</p>
+							<dl class="tsd-comment-tags">
+								<dt>example</dt>
+								<dd><pre><code class="lang-js"> <span class="hljs-built_in">module</span>.exports = <span class="hljs-function">(<span class="hljs-params">app</span>) =&gt;</span> {
+   app.on(<span class="hljs-string">'issues.opened'</span>, <span class="hljs-keyword">async</span> context =&gt; {
+     <span class="hljs-keyword">const</span> github = <span class="hljs-keyword">await</span> app.auth();
+   });
+ };
+</code></pre>
+								</dd>
+							</dl>
+						</div>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5><span class="tsd-flag ts-flagOptional">Optional</span> id: <span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">number</span></h5>
+								<div class="tsd-comment tsd-typography">
+									<p>ID of the installation, which can be extracted from
+										<code>context.payload.installation.id</code>. If called without this parameter, the
+										client wil authenticate <a href="https://developer.github.com/apps/building-integrations/setting-up-and-registering-github-apps/about-authentication-options-for-github-apps/#authenticating-as-a-github-app">as the app</a>
+										instead of as a specific installation, which means it can only be used for
+									<a href="https://developer.github.com/v3/apps/">app APIs</a>.</p>
+								</div>
+							</li>
+							<li>
+								<h5><span class="tsd-flag ts-flagDefault value">Default value</span> log: <a href="../interfaces/_wrap_logger_.loggerwithtarget.html" class="tsd-signature-type">LoggerWithTarget</a><span class="tsd-signature-symbol"> =&nbsp;this.log</span></h5>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><a href="../interfaces/_github_index_.githubapi.html" class="tsd-signature-type">GitHubAPI</a><span class="tsd-signature-symbol">&gt;</span></h4>
+						<p>An authenticated GitHub API client</p>
+					</li>
+				</ul>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-class">
+				<a name="load" class="tsd-anchor"></a>
+				<h3>load</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class">
+					<li class="tsd-signature tsd-kind-icon">load<span class="tsd-signature-symbol">(</span>app<span class="tsd-signature-symbol">: </span><a href="../modules/_index_.html#applicationfunction" class="tsd-signature-type">ApplicationFunction</a><span class="tsd-signature-symbol"> | </span><a href="../modules/_index_.html#applicationfunction" class="tsd-signature-type">ApplicationFunction</a><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="_application_.application.html" class="tsd-signature-type">Application</a></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<ul>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L42">application.ts:42</a></li>
+							</ul>
+						</aside>
+						<div class="tsd-comment tsd-typography">
+							<div class="lead">
+								<p>Loads a Probot plugin</p>
+							</div>
+						</div>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5>app: <a href="../modules/_index_.html#applicationfunction" class="tsd-signature-type">ApplicationFunction</a><span class="tsd-signature-symbol"> | </span><a href="../modules/_index_.html#applicationfunction" class="tsd-signature-type">ApplicationFunction</a><span class="tsd-signature-symbol">[]</span></h5>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <a href="_application_.application.html" class="tsd-signature-type">Application</a></h4>
+					</li>
+				</ul>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-class">
+				<a name="on" class="tsd-anchor"></a>
+				<h3>on</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class">
+					<li class="tsd-signature tsd-kind-icon">on<span class="tsd-signature-symbol">(</span>eventName<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">[]</span>, callback<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">function</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<ul>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L123">application.ts:123</a></li>
+							</ul>
+						</aside>
+						<div class="tsd-comment tsd-typography">
+							<div class="lead">
+								<p>Listen for <a href="https://developer.github.com/webhooks/">GitHub webhooks</a>,
+									which are fired for almost every significant action that users take on
+								GitHub.</p>
+							</div>
+							<dl class="tsd-comment-tags">
+								<dt>example</dt>
+								<dd><pre><code class="lang-js">app.on(<span class="hljs-string">'push'</span>, context =&gt; {
+  <span class="hljs-comment">// Code was just pushed.</span>
+});
+
+app.on(<span class="hljs-string">'issues.opened'</span>, context =&gt; {
+  <span class="hljs-comment">// An issue was just opened.</span>
+});
+</code></pre>
+								</dd>
+							</dl>
+						</div>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5>eventName: <span class="tsd-signature-type">string</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">[]</span></h5>
+							</li>
+							<li>
+								<h5>callback: <span class="tsd-signature-type">function</span></h5>
+								<div class="tsd-comment tsd-typography">
+									<p>a function to call when the
+									webhook is received.</p>
+								</div>
+								<ul class="tsd-parameters">
+									<li class="tsd-parameter-siganture">
+										<ul class="tsd-signatures tsd-kind-type-literal tsd-is-not-exported">
+											<li class="tsd-signature tsd-kind-icon"><span class="tsd-signature-symbol">(</span>context<span class="tsd-signature-symbol">: </span><a href="_context_.context.html" class="tsd-signature-type">Context</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+										</ul>
+										<ul class="tsd-descriptions">
+											<li class="tsd-description">
+												<h4 class="tsd-parameters-title">Parameters</h4>
+												<ul class="tsd-parameters">
+													<li>
+														<h5>context: <a href="_context_.context.html" class="tsd-signature-type">Context</a></h5>
+													</li>
+												</ul>
+												<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+					</li>
+				</ul>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-class">
+				<a name="receive" class="tsd-anchor"></a>
+				<h3>receive</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class">
+					<li class="tsd-signature tsd-kind-icon">receive<span class="tsd-signature-symbol">(</span>event<span class="tsd-signature-symbol">: </span><a href="../interfaces/_application_.webhookevent.html" class="tsd-signature-type">WebhookEvent</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">Object</span><span class="tsd-signature-symbol">&gt;</span></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<ul>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L52">application.ts:52</a></li>
+							</ul>
+						</aside>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5>event: <a href="../interfaces/_application_.webhookevent.html" class="tsd-signature-type">WebhookEvent</a></h5>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">Object</span><span class="tsd-signature-symbol">&gt;</span></h4>
+					</li>
+				</ul>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-class">
+				<a name="route" class="tsd-anchor"></a>
+				<h3>route</h3>
+				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class">
+					<li class="tsd-signature tsd-kind-icon">route<span class="tsd-signature-symbol">(</span>path<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">express.Router</span></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<ul>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/c16ba9d/src/application.ts#L84">application.ts:84</a></li>
+							</ul>
+						</aside>
+						<div class="tsd-comment tsd-typography">
+							<div class="lead">
+								<p>Get an <a href="http://expressjs.com" class="external">express</a> router that can be used to
+								expose HTTP endpoints</p>
+							</div>
+							<dl class="tsd-comment-tags">
+								<dt>example</dt>
+								<dd><p>Add middleware and routes</p>
+									<pre><code><span class="hljs-built_in">module</span>.exports = <span class="hljs-function"><span class="hljs-params">app</span> =&gt;</span> {
+  <span class="hljs-comment">// Get an express router to expose new HTTP endpoints</span>
+  <span class="hljs-keyword">const</span> route = app.route(<span class="hljs-string">'/my-app'</span>);
+
+  <span class="hljs-comment">// Use any middleware</span>
+  route.use(<span class="hljs-built_in">require</span>(<span class="hljs-string">'express'</span>).static(__dirname + <span class="hljs-string">'/public'</span>));
+
+  <span class="hljs-comment">// Add a new route</span>
+  route.get(<span class="hljs-string">'/hello-world'</span>, <span class="hljs-function">(<span class="hljs-params">req, res</span>) =&gt;</span> {
+    res.end(<span class="hljs-string">'Hello World'</span>);
+  });
+};
+</code></pre></dd>
+							</dl>
+						</div>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5><span class="tsd-flag ts-flagOptional">Optional</span> path: <span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">string</span></h5>
+								<div class="tsd-comment tsd-typography">
+									<p>the prefix for the routes</p>
+								</div>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">express.Router</span></h4>
+						<p>an <a href="http://expressjs.com/en/4x/api.html#router">express.Router</a></p>
+					</li>
+				</ul>
 			</section>
 		</section>
 		<footer class="with-border-bottom">
