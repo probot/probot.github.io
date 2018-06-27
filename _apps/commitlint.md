@@ -22,7 +22,7 @@ organizations:
 - ahmed-taj
 - christophehurpeau
 - u3u
-- upfrontIO
+- theo4u
 ---
 
 <p align="center">

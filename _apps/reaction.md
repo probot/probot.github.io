@@ -9,7 +9,7 @@ authors:
 repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
 stars: 0
-updated: 2018-06-26 18:17:55 UTC
+updated: 2018-06-27 08:54:21 UTC
 installations: 3
 organizations:
 - kivy

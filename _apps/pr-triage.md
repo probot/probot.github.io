@@ -8,9 +8,9 @@ authors:
 - sotayamashita
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
-stars: 3
-updated: 2018-06-26 07:18:11 UTC
-installations: 1
+stars: 2
+updated: 2018-06-27 07:18:35 UTC
+installations: 2
 organizations:
 - pr-triage
 ---

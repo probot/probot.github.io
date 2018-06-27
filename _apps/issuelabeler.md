@@ -14,8 +14,8 @@ installations: 8
 organizations:
 - pymc-devs
 - GameServerManagers
-- nodeschool
 - aonez
+- nodeschool
 - RMHogervorst
 - cms-gem-daq-project
 - dibosh
