@@ -16,9 +16,9 @@ Advanced:
   - docs/best-practices.md
 Reference:
   - title: Application
-    url: "https://probot.github.io/api/latest/global.html#Application"
+    url: "https://probot.github.io/api/latest/classes/application.html"
   - title: context
-    url: "https://probot.github.io/api/latest/global.html#Context"
+    url: "https://probot.github.io/api/latest/classes/context.html"
   - title: context.github
     url: "http://octokit.github.io/rest.js/"
   - title: GitHub Webhook Events
