@@ -11,6 +11,7 @@ Advanced:
   - docs/logging.md
   - docs/pagination.md
   - docs/extensions.md
+  - docs/configuration.md
   - docs/deployment.md
   - docs/persistence.md
   - docs/best-practices.md
