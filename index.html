@@ -86,7 +86,7 @@ module.exports = app => {
     const params = context.issue({
       body: 'Hello World!'
     });
-    context.github.issues.createComment(params);
+    await context.github.issues.createComment(params);
   });
 };
 {% endhighlight %}

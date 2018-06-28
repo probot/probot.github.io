@@ -8,13 +8,15 @@ authors:
 - koddsson
 repository: koddsson/eslint-disable-probot
 host: https://eslint-disable-probot.herokuapp.com
-stars: 11
+stars: 13
 updated: 2018-04-17 09:00:30 UTC
-installations: 8
+installations: 10
 organizations:
 - thibmaek
+- levibostian
 - Favna
 - ID-BPHC
+- Spudnik-Group
 - odykyi
 ---
 ## Usage

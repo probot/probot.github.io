@@ -12,7 +12,7 @@ repository: evenchange4/gh-polls-bot
 host: https://gh-polls-bot.now.sh
 stars: 131
 updated: 2018-01-15 01:35:10 UTC
-installations: 125
+installations: 139
 organizations:
 - apex
 - dawnlabs
@@ -21,9 +21,9 @@ organizations:
 - jaegertracing
 - ahmetb
 - detailyang
+- RasaHQ
 - terkelg
 - probot
-- hql287
 ---
 
 # GitHub Polls Bot

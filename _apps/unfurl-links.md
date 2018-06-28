@@ -9,8 +9,8 @@ authors:
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 33
-updated: 2018-06-01 16:38:29 UTC
-installations: 76
+updated: 2018-06-26 14:25:18 UTC
+installations: 86
 organizations:
 - reactiveui
 - probot
@@ -20,8 +20,8 @@ organizations:
 - wangzuo
 - thefrontside
 - jahirfiquitiva
+- arguiot
 - timvideos
-- getantibody
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
