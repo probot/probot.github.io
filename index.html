@@ -81,8 +81,8 @@ layout: default
         <div class="col-md-6">
           <div class="rounded-2 overflow-hidden border" style="margin-left: 60px;">
 {% highlight javascript %}
-module.exports = robot => {
-  robot.on('issues.opened', async context => {
+module.exports = app => {
+  app.on('issues.opened', async context => {
     const params = context.issue({
       body: 'Hello World!'
     });
