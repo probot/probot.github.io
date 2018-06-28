@@ -11,9 +11,8 @@ repository: ahmed-taj/commitlint-bot
 host: https://probot-commitlint.now.sh
 stars: 69
 updated: 2018-04-28 00:10:53 UTC
-installations: 47
+installations: 46
 organizations:
-- pedronauck
 - caarlos0
 - TECLIB
 - ajsb85
@@ -23,6 +22,7 @@ organizations:
 - christophehurpeau
 - u3u
 - theo4u
+- upfrontIO
 ---
 
 <p align="center">

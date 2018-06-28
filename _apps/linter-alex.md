@@ -15,8 +15,8 @@ organizations:
 - git-for-windows
 - probot
 - PennyDreadfulMTG
-- 4cm4k1
 - l0s
+- 4cm4k1
 - silasary
 - gitgitgadget
 ---
