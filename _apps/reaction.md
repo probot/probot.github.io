@@ -8,12 +8,13 @@ authors:
 - dessant
 repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
-stars: 0
-updated: 2018-06-27 08:54:21 UTC
-installations: 3
+stars: 1
+updated: 2018-06-29 11:23:13 UTC
+installations: 4
 organizations:
 - kivy
 - OpenApprenticeFoundation
+- bcanseco
 ---
 
 A GitHub App that educates users about the correct use of GitHub reactions,

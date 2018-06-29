@@ -9,7 +9,7 @@ authors:
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
 stars: 2
-updated: 2018-06-28 19:27:41 UTC
+updated: 2018-06-29 15:32:23 UTC
 installations: 4
 organizations:
 - pr-triage
