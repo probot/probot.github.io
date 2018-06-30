@@ -8,12 +8,15 @@ authors:
 - dessant
 repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
-stars: 1
+stars: 2
 updated: 2018-06-29 11:23:13 UTC
-installations: 4
+installations: 8
 organizations:
 - kivy
+- Mottie
+- CellularPrivacy
 - OpenApprenticeFoundation
+- rejuvenate
 - bcanseco
 ---
 

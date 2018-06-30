@@ -8,10 +8,11 @@ authors:
 - sotayamashita
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
-stars: 2
-updated: 2018-06-29 15:32:23 UTC
+stars: 3
+updated: 2018-06-30 15:38:13 UTC
 installations: 4
 organizations:
+- LinioIT
 - pr-triage
 ---
 
