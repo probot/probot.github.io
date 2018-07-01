@@ -18,7 +18,7 @@ organizations:
 - ajsb85
 - algolia
 - flyve-mdm
-- ahmed-taj
+- z0al
 - christophehurpeau
 - u3u
 - theo4u
