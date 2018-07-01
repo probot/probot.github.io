@@ -8,7 +8,7 @@ The majority of documentation on the site is drawn from [the probot docs](https:
 
 ## App Showcase
 
-We also use this website to show off some of the cool probot plugins built by the community. If you would like to have your plugin listed there, check out our [Contributing Guidelines](https://github.com/probot/probot.github.io/blob/master/CONTRIBUTING.md) for more information about what the requirements are to do that.
+We also use this website to show off some of the cool probot apps built by the community. If you would like to have your app listed there, check out our [Contributing Guidelines](https://github.com/probot/probot.github.io/blob/master/CONTRIBUTING.md) for more information about what the requirements are to do that.
 
 ## License
 
