@@ -4,10 +4,10 @@ description: Lints all commits of new or edited pull requests and sets an approp
   status check.
 slug: commitlint
 screenshots:
-- https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/status.png
+- https://github.com/z0al/commitlint-bot/raw/master/docs/status.png
 authors:
-- ahmed-taj
-repository: ahmed-taj/commitlint-bot
+- z0al
+repository: z0al/commitlint-bot
 host: https://probot-commitlint.now.sh
 stars: 69
 updated: 2018-04-28 00:10:53 UTC
@@ -51,9 +51,9 @@ For best results, enable branch protection (in the repository's settings) and re
 ![branch-protection-screenshot][]
 
 [apps]: https://github.com/apps/commitlint
-[status-check-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/status.png
-[status-comment-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/comment.png
-[branch-protection-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/setting.png
+[status-check-screenshot]: https://github.com/z0al/commitlint-bot/raw/master/docs/status.png
+[status-comment-screenshot]: https://github.com/z0al/commitlint-bot/raw/master/docs/comment.png
+[branch-protection-screenshot]: https://github.com/z0al/commitlint-bot/raw/master/docs/setting.png
 
 ## Credits
 
@@ -67,4 +67,4 @@ Give it a star(:star:) :point_up_2:
 
 ## License
 
-MIT © [Ahmed T. Ali](https://github.com/ahmed-taj)
+MIT © [Ahmed T. Ali](https://github.com/z0al)
