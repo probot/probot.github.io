@@ -4,11 +4,11 @@ description: Enforce the DCO on Pull Requests
 slug: dco
 screenshots:
 - https://cloud.githubusercontent.com/assets/173/24482273/a35dc23e-14b5-11e7-9371-fd241873e2c3.png
-stars: 64
+stars: 65
 authors:
 - bkeepers
 repository: probot/dco
-updated: 2018-07-02 17:35:36 UTC
+updated: 2018-07-02 20:11:04 UTC
 host: https://probot-dco.herokuapp.com
 installations: 223
 organizations:
