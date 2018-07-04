@@ -9,7 +9,7 @@ authors:
 - lee-dohm
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
-stars: 35
+stars: 36
 updated: 2018-04-13 15:51:35 UTC
 installations: 94
 organizations:

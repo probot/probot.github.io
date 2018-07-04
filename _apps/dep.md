@@ -9,7 +9,7 @@ authors:
 - z0al
 repository: z0al/dep
 host: https://probot-dep.now.sh
-stars: 35
+stars: 36
 updated: 2018-06-28 17:26:44 UTC
 installations: 60
 organizations:
