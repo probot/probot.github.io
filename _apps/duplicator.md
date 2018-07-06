@@ -11,7 +11,7 @@ authors:
 repository: raulriera/probot-duplicator
 host: https://rapid-sousaphone.glitch.me/
 stars: 2
-updated: 2018-07-05 17:49:39 UTC
+updated: 2018-07-06 02:21:05 UTC
 installations: 4
 organizations:
 - opensourcecities
