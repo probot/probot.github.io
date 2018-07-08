@@ -15,8 +15,8 @@ organizations:
 - nteract
 - stylelint
 - Laravel-Backpack
-- cla-assistant
 - github-modules
+- cla-assistant
 - react-native-sensors
 - contentful-userland
 - flyve-mdm
