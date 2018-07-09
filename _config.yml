@@ -37,6 +37,11 @@ defaults:
       path: "docs"
     values:
       layout: docs
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 
 plugins:
   - jekyll-redirect-from

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="container-lg px-3 py-6">
+  <div class="col-md-8">
+    <h1 class="alt-h2">{{ page.title }}</h1>
+    <div class="text-gray-light mb-6">
+      <span class="mr-3">
+        {% octicon calendar %}
+        {{ page.date | date: "%B %e, %Y" }}
+      </span>
+
+      <span class="mr-3">
+        <img class="avatar" src="https://github.com/{{ page.author }}.png" alt="Avatar for {{ page.author }}" width="16" height="16">
+        <a class="text-gray" href="https://github.com/{{ page.author }}">{{ page.author }}</a>
+      </span>
+    </div>
+
+    <div class="markdown-body">
+      {{ content }}
+    </div>    
+  </div>
+</div>
