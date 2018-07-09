@@ -4,9 +4,21 @@ description: Drafts your next release notes as pull requests are merged into mas
 slug: release-drafter
 screenshots:
 - https://raw.githubusercontent.com/toolmantim/release-drafter/master/design/screenshot.png
-authors: [ toolmantim ]
+authors:
+- toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
+stars: 75
+updated: 2018-07-08 03:13:44 UTC
+installations: 8
+organizations:
+- benbalter
+- palkan
+- toolmantim
+- buildkite-plugins
+- Armaldio
+- appscode
+- cpdis
 ---
 
 ## Usage

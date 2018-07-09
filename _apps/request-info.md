@@ -22,7 +22,7 @@ organizations:
 - desktop
 - nozzle
 - jsonresume
-- bolt
+- probot
 ---
 
 
