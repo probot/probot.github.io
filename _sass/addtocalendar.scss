@@ -118,3 +118,8 @@
 .atc-style-blue .atcb-item:hover {
     background: $text-blue;
 }
+
+// Override the addtocalendar.com button font
+.addeventatc {
+    font-family: $body-font !important;
+}
