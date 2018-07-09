@@ -11,13 +11,13 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 ## Submitting a pull request
 
-0. [Fork][fork] and clone the repository
-0. Configure and install the dependencies: `script/bootstrap`
-0. Create a new branch: `git checkout -b my-branch-name`
-0. Run the server: `script/server`
-0. Make your changes
-0. Push to your fork and [submit a pull request][pr]
-0. Pat your self on the back and wait for your pull request to be reviewed and merged.
+1. [Fork][fork] and clone the repository
+1. Configure and install the dependencies: `script/bootstrap`
+1. Create a new branch: `git checkout -b my-branch-name`
+1. Run the server: `script/server`
+1. Make your changes
+1. Push to your fork and [submit a pull request][pr]
+1. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
 **Note:** on Windows, instead of `script/bootstrap` you'll need to run `bundle install` and `npm install`. Instead of `script/server`, you'll need to run `bundle exec jekyll serve`.
 
