@@ -1,8 +1,11 @@
-before_script: "./script/bootstrap"
 script: "./script/cibuild"
 language: ruby
 rvm:
 - 2.4.0
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
 notifications:
   email: false
 env:

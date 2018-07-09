@@ -7,21 +7,21 @@ screenshots:
 authors:
 - gr2m
 repository: gr2m/wip-bot
-stars: 78
-updated: 2018-04-04 17:35:02 UTC
+stars: 239
+updated: 2018-07-06 21:12:14 UTC
 host: https://wip-bot.now.sh
-installations: 454
+installations: 572
 organizations:
 - electron
 - dotnet
 - jekyll
 - yiisoft
 - home-assistant
+- markedjs
 - kivy
 - aurelia
 - Microsoft
 - eggjs
-- PowerShell
 ---
 
 If you don’t want a pull request to be merged accidentally, add the word "wip" or "WIP" to its title and WIP bot will set its status to error. That’s all :)

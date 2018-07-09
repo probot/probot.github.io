@@ -7,21 +7,21 @@ screenshots:
 authors:
 - erickzhao
 repository: erickzhao/invite-contributors
-stars: 17
-updated: 2017-11-06 05:29:49 UTC
+stars: 20
+updated: 2018-05-05 14:10:11 UTC
 host: https://vast-stream-78160.herokuapp.com
-installations: 14
+installations: 22
 organizations:
+- nteract
+- stylelint
 - Laravel-Backpack
+- github-modules
 - cla-assistant
+- react-native-sensors
 - contentful-userland
 - flyve-mdm
 - LibreTime
-- aethonanbot
-- sydneyhaskell
-- elofyi
-- dddpppmmm
-- funky-cactus
+- levibostian
 ---
 
 # invite-contributors

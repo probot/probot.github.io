@@ -11,13 +11,13 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 ## Submitting a pull request
 
-0. [Fork][fork] and clone the repository
-0. Configure and install the dependencies: `script/bootstrap`
-0. Create a new branch: `git checkout -b my-branch-name`
-0. Run the server: `script/server`
-0. Make your changes
-0. Push to your fork and [submit a pull request][pr]
-0. Pat your self on the back and wait for your pull request to be reviewed and merged.
+1. [Fork][fork] and clone the repository
+1. Configure and install the dependencies: `script/bootstrap`
+1. Create a new branch: `git checkout -b my-branch-name`
+1. Run the server: `script/server`
+1. Make your changes
+1. Push to your fork and [submit a pull request][pr]
+1. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
 **Note:** on Windows, instead of `script/bootstrap` you'll need to run `bundle install` and `npm install`. Instead of `script/server`, you'll need to run `bundle exec jekyll serve`.
 
@@ -37,7 +37,7 @@ Work in Progress pull request are also welcome to get feedback early on, or if t
 
 ## Adding your app
 
-You can add your app to the [website](https://probot.github.io/apps/) by creating a [new file in `_apps/`](https://github.com/probot/probot.github.io/new/master/_apps?filename=your-app-name.md) with this template:
+You can add your app to the [website](https://probot.github.io/apps/) by creating a [new file in `_apps/`](https://github.com/probot/probot.github.io/new/master?filename=_apps/your-app-name.md) with this template:
 
 ```
 ---
@@ -61,16 +61,12 @@ host: https://my-probot-app.awesomecloudhost.com
 Any documentation can go here. Many apps just use their README.md here.
 ```
 
-## Hosting your app
+## Requirements for apps
 
-We will list un-hosted apps on the website to help gain more exposure. We will consider hosting apps on a case by case basis.
-
-When considering hosting new plugins here's what we look for, the app:
-
-- Works (ie it can run without errors and perform some sort of action on GitHub through the API)
-- Does something not already done by an existing probot app
-- Has minimal tests
-- Has minimal documentation
+- Performs a useful action through the GitHub API that solves an existing problem for developers
+- Is original: for example, it does something not already done by an existing probot app
+- Has tests
+- Has documentation
 - Is open source
 - Has a license
 - Has a code of conduct

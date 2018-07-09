@@ -4,25 +4,25 @@ description: Lints all commits of new or edited pull requests and sets an approp
   status check.
 slug: commitlint
 screenshots:
-- https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/status.png
+- https://github.com/z0al/commitlint-bot/raw/master/docs/status.png
 authors:
-- ahmed-taj
-repository: ahmed-taj/commitlint-bot
-host: https://commitlint.herokuapp.com
-stars: 55
-updated: 2018-02-28 18:12:46 UTC
-installations: 30
+- z0al
+repository: z0al/commitlint-bot
+host: https://probot-commitlint.now.sh
+stars: 71
+updated: 2018-07-08 20:02:14 UTC
+installations: 49
 organizations:
 - caarlos0
+- TECLIB
 - ajsb85
 - algolia
 - flyve-mdm
-- ahmed-taj
-- SuriyaaKudoIsc
-- upfrontIO
-- CharlyJazz
-- glpi-project
+- z0al
+- christophehurpeau
+- u3u
 - theo4u
+- upfrontIO
 ---
 
 <p align="center">
@@ -34,9 +34,9 @@ and sets an appropriate status check.
 
 ## Usage
 
-1. Browse to [GitHub Apps - commitlint][apps]
-2. Accept the permissions
-3. Allow access to repositories
+1.  Browse to [GitHub Apps - commitlint][apps]
+2.  Accept the permissions
+3.  Allow access to repositories
 
 On the next pull request, a status check from `commitlint` will appear:
 
@@ -51,9 +51,9 @@ For best results, enable branch protection (in the repository's settings) and re
 ![branch-protection-screenshot][]
 
 [apps]: https://github.com/apps/commitlint
-[status-check-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/status.png
-[status-comment-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/comment.png
-[branch-protection-screenshot]: https://github.com/ahmed-taj/commitlint-bot/raw/master/docs/setting.png
+[status-check-screenshot]: https://github.com/z0al/commitlint-bot/raw/master/docs/status.png
+[status-comment-screenshot]: https://github.com/z0al/commitlint-bot/raw/master/docs/comment.png
+[branch-protection-screenshot]: https://github.com/z0al/commitlint-bot/raw/master/docs/setting.png
 
 ## Credits
 
@@ -67,4 +67,4 @@ Give it a star(:star:) :point_up_2:
 
 ## License
 
-MIT © [Ahmed T. Ali](https://github.com/ahmed-taj)
+MIT © [Ahmed T. Ali](https://github.com/z0al)
