@@ -42,19 +42,18 @@ redirect_from:
         to give feedback, ask questions, get help, or just chat about ideas.
       </p>
 
-      <span class="addtocalendar atc-style-blue">
+      <span class="addeventatc atc-style-blue" title="Add to Calendar">
         <a class="atcb-link btn btn-outline">
           {% octicon calendar class:"mr-2" %} Add to Calendar
         </a>
 
-        <var class="atc_event">
-          <var class="atc_date_start js-office-hours-start-time"></var>
-          <var class="atc_date_end js-office-hours-end-time"></var>
-          <var class="atc_timezone">UTC</var>
-          <var class="atc_title">Probot Office Hours</var>
-          <var class="atc_description">Join us every Thursday to give feedback, ask questions, get help, or just chat about ideas.</var>
-          <var class="atc_location">{{ page.office_hours_link }}</var>
-        </var>
+        <span class="start js-office-hours-start-time" data-format="YYYY-MM-DD HH:mm" data-utc></span>
+        <span class="end js-office-hours-end-time" data-format="YYYY-MM-DD HH:mm" data-utc></span>
+        <span class="timezone">UTC</span>
+        <span class="title">Probot Office Hours</span>
+        <span class="description">Join us every week to give feedback, ask questions, get help, or just chat about ideas.</span>
+        <span class="location">{{ page.office_hours_link }}</span>
+        <span class="recurring">FREQ=WEEKLY;INTERVAL=1</span>
       </span>
 
       <a href="{{ page.office_hours_link }}" class="btn btn-outline ml-2 office-hours-nag d-none">
@@ -86,4 +85,4 @@ redirect_from:
 
 
 
-<script async src="//addtocalendar.com/atc/1.5/atc.min.js" charset="utf-8"></script>
+<script src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async></script>

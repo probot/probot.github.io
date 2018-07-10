@@ -5,7 +5,7 @@
 
 /* Base */
 
-.addtocalendar var {
+.addeventatc span {
   display: none;
 }
 
@@ -68,6 +68,17 @@
     outline: none;
 }
 
+.atc-style-blue
+{
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+.atc-style-blue .addeventatc_icon
+{
+  display: none;
+}
+
 .atc-style-blue .atcb-list,
 .atc-style-blue .atcb-item
 {
@@ -106,4 +117,9 @@
 .atc-style-blue .atcb-item.hover,
 .atc-style-blue .atcb-item:hover {
     background: $text-blue;
+}
+
+// Override the addtocalendar.com button font
+.addeventatc {
+    font-family: $body-font !important;
 }
