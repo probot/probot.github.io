@@ -15,7 +15,7 @@ Firstly, you’ll need to install the [Tap Release GitHub App](https://github.co
 
 Then, add a `.github/tap-release.yml` configuration file to the GitHub repository where you publish new releases to.
 
-For example, given the following `.github/tap-release.yml` file in a `my-org/app/app.rb` repository:
+For example, given the following `.github/tap-release.yml` file in a `my-org/app` repository:
 
 ```yml
 asset: app.zip
