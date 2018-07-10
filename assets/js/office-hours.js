@@ -25,10 +25,16 @@ function displayTime(elements, time) {
     var format = el.dataset.format
     var value;
 
-    if(format == 'fromNow') {
-      value = time.local().fromNow();
+    if(el.dataset.hasOwnProperty('utc')) {
+      time = time.utc()
     } else {
-      value = time.local().format(format);
+      time = time.local()
+    }
+
+    if(format == 'fromNow') {
+      value = time.fromNow();
+    } else {
+      value = time.format(format);
     }
 
     el.innerHTML = value;
