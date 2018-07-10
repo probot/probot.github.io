@@ -923,6 +923,9 @@ img { max-width: 100%; }
 					<a href="context.html#github" class="tsd-kind-icon">github</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="context.html#host" class="tsd-kind-icon">host</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
 					<a href="context.html#id" class="tsd-kind-icon">id</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-class">
@@ -930,6 +933,12 @@ img { max-width: 100%; }
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-class">
 					<a href="context.html#payload" class="tsd-kind-icon">payload</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="context.html#protocol" class="tsd-kind-icon">protocol</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="context.html#url" class="tsd-kind-icon">url</a>
 				</li>
 				<li class=" tsd-kind-get-signature tsd-parent-kind-class">
 					<a href="context.html#isbot" class="tsd-kind-icon">is<wbr>Bot</a>
@@ -1057,37 +1066,18 @@ img { max-width: 100%; }
 </nav>
 <div class="container container-main">
 	<div class="content-wrap">
-		<section class="tsd-panel tsd-comment">
-			<div class="tsd-comment tsd-typography">
-				<div class="lead">
-					<p>The context of the event that was triggered, including the payload and
-					helpers for extracting information can be passed to GitHub API calls.</p>
-				</div>
-				<pre><code class="lang-js"> <span class="hljs-built_in">module</span>.exports = <span class="hljs-function"><span class="hljs-params">app</span> =&gt;</span> {
-   app.on(<span class="hljs-string">'push'</span>, context =&gt; {
-     context.log(<span class="hljs-string">'Code was pushed to the repo, what should we do with it?'</span>);
-   });
- };
-</code></pre>
-				<dl class="tsd-comment-tags">
-					<dt>property</dt>
-					<dd><p>{github} github - A GitHub API client</p>
-					</dd>
-					<dt>property</dt>
-					<dd><p>{payload} payload - The webhook event payload</p>
-					</dd>
-					<dt>property</dt>
-					<dd><p>{logger} log - A logger</p>
-					</dd>
-				</dl>
-			</div>
-		</section>
 		<section class="tsd-panel tsd-hierarchy">
 			<h3>Hierarchy</h3>
 			<ul class="tsd-hierarchy">
 				<li>
 					<span class="target">Context</span>
 				</li>
+			</ul>
+		</section>
+		<section class="tsd-panel">
+			<h3>Implements</h3>
+			<ul class="tsd-hierarchy">
+				<li><a href="../interfaces/webhookevent.html" class="tsd-signature-type">WebhookEvent</a></li>
 			</ul>
 		</section>
 		<section class="tsd-panel-group tsd-index-group">
@@ -1105,9 +1095,12 @@ img { max-width: 100%; }
 						<ul class="tsd-index-list">
 							<li class="tsd-kind-property tsd-parent-kind-class"><a href="context.html#event" class="tsd-kind-icon">event</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-class"><a href="context.html#github" class="tsd-kind-icon">github</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="context.html#host" class="tsd-kind-icon">host</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-class"><a href="context.html#id" class="tsd-kind-icon">id</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-class"><a href="context.html#log" class="tsd-kind-icon">log</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-class"><a href="context.html#payload" class="tsd-kind-icon">payload</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="context.html#protocol" class="tsd-kind-icon">protocol</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="context.html#url" class="tsd-kind-icon">url</a></li>
 						</ul>
 					</section>
 					<section class="tsd-index-section ">
@@ -1133,19 +1126,19 @@ img { max-width: 100%; }
 				<a name="constructor" class="tsd-anchor"></a>
 				<h3>constructor</h3>
 				<ul class="tsd-signatures tsd-kind-constructor tsd-parent-kind-class">
-					<li class="tsd-signature tsd-kind-icon">new <wbr>Context<span class="tsd-signature-symbol">(</span>event<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span>, github<span class="tsd-signature-symbol">: </span><a href="../interfaces/githubapi.html" class="tsd-signature-type">GitHubAPI</a>, log<span class="tsd-signature-symbol">: </span><a href="../interfaces/loggerwithtarget.html" class="tsd-signature-type">LoggerWithTarget</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="context.html" class="tsd-signature-type">Context</a></li>
+					<li class="tsd-signature tsd-kind-icon">new <wbr>Context<span class="tsd-signature-symbol">(</span>event<span class="tsd-signature-symbol">: </span><a href="../interfaces/webhookevent.html" class="tsd-signature-type">WebhookEvent</a>, github<span class="tsd-signature-symbol">: </span><a href="../interfaces/githubapi.html" class="tsd-signature-type">GitHubAPI</a>, log<span class="tsd-signature-symbol">: </span><a href="../interfaces/loggerwithtarget.html" class="tsd-signature-type">LoggerWithTarget</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="context.html" class="tsd-signature-type">Context</a></li>
 				</ul>
 				<ul class="tsd-descriptions">
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L26">context.ts:26</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L40">context.ts:40</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
 						<ul class="tsd-parameters">
 							<li>
-								<h5>event: <span class="tsd-signature-type">any</span></h5>
+								<h5>event: <a href="../interfaces/webhookevent.html" class="tsd-signature-type">WebhookEvent</a></h5>
 							</li>
 							<li>
 								<h5>github: <a href="../interfaces/githubapi.html" class="tsd-signature-type">GitHubAPI</a></h5>
@@ -1164,10 +1157,11 @@ img { max-width: 100%; }
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
 				<a name="event" class="tsd-anchor"></a>
 				<h3>event</h3>
-				<div class="tsd-signature tsd-kind-icon">event<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">any</span></div>
+				<div class="tsd-signature tsd-kind-icon">event<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
 				<aside class="tsd-sources">
+					<p>Implementation of <a href="../interfaces/webhookevent.html">WebhookEvent</a>.<a href="../interfaces/webhookevent.html#event">event</a></p>
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L26">context.ts:26</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L32">context.ts:32</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1177,17 +1171,29 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">github<span class="tsd-signature-symbol">:</span> <a href="../interfaces/githubapi.html" class="tsd-signature-type">GitHubAPI</a></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L23">context.ts:23</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L39">context.ts:39</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="host" class="tsd-anchor"></a>
+				<h3>host</h3>
+				<div class="tsd-signature tsd-kind-icon">host<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+				<aside class="tsd-sources">
+					<p>Implementation of <a href="../interfaces/webhookevent.html">WebhookEvent</a>.<a href="../interfaces/webhookevent.html#host">host</a></p>
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L36">context.ts:36</a></li>
 					</ul>
 				</aside>
 			</section>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
 				<a name="id" class="tsd-anchor"></a>
 				<h3>id</h3>
-				<div class="tsd-signature tsd-kind-icon">id<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">number</span></div>
+				<div class="tsd-signature tsd-kind-icon">id<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
 				<aside class="tsd-sources">
+					<p>Implementation of <a href="../interfaces/webhookevent.html">WebhookEvent</a>.<a href="../interfaces/webhookevent.html#id">id</a></p>
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L22">context.ts:22</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L33">context.ts:33</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1197,7 +1203,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">log<span class="tsd-signature-symbol">:</span> <a href="../interfaces/loggerwithtarget.html" class="tsd-signature-type">LoggerWithTarget</a></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L24">context.ts:24</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L40">context.ts:40</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1206,8 +1212,31 @@ img { max-width: 100%; }
 				<h3>payload</h3>
 				<div class="tsd-signature tsd-kind-icon">payload<span class="tsd-signature-symbol">:</span> <a href="../interfaces/webhookpayloadwithrepository.html" class="tsd-signature-type">WebhookPayloadWithRepository</a></div>
 				<aside class="tsd-sources">
+					<p>Implementation of <a href="../interfaces/webhookevent.html">WebhookEvent</a>.<a href="../interfaces/webhookevent.html#payload">payload</a></p>
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L25">context.ts:25</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L34">context.ts:34</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="protocol" class="tsd-anchor"></a>
+				<h3>protocol</h3>
+				<div class="tsd-signature tsd-kind-icon">protocol<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">"http"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"https"</span></div>
+				<aside class="tsd-sources">
+					<p>Implementation of <a href="../interfaces/webhookevent.html">WebhookEvent</a>.<a href="../interfaces/webhookevent.html#protocol">protocol</a></p>
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L35">context.ts:35</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="url" class="tsd-anchor"></a>
+				<h3>url</h3>
+				<div class="tsd-signature tsd-kind-icon">url<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+				<aside class="tsd-sources">
+					<p>Implementation of <a href="../interfaces/webhookevent.html">WebhookEvent</a>.<a href="../interfaces/webhookevent.html#url">url</a></p>
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L37">context.ts:37</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1220,7 +1249,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">is<wbr>Bot<span class="tsd-signature-symbol">:</span> </div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L83">context.ts:83</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L102">context.ts:102</a></li>
 					</ul>
 				</aside>
 				<div class="tsd-comment tsd-typography">
@@ -1241,13 +1270,13 @@ img { max-width: 100%; }
 				<a name="config" class="tsd-anchor"></a>
 				<h3>config</h3>
 				<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-has-type-parameter">
-					<li class="tsd-signature tsd-kind-icon">config&lt;T&gt;<span class="tsd-signature-symbol">(</span>fileName<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span>, defaultConfig<span class="tsd-signature-symbol">?: </span><a href="" class="tsd-signature-type">T</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">&gt;</span></li>
+					<li class="tsd-signature tsd-kind-icon">config&lt;T&gt;<span class="tsd-signature-symbol">(</span>fileName<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span>, defaultConfig<span class="tsd-signature-symbol">?: </span><a href="" class="tsd-signature-type">T</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">null</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">T</span><span class="tsd-signature-symbol">&gt;</span></li>
 				</ul>
 				<ul class="tsd-descriptions">
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L126">context.ts:126</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L145">context.ts:145</a></li>
 							</ul>
 						</aside>
 						<div class="tsd-comment tsd-typography">
@@ -1299,7 +1328,7 @@ img { max-width: 100%; }
 								</div>
 							</li>
 						</ul>
-						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">&gt;</span></h4>
+						<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">null</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">T</span><span class="tsd-signature-symbol">&gt;</span></h4>
 						<p>Configuration object read from the file</p>
 					</li>
 				</ul>
@@ -1314,7 +1343,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L72">context.ts:72</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L91">context.ts:91</a></li>
 							</ul>
 						</aside>
 						<div class="tsd-comment tsd-typography">
@@ -1361,7 +1390,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/context.ts#L47">context.ts:47</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L66">context.ts:66</a></li>
 							</ul>
 						</aside>
 						<div class="tsd-comment tsd-typography">

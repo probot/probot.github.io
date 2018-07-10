@@ -1045,12 +1045,43 @@ img { max-width: 100%; }
 </nav>
 <div class="container container-main">
 	<div class="content-wrap">
+		<section class="tsd-panel tsd-comment">
+			<div class="tsd-comment tsd-typography">
+				<div class="lead">
+					<p>The context of the event that was triggered, including the payload and
+					helpers for extracting information can be passed to GitHub API calls.</p>
+				</div>
+				<pre><code class="lang-js"> <span class="hljs-built_in">module</span>.exports = <span class="hljs-function"><span class="hljs-params">app</span> =&gt;</span> {
+   app.on(<span class="hljs-string">'push'</span>, context =&gt; {
+     context.log(<span class="hljs-string">'Code was pushed to the repo, what should we do with it?'</span>);
+   });
+ };
+</code></pre>
+				<dl class="tsd-comment-tags">
+					<dt>property</dt>
+					<dd><p>{github} github - A GitHub API client</p>
+					</dd>
+					<dt>property</dt>
+					<dd><p>{payload} payload - The webhook event payload</p>
+					</dd>
+					<dt>property</dt>
+					<dd><p>{logger} log - A logger</p>
+					</dd>
+				</dl>
+			</div>
+		</section>
 		<section class="tsd-panel tsd-hierarchy">
 			<h3>Hierarchy</h3>
 			<ul class="tsd-hierarchy">
 				<li>
 					<span class="target">WebhookEvent</span>
 				</li>
+			</ul>
+		</section>
+		<section class="tsd-panel">
+			<h3>Implemented by</h3>
+			<ul class="tsd-hierarchy">
+				<li><a href="../classes/context.html" class="tsd-signature-type">Context</a></li>
 			</ul>
 		</section>
 		<section class="tsd-panel-group tsd-index-group">
@@ -1079,7 +1110,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">event<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/application.ts#L205">application.ts:205</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L23">context.ts:23</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1089,7 +1120,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">host<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/application.ts#L209">application.ts:209</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L27">context.ts:27</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1099,17 +1130,17 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">id<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/application.ts#L206">application.ts:206</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L24">context.ts:24</a></li>
 					</ul>
 				</aside>
 			</section>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
 				<a name="payload" class="tsd-anchor"></a>
 				<h3>payload</h3>
-				<div class="tsd-signature tsd-kind-icon">payload<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">any</span></div>
+				<div class="tsd-signature tsd-kind-icon">payload<span class="tsd-signature-symbol">:</span> <a href="webhookpayloadwithrepository.html" class="tsd-signature-type">WebhookPayloadWithRepository</a></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/application.ts#L207">application.ts:207</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L25">context.ts:25</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1119,7 +1150,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">protocol<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">"http"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"https"</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/application.ts#L208">application.ts:208</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L26">context.ts:26</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1129,7 +1160,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">url<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/bc152ca/src/application.ts#L210">application.ts:210</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/e284ee2/src/context.ts#L28">context.ts:28</a></li>
 					</ul>
 				</aside>
 			</section>
