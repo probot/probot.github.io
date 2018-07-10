@@ -4,9 +4,15 @@ description: Update Homebrew taps when you publish new GitHub releases.
 slug: tap-release
 screenshots:
 - https://raw.githubusercontent.com/toolmantim/tap-release/master/design/screenshot.png
-authors: [ toolmantim ]
+authors:
+- toolmantim
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
+stars: 8
+updated: 2018-07-10 18:42:09 UTC
+installations: 1
+organizations:
+- toolmantim
 ---
 
 ## Usage

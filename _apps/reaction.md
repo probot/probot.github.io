@@ -10,13 +10,15 @@ repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
 stars: 2
 updated: 2018-07-02 19:57:56 UTC
-installations: 9
+installations: 11
 organizations:
 - kivy
 - Mottie
 - CellularPrivacy
 - freefair
+- WormieCorp
 - OpenApprenticeFoundation
+- AdmiringWorm
 - rejuvenate
 - bcanseco
 ---

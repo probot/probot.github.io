@@ -8,17 +8,20 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 75
-updated: 2018-07-08 03:13:44 UTC
-installations: 8
+stars: 145
+updated: 2018-07-10 18:38:27 UTC
+installations: 24
 organizations:
 - benbalter
+- balloob
+- jeanregisser
+- home-assistant
+- nashaofu
 - palkan
 - toolmantim
+- motss
 - buildkite-plugins
 - Armaldio
-- appscode
-- cpdis
 ---
 
 ## Usage

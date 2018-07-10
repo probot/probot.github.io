@@ -9,7 +9,7 @@ authors:
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
 stars: 3
-updated: 2018-07-09 07:23:36 UTC
+updated: 2018-07-10 19:31:59 UTC
 installations: 6
 organizations:
 - LinioIT
