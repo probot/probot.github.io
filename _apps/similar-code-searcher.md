@@ -10,7 +10,7 @@ repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 1
 updated: 2018-07-01 09:51:55 UTC
-installations: 7
+installations: 6
 organizations:
 - r37r0m0d3l
 - revad-ueda
