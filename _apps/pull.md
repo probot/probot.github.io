@@ -37,8 +37,8 @@ _Upstream must be in the same fork network_
 
 ### Basic setup:
 
- 1. Install  **[![Pull](https://cdn.rawgit.com/wei/40d98877c6ac5f917d78ccfe72a0f928/raw/0f6ee2e8715412295998e68754027505f30d0f91/pull-18h.svg) Pull app](https://github.com/apps/pull)**.
- 2. **_That's it!_**
+ 1. Install **[![Pull](https://cdn.rawgit.com/wei/40d98877c6ac5f917d78ccfe72a0f928/raw/0f6ee2e8715412295998e68754027505f30d0f91/pull-18h.svg) Pull app](https://github.com/apps/pull)**.
+ 1. **_That's it!_**
 
 Pull app will automatically watch and pull in upstream's default (master) branch to yours with **hard reset**.
 
