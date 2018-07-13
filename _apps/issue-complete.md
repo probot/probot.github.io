@@ -9,8 +9,8 @@ authors:
 repository: szeck87/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
-updated: 2018-07-12 04:05:02 UTC
-installations: 4
+updated: 2018-07-13 02:23:25 UTC
+installations: 3
 organizations:
 - Maatwebsite
 - Glavin001

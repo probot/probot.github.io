@@ -16,9 +16,9 @@ organizations:
 - probot
 - adriancarriger
 - PennyDreadfulMTG
-- AjayPoshak
-- 4cm4k1
 - l0s
+- 4cm4k1
+- AjayPoshak
 - santi6291
 - silasary
 - nickcannariato

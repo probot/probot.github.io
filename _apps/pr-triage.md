@@ -9,8 +9,8 @@ authors:
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
 stars: 3
-updated: 2018-07-12 07:25:42 UTC
-installations: 8
+updated: 2018-07-13 19:44:11 UTC
+installations: 9
 organizations:
 - LinioIT
 - GoBike

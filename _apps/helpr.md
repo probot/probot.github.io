@@ -11,7 +11,7 @@ repository: rsarky/helpr
 host: https://evening-depths-50399.herokuapp.com
 stars: 4
 updated: 2018-04-20 09:11:34 UTC
-installations: 10
+installations: 11
 organizations:
 - Glavin001
 - tox-dev
@@ -19,6 +19,7 @@ organizations:
 - DarkPacks
 - JPry
 - Polystream
+- SpotswoodCollege
 ---
 
 <p align="center">
