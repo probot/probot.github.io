@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem 'github-pages', versions['github-pages']
   gem 'jekyll-octicons'
   gem 'jekyll-readme-index'
+  gem 'jekyll-mentions'
   gem 'jemoji'
 end
 
