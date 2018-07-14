@@ -9,7 +9,7 @@ authors:
 repository: riyadhalnur/issuelabeler
 host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production
 stars: 2
-updated: 2018-07-13 19:48:19 UTC
+updated: 2018-07-14 02:47:34 UTC
 installations: 10
 organizations:
 - Provenance-Emu
