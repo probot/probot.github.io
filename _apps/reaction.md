@@ -10,7 +10,7 @@ repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
 stars: 3
 updated: 2018-07-02 19:57:56 UTC
-installations: 12
+installations: 13
 organizations:
 - kivy
 - Mottie
