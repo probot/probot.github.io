@@ -32,7 +32,7 @@ _Upstream must be in the same fork network_
 
 ## Setup
 
-:warning:**Before you start:** _Always make a backup if you've made changes._
+:warning:**Before you start:** _Make a backup if you've made changes._
 
 
 ### Basic setup:
