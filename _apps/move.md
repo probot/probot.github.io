@@ -15,7 +15,6 @@ installations: 63
 organizations:
 - atom
 - Homebrew
-- adobe
 - flutter
 - videojs
 - home-assistant
@@ -23,6 +22,7 @@ organizations:
 - tidyverse
 - CachetHQ
 - r-lib
+- ethereum
 ---
 
 A GitHub App that moves issues between repositories.
