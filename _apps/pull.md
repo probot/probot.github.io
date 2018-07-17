@@ -32,17 +32,18 @@ _Upstream must be in the same fork network_
 
 ## Setup
 
-:warning:**Before you start:** _Create a new branch if you have made changes to your fork's default (master) branch._
+:warning:**Before you start:** _Make a backup if you've made changes._
 
 
-### Basic setup (without config):
+### Basic setup:
 
- 1. Run `git clone --mirror` to make a backup (Recommended if you have changes).
  1. Install **[![Pull](https://cdn.rawgit.com/wei/40d98877c6ac5f917d78ccfe72a0f928/raw/0f6ee2e8715412295998e68754027505f30d0f91/pull-18h.svg) Pull app](https://github.com/apps/pull)**.
- 1. With zero-configuration, Pull app will automatically watch and pull in upstream's default (master) branch to yours with **hard reset**.
+ 1. **_That's it!_**
 
-:bulb:_Do NOT touch default (master) branch in any forks. Always create new branches to work on._
+Pull app will automatically watch and pull in upstream's default (master) branch to yours with **hard reset**.
+
+:bulb: Best Practice: _Do NOT touch default (master) branch in any forks. Always create new branches to work on._
 
 
 -----
-For more advanced setup and customization, please visit [wei/pull](https://github.com/wei/pull#readme).
+For advanced setup and customizations, please visit [wei/pull](https://github.com/wei/pull#readme).
