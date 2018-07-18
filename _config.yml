@@ -26,6 +26,9 @@ collections:
   apps:
     output: true
     permalink: /apps/:name/
+  install:
+    output: true
+    permalink: /apps/:name/install/
 
 defaults:
   - scope:
@@ -37,6 +40,11 @@ defaults:
       path: "docs"
     values:
       layout: docs
+  - scope:
+      path: ""
+      type: install
+    values:
+      layout: install
 
 plugins:
   - jekyll-redirect-from

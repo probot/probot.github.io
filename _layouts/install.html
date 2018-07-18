@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="page-section">
+  <div class="container-lg px-3">
+    <div class="d-md-flex d-md-flex-row gutter-md-spacious">
+      <div class="col-md-9">
+        <h1 class="alt-h1 lh-condensed-ultra">{{ page.title }}</h1>
+        <div class="text-gray-light">{{ page.description }}</div>
+      </div>
+      <div class="col-md-3 text-center">
+        <a class="mt-md-1 mb-2 d-block btn btn-primary btn-large" href="https://github.com/apps/{{ page.slug }}/installations/new" data-proofer-ignore ga-on="click" ga-event-category="App Install">
+          {% octicon plus class:"mr-2" %}
+          Add to GitHub
+        </a>
+        <div class="text-gray-light">
+          {% if page.installations %}
+          <div class="mr-2 d-inline tooltipped tooltipped-s" aria-label="{{ page.installations }} installations">{% octicon cloud-download heigh:16 class:"v-align-middle" %} <span class="">{{ page.installations }}</span></div>
+          {% endif %}
+          <div class="d-inline tooltipped tooltipped-s" aria-label="{{ page.stars }} stars">{% octicon star heigh:16 class:"v-align-middle" %} <span class="">{{ page.stars }}</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<hr>
+<div class="py-6">
+  <div class="container-lg px-3">
+    <div class="d-md-flex gutter-md-spacious">
+      <div class="col-md-9">
+        <div class="markdown-body">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
