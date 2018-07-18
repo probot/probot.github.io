@@ -1,6 +1,6 @@
 ---
 title: Delete merged branch
-description: No more manually deleting merged branches, this lovely bot does it for you.
+description: No more manually deleting merged branches, this lovely app does it for you.
 slug: delete-merged-branch
 screenshots:
 - https://user-images.githubusercontent.com/24505883/42899819-7c05a47a-8ac7-11e8-8be9-9e3888f1bedc.gif
@@ -19,7 +19,7 @@ Only PRs that actually get approved and merged will be automatically flagged for
  1. Author opens a PR from a feature branch.
  2. PR gets reviewed and CI runs.
  3. Reviewer or author merges the PR.
- 4. The feature branch gets deleted by this bot.
+ 4. The feature branch gets deleted by this app.
  
 The following flow doesn't result in deletion of the branch:
  1. Author opens a PR from a feature branch.
