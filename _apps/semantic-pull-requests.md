@@ -41,7 +41,3 @@ Edit the PR title by adding a semantic prefix like `fix: ` or `feat: ` or any ot
 ## Installation
 
 👉 [github.com/apps/semantic-pull-requests](https://github.com/apps/semantic-pull-requests)
-
-## License
-
-[Apache 2.0](LICENSE)
