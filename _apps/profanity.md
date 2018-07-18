@@ -21,11 +21,21 @@ A `.github/profanity.yml` file is required to enable the plugin. The file can be
 ```yml
 # Configuration for probot-profanity - https://github.com/nickgarlis/probot-profanity
 
+# Language to detect profanity in.
+# Choose one of the following: 'de', en', 'es', 'fr', 'it', 'nl', 'pt', 'ru'
+language: 'en'
+
 # Set to true to censor issues (defaults to false)
 censor: false
 
-# Placeholder to replace the letters of a forbidden word 
+# Placeholder to replace the letters of a forbidden word
 placeholder: '*'
+
+# A list of extra forbidden words. Set to `[]` to disable
+extraWords: []
+
+# A list of forbidden words to be ignored. Set to `[]` to disable
+exemptWords: []
 
 # Number of days of inactivity before an inappropriate Issue or Pull Request is closed.
 # Set to false to disable. If disabled, issues still need to be closed manually, but will remain marked as inappropriate.
@@ -43,7 +53,7 @@ exemptMilestones: false
 # Label to use when marking as inappropriate
 profanityLabel: inappropriate
 
-# Comment to post when marking as inappropriate. Set to `false` to disable
+# Comment to post when marking as profanity. Set to `false` to disable
 markComment: >
   This issue has been automatically marked as inappropriate because
   it contains forbidden words. It will be closed if no further edit
