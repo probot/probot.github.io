@@ -6,8 +6,8 @@ screenshots:
 - https://user-images.githubusercontent.com/24505883/42899819-7c05a47a-8ac7-11e8-8be9-9e3888f1bedc.gif
 authors:
 - svanboxel
-repository: delete-merged-branch
-host: http://delete-merged-branch.now.sh/
+repository: svanboxel/delete-merged-branch
+host: https://delete-merged-branch.now.sh
 ---
 
 # Probot: Delete merged branch
