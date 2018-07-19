@@ -10,7 +10,7 @@ repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
 stars: 3
 updated: 2018-07-02 19:57:56 UTC
-installations: 13
+installations: 14
 organizations:
 - kivy
 - Mottie
@@ -18,10 +18,10 @@ organizations:
 - freefair
 - WormieCorp
 - OpenApprenticeFoundation
-- AdmiringWorm
+- zetaron
 - rejuvenate
+- AdmiringWorm
 - SpotswoodCollege
-- bcanseco
 ---
 
 A GitHub App that educates users about the correct use of GitHub reactions,

@@ -5,9 +5,14 @@ slug: profanity
 screenshots:
 - https://user-images.githubusercontent.com/25513006/38316149-bc43b3c0-3832-11e8-8b13-53216b342027.png
 - https://user-images.githubusercontent.com/25513006/38316166-c48f9eb8-3832-11e8-95a3-78773c7120a4.png
-authors: [ nickgarlis ]
+authors:
+- nickgarlis
 repository: nickgarlis/probot-profanity
 host: https://probot-profanity.now.sh
+stars: 7
+updated: 2018-06-20 20:47:40 UTC
+installations: 2
+organizations: []
 ---
 
 ## Usage
