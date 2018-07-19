@@ -14,8 +14,7 @@ host: https://probot-semantic-pull-requests.herokuapp.com
 
 Using [semantic-release](https://github.com/semantic-release/semantic-release)
 and [conventional commit messages](https://conventionalcommits.org)? Install this
-[Probot](https://probot.github.io/) app
-on your repos to ensure your pull requests are semantic before you merge them. 
+app on your repos to ensure your pull requests are semantic before you merge them. 
 
 ## How it works
 
