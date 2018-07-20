@@ -22,7 +22,7 @@ organizations:
 - christophehurpeau
 - u3u
 - theo4u
-- upfrontIO
+- livingdocsIO
 ---
 
 <p align="center">

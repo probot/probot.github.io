@@ -9,7 +9,7 @@ authors:
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
 stars: 7
-updated: 2018-07-19 07:28:06 UTC
+updated: 2018-07-20 07:29:41 UTC
 installations: 18
 organizations:
 - kazupon

@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 185
-updated: 2018-07-19 00:49:54 UTC
-installations: 33
+stars: 197
+updated: 2018-07-20 17:46:21 UTC
+installations: 34
 organizations:
 - benbalter
 - balloob

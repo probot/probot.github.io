@@ -9,7 +9,7 @@ authors:
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
 stars: 9
-updated: 2018-07-17 21:54:23 UTC
+updated: 2018-07-20 10:48:39 UTC
 installations: 1
 organizations:
 - toolmantim
