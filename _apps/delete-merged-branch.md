@@ -10,9 +10,9 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 ---
 
-# Probot: Delete merged branch
+# Delete merged branch
 
-> A GitHub app built with [Probot](https://github.com/probot/probot) that automatically deletes a branch after it's merged. That's it, enjoy! 
+> A GitHub app that automatically deletes a branch after it's merged. That's it, enjoy! 
 
 ## Application logic
 Only PRs that actually get approved and merged will be automatically flagged for deletion. The usual flow will be as follows:
