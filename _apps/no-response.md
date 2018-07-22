@@ -15,8 +15,8 @@ installations: 101
 organizations:
 - Homebrew
 - facebook
-- prettier
 - flutter
+- prettier
 - webtorrent
 - ethereum
 - standard

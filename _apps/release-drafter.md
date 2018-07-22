@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 197
+stars: 199
 updated: 2018-07-21 12:36:36 UTC
-installations: 35
+installations: 37
 organizations:
 - benbalter
 - balloob
@@ -21,7 +21,7 @@ organizations:
 - tansengming
 - toolmantim
 - motss
-- buildkite-plugins
+- JPry
 ---
 
 ## Usage
