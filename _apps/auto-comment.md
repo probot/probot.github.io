@@ -1,17 +1,11 @@
 ---
-# A human-friendly name of your listing
 title: Auto-comment
-# A short description of what your app does
 description:  Comments on new issues and pull requests based on your configuration.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
-slug: https://github.com/apps/auto-comment
-# Include a few screenshots that show your app in action
+slug: auto-comment
 screenshots:
 - https://avatars3.githubusercontent.com/in/14394?s=88&amp;v=4
-# The GitHub usernames of anyone who authored the app
 authors: [ boyney123 ]
-# The repository where the code is located
-repository: https://github.com/boyney123/auto-comment
+repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 ---
 
@@ -25,8 +19,6 @@ host: https://auto-comment.now.sh
  
   </p>
 </p>
-
-![todo](./example.png)
 
 ## Usage
 
