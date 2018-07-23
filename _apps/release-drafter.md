@@ -8,7 +8,7 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 199
+stars: 200
 updated: 2018-07-21 12:36:36 UTC
 installations: 37
 organizations:
@@ -18,10 +18,10 @@ organizations:
 - home-assistant
 - nashaofu
 - palkan
-- tansengming
 - toolmantim
 - motss
 - JPry
+- buildkite-plugins
 ---
 
 ## Usage

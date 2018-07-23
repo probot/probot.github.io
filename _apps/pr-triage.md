@@ -8,8 +8,8 @@ authors:
 - sotayamashita
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
-stars: 8
-updated: 2018-07-22 07:30:23 UTC
+stars: 9
+updated: 2018-07-23 07:31:31 UTC
 installations: 18
 organizations:
 - kazupon

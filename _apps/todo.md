@@ -8,8 +8,8 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
-stars: 141
-updated: 2018-07-18 15:35:59 UTC
+stars: 142
+updated: 2018-07-23 11:26:31 UTC
 installations: 221
 organizations:
 - nteract
