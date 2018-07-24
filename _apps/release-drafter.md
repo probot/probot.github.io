@@ -8,8 +8,8 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 200
-updated: 2018-07-21 12:36:36 UTC
+stars: 206
+updated: 2018-07-23 22:50:00 UTC
 installations: 37
 organizations:
 - benbalter
@@ -20,8 +20,8 @@ organizations:
 - palkan
 - toolmantim
 - motss
-- JPry
 - buildkite-plugins
+- JPry
 ---
 
 ## Usage

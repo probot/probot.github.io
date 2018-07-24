@@ -1,6 +1,7 @@
 ---
 title: Delete merged branch
-description: No more manually deleting merged branches, this lovely app does it for you.
+description: No more manually deleting merged branches, this lovely app does it for
+  you.
 slug: delete-merged-branch
 screenshots:
 - https://user-images.githubusercontent.com/24505883/42899819-7c05a47a-8ac7-11e8-8be9-9e3888f1bedc.gif
@@ -8,6 +9,10 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
+stars: 2
+updated: 2018-07-20 05:48:11 UTC
+installations: 10
+organizations: []
 ---
 
 # Delete merged branch
