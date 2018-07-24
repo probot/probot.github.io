@@ -1,6 +1,6 @@
 ---
 title: Reaction Comments
-description: Deletes +1 comments and educates users about GitHub reactions.
+description: Deletes +1 comments and encourages the use of GitHub reactions.
 slug: reaction
 screenshots:
 - https://raw.githubusercontent.com/dessant/reaction-comments/master/assets/screenshot.png
@@ -24,8 +24,8 @@ organizations:
 - SpotswoodCollege
 ---
 
-A GitHub App that educates users about the correct use of GitHub reactions,
-and deletes new reaction comments, such as +1.
+A GitHub App that deletes reaction comments, such as +1,
+and encourages the use of GitHub reactions.
 
 ## How It Works
 
@@ -37,6 +37,7 @@ or it is deleted immediately, if `reactionComment` is set to `false`.
 ## Usage
 
 1. **[Install the GitHub App](https://github.com/apps/reaction)**
+   for the intended repositories
 2. Create `.github/reaction.yml` based on the template below
 
 #### Configuration
@@ -51,10 +52,11 @@ The file can be empty, or it can override any of these default settings:
 # Set to `[]` to disable
 exemptLabels: []
 
-# Replace matching comments with this message, `{user}` is a placeholder
-# for the comment author. Set to `false` to disable
+# Replace matching comments with this message, `{comment-author}` is an
+# optional placeholder. Set to `false` to disable
 reactionComment: >
-  :wave: @{user}, did you mean to use a [reaction](https://git.io/vhzhC) instead?
+  :wave: @{comment-author}, did you mean to use
+  a [reaction](https://git.io/vhzhC) instead?
 
 # Limit to only `issues` or `pulls`
 # only: issues
@@ -73,6 +75,6 @@ reactionComment: >
 
 ## Supporting the Project
 
-The continued development of Reaction Comments is made possible thanks
-to the support of awesome backers. If you'd like to join them, please consider
-contributing with [Patreon](https://www.patreon.com/dessant).
+The continued development of Reaction Comments is made possible
+thanks to the support of awesome backers. If you'd like to join them,
+please consider contributing with [Patreon](https://www.patreon.com/dessant).
