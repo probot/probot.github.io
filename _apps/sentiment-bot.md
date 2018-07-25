@@ -14,8 +14,8 @@ host: https://probot-sentiment-bot.herokuapp.com
 installations: 62
 organizations:
 - nlohmann
-- git-for-windows
 - probot
+- git-for-windows
 - tiaanduplessis
 - MvvmCross
 - modo-studio

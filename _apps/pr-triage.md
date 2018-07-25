@@ -9,8 +9,8 @@ authors:
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
 stars: 9
-updated: 2018-07-24 07:30:53 UTC
-installations: 18
+updated: 2018-07-25 07:31:58 UTC
+installations: 20
 organizations:
 - kazupon
 - HcySunYang
@@ -18,10 +18,10 @@ organizations:
 - vuejs
 - LinioIT
 - vuejs-jp
+- kotamat
 - GoBike
 - Innovatube
 - glitch-tools
-- pr-triage
 ---
 
 ## Install

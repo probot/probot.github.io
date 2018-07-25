@@ -1,13 +1,26 @@
 ---
 title: Semantic Pull Requests
-description: Status check that ensures your pull requests follow the Conventional Commits spec
+description: Status check that ensures your pull requests follow the Conventional
+  Commits spec
 slug: semantic-pull-requests
 screenshots:
-  - https://user-images.githubusercontent.com/2289/42729629-110812b6-8793-11e8-8c35-188b0952fd66.png
-  - https://user-images.githubusercontent.com/2289/42729632-11980b32-8793-11e8-9f8d-bf16c707f542.png
-authors: [zeke, bkeepers]
+- https://user-images.githubusercontent.com/2289/42729629-110812b6-8793-11e8-8c35-188b0952fd66.png
+- https://user-images.githubusercontent.com/2289/42729632-11980b32-8793-11e8-9f8d-bf16c707f542.png
+authors:
+- zeke
+- bkeepers
 repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
+stars: 9
+updated: 2018-07-25 18:27:18 UTC
+installations: 10
+organizations:
+- electron
+- algolia
+- stardust-ui
+- crowdin-modules
+- probot
+- zeke
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec
