@@ -10,7 +10,7 @@ screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
 updated: 2018-07-19 14:41:35 UTC
 host: https://github-configurer.herokuapp.com
-installations: 170
+installations: 177
 organizations:
 - apollographql
 - denysdovhan
@@ -19,8 +19,8 @@ organizations:
 - wp-cli
 - probot
 - benbalter
-- Anahkiasen
 - tweag
+- Anahkiasen
 - TGMPA
 ---
 
