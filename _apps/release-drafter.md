@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 207
-updated: 2018-07-26 07:30:43 UTC
-installations: 39
+stars: 210
+updated: 2018-07-27 13:15:04 UTC
+installations: 40
 organizations:
 - abraham
 - benbalter
@@ -21,7 +21,7 @@ organizations:
 - palkan
 - toolmantim
 - motss
-- JPry
+- buschtoens
 ---
 
 ## Usage

@@ -13,11 +13,12 @@ repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
 stars: 9
 updated: 2018-07-25 18:27:18 UTC
-installations: 13
+installations: 15
 organizations:
 - electron
 - algolia
 - stardust-ui
+- cozy
 - crowdin-modules
 - probot
 - mike-north

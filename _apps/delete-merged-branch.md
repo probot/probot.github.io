@@ -11,9 +11,10 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 2
 updated: 2018-07-20 05:48:11 UTC
-installations: 14
+installations: 18
 organizations:
 - empirical-org
+- buschtoens
 - SUSE
 - Richienb
 - WeTransfer
