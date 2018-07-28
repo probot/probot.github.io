@@ -10,8 +10,8 @@ authors:
 repository: wei/pull
 host: https://pull.now.sh
 stars: 32
-updated: 2018-07-26 17:36:02 UTC
-installations: 31
+updated: 2018-07-28 19:54:06 UTC
+installations: 32
 organizations:
 - audiohacked
 - wei
