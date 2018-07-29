@@ -21,6 +21,7 @@ organizations:
 - SuriyaaKudoIsc
 - BirkhoffLee
 - shikhir-arora
+- Zeroshi
 ---
 
 # Probot: OOO
