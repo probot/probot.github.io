@@ -10,8 +10,8 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 2
-updated: 2018-07-20 05:48:11 UTC
-installations: 18
+updated: 2018-07-30 18:56:56 UTC
+installations: 19
 organizations:
 - empirical-org
 - buschtoens
@@ -21,6 +21,7 @@ organizations:
 - Minipada
 - ShiKaiWi
 - SvanBoxel
+- agflow
 ---
 
 # Delete merged branch
