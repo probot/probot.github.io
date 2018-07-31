@@ -9,9 +9,9 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 2
+stars: 3
 updated: 2018-07-30 18:56:56 UTC
-installations: 19
+installations: 20
 organizations:
 - empirical-org
 - buschtoens
