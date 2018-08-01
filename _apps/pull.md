@@ -11,9 +11,10 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 33
 updated: 2018-07-30 20:22:54 UTC
-installations: 34
+installations: 36
 organizations:
 - audiohacked
+- jrassa
 - wei
 - sethbergman
 - keneanung
@@ -22,7 +23,6 @@ organizations:
 - thireven
 - next-stack
 - hoojaoh
-- Zeroshi
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.

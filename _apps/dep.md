@@ -21,8 +21,8 @@ organizations:
 - gaocegege
 - TECLIB
 - cmfcmf
-- mithro
 - decidim
+- mithro
 ---
 
 <p align="center">
