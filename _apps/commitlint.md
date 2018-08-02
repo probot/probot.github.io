@@ -13,6 +13,7 @@ stars: 75
 updated: 2018-07-08 20:02:14 UTC
 installations: 62
 organizations:
+- verdaccio
 - caarlos0
 - TECLIB
 - ajsb85
@@ -22,7 +23,6 @@ organizations:
 - christophehurpeau
 - u3u
 - theo4u
-- livingdocsIO
 ---
 
 <p align="center">
