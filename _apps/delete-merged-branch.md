@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 3
 updated: 2018-07-31 21:44:10 UTC
-installations: 26
+installations: 27
 organizations:
 - empirical-org
 - buschtoens
 - LinioIT
 - Perlkonig
 - zbeekman
+- hairmare
 - WeTransfer
 - SUSE
 - Richienb
 - Minipada
-- hmcts
 ---
 
 # Delete merged branch
