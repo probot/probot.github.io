@@ -14,7 +14,7 @@ authors:
 repository: tunnckoCore/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 9
-updated: 2018-07-21 06:41:09 UTC
+updated: 2018-08-04 05:49:13 UTC
 installations: 51
 organizations:
 - CachetHQ
