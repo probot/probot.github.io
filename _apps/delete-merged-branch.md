@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 3
-updated: 2018-07-31 21:44:10 UTC
-installations: 28
+stars: 4
+updated: 2018-08-05 00:54:49 UTC
+installations: 31
 organizations:
+- denis-sokolov
 - empirical-org
 - buschtoens
 - Prospress
 - LinioIT
 - Perlkonig
 - zbeekman
+- tiarebalbi
 - hairmare
-- SUSE
 - WeTransfer
-- Richienb
 ---
 
 # Delete merged branch

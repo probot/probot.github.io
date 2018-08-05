@@ -10,10 +10,11 @@ repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 221
 updated: 2018-08-02 19:59:15 UTC
-installations: 44
+installations: 43
 organizations:
 - abraham
 - benbalter
+- testcontainers
 - balloob
 - jeanregisser
 - home-assistant
@@ -21,7 +22,6 @@ organizations:
 - palkan
 - toolmantim
 - motss
-- buschtoens
 ---
 
 ## Usage

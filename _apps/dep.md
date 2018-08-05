@@ -11,7 +11,7 @@ repository: z0al/dep
 host: https://probot-dep.now.sh
 stars: 37
 updated: 2018-07-07 13:09:42 UTC
-installations: 67
+installations: 68
 organizations:
 - Laravel-Backpack
 - JabRef
