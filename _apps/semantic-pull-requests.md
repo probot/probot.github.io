@@ -24,7 +24,7 @@ organizations:
 - probot
 - crowdin-modules
 - mike-north
-- zeke
+- daniel-cottone
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec

@@ -9,7 +9,7 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
-stars: 21
+stars: 22
 updated: 2018-07-23 18:25:00 UTC
 installations: 68
 organizations:
