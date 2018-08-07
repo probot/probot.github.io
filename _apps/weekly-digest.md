@@ -1,19 +1,12 @@
 ---
-# A human-friendly name of your listing
 title: Weekly Digest
-# A short description of what your app does
 description: Weekly Automated Summary of activities and happening on your GitHub repository
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: weekly-digest
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/20141002/41304450-d2bc9234-6e8d-11e8-965d-649ed2d04651.gif
-# The GitHub usernames of anyone who authored the app
 authors: [ abhijeetps ]
-# The repository where the code is located
 repository: probot/weekly-digest
-# The address where this app is deployed
-host: https://weekly-digest.now.sh/
+host: https://weekly-digest.now.sh
 ---
 > App built using [Probot](https://probot.github.io/) which generates an automated summary of activities and happening on your GitHub repository.
 
