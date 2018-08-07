@@ -9,7 +9,7 @@ authors:
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
 stars: 12
-updated: 2018-08-06 16:44:33 UTC
+updated: 2018-08-07 17:12:31 UTC
 installations: 2
 organizations:
 - kentaro-m
