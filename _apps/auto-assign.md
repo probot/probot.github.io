@@ -11,7 +11,8 @@ repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 ---
 
-A GitHub App built with [Probot](https://github.com/probot/probot) that adds reviewers/assignees to pull requests when pull requests are opened.
+## What it does
+Auto Assign adds reviewers/assignees to pull requests when pull requests are opened.
 
 ## How it works
 * When the pull request is opened, automatically add reviewers/assignees to the pull request.
