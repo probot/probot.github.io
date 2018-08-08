@@ -4,9 +4,24 @@ description: Weekly automated summary of activity on your GitHub repository
 slug: weekly-digest
 screenshots:
 - https://user-images.githubusercontent.com/20141002/41304450-d2bc9234-6e8d-11e8-965d-649ed2d04651.gif
-authors: [ abhijeetps ]
+authors:
+- abhijeetps
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
+stars: 12
+updated: 2018-08-06 18:17:32 UTC
+installations: 12
+organizations:
+- tyrchen
+- wangshijun
+- thefrontside
+- robotology
+- agrc
+- ADVRHumanoids
+- wilhelmklopp
+- RVelopers
+- fakeAssBrian
+- gr2m
 ---
 > App built using [Probot](https://probot.github.io/) which generates a weekly automated summary of activity on your GitHub repository
 ## App in Action ##
