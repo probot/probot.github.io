@@ -4,6 +4,19 @@ title: Community
 office_hours_link: https://github.zoom.us/j/221410810
 redirect_from:
   - /contribute/
+links:
+- octicon: unmute
+  pretext: "Listen to the podcast with @hiimbex & @bdougie"
+  title: "Frontsize 105: Automating GitHub with Probot"
+  href: https://frontside.io/podcast/105-automating-github-with-probot/
+- octicon: unmute
+  pretext: "Listen to the podcast with @bkeepers & @hiimbex"
+  title: "The Changelog #264: Automating GitHub with Probot"
+  href: https://changelog.com/podcast/264
+- octicon: device-camera-video
+  pretext: "Watch the talk at GitHub Universe from @jbjonesjr"
+  title: "Extending with GitHub: easy integrations with Probot"
+  href: https://www.youtube.com/watch?v=AJXDdkd9U7M
 ---
 
 <div class="container-lg px-3 featurette">
@@ -67,18 +80,15 @@ redirect_from:
     </div>
   </div>
 
-  <div class="border-top container-md py-4 mx-auto d-block d-md-flex gutter-md">
-    <div class="col-12 col-md-6 mb-4 mb-md-0">
-      <div class="p-0 p-md-4">
-        {% octicon unmute class:"mr-2 text-gray" %}
-        Listen to The Changelog #264: <a class="text-bold" href="https://changelog.com/podcast/264">Automating GitHub with Probot</a>
+  <div class="border-top container-md py-4">
+    <div class="d-flex gutter flex-wrap">
+      {% for link in page.links %}
+      <div class="col-md-6 col-12 mb-4">
+        {{ link.pretext }}:<br>
+        {% octicon {{ link.octicon }} class:"mr-2 text-gray" %}
+        <a href="{{ link.href }}">{{ link.title }}</a>
       </div>
-    </div>
-    <div class="col-12 col-md-6">
-      <div class="p-0 p-md-4">
-        {% octicon device-camera-video class:"mr-2 text-gray" %}
-        Watch the talk at GitHub Universe: <a class="text-bold" href="https://www.youtube.com/watch?v=AJXDdkd9U7M">Extending with GitHub: easy integrations with Probot</a>
-      </div>
+      {% endfor %}
     </div>
   </div>
 </div>
