@@ -23,8 +23,8 @@ organizations:
 - cozy
 - probot
 - crowdin-modules
-- mike-north
 - seantrane
+- mike-north
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec

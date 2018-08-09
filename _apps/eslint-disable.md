@@ -17,8 +17,8 @@ organizations:
 - buschtoens
 - levibostian
 - Favna
-- Spudnik-Group
 - odykyi
+- Spudnik-Group
 ---
 ## Usage
 
