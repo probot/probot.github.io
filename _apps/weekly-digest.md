@@ -10,7 +10,7 @@ repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 12
 updated: 2018-08-06 18:17:32 UTC
-installations: 12
+installations: 13
 organizations:
 - tyrchen
 - wangshijun
