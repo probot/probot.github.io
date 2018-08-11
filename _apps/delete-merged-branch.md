@@ -11,7 +11,7 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 4
 updated: 2018-08-10 20:25:38 UTC
-installations: 36
+installations: 37
 organizations:
 - denis-sokolov
 - empirical-org

@@ -9,7 +9,7 @@ authors:
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 12
-updated: 2018-08-06 18:17:32 UTC
+updated: 2018-08-11 10:56:40 UTC
 installations: 13
 organizations:
 - tyrchen
