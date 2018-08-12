@@ -9,20 +9,20 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
-stars: 22
+stars: 23
 updated: 2018-07-23 18:25:00 UTC
 installations: 71
 organizations:
 - atom
 - Homebrew
 - flutter
+- adobe
 - videojs
 - home-assistant
 - kivy
 - tidyverse
 - CachetHQ
 - r-lib
-- ethereum
 ---
 
 A GitHub App that moves issues between repositories.

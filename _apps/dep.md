@@ -10,7 +10,7 @@ authors:
 repository: z0al/dep
 host: https://probot-dep.now.sh
 stars: 37
-updated: 2018-07-07 13:09:42 UTC
+updated: 2018-08-12 07:47:54 UTC
 installations: 70
 organizations:
 - Laravel-Backpack

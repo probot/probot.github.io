@@ -17,8 +17,8 @@ organizations:
 - caarlos0
 - TECLIB
 - ajsb85
-- algolia
 - flyve-mdm
+- algolia
 - u3u
 - z0al
 - christophehurpeau
