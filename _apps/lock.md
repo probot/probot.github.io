@@ -19,8 +19,8 @@ organizations:
 - ReactTraining
 - erikras
 - babel
-- webtorrent
 - zeit
+- webtorrent
 - prettier
 ---
 

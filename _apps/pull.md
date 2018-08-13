@@ -10,8 +10,8 @@ authors:
 repository: wei/pull
 host: https://pull.now.sh
 stars: 40
-updated: 2018-08-10 17:36:01 UTC
-installations: 56
+updated: 2018-08-13 12:26:56 UTC
+installations: 57
 organizations:
 - audiohacked
 - jrassa

@@ -11,20 +11,20 @@ authors:
 - bkeepers
 repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
-stars: 12
+stars: 13
 updated: 2018-07-25 18:27:18 UTC
-installations: 28
+installations: 29
 organizations:
 - electron
 - algolia
 - greenkeeperio
 - renovatebot
 - stardust-ui
+- travi
 - cozy
 - probot
 - crowdin-modules
 - seantrane
-- mike-north
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec

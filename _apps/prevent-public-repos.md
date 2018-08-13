@@ -19,6 +19,7 @@ organizations:
 - Alliander
 - eVisionSoftware
 - dunamu
+- RedkneeSolutionsInc
 - engineersmy
 - savannahinformatics
 ---
