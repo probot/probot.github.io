@@ -20,9 +20,9 @@ organizations:
 - MvvmCross
 - modo-studio
 - jahirfiquitiva
+- imolorhe
 - xcodeswift
 - pliablepixels
-- imolorhe
 ---
 
 Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct. It does so by taking data from a `.github/config.yml`.

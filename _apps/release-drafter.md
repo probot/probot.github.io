@@ -9,8 +9,8 @@ authors:
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 221
-updated: 2018-08-13 17:39:37 UTC
-installations: 52
+updated: 2018-08-13 23:49:41 UTC
+installations: 53
 organizations:
 - abraham
 - benbalter
@@ -20,8 +20,8 @@ organizations:
 - home-assistant
 - nashaofu
 - palkan
+- nipy
 - toolmantim
-- motss
 ---
 
 ## Usage
