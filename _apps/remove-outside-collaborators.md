@@ -1,25 +1,17 @@
 ---
-# A human-friendly name of your listing
 title: Remove Outside Collaborators
-# A short description of what your app does
-description: A GitHub Probot App that monitors and instantly removes any outside collaborators added to your Organization.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
+description: Monitors and instantly removes any outside collaborators added to your Organization.
 slug: remove-outside-collaborators
-# Include a few screenshots that show your app in action
 screenshots:
-- https://user-images.githubusercontent.com/7875028/44161123-6548c900-a08a-11e8-82c3-adc890d61ec0.png
 - https://user-images.githubusercontent.com/7875028/44161210-a17c2980-a08a-11e8-8adc-3ef69031d67c.png
-# The GitHub usernames of anyone who authored the app
 authors: [ hollywood ]
-# The repository where the code is located
 repository: hollywood/remove-outside-collaborators
-# The address where this app is deployed
-host: https://remove-outside-collaborators.herokuapp.com/probot
+host: https://remove-outside-collaborators.herokuapp.com/
 ---
 
 # Remove Outside Collaborators Probot App
 
-A GitHub Probot App that monitors and instantly removes any Outside Collaborators added to your Organization.
+Constant monitoring and instant removal of any Outside Collaborators added to your Organization.
 
 ## Features
 
@@ -32,7 +24,7 @@ A GitHub Probot App that monitors and instantly removes any Outside Collaborator
 
 ## Get Started
 
-1. [Configure the GitHub App](https://github.com/apps/remove-outside-collaborators)
+1. [Configure the App](https://github.com/apps/remove-outside-collaborators)
 2. [Recommended] Create repo named `org-settings` and in it a file `.github/remove-outside-collaborators.yml` as described in the [How it Works](#How-it-Works) section to configure settings (and override defaults)
 3. It will then prevent any outside collaborators (other than any whitelisted members) from being added to your organization.
 
@@ -70,7 +62,7 @@ monitorIssueBody: 'Please note that the adding of Outside Collaborators is prohi
 # excludeCollaborators: ['user1', 'user2']
 ```
 
-When setting up this Probot App you can also set a number of Environment Variables
+When setting this up you can also set a number of Environment Variables
 
 Possible Environment Variables:
 
