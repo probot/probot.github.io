@@ -19,7 +19,7 @@ organizations:
 - algolia
 - greenkeeperio
 - renovatebot
-- dowjones
+- traverson
 - cozy
 - stardust-ui
 - travi

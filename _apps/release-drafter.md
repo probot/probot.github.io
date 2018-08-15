@@ -10,7 +10,7 @@ repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 221
 updated: 2018-08-13 23:49:41 UTC
-installations: 53
+installations: 54
 organizations:
 - abraham
 - benbalter

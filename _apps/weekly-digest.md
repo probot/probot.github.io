@@ -9,7 +9,7 @@ authors:
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 18
-updated: 2018-08-14 05:21:50 UTC
+updated: 2018-08-15 12:28:03 UTC
 installations: 18
 organizations:
 - nock
