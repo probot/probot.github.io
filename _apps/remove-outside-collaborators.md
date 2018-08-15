@@ -32,7 +32,7 @@ Constant monitoring and instant removal of any Outside Collaborators added to yo
 
 By default when an Outside Collaborator is added to a Repository, an Issue will be created in the Repository with a warning that a Collaborator was added. [Monitor-Only mode is enabled by default].
 
-A `.github/remove-outside-collaborators.yml` file in the Repository `org-settings` is recommended to override the [default settings](./lib/defaults.js). This Repository will contain global settings for the Organization. You can name the settings Repository anything you'd like, `org-settings` is just the default.
+A `.github/remove-outside-collaborators.yml` file in the Repository `org-settings` is recommended to override the [default settings](https://github.com/Hollywood/remove-outside-collaborators/blob/master/lib/defaults.js). This Repository will contain global settings for the Organization. You can name the settings Repository anything you'd like, `org-settings` is just the default.
 
 ```yml
 # Configuration for Remove-Outside-Collaborators
@@ -66,5 +66,5 @@ When setting this up you can also set a number of Environment Variables
 
 Possible Environment Variables:
 
-- FILE_NAME [default: '.github/remove-outside-collaborators.yml'] - Sets the location/file name of the config yml file
-- ORG_WIDE_REPO_NAME [default: 'org-settings'] - Set the repo where to find the config yml file
+- FILE_NAME [default: `.github/remove-outside-collaborators.yml`] - Sets the location/file name of the config yml file
+- ORG_WIDE_REPO_NAME [default: `org-settings`] - Set the repo where to find the config yml file
