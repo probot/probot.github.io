@@ -6,7 +6,7 @@ screenshots:
 - https://user-images.githubusercontent.com/7875028/44161210-a17c2980-a08a-11e8-8adc-3ef69031d67c.png
 authors: [ hollywood ]
 repository: hollywood/remove-outside-collaborators
-host: https://remove-outside-collaborators.herokuapp.com/
+host: https://remove-outside-collaborators.herokuapp.com
 ---
 
 # Remove Outside Collaborators
