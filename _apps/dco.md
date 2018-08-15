@@ -7,6 +7,7 @@ screenshots:
 stars: 69
 authors:
 - bkeepers
+- hiimbex
 repository: probot/dco
 updated: 2018-08-13 17:31:20 UTC
 host: https://probot-dco.herokuapp.com
