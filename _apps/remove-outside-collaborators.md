@@ -9,7 +9,7 @@ repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com/
 ---
 
-# Remove Outside Collaborators Probot App
+# Remove Outside Collaborators
 
 Constant monitoring and instant removal of any Outside Collaborators added to your Organization.
 
