@@ -11,7 +11,7 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 40
 updated: 2018-08-14 14:54:20 UTC
-installations: 57
+installations: 58
 organizations:
 - audiohacked
 - jrassa
@@ -20,8 +20,8 @@ organizations:
 - keneanung
 - stackriot
 - security-geeks
-- thireven
 - next-stack
+- thireven
 - MGaetan89
 ---
 

@@ -1,12 +1,21 @@
 ---
 title: Remove Outside Collaborators
-description: Monitors and instantly removes any outside collaborators added to your Organization.
+description: Monitors and instantly removes any outside collaborators added to your
+  Organization.
 slug: remove-outside-collaborators
 screenshots:
 - https://user-images.githubusercontent.com/7875028/44161210-a17c2980-a08a-11e8-8adc-3ef69031d67c.png
-authors: [ hollywood ]
+authors:
+- hollywood
 repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
+stars: 5
+updated: 2018-08-08 15:57:39 UTC
+installations: 7
+organizations:
+- Pivotal
+- Hollywood
+- acrlewis
 ---
 
 # Remove Outside Collaborators

@@ -9,8 +9,8 @@ authors:
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 18
-updated: 2018-08-15 12:28:03 UTC
-installations: 18
+updated: 2018-08-16 09:00:55 UTC
+installations: 19
 organizations:
 - nock
 - tyrchen
@@ -21,7 +21,7 @@ organizations:
 - ADVRHumanoids
 - abhijeetps
 - wilhelmklopp
-- fakeAssBrian
+- ishdutt
 ---
 > App built using [Probot](https://probot.github.io/) which generates a weekly automated summary of activity on your GitHub repository
 ## App in Action ##
