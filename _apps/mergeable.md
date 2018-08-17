@@ -10,7 +10,7 @@ repository: jusx/mergeable
 host: https://mergeable-bot.herokuapp.com
 stars: 52
 updated: 2018-08-16 05:19:02 UTC
-installations: 17
+installations: 19
 organizations:
 - grpc
 - rundeck
@@ -19,6 +19,7 @@ organizations:
 - jusx
 - grumpycoders
 - testcontainers
+- philoserf
 ---
 
 A GitHub App that prevents merging of Pull Requests based on [configurations](https://github.com/jusx/mergeable#configuration). Make your Pull Requests mergeable only when:
