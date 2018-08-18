@@ -11,8 +11,9 @@ repository: nickgarlis/probot-profanity
 host: https://probot-profanity.now.sh
 stars: 7
 updated: 2018-08-17 15:50:40 UTC
-installations: 3
+installations: 4
 organizations:
+- tipeio
 - micalevisk
 ---
 
