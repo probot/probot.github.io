@@ -11,7 +11,7 @@ repository: z0al/commitlint-bot
 host: https://probot-commitlint.now.sh
 stars: 78
 updated: 2018-07-08 20:02:14 UTC
-installations: 69
+installations: 67
 organizations:
 - verdaccio
 - tipeio
@@ -22,7 +22,7 @@ organizations:
 - flyve-mdm
 - u3u
 - z0al
-- christophehurpeau
+- theo4u
 ---
 
 <p align="center">

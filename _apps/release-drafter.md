@@ -8,8 +8,8 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 225
-updated: 2018-08-18 18:21:34 UTC
+stars: 227
+updated: 2018-08-19 10:39:05 UTC
 installations: 59
 organizations:
 - reactiveui
