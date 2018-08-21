@@ -1,6 +1,6 @@
 ---
 title: Changelog Reminder
-description: A GitHub app that reminds to update CHANGELOG.md.
+description: Reminds to update CHANGELOG.md.
 slug: changelog-reminder
 screenshots:
 - https://raw.githubusercontent.com/pverkhovskyi/changelog-reminder/master/docs/changelog-reminder.png
