@@ -20,8 +20,8 @@ organizations:
 - ajsb85
 - algolia
 - flyve-mdm
-- z0al
 - u3u
+- z0al
 - theo4u
 ---
 

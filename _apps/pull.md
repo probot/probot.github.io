@@ -11,12 +11,12 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 40
 updated: 2018-08-14 14:54:20 UTC
-installations: 62
+installations: 63
 organizations:
 - audiohacked
-- nmrony
-- jrassa
 - wei
+- jrassa
+- nmrony
 - sethbergman
 - keneanung
 - stackriot
