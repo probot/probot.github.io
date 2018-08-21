@@ -7,7 +7,7 @@ screenshots:
 authors:
 - pverkhovskyi
 repository: pverkhovskyi/changelog-reminder
-host: https://changelog-reminder.herokuapp.com/
+host: https://changelog-reminder.herokuapp.com
 ---
 
 Changelog Reminder is a useful app for projects which maintain CHANGELOG.md. It comments on newly opened  pull requests when changes were not reflected in the changelog.
