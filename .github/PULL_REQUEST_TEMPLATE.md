@@ -14,9 +14,9 @@ App Review Process: https://github.com/probot/probot.github.io/blob/master/.gith
 - [ ] All comments in frontmatter need to be removed.
 - [ ] Performs a useful action through the GitHub API that solves an existing problem for developers: {explain the action here}
 - [ ] Is original: for example, it does something not already done by an existing Probot app
-- [ ] Has tests: [My Tests](yourURLhere)
-- [ ] Has documentation: [My Docs](yourURLhere)
-- [ ] Is open source: [My Repo](yourURLhere)
-- [ ] Has a license: [My License](yourURLhere)
-- [ ] Has a code of conduct: [My CoC](yourURLhere)
+- [ ] [Has tests](yourURLhere)
+- [ ] [Has documentation](yourURLhere)
+- [ ] [Is open source](yourURLhere)
+- [ ] [Has a license](yourURLhere)
+- [ ] [Has a code of conduct](yourURLhere)
 - [ ] Has someone willing to at least minimally maintain them for the near future: {your maintainer's name}
