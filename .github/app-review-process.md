@@ -7,10 +7,8 @@ These are essentially the steps we take to verify apps before listing them:
 - [ ] Ensure all fields in the pull request template have been checked and links are included.
 - [ ] Verify the legitimacy of each link.
 - [ ] Open each of the screenshots to ensure they show the specific app functionality as clearly as possible.
-- [ ]Install the app on a test organization
-and ensure the app works as advertised.
+- [ ] Install the app on a test organization and ensure the app works as advertised.
 - [ ] Confirm the app slug is associated with the app.
-- [ ] Check for any written references to being a Probot/GitHub app to avoid feeling repetitive since they're on the website.
 - [ ] Think about the app's usecase and usefulness to developers. This often becomes a discussion amongst the maintainers in private channels if there's concerns that the app doesn't provide tangible benefits.
 - [ ] Read the entire description/how the app works to make sure someone new could figure it out.
 
