@@ -12,7 +12,7 @@ repository: evenchange4/gh-polls-bot
 host: https://gh-polls-bot.now.sh
 stars: 139
 updated: 2018-01-15 01:35:10 UTC
-installations: 169
+installations: 170
 organizations:
 - apex
 - Automattic

@@ -21,8 +21,8 @@ organizations:
 - greenkeeperio
 - renovatebot
 - traverson
-- cozy
 - stardust-ui
+- cozy
 - travi
 - probot
 ---
