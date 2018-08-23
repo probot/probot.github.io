@@ -11,9 +11,10 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 8
 updated: 2018-08-18 17:10:15 UTC
-installations: 73
+installations: 82
 organizations:
 - reactiveui
+- yoshuawuyts
 - technicalpickles
 - verdaccio
 - Humanizr
@@ -21,7 +22,6 @@ organizations:
 - EvanPurkhiser
 - NuGetPackageExplorer
 - onovotny
-- emberjs
 - AgileVentures
 ---
 
