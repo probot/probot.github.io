@@ -3,7 +3,10 @@ title: Developer Certificate of Origin
 description: Enforce the DCO on Pull Requests
 slug: dco
 screenshots:
-- https://cloud.githubusercontent.com/assets/173/24482273/a35dc23e-14b5-11e7-9371-fd241873e2c3.png
+- https://user-images.githubusercontent.com/13410355/42352738-35f4e690-8071-11e8-9c8c-260e5868bfc8.png
+- https://user-images.githubusercontent.com/13410355/42352794-85fe1c9c-8071-11e8-834a-05a4aeb8cc90.png
+- https://user-images.githubusercontent.com/13410355/42352795-8617c052-8071-11e8-82f1-d9fbb2e9934c.png
+- https://user-images.githubusercontent.com/13410355/42352737-35da3d0e-8071-11e8-99ae-6e7068e257e1.png
 stars: 70
 authors:
 - bkeepers
@@ -52,4 +55,8 @@ Git even has a `-s` command line option to append this automatically to your com
 $ git commit -s -m 'This is my commit message'
 ```
 
-Once installed, this app will set the [status](https://developer.github.com/v3/repos/statuses/) to `failed` if commits in a Pull Request do not contain a valid `Signed-off-by` line.
+Once [installed](#usage), this integration will create a [check](https://developer.github.com/v3/checks/runs/) indicating whether or not commits in a Pull Request do not contain a valid `Signed-off-by` line.
+
+Additionally, the DCO creates an override button accessible to only those with write access to the repository to create a successful check.
+
+![DCO button](https://user-images.githubusercontent.com/13410355/42353254-3bfa266a-8074-11e8-80b4-18760c5efeee.png)
