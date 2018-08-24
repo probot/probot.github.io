@@ -53,7 +53,8 @@ describe "lint test" do
       end
 
       it "host returns 200" do
-        uri = URI(data["host"] + '/ping')
+        uri_end = data["host"].end_with?('/') ? 'ping' : '/ping'
+        uri = URI(data["host"] + uri_end)
         res = Net::HTTP.get_response(uri)
         assert_equal "200", res.code, "Expected 200 response from #{uri}"
       end
