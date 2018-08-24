@@ -55,7 +55,7 @@ Git even has a `-s` command line option to append this automatically to your com
 $ git commit -s -m 'This is my commit message'
 ```
 
-Once [installed](#usage), this integration will create a [check](https://developer.github.com/v3/checks/runs/) indicating whether or not commits in a Pull Request do not contain a valid `Signed-off-by` line.
+Once installed, this integration will create a [check](https://developer.github.com/v3/checks/runs/) indicating whether or not commits in a Pull Request do not contain a valid `Signed-off-by` line.
 
 Additionally, the DCO creates an override button accessible to only those with write access to the repository to create a successful check.
 
