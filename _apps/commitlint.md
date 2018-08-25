@@ -13,7 +13,6 @@ stars: 82
 updated: 2018-07-08 20:02:14 UTC
 installations: 66
 organizations:
-- tipeio
 - caarlos0
 - TECLIB
 - ajsb85
@@ -23,6 +22,7 @@ organizations:
 - u3u
 - theo4u
 - livingdocsIO
+- blackxored
 ---
 
 <p align="center">
