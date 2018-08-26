@@ -18,8 +18,8 @@ organizations:
 - wei
 - nmrony
 - jrassa
-- commodo
 - sethbergman
+- commodo
 - keneanung
 - stackriot
 - security-geeks
