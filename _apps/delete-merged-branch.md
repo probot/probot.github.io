@@ -10,11 +10,12 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 9
-updated: 2018-08-24 15:31:39 UTC
-installations: 88
+updated: 2018-08-27 16:55:56 UTC
+installations: 91
 organizations:
 - reactiveui
 - yoshuawuyts
+- moovweb
 - technicalpickles
 - verdaccio
 - Humanizr
@@ -22,7 +23,6 @@ organizations:
 - EvanPurkhiser
 - NuGetPackageExplorer
 - onovotny
-- AgileVentures
 ---
 
 # Delete merged branch

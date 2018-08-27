@@ -10,8 +10,8 @@ authors:
 repository: wei/pull
 host: https://pull.now.sh
 stars: 41
-updated: 2018-08-25 08:35:58 UTC
-installations: 68
+updated: 2018-08-27 12:38:42 UTC
+installations: 67
 organizations:
 - audiohacked
 - buschtoens
@@ -19,10 +19,10 @@ organizations:
 - nmrony
 - jrassa
 - sethbergman
-- commodo
 - keneanung
 - stackriot
 - security-geeks
+- aensley
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.
