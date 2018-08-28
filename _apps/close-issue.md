@@ -11,7 +11,7 @@ repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 7
 updated: 2018-08-25 07:17:56 UTC
-installations: 8
+installations: 9
 organizations:
 - android-hacker
 - offu
@@ -19,6 +19,7 @@ organizations:
 - we-plugin
 - dlhandsome
 - helloqiu
+- GetOccasion
 - it5200
 ---
 [![Build Status](https://travis-ci.org/offu/close-issue-app.svg?branch=master)](https://travis-ci.org/offu/close-issue-app)

@@ -8,9 +8,9 @@ authors:
 - issc29
 repository: issc29/probot-prevent-public-repos
 host: https://probot-prevent-public-repos.herokuapp.com
-stars: 12
+stars: 13
 updated: 2018-05-31 19:56:19 UTC
-installations: 54
+installations: 55
 organizations:
 - bkeepers
 - telus
@@ -20,6 +20,7 @@ organizations:
 - eVisionSoftware
 - dunamu
 - engineersmy
+- ZEFR-INC
 - savannahinformatics
 ---
 
