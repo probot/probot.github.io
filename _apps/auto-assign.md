@@ -9,9 +9,9 @@ authors:
 - kentaro-m
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
-stars: 2
+stars: 3
 updated: 2018-08-19 16:12:41 UTC
-installations: 10
+installations: 11
 organizations:
 - ahmadnassri
 - telus
