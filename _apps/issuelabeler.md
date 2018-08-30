@@ -9,7 +9,7 @@ authors:
 repository: riyadhalnur/issuelabeler
 host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production
 stars: 2
-updated: 2018-08-29 18:08:18 UTC
+updated: 2018-08-30 08:04:37 UTC
 installations: 14
 organizations:
 - pymc-devs
