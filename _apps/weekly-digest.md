@@ -10,7 +10,7 @@ repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 30
 updated: 2018-08-30 16:53:08 UTC
-installations: 34
+installations: 35
 organizations:
 - nock
 - git-for-windows

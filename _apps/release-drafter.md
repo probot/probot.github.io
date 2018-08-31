@@ -8,10 +8,11 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 262
-updated: 2018-08-30 11:11:23 UTC
-installations: 74
+stars: 270
+updated: 2018-08-31 20:26:18 UTC
+installations: 78
 organizations:
+- gorilla
 - reactiveui
 - abraham
 - benbalter
@@ -21,7 +22,6 @@ organizations:
 - balloob
 - NuGetPackageExplorer
 - jeanregisser
-- home-assistant
 ---
 
 ## Usage
