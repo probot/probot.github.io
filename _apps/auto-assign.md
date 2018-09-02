@@ -10,8 +10,8 @@ authors:
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 3
-updated: 2018-08-19 16:12:41 UTC
-installations: 12
+updated: 2018-09-02 16:15:07 UTC
+installations: 13
 organizations:
 - ahmadnassri
 - AugurProject
@@ -21,6 +21,7 @@ organizations:
 - denzuko
 - TIGRLab
 - ScottJWalter
+- WIP-name
 ---
 
 ## What it does

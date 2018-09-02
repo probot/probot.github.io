@@ -21,8 +21,8 @@ organizations:
 - Humanizr
 - dotnet
 - EvanPurkhiser
-- NuGetPackageExplorer
 - onovotny
+- NuGetPackageExplorer
 ---
 
 # Delete merged branch

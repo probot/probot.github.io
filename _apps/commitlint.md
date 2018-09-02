@@ -19,8 +19,8 @@ organizations:
 - ajsb85
 - flyve-mdm
 - algolia
-- z0al
 - u3u
+- z0al
 - theo4u
 - livingdocsIO
 ---

@@ -10,10 +10,11 @@ repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
 stars: 7
 updated: 2018-07-23 17:50:31 UTC
-installations: 27
+installations: 28
 organizations:
 - kivy
 - Mottie
+- invertase
 - concourse
 - CellularPrivacy
 - Radarr
@@ -21,7 +22,6 @@ organizations:
 - chefspec
 - buschtoens
 - agrc
-- freefair
 ---
 
 A GitHub App that deletes reaction comments, such as +1,
