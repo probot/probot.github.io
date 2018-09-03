@@ -13,8 +13,8 @@ updated: 2018-07-23 17:50:31 UTC
 installations: 28
 organizations:
 - kivy
-- Mottie
 - invertase
+- Mottie
 - concourse
 - CellularPrivacy
 - Radarr

@@ -6,13 +6,13 @@ screenshots:
 - https://user-images.githubusercontent.com/13410355/28288851-679f582a-6af5-11e7-8dd8-b85b6c33e16b.png
 - https://user-images.githubusercontent.com/13410355/28288547-5f83aa8e-6af4-11e7-9692-eb41d42431e2.png
 - https://user-images.githubusercontent.com/13410355/28289605-1ab81a76-6af8-11e7-8f78-6a1b3948df36.png
-stars: 48
+stars: 49
 authors:
 - hiimbex
 repository: behaviorbot/welcome
 updated: 2018-06-20 22:26:35 UTC
 host: https://probot-welcome.herokuapp.com
-installations: 270
+installations: 271
 organizations:
 - vuejs
 - electron

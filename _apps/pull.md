@@ -18,10 +18,10 @@ organizations:
 - wei
 - nmrony
 - jrassa
-- sethbergman
 - keneanung
 - stackriot
 - security-geeks
+- thireven
 - aensley
 ---
 
