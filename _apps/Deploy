@@ -11,7 +11,7 @@ screenshots:
 # The GitHub usernames of anyone who authored the app
 authors: [ helaili ]
 # The repository where the code is located
-repository: helaili/probot-deploy
+repository: helaili/deploy
 # The address where this app is deployed
 host: https://probot-deploy-dotcom.now.sh
 ---
