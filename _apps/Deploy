@@ -4,7 +4,7 @@ title: Deploy
 # A short description of what your app does
 description: Triggers a deployment event on GitHub based on pull request labels.
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
-slug: probot-deploy
+slug: deploy
 # Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/2787414/44789192-3f4c1a00-ab9c-11e8-9093-353dfbe1bc1e.gif
