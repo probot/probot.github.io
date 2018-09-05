@@ -14,7 +14,7 @@ authors:
 # The repository where the code is located
 repository: KengoTODA/rtd-bot
 # The address where this app is deployed
-host: https://rtd-bot.herokuapp.com/
+host: https://rtd-bot.herokuapp.com
 ---
 
 Get URL of documents when review changes in docs directory.
