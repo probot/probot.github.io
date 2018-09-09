@@ -14,7 +14,7 @@ installations: 56
 organizations:
 - bkeepers
 - telus
-- Pivotal
+- pivotal
 - logrhythm
 - Alliander
 - eVisionSoftware

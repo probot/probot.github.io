@@ -1,19 +1,18 @@
 ---
-# A human-friendly name of your listing
 title: Deploy
-# A short description of what your app does
 description: Triggers a deployment event on GitHub based on pull request labels.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: deploy
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/2787414/44789192-3f4c1a00-ab9c-11e8-9093-353dfbe1bc1e.gif
-# The GitHub usernames of anyone who authored the app
-authors: [ helaili ]
-# The repository where the code is located
+authors:
+- helaili
 repository: helaili/deploy
-# The address where this app is deployed
 host: https://probot-deploy-dotcom.now.sh
+stars: 2
+updated: 2018-09-03 18:16:38 UTC
+installations: 1
+organizations:
+- helaili
 ---
 
 This app uses GitHub's deployment API and triggers a deployment event when a matching label is applied to a Pull Request. 

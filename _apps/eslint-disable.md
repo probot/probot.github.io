@@ -16,8 +16,8 @@ organizations:
 - ember-intl
 - buschtoens
 - levibostian
-- Favna
 - odykyi
+- Favna
 - Spudnik-Group
 - Berkmann18
 ---

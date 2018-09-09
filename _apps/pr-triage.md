@@ -8,8 +8,8 @@ authors:
 - sotayamashita
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
-stars: 8
-updated: 2018-09-03 07:53:39 UTC
+stars: 9
+updated: 2018-09-09 07:55:26 UTC
 installations: 28
 organizations:
 - kazupon
@@ -17,8 +17,8 @@ organizations:
 - awesome-css-group
 - vuejs
 - LinioIT
-- muan
 - vuejs-jp
+- muan
 - kotamat
 - GoBike
 - Innovatube

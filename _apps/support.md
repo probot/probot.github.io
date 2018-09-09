@@ -20,8 +20,8 @@ organizations:
 - nozzle
 - PHPOffice
 - MinecraftForge
-- crate
 - Laravel-Backpack
+- crate
 ---
 A GitHub App that comments on and closes issues labeled as support requests.
 

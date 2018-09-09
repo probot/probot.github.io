@@ -9,9 +9,9 @@ authors:
 - z0al
 repository: z0al/dep
 host: https://probot-dep.now.sh
-stars: 38
+stars: 40
 updated: 2018-08-12 07:47:54 UTC
-installations: 79
+installations: 77
 organizations:
 - AvaloniaUI
 - verdaccio
@@ -19,7 +19,7 @@ organizations:
 - JabRef
 - thefrontside
 - timvideos
-- tunnckoCore
+- tunnckoCoreLabs
 - gaocegege
 - TECLIB
 - cmfcmf
