@@ -8,10 +8,11 @@ authors:
 - helaili
 repository: helaili/deploy
 host: https://probot-deploy-dotcom.now.sh
-stars: 2
+stars: 3
 updated: 2018-09-03 18:16:38 UTC
-installations: 1
+installations: 2
 organizations:
+- logikinc
 - helaili
 ---
 
