@@ -28,7 +28,7 @@ that serve as conditions are annotated as such below.
 
 All conditions must be met before a PR will be automatically merged. You can get more
 flexibility by defining multiple rules. Rules can have multiple conditions and if any
-of the conditions inside a rule are met, the PR is also merged. See [rules](#Rules).
+of the conditions inside a rule are met, the PR is also merged. See [rules](#rules-default-none).
 
 Note that the default configuration options are to do nothing. This is to prevent
 impicit and possibly unintended behavior.
