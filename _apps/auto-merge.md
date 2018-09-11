@@ -9,7 +9,7 @@ repository: bobvanderlinden/probot-auto-merge
 host: https://probot-auto-merge-production.herokuapp.com
 ---
 
-Automatically merges pull requests based on configured conditions. It also updates and deletes branches when needed.
+Merges pull requests when configured conditions are met. It also updates and deletes branches when needed.
 
 ## Usage
 
