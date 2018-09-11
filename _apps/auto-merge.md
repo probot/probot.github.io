@@ -1,7 +1,7 @@
 ---
 title: Auto Merge
 description: Merges pull requests when configured conditions are met
-slug: probot-auto-merge
+slug: auto-merge
 screenshots:
 - https://user-images.githubusercontent.com/6375609/45245043-d9c5ff00-b2fa-11e8-8745-2588323edda8.png
 authors: [ bobvanderlinden ]
