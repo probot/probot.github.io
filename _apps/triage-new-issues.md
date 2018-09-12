@@ -24,8 +24,8 @@ organizations:
 - microstates
 - thefrontside
 - tunnckoCoreLabs
-- eXist-db
 - pymedusa
+- eXist-db
 ---
 
 

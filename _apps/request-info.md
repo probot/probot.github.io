@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/request-info
 updated: 2018-07-13 17:16:36 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 162
+installations: 164
 organizations:
 - webtorrent
 - standard
@@ -21,8 +21,8 @@ organizations:
 - cdnjs
 - desktop
 - nozzle
-- jsonresume
 - probot
+- jsonresume
 ---
 
 

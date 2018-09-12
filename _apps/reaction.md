@@ -12,13 +12,13 @@ stars: 7
 updated: 2018-07-23 17:50:31 UTC
 installations: 30
 organizations:
-- kivy
 - invertase
 - Mottie
 - concourse
 - CellularPrivacy
 - Radarr
 - sethvargo
+- idehub
 - chefspec
 - buschtoens
 - agrc

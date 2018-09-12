@@ -1,12 +1,24 @@
 ---
 title: YAMBURGER
-description: Finds YAML syntax errors (or YAMBURGERS) on files changed in GitHub Pull Requests.
+description: Finds YAML syntax errors (or YAMBURGERS) on files changed in GitHub Pull
+  Requests.
 slug: yamburger
 screenshots:
 - https://urcomputeringpal.com/assets/yamburger.gif
-authors: [ jnewland, urcomputeringpal ]
+authors:
+- jnewland
+- urcomputeringpal
 repository: urcomputeringpal/yamburger
 host: https://yamburger.now.sh
+stars: 10
+updated: 2018-09-08 13:41:00 UTC
+installations: 6
+organizations:
+- urcomputeringpal
+- justaprogrammer
+- jnewland
+- gofunky
+- gr2m
 ---
 
 ## Getting started
