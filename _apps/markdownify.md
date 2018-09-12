@@ -14,7 +14,7 @@ host: https://desolate-river-85665.herokuapp.com/probot
 
 1. [Install the app](https://github.com/apps/markdownify).
 2. Open a PR and edit some makrdown files.
-3. Watch the bot edit your comment and append the URLs to the bottom which take you to rendered versions of your markdown files 🎉
+3. Links to rendered versions of your markdown files are added to the Pull Request 🎉
 
 <img width="871" alt="screen shot 2018-09-05 at 10 14 37 pm" src="https://user-images.githubusercontent.com/13410355/45131041-2d98e280-b159-11e8-92cc-3b80f4897b98.png">
 
