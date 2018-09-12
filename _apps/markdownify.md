@@ -7,7 +7,7 @@ screenshots:
 authors:
 - hiimbex
 repository: hiimbex/markdownify
-host: https://desolate-river-85665.herokuapp.com/probot
+host: https://desolate-river-85665.herokuapp.com
 ---
 
 ## How it works
