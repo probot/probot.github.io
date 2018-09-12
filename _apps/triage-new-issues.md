@@ -9,9 +9,8 @@ screenshots:
 - https://i.imgur.com/fOp0Est.png
 - https://i.imgur.com/ldrHDzZ.png
 authors:
-- tunnckoCore
 - olstenlarck
-repository: tunnckoCore/triage-new-issues
+repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 11
 updated: 2018-09-07 11:31:12 UTC
