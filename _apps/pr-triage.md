@@ -9,7 +9,7 @@ authors:
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
 stars: 9
-updated: 2018-09-12 07:58:53 UTC
+updated: 2018-09-13 07:57:49 UTC
 installations: 28
 organizations:
 - kazupon
@@ -21,7 +21,7 @@ organizations:
 - muan
 - kotamat
 - GoBike
-- Innovatube
+- glitch-tools
 ---
 
 ## Install

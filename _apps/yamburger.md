@@ -12,9 +12,10 @@ repository: urcomputeringpal/yamburger
 host: https://yamburger.now.sh
 stars: 10
 updated: 2018-09-08 13:41:00 UTC
-installations: 6
+installations: 8
 organizations:
 - urcomputeringpal
+- redhat-developer
 - justaprogrammer
 - jnewland
 - gofunky

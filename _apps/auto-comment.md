@@ -10,9 +10,10 @@ repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 stars: 0
 updated: 2018-08-14 07:36:52 UTC
-installations: 5
+installations: 6
 organizations:
 - IntellectualSites
+- fgl27
 ---
 
 
