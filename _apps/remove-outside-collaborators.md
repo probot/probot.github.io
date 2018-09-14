@@ -11,7 +11,7 @@ repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 5
 updated: 2018-08-08 15:57:39 UTC
-installations: 13
+installations: 14
 organizations:
 - times
 - telus
