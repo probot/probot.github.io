@@ -8,8 +8,8 @@ authors:
 - boyney123
 repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
-stars: 0
-updated: 2018-08-14 07:36:52 UTC
+stars: 1
+updated: 2018-09-16 16:29:24 UTC
 installations: 7
 organizations:
 - IntellectualSites
