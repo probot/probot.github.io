@@ -5,7 +5,7 @@ slug: tests-checker
 screenshots:
 - https://user-images.githubusercontent.com/3725595/45590526-b7f3fa00-b942-11e8-972d-143c0b367017.png
 authors: [ borNfreee ]
-repository: https://github.com/infection/tests-checker
+repository: infection/tests-checker
 host: https://tests-checker.now.sh
 ---
 
