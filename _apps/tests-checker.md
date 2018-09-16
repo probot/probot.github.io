@@ -1,18 +1,11 @@
 ---
-# A human-friendly name of your listing
 title: Tests Checker
-# A short description of what your app does
 description: Requires writing the tests in Pull Requests.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: tests-checker
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/3725595/45590526-b7f3fa00-b942-11e8-972d-143c0b367017.png
-# The GitHub usernames of anyone who authored the app
 authors: [ borNfreee ]
-# The repository where the code is located
 repository: https://github.com/infection/tests-checker
-# The address where this app is deployed
 host: https://tests-checker.now.sh
 ---
 
