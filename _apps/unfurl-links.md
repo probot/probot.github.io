@@ -20,8 +20,8 @@ organizations:
 - caarlos0
 - arguiot
 - jahirfiquitiva
-- thefrontside
 - tox-dev
+- thefrontside
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.

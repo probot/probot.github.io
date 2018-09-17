@@ -18,10 +18,10 @@ organizations:
 - logrhythm
 - Alliander
 - eVisionSoftware
-- dollarshaveclub
 - dunamu
 - itriage
 - engineersmy
+- ZEFR-INC
 ---
 
 # Prevent-Public-Repos Probot App

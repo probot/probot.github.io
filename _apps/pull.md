@@ -20,8 +20,8 @@ organizations:
 - nmrony
 - keneanung
 - security-geeks
-- stackriot
 - OpenWebTorrent
+- stackriot
 - aensley
 ---
 
