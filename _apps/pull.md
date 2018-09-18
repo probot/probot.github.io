@@ -14,7 +14,6 @@ updated: 2018-09-15 01:19:54 UTC
 installations: 89
 organizations:
 - audiohacked
-- buschtoens
 - wei
 - jrassa
 - nmrony
@@ -22,7 +21,8 @@ organizations:
 - security-geeks
 - OpenWebTorrent
 - stackriot
-- aensley
+- buschtoens
+- next-stack
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.

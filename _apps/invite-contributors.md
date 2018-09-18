@@ -19,8 +19,8 @@ organizations:
 - github-modules
 - cla-assistant
 - react-native-sensors
-- flyve-mdm
 - contentful-userland
+- flyve-mdm
 - LibreTime
 ---
 

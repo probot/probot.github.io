@@ -11,7 +11,7 @@ repository: z0al/dep
 host: https://probot-dep.now.sh
 stars: 40
 updated: 2018-08-12 07:47:54 UTC
-installations: 78
+installations: 79
 organizations:
 - AvaloniaUI
 - verdaccio
