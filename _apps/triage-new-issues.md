@@ -9,7 +9,7 @@ screenshots:
 - https://i.imgur.com/fOp0Est.png
 - https://i.imgur.com/ldrHDzZ.png
 authors:
-- olstenlarck
+- tunnckoCore
 repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 11
