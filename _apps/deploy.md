@@ -10,7 +10,7 @@ repository: helaili/deploy
 host: https://probot-deploy-dotcom.now.sh
 stars: 4
 updated: 2018-09-16 18:36:32 UTC
-installations: 3
+installations: 4
 organizations:
 - mdelagrange
 - helaili

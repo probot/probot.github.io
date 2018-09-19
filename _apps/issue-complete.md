@@ -10,7 +10,7 @@ repository: szeck87/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
 updated: 2018-07-16 16:14:29 UTC
-installations: 7
+installations: 6
 organizations:
 - Maatwebsite
 - Glavin001
