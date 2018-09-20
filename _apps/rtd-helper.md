@@ -4,7 +4,7 @@ title: Read The Docs
 # A short description of what your app does
 description: Assists reviewing using Read The Docs
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
-slug: rtd-bot
+slug: rtd-helper
 # Include a few screenshots that show your app in action
 screenshots:
 - https://raw.githubusercontent.com/KengoTODA/rtd-bot/master/screenshot.png
