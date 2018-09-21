@@ -8,20 +8,20 @@ authors:
 - sotayamashita
 repository: pr-triage/pr-triage
 host: https://pr-triage.glitch.me
-stars: 9
-updated: 2018-09-20 08:01:16 UTC
-installations: 27
+stars: 11
+updated: 2018-09-21 08:01:46 UTC
+installations: 30
 organizations:
 - kazupon
 - HcySunYang
 - awesome-css-group
 - vuejs
+- TiagoDanin
 - LinioIT
 - vuejs-jp
 - muan
 - kotamat
 - GoBike
-- glitch-tools
 ---
 
 ## Install
