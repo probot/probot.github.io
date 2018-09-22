@@ -1,12 +1,14 @@
 ---
 title: PR Triage
-description: Triage pull request
+description: Add a label depending on the pull request's status
 slug: pr-triage
 screenshots:
-- https://user-images.githubusercontent.com/1587053/35917561-f4928e02-0c51-11e8-95d3-81b4f44ed6d2.png
+- https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/main.png
+- https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/workflow.png
+- https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/privacy.png
 authors:
 - sotayamashita
-repository: pr-triage/pr-triage
+repository: pr-triage/app
 host: https://pr-triage.glitch.me
 stars: 11
 updated: 2018-09-22 12:31:40 UTC
@@ -24,32 +26,42 @@ organizations:
 - GoBike
 ---
 
-## Install
+## Motivation
 
-PRTriage does **"NOT"** have permission to `Read & Write` your code :see_no_evil:. For more details, see Permission and Subscribe section. If you have any question, please free to ask us via [creating an issue](https://github.com/pr-triage/pr-triage/issues/new?labels=question).
+Firstly, I started to create PRTriage to solve my own pain. As an engineer, I spent my time to ask colleagues Pull Requests status such as `WIP (work in progress)`・`UNREVIEWED`・`CHANGES_REQUESTED`・`APPROVED`. Most of the developers use [GitHub](https://github.com) and follow [GitHub Flow](https://guides.github.com/introduction/flow/)/[Git Flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html). Most of them say that the time it takes to know pull request status is getting increasing as the team is large so I published it as Open Source :sparkles:.
 
-1. :runner: Go to [PRTriage App Page](https://github.com/apps/pr-triage)
-1. :rocket: Click **Install**
-1. :mag: Please choose a repository
-1. :sparkles: That's it.
+## Installation
 
+Please follow the below steps to install quickly :rocket::
+
+1. Go to [PRTriage App top page](https://probot.github.io/apps/pr-triage/)
+1. Click **"+ Add to GitHub"** button
+1. Choose a repository
+1. That's it :sparkles:
 
 ## How it works
 
-<p>
-  <img src="https://user-images.githubusercontent.com/1587053/35917561-f4928e02-0c51-11e8-95d3-81b4f44ed6d2.png" width="100%">
-</p>
+Only watching the most recent commit :eyes::
 
-- Do nothing if your title of PR starts from `WIP`, `[WIP]` or `WIP:`.
-- Add a `PR: unreviewed` label if your PR does not have any reviews for latest commit.
-- Add a `PR: reviewed-changes-requested` label if your PR have reviewed and got **Change request** for latest commit.
-- Add a `PR: review-approved` label if your PR have reviewed and got **Approve** for latest commit.
+- Do nothing when the PR's title starts from `WIP`, `[WIP]` or `WIP:`.
+- Add the `PR: unreviewed` label when the PR does not have any reviews.
+- Add the `PR: reviewed-changes-requested` label when the PR has reviewed and got `Change request` event.
+- Add the `PR: review-approved` label when the PR has reviewed and got `Approve` event.
 
 
-## Permission & Subscribe event
+## Installation for GitHub Enterprise
 
-Here are permission and event PRTriage is requested and subscribe:
+Please follow the below steps to install for GitHub Enterprise :rocket::
 
-- :x: **No** access to code
-- :white_check_mark: Read access to metadata
-- :white_check_mark: Read and write access to pull requests to create, add and remove labels PRTriage manipulate.
+1. Go to GitHub Enterprise URL. E.g. `fake.github-enterprise.com`
+1. Go to `fake.github-enterprise.com/settings/apps/new`
+1. Create a new app which has Permissions and Subscribe to events below:
+    - Permissions
+        - Pull request
+            - Access: Read & Write
+    - Subscribe to events
+        - Pull request
+        - Pull request review
+1. Deploy the app to Glitch, Heroku or Now.
+    - [Read more about how to deploy app](https://probot.github.io/docs/deployment/)
+
