@@ -4,9 +4,18 @@ description: Open issues and pull requests in Gitpod
 slug: gitpod-io
 screenshots:
 - https://user-images.githubusercontent.com/3082655/45426649-1a2bd100-b69d-11e8-9790-91cd6850bc63.png
-authors: [ gitpod-io ]
+authors:
+- gitpod-io
 repository: gitpod-io/gitpod-bot
 host: https://gitpod-bot.now.sh
+stars: 1
+updated: 2018-09-14 12:30:11 UTC
+installations: 7
+organizations:
+- TypeFox
+- theia-ide
+- abenchi
+- gitpod-io
 ---
 
 Open issues and pull requests in [Gitpod](http://www.gitpod.io).

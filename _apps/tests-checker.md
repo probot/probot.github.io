@@ -4,9 +4,17 @@ description: Requires writing the tests in Pull Requests.
 slug: tests-checker
 screenshots:
 - https://user-images.githubusercontent.com/3725595/45590526-b7f3fa00-b942-11e8-972d-143c0b367017.png
-authors: [ borNfreee ]
+authors:
+- borNfreee
 repository: infection/tests-checker
 host: https://tests-checker.now.sh
+stars: 18
+updated: 2018-09-18 20:09:45 UTC
+installations: 4
+organizations:
+- infection
+- borNfreee
+- breadhead
 ---
 
 # Tests Checker
