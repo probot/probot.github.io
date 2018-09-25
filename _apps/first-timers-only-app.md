@@ -1,26 +1,17 @@
-## Title:
-First-timers-only-app
-
-## Description: 
-A bot that ensures exactly one newcomer issue is assigned per person so that it’s fair for all newcomers.
-
-## Slug: 
-First-timers-app
-
-## Screenshots:
+---
+title: First-timers-only-app
+description: A bot that ensures exactly one newcomer issue is assigned per person so that it’s fair for all newcomers.
+flug: ftoa
+screenshots:
 - https://github.com/probot/first-timers-only-app/blob/master/Snapshots/readmeSS.png
+authors:
+-akshitaag
+-rahmeen14
+repository: https://github.com/probot/first-timers-only-app
+host: https://sneaky-glass.glitch.me/probot
+-------
 
-## Authors:
-[ akshitaag, rahmeen14 ]
-
-## Repository:
-https://github.com/probot/first-timers-only-app
-
-## Host: 
-https://sneaky-glass.glitch.me/probot
-
-------------------------------------------------------------
-## Statement:
+Statement:
 A bot that ensures exactly one newcomer issue is assigned per person so that it’s fair for all newcomers. Additionally, it encourages the no-more-newcomers to take up challenging issues once they’re comfortable with the workflow after having tackled a newcomer issue.
 
 How it works:
@@ -39,6 +30,6 @@ How it works:
 
 7. In case a match is found, we will create a comment to inform the user that they cannot claim more than one new-comers issue.
 
-## Future Scope
+Future Scope
 
 Using fuzzy logic in natural language processing on some standard phrases we will detect if the commenter is trying to claim the issue. We might use npm module nlp-toolkit for the same.
