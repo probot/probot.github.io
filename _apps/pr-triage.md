@@ -10,8 +10,8 @@ authors:
 - sotayamashita
 repository: pr-triage/app
 host: https://pr-triage.glitch.me
-stars: 11
-updated: 2018-09-24 08:03:09 UTC
+stars: 10
+updated: 2018-09-25 08:03:40 UTC
 installations: 29
 organizations:
 - kazupon
