@@ -10,7 +10,7 @@ authors:
 - urcomputeringpal
 repository: urcomputeringpal/yamburger
 host: https://yamburger.now.sh
-stars: 14
+stars: 15
 updated: 2018-09-08 13:41:00 UTC
 installations: 11
 organizations:
