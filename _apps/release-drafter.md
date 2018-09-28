@@ -8,7 +8,7 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 292
+stars: 294
 updated: 2018-09-26 23:30:06 UTC
 installations: 95
 organizations:
@@ -19,8 +19,8 @@ organizations:
 - benbalter
 - probot
 - dotnet
-- EasyEngine
 - testcontainers
+- EasyEngine
 - balloob
 ---
 

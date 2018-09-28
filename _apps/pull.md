@@ -9,10 +9,11 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.now.sh
-stars: 44
-updated: 2018-09-15 01:19:54 UTC
-installations: 98
+stars: 46
+updated: 2018-09-27 21:37:46 UTC
+installations: 99
 organizations:
+- X140Yu
 - audiohacked
 - wei
 - nmrony
@@ -22,7 +23,6 @@ organizations:
 - OpenWebTorrent
 - stackriot
 - buschtoens
-- huayl
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.
