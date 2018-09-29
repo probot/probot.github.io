@@ -14,8 +14,8 @@ updated: 2018-08-08 15:57:39 UTC
 installations: 14
 organizations:
 - times
-- telus
 - pivotal
+- telus
 - Hollywood
 - acrlewis
 ---
