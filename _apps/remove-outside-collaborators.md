@@ -11,11 +11,11 @@ repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 5
 updated: 2018-08-08 15:57:39 UTC
-installations: 14
+installations: 15
 organizations:
 - times
-- pivotal
 - telus
+- pivotal
 - Hollywood
 - acrlewis
 ---

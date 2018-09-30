@@ -10,11 +10,10 @@ repository: infection/tests-checker
 host: https://tests-checker.now.sh
 stars: 19
 updated: 2018-09-28 21:13:42 UTC
-installations: 5
+installations: 4
 organizations:
 - infection
 - borNfreee
-- breadhead
 ---
 
 # Tests Checker
