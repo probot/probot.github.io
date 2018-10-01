@@ -12,13 +12,13 @@ authors:
 repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
 stars: 20
-updated: 2018-09-26 18:35:21 UTC
+updated: 2018-10-01 17:59:51 UTC
 installations: 53
 organizations:
 - electron
 - monicahq
-- electron-userland
 - algolia
+- electron-userland
 - greenkeeperio
 - tunnckoCore
 - renovatebot

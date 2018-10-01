@@ -16,8 +16,8 @@ organizations:
 - reactiveui
 - concourse
 - abraham
-- benbalter
 - probot
+- benbalter
 - dotnet
 - testcontainers
 - EasyEngine
