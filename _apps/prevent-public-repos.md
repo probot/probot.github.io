@@ -20,8 +20,8 @@ organizations:
 - Alliander
 - eVisionSoftware
 - dunamu
+- quantumblack
 - itriage
-- engineersmy
 ---
 
 # Prevent-Public-Repos Probot App

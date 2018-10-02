@@ -20,8 +20,8 @@ organizations:
 - RMHogervorst
 - denzuko
 - cms-gem-daq-project
-- dariok
 - dibosh
+- dariok
 ---
 
 A GitHub bot to label issues based on title and body against list of defined labels. Built with [probot](https://github.com/probot/probot).  
