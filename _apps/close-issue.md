@@ -9,8 +9,8 @@ authors:
 - whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
-stars: 8
-updated: 2018-10-03 20:39:57 UTC
+stars: 9
+updated: 2018-10-03 22:47:24 UTC
 installations: 12
 organizations:
 - android-hacker

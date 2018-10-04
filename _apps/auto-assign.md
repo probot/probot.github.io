@@ -11,9 +11,10 @@ repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 5
 updated: 2018-09-21 22:01:37 UTC
-installations: 23
+installations: 25
 organizations:
 - ahmadnassri
+- PHPOffice
 - AugurProject
 - telus
 - nmrony
@@ -22,7 +23,6 @@ organizations:
 - denzuko
 - hotuta
 - TIGRLab
-- Ragtagteam
 ---
 
 ## What it does

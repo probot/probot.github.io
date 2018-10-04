@@ -10,7 +10,7 @@ authors:
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 39
-updated: 2018-10-03 19:38:30 UTC
+updated: 2018-10-04 17:24:42 UTC
 installations: 127
 organizations:
 - atom
