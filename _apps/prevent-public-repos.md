@@ -18,8 +18,8 @@ organizations:
 - telus
 - logrhythm
 - Alliander
-- w2ogroup
 - eVisionSoftware
+- w2ogroup
 - quantumblack
 - dunamu
 ---
