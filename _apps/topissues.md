@@ -9,10 +9,12 @@ description: Labels issues with the most "+1" emoji reactions
 slug: https://github.com/apps/top-issue-bot
 
 # Include a few screenshots that show your app in action
-screenshots: https://github.com/adamzolyak/gh-vote-bot/blob/master/README.md#examples
+screenshots: 
+- https://raw.githubusercontent.com/adamzolyak/gh-vote-bot/master/docs/issue_list.png
+- https://raw.githubusercontent.com/adamzolyak/gh-vote-bot/master/docs/issue_detail.png
 
 # The GitHub usernames of anyone who authored the app
-authors: adamzolyak
+authors: [adamzolyak]
 
 # The repository where the code is located
 repository: https://github.com/adamzolyak/gh-vote-bot
@@ -21,4 +23,17 @@ repository: https://github.com/adamzolyak/gh-vote-bot
 host: https://gh-vote-bot.herokuapp.com/
 ---
 
-See https://github.com/adamzolyak/gh-vote-bot/blob/master/README.md for additional information.
+## How It Work
+
+The Top Issues bot runs every 25 minutes, labeling top issues and unlabeling issues that are no longer top issues.  Top issues are issues with the most "+1" emoji reactions on the issue description.  "+1" emoji reactions on issues comments are not considered.  
+
+## Installation
+
+After installing the app, create a `topissuebot.yml` file to the `.github` directory to enable the bot. The file must contain the following properties.  Customize the values as desired.
+
+```yml
+# Configuration for top-issue-bot
+labelName: ":thumbsup: Top Issue!"
+labelColor: "f442c2"
+numberOfIssuesToLabel: 5
+```
