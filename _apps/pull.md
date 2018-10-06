@@ -17,8 +17,8 @@ organizations:
 - nmrony
 - jrassa
 - keneanung
-- security-geeks
 - OpenWebTorrent
+- security-geeks
 - stackriot
 - buschtoens
 - huayl
