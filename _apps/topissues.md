@@ -6,7 +6,7 @@ title: Top Issues
 description: Labels issues with the most "+1" emoji reactions
 
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
-slug: https://github.com/apps/top-issue-bot
+slug: https://github.com/apps/top-issue
 
 # Include a few screenshots that show your app in action
 screenshots: 
