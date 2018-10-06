@@ -17,7 +17,7 @@ screenshots:
 authors: [adamzolyak]
 
 # The repository where the code is located
-repository: https://github.com/adamzolyak/gh-vote-bot
+repository: adamzolyak/gh-vote-bot
 
 # The address where this app is deployed
 host: https://gh-vote-bot.herokuapp.com/
