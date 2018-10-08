@@ -10,8 +10,8 @@ authors:
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 5
-updated: 2018-10-07 20:56:15 UTC
-installations: 26
+updated: 2018-10-08 05:42:42 UTC
+installations: 27
 organizations:
 - ahmadnassri
 - PHPOffice
