@@ -19,9 +19,9 @@ organizations:
 - logrhythm
 - Alliander
 - eVisionSoftware
-- w2ogroup
-- quantumblack
 - dunamu
+- quantumblack
+- w2ogroup
 ---
 
 # Prevent-Public-Repos Probot App
