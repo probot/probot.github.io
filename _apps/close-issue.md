@@ -10,7 +10,7 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 9
-updated: 2018-10-08 23:44:25 UTC
+updated: 2018-10-10 04:43:31 UTC
 installations: 11
 organizations:
 - android-hacker
