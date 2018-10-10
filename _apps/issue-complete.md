@@ -5,8 +5,8 @@ slug: issue-complete
 screenshots:
 - https://user-images.githubusercontent.com/8315038/37742479-cc18daaa-2d33-11e8-886e-6de63df96edd.png
 authors:
-- szeck87
-repository: szeck87/issue-complete
+- stevenzeck
+repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
 updated: 2018-07-16 16:14:29 UTC
@@ -22,7 +22,7 @@ issue-complete looks at the body of an issue and adds a label and comment if it 
 ## Setup
 
 1. Install the [GitHub app](https://github.com/apps/issue-complete)
-2. Create a `.github/issuecomplete.yml` file in your repository (see [issuecomplete.yml](https://github.com/szeck87/issue-complete/blob/master/issuecomplete.yml) for a template). If you don't create this, the app will use defaults.
+2. Create a `.github/issuecomplete.yml` file in your repository (see [issuecomplete.yml](https://github.com/stevenzeck/issue-complete/blob/master/issuecomplete.yml) for a template). If you don't create this, the app will use defaults.
 
 ```yaml
 # The name of the label to apply when an issue does not have all tasks checked
@@ -47,4 +47,4 @@ keywords:
 
 ## Deploy
 
-See [docs/deploy.md](https://github.com/szeck87/issue-complete/blob/master/docs/deploy.md) if you would like to run your own instance of this app.
+See [docs/deploy.md](https://github.com/stevenzeck/issue-complete/blob/master/docs/deploy.md) if you would like to run your own instance of this app.
