@@ -30,7 +30,7 @@ organizations:
 
 ### Looking for an example?
 
-[**Here you go**](https://github.com/swinton/example/runs/449335)! :eyes:
+[**Here you go**](https://github.com/probot/probot/pull/681/checks)! :eyes:
 
 ## Installation
 
