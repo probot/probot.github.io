@@ -14,9 +14,9 @@ updated: 2018-08-27 17:02:44 UTC
 installations: 8
 organizations:
 - tipeio
+- sargsyan
 - micalevisk
 - emeraldsci
-- sargsyan
 - philoserf
 ---
 
