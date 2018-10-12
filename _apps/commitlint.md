@@ -22,7 +22,7 @@ organizations:
 - z0al
 - u3u
 - angular-klingon
-- xlayers
+- sfeir-open-source
 ---
 
 <p align="center">
