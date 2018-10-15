@@ -10,7 +10,7 @@ authors:
 repository: wei/pull
 host: https://pull.now.sh
 stars: 47
-updated: 2018-09-30 14:56:11 UTC
+updated: 2018-10-15 17:21:13 UTC
 installations: 105
 organizations:
 - tlkh
