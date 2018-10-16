@@ -22,7 +22,7 @@ organizations:
 - OpenSourcePolitics
 - quintype
 - Polystream
-- SpotswoodCollege
+- philoserf
 ---
 
 <p align="center">
