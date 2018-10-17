@@ -9,20 +9,20 @@ stars: 12
 authors:
 - hiimbex
 repository: behaviorbot/update-docs
-updated: 2018-10-11 04:19:41 UTC
+updated: 2018-10-17 02:07:57 UTC
 host: https://probot-update-docs.herokuapp.com
-installations: 33
+installations: 37
 organizations:
 - adonisjs
 - u3u
 - behaviorbot
-- KengoTODA
 - splash-cli
+- KengoTODA
 - ilovecode1
 - PHPMap
 - genecommerce
 - marclop
-- cms-gem-daq-project
+- linzjs
 ---
 
 
