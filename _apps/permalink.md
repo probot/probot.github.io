@@ -1,5 +1,5 @@
 ---
-title: Permalink Bot
+title: Permalink
 description: Update all github url's in an issue, comment or pull-request description to a permanent link
 slug: permalink-bot
 screenshots:
