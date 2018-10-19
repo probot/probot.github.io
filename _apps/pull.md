@@ -11,8 +11,9 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 48
 updated: 2018-10-17 18:07:20 UTC
-installations: 111
+installations: 113
 organizations:
+- kofj
 - tlkh
 - wei
 - jrassa
@@ -22,7 +23,6 @@ organizations:
 - OpenWebTorrent
 - security-geeks
 - stackriot
-- asm0dey
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.

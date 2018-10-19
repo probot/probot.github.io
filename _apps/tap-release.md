@@ -9,8 +9,8 @@ authors:
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
 stars: 17
-updated: 2018-10-15 20:39:39 UTC
-installations: 5
+updated: 2018-10-19 02:55:31 UTC
+installations: 6
 organizations:
 - infection
 - AugurProject
