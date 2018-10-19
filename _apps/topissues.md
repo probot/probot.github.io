@@ -6,7 +6,7 @@ title: Top Issues
 description: Labels issues with the most "+1" emoji reactions
 
 # The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
-slug: https://github.com/apps/top-issue
+slug: top-issues
 
 # Include a few screenshots that show your app in action
 screenshots: 
@@ -20,10 +20,10 @@ authors: [adamzolyak]
 repository: adamzolyak/gh-vote-bot
 
 # The address where this app is deployed
-host: https://gh-vote-bot.herokuapp.com/
+host: https://gh-vote-bot.herokuapp.com
 ---
 
-## How It Work
+## How It Works
 
 The Top Issues bot runs every 25 minutes, labeling top issues and unlabeling issues that are no longer top issues.  Top issues are issues with the most "+1" emoji reactions on the issue description.  "+1" emoji reactions on issues comments are not considered.  
 
