@@ -1,26 +1,18 @@
 ---
-# A human-friendly name of your listing
 title: Top Issues
-
-# A short description of what your app does
 description: Labels issues with the most "+1" emoji reactions
-
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: top-issues
-
-# Include a few screenshots that show your app in action
-screenshots: 
+screenshots:
 - https://raw.githubusercontent.com/adamzolyak/gh-vote-bot/master/docs/issue_list.png
 - https://raw.githubusercontent.com/adamzolyak/gh-vote-bot/master/docs/issue_detail.png
-
-# The GitHub usernames of anyone who authored the app
-authors: [adamzolyak]
-
-# The repository where the code is located
+authors:
+- adamzolyak
 repository: adamzolyak/gh-vote-bot
-
-# The address where this app is deployed
 host: https://gh-vote-bot.herokuapp.com
+stars: 0
+updated: 2018-10-06 03:43:51 UTC
+installations: 2
+organizations: []
 ---
 
 ## How It Works

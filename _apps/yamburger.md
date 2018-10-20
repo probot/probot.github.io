@@ -11,17 +11,19 @@ authors:
 repository: urcomputeringpal/yamburger
 host: https://yamburger.now.sh
 stars: 18
-updated: 2018-10-14 10:34:54 UTC
-installations: 11
+updated: 2018-10-20 13:46:08 UTC
+installations: 18
 organizations:
+- opsway
 - urcomputeringpal
+- citellusorg
+- iranzo
 - redhat-developer
 - justaprogrammer
 - yeled
 - jnewland
+- matfax
 - gofunky
-- esilva-everbridge
-- gr2m
 ---
 
 ## Getting started
