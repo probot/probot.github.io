@@ -11,8 +11,9 @@ repository: adamzolyak/gh-vote-bot
 host: https://gh-vote-bot.herokuapp.com
 stars: 0
 updated: 2018-10-06 03:43:51 UTC
-installations: 2
-organizations: []
+installations: 3
+organizations:
+- TinkurLab
 ---
 
 ## How It Works

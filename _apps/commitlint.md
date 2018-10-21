@@ -19,8 +19,8 @@ organizations:
 - ajsb85
 - flyve-mdm
 - algolia
-- z0al
 - sfeir-open-source
+- z0al
 - u3u
 - angular-klingon
 ---
