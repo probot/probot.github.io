@@ -16,13 +16,13 @@ organizations:
 - kofj
 - tlkh
 - wei
-- nmrony
 - jrassa
+- nmrony
 - webknjaz
 - ClangBuiltLinux
 - keneanung
 - OpenWebTorrent
-- stackriot
+- security-geeks
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.
