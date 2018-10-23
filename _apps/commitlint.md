@@ -9,9 +9,9 @@ authors:
 - z0al
 repository: z0al/commitlint-bot
 host: https://probot-commitlint.now.sh
-stars: 86
+stars: 87
 updated: 2018-07-08 20:02:14 UTC
-installations: 85
+installations: 86
 organizations:
 - skylot
 - caarlos0

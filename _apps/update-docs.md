@@ -15,8 +15,8 @@ installations: 35
 organizations:
 - adonisjs
 - u3u
-- behaviorbot
 - splash-cli
+- behaviorbot
 - KengoTODA
 - ilovecode1
 - PHPMap
