@@ -9,12 +9,13 @@ authors:
 - adamzolyak
 repository: adamzolyak/gh-vote-bot
 host: https://gh-vote-bot.herokuapp.com
-stars: 0
+stars: 1
 updated: 2018-10-23 18:43:20 UTC
 installations: 4
 organizations:
 - waffleio
 - TinkurLab
+- adamzolyak
 ---
 
 ## How It Works

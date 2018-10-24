@@ -9,9 +9,9 @@ authors:
 - swinton
 repository: swinton/probot-ooo
 host: https://probot-ooo.herokuapp.com
-stars: 20
+stars: 21
 updated: 2018-01-06 15:08:10 UTC
-installations: 30
+installations: 31
 organizations:
 - CachetHQ
 - Laravel-Backpack
