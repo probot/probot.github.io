@@ -1,6 +1,6 @@
 ---
 title: Update Docs
-description: Replies to newly opened pull requests that do no update a file in the
+description: Replies to newly opened pull requests that do not update a file in the
   `/docs` folder or the `README`
 slug: update-docs
 screenshots:
