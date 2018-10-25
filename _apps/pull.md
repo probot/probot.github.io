@@ -11,14 +11,14 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 51
 updated: 2018-10-23 22:37:31 UTC
-installations: 116
+installations: 117
 organizations:
 - SimenB
 - kofj
 - tlkh
 - wei
-- jrassa
 - nmrony
+- jrassa
 - webknjaz
 - ClangBuiltLinux
 - keneanung
