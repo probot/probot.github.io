@@ -12,7 +12,7 @@ repository: urcomputeringpal/yamburger
 host: https://yamburger.now.sh
 stars: 18
 updated: 2018-10-20 13:46:08 UTC
-installations: 18
+installations: 19
 organizations:
 - opsway
 - urcomputeringpal
@@ -23,7 +23,7 @@ organizations:
 - yeled
 - jnewland
 - matfax
-- gofunky
+- sean0x42
 ---
 
 ## Getting started

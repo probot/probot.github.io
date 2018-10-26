@@ -8,7 +8,7 @@ authors:
 - borNfreee
 repository: infection/tests-checker
 host: https://tests-checker.now.sh
-stars: 20
+stars: 21
 updated: 2018-09-28 21:13:42 UTC
 installations: 4
 organizations:

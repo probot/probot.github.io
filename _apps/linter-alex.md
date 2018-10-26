@@ -9,18 +9,18 @@ authors:
 repository: swinton/linter-alex
 host: https://linter-alex.herokuapp.com
 stars: 63
-updated: 2018-10-18 15:04:53 UTC
-installations: 24
+updated: 2018-10-26 11:11:23 UTC
+installations: 25
 organizations:
 - probot
 - git-for-windows
 - adriancarriger
 - PennyDreadfulMTG
+- Southclaws
 - l0s
 - AjayPoshak
 - santi6291
 - swinton
-- gitgitgadget
 - silasary
 ---
 
