@@ -30,7 +30,7 @@ Auto Assign adds reviewers/assignees to pull requests when pull requests are ope
 
 ## How it works
 * When the pull request is opened, automatically add reviewers/assignees to the pull request.
-* If the number of reviewers is specified, randomly add reviewers/assignees to the pull request. 
+* If the number of reviewers/assignees is specified, randomly add reviewers/assignees to the pull request. 
 * If the title of the pull request contains a specific keyword, do not add reviewers/assignees to the pull request.
 
 ## Usage
@@ -45,7 +45,7 @@ addReviewers: true
 addAssignees: true
 
 # A list of reviewers to be added to pull requests (GitHub user name)
-reviewers: 
+reviewers:
   - reviewerA
   - reviewerB
   - reviewerC
@@ -54,7 +54,19 @@ reviewers:
 # Set 0 to add all the reviewers (default: 0)
 numberOfReviewers: 0
 
-# A list of keywords to be skipped the process that add reviewers if pull requests include it 
+# A list of assignees, overrides reviewers if set
+# assignees:
+#   - assigneeA
+
+# A number of assignees to add to the pull request
+# Set to 0 to add all of the assignees.
+# Uses numberOfReviewers if unset.
+# numberOfAssignees: 2
+
+# A list of keywords to be skipped the process that add reviewers if pull requests include it
 # skipKeywords:
 #   - wip
 ```
+
+## Contributing
+If you have suggestions for how `auto-assign` could be improved, or want to report a bug, [open an issue](https://github.com/kentaro-m/auto-assign/issues/new/choose)! We'd love all and any contributions.
