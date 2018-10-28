@@ -18,6 +18,7 @@ organizations:
 - OpenApprenticeFoundation
 - Kristinita
 - entendu
+- switchplus
 ---
 
 # untrivializer
