@@ -21,7 +21,7 @@ organizations:
 - GameServerManagers
 - caarlos0
 - arguiot
-- jahirfiquitiva
+- tox-dev
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
