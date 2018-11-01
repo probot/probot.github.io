@@ -17,6 +17,7 @@ organizations:
 - humbug
 - kentaro-m
 - toolmantim
+- buildkite
 ---
 
 ## Usage

@@ -10,14 +10,15 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 9
-updated: 2018-10-31 20:40:49 UTC
-installations: 11
+updated: 2018-11-01 18:44:33 UTC
+installations: 12
 organizations:
+- react-boilerplate
 - android-hacker
 - coreos
 - offu
-- njleonzhang
 - we-plugin
+- njleonzhang
 - dlhandsome
 - helloqiu
 - it5200
