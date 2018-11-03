@@ -1,6 +1,6 @@
 ---
 title: Prosebot
-description: What your app does
+description: Helps you write better on GitHub by suggesting spelling fixes, prose improvements and use of inclusive language.
 slug: prosebot
 screenshots:
 - https://user-images.githubusercontent.com/10660468/47381659-87844600-d6ce-11e8-8dc1-add68671dc85.png
