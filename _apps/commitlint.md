@@ -15,6 +15,7 @@ installations: 93
 organizations:
 - skylot
 - caarlos0
+- mike-north
 - TECLIB
 - ajsb85
 - flyve-mdm
@@ -22,7 +23,6 @@ organizations:
 - tinesoft
 - sfeir-open-source
 - z0al
-- u3u
 ---
 
 <p align="center">
