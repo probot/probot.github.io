@@ -17,8 +17,8 @@ organizations:
 - debugger22
 - publiclab
 - campus-experts
-- jkvora
 - bsoyka
+- jkvora
 - joaosantana
 ---
 
