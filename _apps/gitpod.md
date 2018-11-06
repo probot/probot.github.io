@@ -10,8 +10,9 @@ repository: gitpod-io/gitpod-bot
 host: https://gitpod-bot.now.sh
 stars: 3
 updated: 2018-09-14 12:30:11 UTC
-installations: 10
+installations: 11
 organizations:
+- caouecs
 - TypeFox
 - theia-ide
 - JanitorTechnology

@@ -15,6 +15,7 @@ installations: 94
 organizations:
 - skylot
 - caarlos0
+- scality
 - mike-north
 - TECLIB
 - ajsb85
@@ -22,7 +23,6 @@ organizations:
 - algolia
 - tinesoft
 - sfeir-open-source
-- z0al
 ---
 
 <p align="center">
