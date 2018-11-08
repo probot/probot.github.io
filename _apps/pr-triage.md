@@ -11,19 +11,19 @@ authors:
 repository: pr-triage/app
 host: https://pr-triage.glitch.me
 stars: 13
-updated: 2018-11-07 08:22:28 UTC
-installations: 41
+updated: 2018-11-08 08:22:52 UTC
+installations: 42
 organizations:
 - thepracticaldev
 - kazupon
 - HcySunYang
 - awesome-css-group
 - vuejs
-- TiagoDanin
 - LinioIT
 - vuejs-jp
 - muan
 - Ignitus
+- kotamat
 ---
 
 ## Motivation

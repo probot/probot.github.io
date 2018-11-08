@@ -24,7 +24,7 @@ organizations:
 - tunnckoCore
 - renovatebot
 - mike-works
-- tunnckoCoreLabs
+- stipsan
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec

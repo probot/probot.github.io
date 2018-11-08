@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 303
+stars: 304
 updated: 2018-11-06 11:00:09 UTC
-installations: 120
+installations: 124
 organizations:
 - gorilla
 - reactiveui
