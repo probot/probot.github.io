@@ -8,9 +8,9 @@ authors:
 - JasonEtco
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
-stars: 6
+stars: 7
 updated: 2018-08-07 17:10:37 UTC
-installations: 79
+installations: 85
 organizations:
 - ant-design
 - ReactiveX

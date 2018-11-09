@@ -9,7 +9,7 @@ authors:
 - kentaro-m
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
-stars: 7
+stars: 8
 updated: 2018-10-27 13:15:23 UTC
 installations: 48
 organizations:
@@ -22,7 +22,7 @@ organizations:
 - PickNikRobotics
 - nmrony
 - RagtagOpen
-- appunite
+- Ignitus
 ---
 
 ## What it does
