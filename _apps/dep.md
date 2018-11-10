@@ -11,7 +11,7 @@ repository: z0al/dep
 host: https://probot-dep.now.sh
 stars: 43
 updated: 2018-08-12 07:47:54 UTC
-installations: 97
+installations: 96
 organizations:
 - wp-cli
 - AvaloniaUI
