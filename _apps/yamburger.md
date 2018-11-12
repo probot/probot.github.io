@@ -18,8 +18,8 @@ organizations:
 - urcomputeringpal
 - citellusorg
 - iranzo
-- redhat-developer
 - justaprogrammer
+- redhat-developer
 - yeled
 - jnewland
 - matfax
