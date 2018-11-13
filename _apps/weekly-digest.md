@@ -10,7 +10,7 @@ repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 50
 updated: 2018-09-07 16:06:47 UTC
-installations: 56
+installations: 57
 organizations:
 - veggiemonk
 - thepracticaldev

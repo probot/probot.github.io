@@ -17,8 +17,8 @@ organizations:
 - gr2m
 - behaviorbot
 - matfax
-- Rachelmorrell
 - gofunky
+- Rachelmorrell
 ---
 
 ## How it works

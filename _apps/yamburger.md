@@ -23,7 +23,7 @@ organizations:
 - yeled
 - jnewland
 - matfax
-- sean0x42
+- gofunky
 ---
 
 ## Getting started
