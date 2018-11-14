@@ -15,8 +15,8 @@ organizations:
 - facebook
 - ReactiveX
 - zeit
-- jquery
 - Microsoft
+- jquery
 - ethereum
 - Homebrew
 - atom

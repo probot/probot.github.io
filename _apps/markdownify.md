@@ -10,11 +10,12 @@ repository: hiimbex/markdownify
 host: https://desolate-river-85665.herokuapp.com
 stars: 2
 updated: 2018-11-01 02:50:48 UTC
-installations: 12
+installations: 13
 organizations:
 - probot
 - octokit
 - gr2m
+- atom
 - behaviorbot
 - matfax
 - gofunky

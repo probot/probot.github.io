@@ -20,8 +20,8 @@ organizations:
 - tyrchen
 - wangshijun
 - XDagger
+- enKryptIO
 - bert
-- ipfs-shipyard
 ---
 > App built using [Probot](https://probot.github.io/) which generates a weekly automated summary of activity on your GitHub repository
 ## App in Action ##
