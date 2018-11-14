@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>AppOptions | probot</title>
+	<title>GraphQLError | probot</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style type="text/css">/*! normalize.css v1.1.3 | MIT License | git.io/normalize */
@@ -908,13 +908,19 @@ img { max-width: 100%; }
 <nav class="tsd-navigation secondary">
 	<ul>
 		<li class="current tsd-kind-interface">
-			<a href="appoptions.html" class="tsd-kind-icon">App<wbr>Options</a>
+			<a href="graphqlerror.html" class="tsd-kind-icon">GraphQLError</a>
 			<ul>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
-					<a href="appoptions.html#cert" class="tsd-kind-icon">cert</a>
+					<a href="graphqlerror.html#extensions" class="tsd-kind-icon">extensions</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
-					<a href="appoptions.html#id" class="tsd-kind-icon">id</a>
+					<a href="graphqlerror.html#locations" class="tsd-kind-icon">locations</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-interface">
+					<a href="graphqlerror.html#message" class="tsd-kind-icon">message</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-interface">
+					<a href="graphqlerror.html#path" class="tsd-kind-icon">path</a>
 				</li>
 			</ul>
 		</li>
@@ -926,7 +932,7 @@ img { max-width: 100%; }
 			<h3>Hierarchy</h3>
 			<ul class="tsd-hierarchy">
 				<li>
-					<span class="target">AppOptions</span>
+					<span class="target">GraphQLError</span>
 				</li>
 			</ul>
 		</section>
@@ -937,8 +943,10 @@ img { max-width: 100%; }
 					<section class="tsd-index-section ">
 						<h3>Properties</h3>
 						<ul class="tsd-index-list">
-							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="appoptions.html#cert" class="tsd-kind-icon">cert</a></li>
-							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="appoptions.html#id" class="tsd-kind-icon">id</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="graphqlerror.html#extensions" class="tsd-kind-icon">extensions</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="graphqlerror.html#locations" class="tsd-kind-icon">locations</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="graphqlerror.html#message" class="tsd-kind-icon">message</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="graphqlerror.html#path" class="tsd-kind-icon">path</a></li>
 						</ul>
 					</section>
 				</div>
@@ -947,22 +955,42 @@ img { max-width: 100%; }
 		<section class="tsd-panel-group tsd-member-group ">
 			<h2>Properties</h2>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
-				<a name="cert" class="tsd-anchor"></a>
-				<h3>cert</h3>
-				<div class="tsd-signature tsd-kind-icon">cert<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+				<a name="extensions" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> extensions</h3>
+				<div class="tsd-signature tsd-kind-icon">extensions<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">object</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github-app.ts#L18">github-app.ts:18</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L11">github/graphql.ts:11</a></li>
 					</ul>
 				</aside>
 			</section>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
-				<a name="id" class="tsd-anchor"></a>
-				<h3>id</h3>
-				<div class="tsd-signature tsd-kind-icon">id<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">number</span></div>
+				<a name="locations" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> locations</h3>
+				<div class="tsd-signature tsd-kind-icon">locations<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">object</span><span class="tsd-signature-symbol">&gt;</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github-app.ts#L17">github-app.ts:17</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L9">github/graphql.ts:9</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
+				<a name="message" class="tsd-anchor"></a>
+				<h3>message</h3>
+				<div class="tsd-signature tsd-kind-icon">message<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L8">github/graphql.ts:8</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
+				<a name="path" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> path</h3>
+				<div class="tsd-signature tsd-kind-icon">path<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">&gt;</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L10">github/graphql.ts:10</a></li>
 					</ul>
 				</aside>
 			</section>

@@ -914,6 +914,9 @@ img { max-width: 100%; }
 			<a href="classes/context.html" class="tsd-kind-icon">Context</a>
 		</li>
 		<li class=" tsd-kind-class">
+			<a href="classes/graphqlqueryerror.html" class="tsd-kind-icon">GraphQLQuery<wbr>Error</a>
+		</li>
+		<li class=" tsd-kind-class">
 			<a href="classes/manifestcreation.html" class="tsd-kind-icon">Manifest<wbr>Creation</a>
 		</li>
 		<li class=" tsd-kind-class">
@@ -935,7 +938,7 @@ img { max-width: 100%; }
 			<a href="interfaces/githubapi.html" class="tsd-kind-icon">Git<wbr>HubAPI</a>
 		</li>
 		<li class=" tsd-kind-interface">
-			<a href="interfaces/graphqlresponse.html" class="tsd-kind-icon">GraphQLResponse</a>
+			<a href="interfaces/graphqlerror.html" class="tsd-kind-icon">GraphQLError</a>
 		</li>
 		<li class=" tsd-kind-interface">
 			<a href="interfaces/headers.html" class="tsd-kind-icon">Headers</a>
@@ -1040,6 +1043,7 @@ img { max-width: 100%; }
 						<ul class="tsd-index-list">
 							<li class="tsd-kind-class"><a href="classes/application.html" class="tsd-kind-icon">Application</a></li>
 							<li class="tsd-kind-class"><a href="classes/context.html" class="tsd-kind-icon">Context</a></li>
+							<li class="tsd-kind-class"><a href="classes/graphqlqueryerror.html" class="tsd-kind-icon">GraphQLQuery<wbr>Error</a></li>
 							<li class="tsd-kind-class"><a href="classes/manifestcreation.html" class="tsd-kind-icon">Manifest<wbr>Creation</a></li>
 							<li class="tsd-kind-class"><a href="classes/probot.html" class="tsd-kind-icon">Probot</a></li>
 						</ul>
@@ -1052,7 +1056,7 @@ img { max-width: 100%; }
 							<li class="tsd-kind-interface"><a href="interfaces/cacheconfig.html" class="tsd-kind-icon">Cache<wbr>Config</a></li>
 							<li class="tsd-kind-interface"><a href="interfaces/childargs.html" class="tsd-kind-icon">Child<wbr>Args</a></li>
 							<li class="tsd-kind-interface"><a href="interfaces/githubapi.html" class="tsd-kind-icon">Git<wbr>HubAPI</a></li>
-							<li class="tsd-kind-interface"><a href="interfaces/graphqlresponse.html" class="tsd-kind-icon">GraphQLResponse</a></li>
+							<li class="tsd-kind-interface"><a href="interfaces/graphqlerror.html" class="tsd-kind-icon">GraphQLError</a></li>
 							<li class="tsd-kind-interface"><a href="interfaces/headers.html" class="tsd-kind-icon">Headers</a></li>
 							<li class="tsd-kind-interface"><a href="interfaces/loggerwithtarget.html" class="tsd-kind-icon">Logger<wbr>With<wbr>Target</a></li>
 							<li class="tsd-kind-interface"><a href="interfaces/nextfunction.html" class="tsd-kind-icon">Next<wbr>Function</a></li>
@@ -1116,7 +1120,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">Application<wbr>Function<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">function</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/index.ts#L124">index.ts:124</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/index.ts#L124">index.ts:124</a></li>
 					</ul>
 				</aside>
 				<div class="tsd-type-declaration">
@@ -1147,7 +1151,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">Resolver<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">function</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/resolver.ts#L13">resolver.ts:13</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/resolver.ts#L13">resolver.ts:13</a></li>
 					</ul>
 				</aside>
 				<div class="tsd-type-declaration">
@@ -1186,7 +1190,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">logger<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Logger</span><span class="tsd-signature-symbol"> =&nbsp;new Logger({level: toBunyanLogLevel(process.env.LOG_LEVEL || &#x27;info&#x27;),name: &#x27;probot&#x27;,serializers,stream: new bunyanFormat({ outputMode: toBunyanFormat(process.env.LOG_FORMAT || &#x27;short&#x27;), color: supportsColor.stdout })})</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/logger.ts#L60">logger.ts:60</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/logger.ts#L60">logger.ts:60</a></li>
 					</ul>
 				</aside>
 			</section>
@@ -1203,7 +1207,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/github/graphql.ts#L19">github/graphql.ts:19</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L32">github/graphql.ts:32</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1226,7 +1230,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/github/logging.ts#L4">github/logging.ts:4</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/logging.ts#L4">github/logging.ts:4</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1252,7 +1256,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/github/pagination.ts#L4">github/pagination.ts:4</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/pagination.ts#L4">github/pagination.ts:4</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1275,7 +1279,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/github/rate-limiting.ts#L4">github/rate-limiting.ts:4</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/rate-limiting.ts#L4">github/rate-limiting.ts:4</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1301,7 +1305,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/github-app.ts#L3">github-app.ts:3</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github-app.ts#L3">github-app.ts:3</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1324,7 +1328,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/cache.ts#L11">cache.ts:11</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/cache.ts#L11">cache.ts:11</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-returns-title">Returns <a href="interfaces/cache.html" class="tsd-signature-type">Cache</a></h4>
@@ -1341,7 +1345,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/index.ts#L122">index.ts:122</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/index.ts#L122">index.ts:122</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1364,7 +1368,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/server.ts#L11">server.ts:11</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/server.ts#L11">server.ts:11</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1387,7 +1391,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/webhook-proxy.ts#L3">webhook-proxy.ts:3</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/webhook-proxy.ts#L3">webhook-proxy.ts:3</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1410,7 +1414,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/private-key.ts#L23">private-key.ts:23</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/private-key.ts#L23">private-key.ts:23</a></li>
 							</ul>
 						</aside>
 						<div class="tsd-comment tsd-typography">
@@ -1454,7 +1458,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/middleware/logging.ts#L9">middleware/logging.ts:9</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/middleware/logging.ts#L9">middleware/logging.ts:9</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1479,7 +1483,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/resolver.ts#L5">resolver.ts:5</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/resolver.ts#L5">resolver.ts:5</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1505,7 +1509,7 @@ img { max-width: 100%; }
 					<li class="tsd-description">
 						<aside class="tsd-sources">
 							<ul>
-								<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/wrap-logger.ts#L9">wrap-logger.ts:9</a></li>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/wrap-logger.ts#L9">wrap-logger.ts:9</a></li>
 							</ul>
 						</aside>
 						<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1530,7 +1534,7 @@ img { max-width: 100%; }
 				<div class="tsd-signature tsd-kind-icon">serializers<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">object</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/serializers.ts#L5">serializers.ts:5</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/serializers.ts#L5">serializers.ts:5</a></li>
 					</ul>
 				</aside>
 				<section class="tsd-panel tsd-member tsd-kind-variable tsd-parent-kind-object-literal">
@@ -1539,7 +1543,7 @@ img { max-width: 100%; }
 					<div class="tsd-signature tsd-kind-icon">err<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">function</span><span class="tsd-signature-symbol"> =&nbsp;bunyan.stdSerializers.err</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/serializers.ts#L32">serializers.ts:32</a></li>
+							<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/serializers.ts#L32">serializers.ts:32</a></li>
 						</ul>
 					</aside>
 					<div class="tsd-type-declaration">
@@ -1570,7 +1574,7 @@ img { max-width: 100%; }
 					<div class="tsd-signature tsd-kind-icon">req<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">function</span><span class="tsd-signature-symbol"> =&nbsp;bunyan.stdSerializers.req</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/serializers.ts#L36">serializers.ts:36</a></li>
+							<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/serializers.ts#L36">serializers.ts:36</a></li>
 						</ul>
 					</aside>
 					<div class="tsd-type-declaration">
@@ -1605,7 +1609,7 @@ img { max-width: 100%; }
 						<li class="tsd-description">
 							<aside class="tsd-sources">
 								<ul>
-									<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/serializers.ts#L7">serializers.ts:7</a></li>
+									<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/serializers.ts#L7">serializers.ts:7</a></li>
 								</ul>
 							</aside>
 							<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1628,7 +1632,7 @@ img { max-width: 100%; }
 						<li class="tsd-description">
 							<aside class="tsd-sources">
 								<ul>
-									<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/serializers.ts#L24">serializers.ts:24</a></li>
+									<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/serializers.ts#L24">serializers.ts:24</a></li>
 								</ul>
 							</aside>
 							<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1654,7 +1658,7 @@ img { max-width: 100%; }
 						<li class="tsd-description">
 							<aside class="tsd-sources">
 								<ul>
-									<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/serializers.ts#L34">serializers.ts:34</a></li>
+									<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/serializers.ts#L34">serializers.ts:34</a></li>
 								</ul>
 							</aside>
 							<h4 class="tsd-parameters-title">Parameters</h4>
@@ -1680,7 +1684,7 @@ img { max-width: 100%; }
 						<li class="tsd-description">
 							<aside class="tsd-sources">
 								<ul>
-									<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/serializers.ts#L41">serializers.ts:41</a></li>
+									<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/serializers.ts#L41">serializers.ts:41</a></li>
 								</ul>
 							</aside>
 							<h4 class="tsd-parameters-title">Parameters</h4>

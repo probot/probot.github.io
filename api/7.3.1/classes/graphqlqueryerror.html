@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>GraphQLResponse | probot</title>
+	<title>GraphQLQueryError | probot</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style type="text/css">/*! normalize.css v1.1.3 | MIT License | git.io/normalize */
@@ -907,130 +907,37 @@ img { max-width: 100%; }
 </header>
 <nav class="tsd-navigation secondary">
 	<ul>
-		<li class=" tsd-kind-class">
-			<a href="../classes/application.html" class="tsd-kind-icon">Application</a>
-		</li>
-		<li class=" tsd-kind-class">
-			<a href="../classes/context.html" class="tsd-kind-icon">Context</a>
-		</li>
-		<li class=" tsd-kind-class">
-			<a href="../classes/manifestcreation.html" class="tsd-kind-icon">Manifest<wbr>Creation</a>
-		</li>
-		<li class=" tsd-kind-class">
-			<a href="../classes/probot.html" class="tsd-kind-icon">Probot</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="appoptions.html" class="tsd-kind-icon">App<wbr>Options</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="cache.html" class="tsd-kind-icon">Cache</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="cacheconfig.html" class="tsd-kind-icon">Cache<wbr>Config</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="childargs.html" class="tsd-kind-icon">Child<wbr>Args</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="githubapi.html" class="tsd-kind-icon">Git<wbr>HubAPI</a>
-		</li>
-		<li class="current tsd-kind-interface">
-			<a href="graphqlresponse.html" class="tsd-kind-icon">GraphQLResponse</a>
+		<li class="current tsd-kind-class">
+			<a href="graphqlqueryerror.html" class="tsd-kind-icon">GraphQLQuery<wbr>Error</a>
 			<ul>
-				<li class=" tsd-kind-property tsd-parent-kind-interface">
-					<a href="graphqlresponse.html#data" class="tsd-kind-icon">data</a>
+				<li class=" tsd-kind-constructor tsd-parent-kind-class">
+					<a href="graphqlqueryerror.html#constructor" class="tsd-kind-icon">constructor</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="graphqlqueryerror.html#data" class="tsd-kind-icon">data</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="graphqlqueryerror.html#errors" class="tsd-kind-icon">errors</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class tsd-is-inherited">
+					<a href="graphqlqueryerror.html#message" class="tsd-kind-icon">message</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class tsd-is-inherited">
+					<a href="graphqlqueryerror.html#name" class="tsd-kind-icon">name</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="graphqlqueryerror.html#query" class="tsd-kind-icon">query</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class tsd-is-overwrite tsd-is-inherited">
+					<a href="graphqlqueryerror.html#stack" class="tsd-kind-icon">stack</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class">
+					<a href="graphqlqueryerror.html#variables" class="tsd-kind-icon">variables</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-class tsd-is-static">
+					<a href="graphqlqueryerror.html#error" class="tsd-kind-icon">Error</a>
 				</li>
 			</ul>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="headers.html" class="tsd-kind-icon">Headers</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="loggerwithtarget.html" class="tsd-kind-icon">Logger<wbr>With<wbr>Target</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="nextfunction.html" class="tsd-kind-icon">Next<wbr>Function</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="octokiterror.html" class="tsd-kind-icon">Octokit<wbr>Error</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="options.html" class="tsd-kind-icon">Options</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="request.html" class="tsd-kind-icon">Request</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="requestoptions.html" class="tsd-kind-icon">Request<wbr>Options</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="resolveoptions.html" class="tsd-kind-icon">Resolve<wbr>Options</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="response.html" class="tsd-kind-icon">Response</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="result.html" class="tsd-kind-icon">Result</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="serverargs.html" class="tsd-kind-icon">Server<wbr>Args</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="variables.html" class="tsd-kind-icon">Variables</a>
-		</li>
-		<li class=" tsd-kind-interface">
-			<a href="webhookproxyoptions.html" class="tsd-kind-icon">Webhook<wbr>Proxy<wbr>Options</a>
-		</li>
-		<li class=" tsd-kind-type-alias">
-			<a href="../index.html#applicationfunction" class="tsd-kind-icon">Application<wbr>Function</a>
-		</li>
-		<li class=" tsd-kind-type-alias">
-			<a href="../index.html#resolver" class="tsd-kind-icon">Resolver</a>
-		</li>
-		<li class=" tsd-kind-variable">
-			<a href="../index.html#logger" class="tsd-kind-icon">logger</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#addgraphql" class="tsd-kind-icon">add<wbr>GraphQL</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#addlogging" class="tsd-kind-icon">add<wbr>Logging</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#addpagination" class="tsd-kind-icon">add<wbr>Pagination</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#addratelimiting" class="tsd-kind-icon">add<wbr>Rate<wbr>Limiting</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#createapp" class="tsd-kind-icon">create<wbr>App</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#createdefaultcache" class="tsd-kind-icon">create<wbr>Default<wbr>Cache</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#createprobot" class="tsd-kind-icon">create<wbr>Probot</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#createserver" class="tsd-kind-icon">create<wbr>Server</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#createwebhookproxy" class="tsd-kind-icon">create<wbr>Webhook<wbr>Proxy</a>
-		</li>
-		<li class=" tsd-kind-function tsd-is-private">
-			<a href="../index.html#findprivatekey" class="tsd-kind-icon">find<wbr>Private<wbr>Key</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#logrequest" class="tsd-kind-icon">log<wbr>Request</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#resolve" class="tsd-kind-icon">resolve</a>
-		</li>
-		<li class=" tsd-kind-function">
-			<a href="../index.html#wraplogger" class="tsd-kind-icon">wrap<wbr>Logger</a>
-		</li>
-		<li class=" tsd-kind-object-literal">
-			<a href="../index.html#serializers" class="tsd-kind-icon">serializers</a>
 		</li>
 	</ul>
 </nav>
@@ -1040,7 +947,12 @@ img { max-width: 100%; }
 			<h3>Hierarchy</h3>
 			<ul class="tsd-hierarchy">
 				<li>
-					<span class="target">GraphQLResponse</span>
+					<span class="tsd-signature-type">Error</span>
+					<ul class="tsd-hierarchy">
+						<li>
+							<span class="target">GraphQLQueryError</span>
+						</li>
+					</ul>
 				</li>
 			</ul>
 		</section>
@@ -1049,23 +961,145 @@ img { max-width: 100%; }
 			<section class="tsd-panel tsd-index-panel">
 				<div class="tsd-index-content">
 					<section class="tsd-index-section ">
+						<h3>Constructors</h3>
+						<ul class="tsd-index-list">
+							<li class="tsd-kind-constructor tsd-parent-kind-class"><a href="graphqlqueryerror.html#constructor" class="tsd-kind-icon">constructor</a></li>
+						</ul>
+					</section>
+					<section class="tsd-index-section ">
 						<h3>Properties</h3>
 						<ul class="tsd-index-list">
-							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="graphqlresponse.html#data" class="tsd-kind-icon">data</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="graphqlqueryerror.html#data" class="tsd-kind-icon">data</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="graphqlqueryerror.html#errors" class="tsd-kind-icon">errors</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class tsd-is-inherited"><a href="graphqlqueryerror.html#message" class="tsd-kind-icon">message</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class tsd-is-inherited"><a href="graphqlqueryerror.html#name" class="tsd-kind-icon">name</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="graphqlqueryerror.html#query" class="tsd-kind-icon">query</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class tsd-is-overwrite tsd-is-inherited"><a href="graphqlqueryerror.html#stack" class="tsd-kind-icon">stack</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class"><a href="graphqlqueryerror.html#variables" class="tsd-kind-icon">variables</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-class tsd-is-static"><a href="graphqlqueryerror.html#error" class="tsd-kind-icon">Error</a></li>
 						</ul>
 					</section>
 				</div>
 			</section>
 		</section>
 		<section class="tsd-panel-group tsd-member-group ">
+			<h2>Constructors</h2>
+			<section class="tsd-panel tsd-member tsd-kind-constructor tsd-parent-kind-class">
+				<a name="constructor" class="tsd-anchor"></a>
+				<h3>constructor</h3>
+				<ul class="tsd-signatures tsd-kind-constructor tsd-parent-kind-class">
+					<li class="tsd-signature tsd-kind-icon">new <wbr>GraphQLQuery<wbr>Error<span class="tsd-signature-symbol">(</span>errors<span class="tsd-signature-symbol">: </span><a href="../interfaces/graphqlerror.html" class="tsd-signature-type">GraphQLError</a><span class="tsd-signature-symbol">[]</span>, query<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span>, variables<span class="tsd-signature-symbol">: </span><a href="../interfaces/variables.html" class="tsd-signature-type">Variables</a>, data<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="graphqlqueryerror.html" class="tsd-signature-type">GraphQLQueryError</a></li>
+				</ul>
+				<ul class="tsd-descriptions">
+					<li class="tsd-description">
+						<aside class="tsd-sources">
+							<ul>
+								<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L16">github/graphql.ts:16</a></li>
+							</ul>
+						</aside>
+						<h4 class="tsd-parameters-title">Parameters</h4>
+						<ul class="tsd-parameters">
+							<li>
+								<h5>errors: <a href="../interfaces/graphqlerror.html" class="tsd-signature-type">GraphQLError</a><span class="tsd-signature-symbol">[]</span></h5>
+							</li>
+							<li>
+								<h5>query: <span class="tsd-signature-type">string</span></h5>
+							</li>
+							<li>
+								<h5>variables: <a href="../interfaces/variables.html" class="tsd-signature-type">Variables</a></h5>
+							</li>
+							<li>
+								<h5>data: <span class="tsd-signature-type">any</span></h5>
+							</li>
+						</ul>
+						<h4 class="tsd-returns-title">Returns <a href="graphqlqueryerror.html" class="tsd-signature-type">GraphQLQueryError</a></h4>
+					</li>
+				</ul>
+			</section>
+		</section>
+		<section class="tsd-panel-group tsd-member-group ">
 			<h2>Properties</h2>
-			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
 				<a name="data" class="tsd-anchor"></a>
 				<h3>data</h3>
 				<div class="tsd-signature tsd-kind-icon">data<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">any</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in <a href="https://github.com/probot/probot/blob/76b0417/src/github/index.ts#L71">github/index.ts:71</a></li>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L21">github/graphql.ts:21</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="errors" class="tsd-anchor"></a>
+				<h3>errors</h3>
+				<div class="tsd-signature tsd-kind-icon">errors<span class="tsd-signature-symbol">:</span> <a href="../interfaces/graphqlerror.html" class="tsd-signature-type">GraphQLError</a><span class="tsd-signature-symbol">[]</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L18">github/graphql.ts:18</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class tsd-is-inherited">
+				<a name="message" class="tsd-anchor"></a>
+				<h3>message</h3>
+				<div class="tsd-signature tsd-kind-icon">message<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+				<aside class="tsd-sources">
+					<p>Inherited from Error.message</p>
+					<ul>
+						<li>Defined in /Users/hiimbex/Desktop/probot/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:904</li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class tsd-is-inherited">
+				<a name="name" class="tsd-anchor"></a>
+				<h3>name</h3>
+				<div class="tsd-signature tsd-kind-icon">name<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+				<aside class="tsd-sources">
+					<p>Inherited from Error.name</p>
+					<ul>
+						<li>Defined in /Users/hiimbex/Desktop/probot/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:903</li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="query" class="tsd-anchor"></a>
+				<h3>query</h3>
+				<div class="tsd-signature tsd-kind-icon">query<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L19">github/graphql.ts:19</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class tsd-is-overwrite tsd-is-inherited">
+				<a name="stack" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> stack</h3>
+				<div class="tsd-signature tsd-kind-icon">stack<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">string</span></div>
+				<aside class="tsd-sources">
+					<p>Inherited from Error.stack</p>
+					<p>Overrides Error.stack</p>
+					<ul>
+						<li>Defined in /Users/hiimbex/Desktop/probot/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:905</li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class">
+				<a name="variables" class="tsd-anchor"></a>
+				<h3>variables</h3>
+				<div class="tsd-signature tsd-kind-icon">variables<span class="tsd-signature-symbol">:</span> <a href="../interfaces/variables.html" class="tsd-signature-type">Variables</a></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in <a href="https://github.com/probot/probot/blob/7831ef0/src/github/graphql.ts#L20">github/graphql.ts:20</a></li>
+					</ul>
+				</aside>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-class tsd-is-static">
+				<a name="error" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagStatic">Static</span> Error</h3>
+				<div class="tsd-signature tsd-kind-icon">Error<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">ErrorConstructor</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in /Users/hiimbex/Desktop/probot/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:914</li>
 					</ul>
 				</aside>
 			</section>
