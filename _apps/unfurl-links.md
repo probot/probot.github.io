@@ -10,18 +10,18 @@ repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 43
 updated: 2018-11-13 10:07:31 UTC
-installations: 153
+installations: 162
 organizations:
 - reactiveui
 - apereo
 - probot
 - thibmaek
 - goreleaser
+- fossasia
 - MvvmCross
 - GameServerManagers
 - caarlos0
 - arguiot
-- tox-dev
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
