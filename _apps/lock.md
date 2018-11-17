@@ -10,15 +10,15 @@ repository: dessant/lock-threads
 host: https://probot-lock-threads.glitch.me
 stars: 56
 updated: 2018-11-08 08:13:29 UTC
-installations: 153
+installations: 155
 organizations:
 - facebook
+- Microsoft
 - ReactiveX
 - zeit
-- Microsoft
 - jquery
-- ethereum
 - Homebrew
+- ethereum
 - atom
 - babel
 - Semantic-Org
