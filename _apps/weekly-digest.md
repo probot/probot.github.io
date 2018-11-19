@@ -9,7 +9,7 @@ authors:
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 50
-updated: 2018-09-07 16:06:47 UTC
+updated: 2018-11-19 06:13:50 UTC
 installations: 60
 organizations:
 - veggiemonk
