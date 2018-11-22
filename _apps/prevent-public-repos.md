@@ -21,7 +21,7 @@ organizations:
 - Alliander
 - eVisionSoftware
 - CreditCardsCom
-- adeo
+- DaPulse
 ---
 
 # Prevent-Public-Repos Probot App
