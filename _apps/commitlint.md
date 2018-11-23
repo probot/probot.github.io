@@ -14,8 +14,8 @@ updated: 2018-07-08 20:02:14 UTC
 installations: 102
 organizations:
 - skylot
-- mike-north
 - caarlos0
+- mike-north
 - mike-works
 - bazzite
 - TECLIB
