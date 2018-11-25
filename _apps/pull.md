@@ -10,8 +10,8 @@ authors:
 repository: wei/pull
 host: https://pull.now.sh
 stars: 59
-updated: 2018-11-21 19:40:34 UTC
-installations: 149
+updated: 2018-11-25 12:27:18 UTC
+installations: 150
 organizations:
 - SimenB
 - kofj
