@@ -24,7 +24,7 @@ organizations:
 - greenkeeperio
 - tunnckoCore
 - renovatebot
-- tunnckoCoreLabs
+- stipsan
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec

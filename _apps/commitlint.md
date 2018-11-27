@@ -15,7 +15,6 @@ installations: 104
 organizations:
 - skylot
 - caarlos0
-- GameServerManagers
 - mike-north
 - bazzite
 - mike-works
@@ -23,6 +22,7 @@ organizations:
 - ajsb85
 - flyve-mdm
 - algolia
+- tinesoft
 ---
 
 <p align="center">

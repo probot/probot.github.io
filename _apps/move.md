@@ -11,7 +11,7 @@ repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 30
 updated: 2018-10-03 03:04:40 UTC
-installations: 100
+installations: 99
 organizations:
 - ethereum
 - Homebrew
