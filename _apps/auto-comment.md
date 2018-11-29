@@ -9,7 +9,7 @@ authors:
 repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 stars: 3
-updated: 2018-09-19 20:40:21 UTC
+updated: 2018-11-29 17:18:26 UTC
 installations: 15
 organizations:
 - adonisjs

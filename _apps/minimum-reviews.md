@@ -10,7 +10,7 @@ repository: raulriera/probot-minimum-reviews
 host: https://horn-produce.glitch.me/
 stars: 7
 updated: 2018-07-06 02:19:39 UTC
-installations: 11
+installations: 12
 organizations:
 - divyenduz
 - aidminutes
