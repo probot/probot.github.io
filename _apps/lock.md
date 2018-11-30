@@ -17,8 +17,8 @@ organizations:
 - ReactiveX
 - zeit
 - jquery
-- ethereum
 - Homebrew
+- ethereum
 - atom
 - babel
 - Semantic-Org
