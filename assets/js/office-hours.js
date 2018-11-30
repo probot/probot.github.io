@@ -4,7 +4,7 @@
 var debug = false;
 
 // Adjust to Friday at 9:30am Pacific / 12:30am Eastern
-var attrs = {day: "Friday", hour: 16, minute: 30, second: 0, millisecond: 0}
+var attrs = {day: "Friday", hour: 17, minute: 30, second: 0, millisecond: 0}
 var start = moment().utc().set(attrs)
 
 // If it's already passed today, go to the next occurrence
