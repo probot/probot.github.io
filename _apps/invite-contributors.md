@@ -21,7 +21,7 @@ organizations:
 - github-modules
 - cla-assistant
 - react-native-sensors
-- flyve-mdm
+- contentful-userland
 ---
 
 # invite-contributors
