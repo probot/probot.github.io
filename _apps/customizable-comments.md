@@ -1,18 +1,11 @@
 ---
-# A human-friendly name of your listing
 title: Customizable Comments
-# A short description of what your app does
 description: What your app does
-# The slug of your hosted app on GitHub (https://github.com/apps/probot-cc)
 slug: probot-cc
-# Include a few screenshots that show your app in action
 screenshots:
 - https://github.com/tizmagik/customizable-comments/raw/master/probot-cc-sample.png
-# The GitHub usernames of anyone who authored the app
 authors: [ tizmagik ]
-# The repository where the code is located
 repository: https://github.com/tizmagik/customizable-comments
-# The address where this app is deployed
 host: https://probot-cc.now.sh
 ---
 
