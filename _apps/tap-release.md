@@ -10,13 +10,14 @@ repository: toolmantim/tap-release
 host: https://tap-release.now.sh
 stars: 17
 updated: 2018-12-04 04:22:35 UTC
-installations: 5
+installations: 6
 organizations:
 - infection
 - AugurProject
 - humbug
 - kentaro-m
 - buildkite
+- philoserf
 ---
 
 ## Usage

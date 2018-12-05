@@ -8,14 +8,15 @@ authors:
 - helaili
 repository: helaili/deploy
 host: https://probot-deploy-dotcom.now.sh
-stars: 9
+stars: 10
 updated: 2018-12-03 13:57:50 UTC
-installations: 10
+installations: 11
 organizations:
 - helaili
 - mdelagrange
 - logikinc
 - BadIdeaFactory
+- philoserf
 ---
 
 This app uses GitHub's deployment API and triggers a deployment event when a matching label is applied to a Pull Request. 

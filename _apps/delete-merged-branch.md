@@ -10,7 +10,7 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 39
-updated: 2018-12-03 22:58:09 UTC
+updated: 2018-12-05 07:10:59 UTC
 installations: 149
 organizations:
 - reactiveui
