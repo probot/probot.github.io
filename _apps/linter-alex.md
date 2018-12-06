@@ -21,7 +21,7 @@ organizations:
 - l0s
 - AjayPoshak
 - santi6291
-- swinton
+- philoserf
 ---
 
 # Probot: Linter Alex

@@ -12,8 +12,8 @@ authors:
 repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
 stars: 48
-updated: 2018-11-30 19:35:05 UTC
-installations: 116
+updated: 2018-12-05 23:20:32 UTC
+installations: 121
 organizations:
 - electron
 - nuxt

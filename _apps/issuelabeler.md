@@ -20,8 +20,8 @@ organizations:
 - chrisyue
 - RMHogervorst
 - denzuko
+- philoserf
 - dariok
-- cms-gem-daq-project
 ---
 
 A GitHub bot to label issues based on title and body against list of defined labels. Built with [probot](https://github.com/probot/probot).  

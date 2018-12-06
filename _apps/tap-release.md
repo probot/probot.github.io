@@ -16,8 +16,8 @@ organizations:
 - AugurProject
 - humbug
 - kentaro-m
-- buildkite
 - philoserf
+- buildkite
 ---
 
 ## Usage

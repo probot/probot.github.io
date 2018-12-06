@@ -22,7 +22,7 @@ organizations:
 - PHPMap
 - genecommerce
 - marclop
-- linzjs
+- philoserf
 ---
 
 

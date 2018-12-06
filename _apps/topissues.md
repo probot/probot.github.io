@@ -18,8 +18,8 @@ organizations:
 - tox-dev
 - waffleio
 - go-study-group
-- CallumIddon
 - philoserf
+- CallumIddon
 - TinkurLab
 - adamzolyak
 ---

@@ -12,7 +12,7 @@ authors:
 repository: behaviorbot/welcome
 updated: 2018-10-17 02:10:13 UTC
 host: https://probot-welcome.herokuapp.com
-installations: 359
+installations: 394
 organizations:
 - vuejs
 - electron
