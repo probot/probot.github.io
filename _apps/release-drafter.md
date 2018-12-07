@@ -10,7 +10,7 @@ repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 316
 updated: 2018-12-04 22:40:13 UTC
-installations: 175
+installations: 178
 organizations:
 - gorilla
 - concourse

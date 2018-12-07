@@ -13,8 +13,8 @@ updated: 2018-12-04 04:22:35 UTC
 installations: 6
 organizations:
 - infection
-- AugurProject
 - humbug
+- AugurProject
 - kentaro-m
 - philoserf
 - buildkite
