@@ -10,7 +10,7 @@ authors:
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 13
-updated: 2018-12-02 10:53:38 UTC
+updated: 2018-12-08 17:13:39 UTC
 installations: 53
 organizations:
 - pypa
