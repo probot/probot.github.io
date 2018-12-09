@@ -14,8 +14,8 @@ installations: 12
 organizations:
 - helaili
 - philoserf
-- mdelagrange
 - logikinc
+- mdelagrange
 - BadIdeaFactory
 ---
 
