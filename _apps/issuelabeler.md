@@ -9,19 +9,19 @@ authors:
 repository: riyadhalnur/issuelabeler
 host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production
 stars: 2
-updated: 2018-11-27 09:14:33 UTC
-installations: 18
+updated: 2018-12-10 21:30:36 UTC
+installations: 22
 organizations:
 - pymc-devs
 - Provenance-Emu
 - GameServerManagers
 - aonez
 - nodeschool
+- janelia-flyem
 - chrisyue
+- JaneliaSciComp
 - RMHogervorst
 - denzuko
-- philoserf
-- dariok
 ---
 
 A GitHub bot to label issues based on title and body against list of defined labels. Built with [probot](https://github.com/probot/probot).  
