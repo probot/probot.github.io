@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 319
-updated: 2018-12-14 17:54:10 UTC
-installations: 205
+stars: 320
+updated: 2018-12-17 00:30:11 UTC
+installations: 206
 organizations:
 - gorilla
 - concourse

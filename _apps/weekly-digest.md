@@ -10,7 +10,7 @@ repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 58
 updated: 2018-11-19 06:13:50 UTC
-installations: 73
+installations: 74
 organizations:
 - alibaba
 - veggiemonk
@@ -19,8 +19,8 @@ organizations:
 - git-for-windows
 - tyrchen
 - XDagger
+- ikhoon
 - PaulaoDev
-- travis-ci
 - enKryptIO
 ---
 > App built using [Probot](https://probot.github.io/) which generates a weekly automated summary of activity on your GitHub repository
