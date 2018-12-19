@@ -15,8 +15,8 @@ installations: 36
 organizations:
 - CachetHQ
 - Laravel-Backpack
-- karthik
 - natemcmaster
+- karthik
 - openjournals
 - ropensci
 - JasonEtco
