@@ -20,8 +20,8 @@ organizations:
 - aashutoshrathi
 - behaviorbot
 - dannysmith
-- evrardjp
 - cerebro-iiitv
+- evrardjp
 ---
 
 ## How it works

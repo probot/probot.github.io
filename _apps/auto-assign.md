@@ -10,13 +10,13 @@ authors:
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 15
-updated: 2018-12-15 15:38:22 UTC
-installations: 53
+updated: 2018-12-21 20:38:12 UTC
+installations: 62
 organizations:
 - pypa
 - ahmadnassri
-- PHPOffice
 - tox-dev
+- PHPOffice
 - AugurProject
 - telus
 - PickNikRobotics
