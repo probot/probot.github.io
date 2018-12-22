@@ -10,7 +10,7 @@ repository: riyadhalnur/issuelabeler
 host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production
 stars: 2
 updated: 2018-12-14 18:09:57 UTC
-installations: 24
+installations: 25
 organizations:
 - pymc-devs
 - Provenance-Emu

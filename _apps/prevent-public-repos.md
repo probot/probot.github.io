@@ -10,18 +10,18 @@ repository: issc29/probot-prevent-public-repos
 host: https://probot-prevent-public-repos.herokuapp.com
 stars: 21
 updated: 2018-05-31 19:56:19 UTC
-installations: 108
+installations: 109
 organizations:
 - dollarshaveclub
 - bkeepers
+- LiveRamp
 - SPSCommerce
 - pivotal
 - telus
 - logrhythm
 - Alliander
-- Snagajob
 - eVisionSoftware
-- CreditCardsCom
+- Snagajob
 ---
 
 # Prevent-Public-Repos Probot App
