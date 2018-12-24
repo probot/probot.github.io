@@ -10,12 +10,12 @@ repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
 stars: 14
 updated: 2018-10-03 03:16:23 UTC
-installations: 53
+installations: 54
 organizations:
 - zealdocs
 - invertase
-- Mottie
 - concourse
+- Mottie
 - CellularPrivacy
 - Radarr
 - sethvargo
