@@ -10,14 +10,14 @@ repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
 stars: 222
 updated: 2018-12-24 04:24:37 UTC
-installations: 485
+installations: 487
 organizations:
 - mikeal
 - nteract
 - eclipse
 - mas-cli
-- ahmadawais
 - thibmaek
+- ahmadawais
 - Laravel-Backpack
 - Radarr
 - heinrichreimer
