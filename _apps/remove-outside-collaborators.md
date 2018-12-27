@@ -17,6 +17,7 @@ organizations:
 - pivotal
 - telus
 - OpenAIM
+- RepublicServicesRepository
 - acrlewis
 ---
 
