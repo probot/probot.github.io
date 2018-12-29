@@ -9,20 +9,20 @@ authors:
 - adamzolyak
 repository: adamzolyak/gh-vote-bot
 host: https://gh-vote-bot.herokuapp.com
-stars: 3
+stars: 4
 updated: 2018-10-23 18:43:20 UTC
-installations: 12
+installations: 13
 organizations:
 - pypa
 - GameServerManagers
+- pyload
 - tox-dev
 - waffleio
 - MOZGIII
 - go-study-group
-- philoserf
 - CallumIddon
+- philoserf
 - adamzolyak
-- TinkurLab
 ---
 
 ## How It Works

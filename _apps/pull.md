@@ -9,8 +9,8 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.now.sh
-stars: 71
-updated: 2018-12-16 22:19:06 UTC
+stars: 72
+updated: 2018-12-29 10:10:55 UTC
 installations: 182
 organizations:
 - SimenB
