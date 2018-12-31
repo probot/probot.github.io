@@ -18,8 +18,8 @@ organizations:
 - publiclab
 - campus-experts
 - dshaw
-- MarvinJWendt
 - CallumIddon
+- MarvinJWendt
 - bsoyka
 - jkvora
 - Berkmann18

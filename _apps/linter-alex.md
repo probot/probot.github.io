@@ -10,7 +10,7 @@ repository: swinton/linter-alex
 host: https://linter-alex.herokuapp.com
 stars: 65
 updated: 2018-12-19 17:43:51 UTC
-installations: 32
+installations: 33
 organizations:
 - probot
 - git-for-windows
