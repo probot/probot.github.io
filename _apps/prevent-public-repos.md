@@ -20,8 +20,8 @@ organizations:
 - telus
 - logrhythm
 - Alliander
+- LEGO
 - Snagajob
-- eVisionSoftware
 ---
 
 # Prevent-Public-Repos Probot App

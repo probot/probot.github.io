@@ -16,8 +16,8 @@ organizations:
 - nteract
 - eclipse
 - mas-cli
-- thibmaek
 - ahmadawais
+- thibmaek
 - Laravel-Backpack
 - Radarr
 - heinrichreimer
