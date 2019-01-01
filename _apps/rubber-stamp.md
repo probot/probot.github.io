@@ -1,18 +1,12 @@
 ---
-# A human-friendly name of your listing
 title: Rubber Stamp
-# A short description of what your app does
 description: Approve pull requests.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: rubber-stamp
-# Include a few screenshots that show your app in action
 screenshots:
 - https://raw.githubusercontent.com/carvincarl/rubber-stamp/master/docs/screenshot.png
-# The GitHub usernames of anyone who authored the app
-authors: [ carvincarl ]
-# The repository where the code is located
+authors: 
+- carvincarl
 repository: carvincarl/rubber-stamp
-# The address where this app is deployed
 host: https://rubber-stamp.herokuapp.com/
 ---
 # Rubber Stamp
