@@ -21,8 +21,8 @@ organizations:
 - home-assistant
 - kivy
 - tidyverse
-- CachetHQ
 - dart-lang
+- CachetHQ
 ---
 
 A GitHub App that moves issues between repositories.

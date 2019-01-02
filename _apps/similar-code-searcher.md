@@ -10,7 +10,7 @@ repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 3
 updated: 2018-12-28 09:22:39 UTC
-installations: 16
+installations: 14
 organizations:
 - chrisyue
 - duncdrum
@@ -19,7 +19,6 @@ organizations:
 - Berkmann18
 - revad-ueda
 - Skeyelab
-- agflow
 ---
 
 # Similar code Searcher
