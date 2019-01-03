@@ -21,7 +21,7 @@ organizations:
 - ropensci
 - JasonEtco
 - matthewmccullough
-- PaulaoDev
+- paulooosrj
 - SuriyaaKudoIsc
 ---
 

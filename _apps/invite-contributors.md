@@ -19,8 +19,8 @@ organizations:
 - tuist
 - publiclab
 - imolorhe
-- github-modules
 - cla-assistant
+- github-modules
 - react-native-sensors
 ---
 
