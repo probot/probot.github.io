@@ -20,8 +20,8 @@ organizations:
 - MvvmCross
 - modo-studio
 - jahirfiquitiva
-- ifmeorg
 - imolorhe
+- ifmeorg
 - pliablepixels
 ---
 

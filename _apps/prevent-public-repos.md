@@ -19,8 +19,8 @@ organizations:
 - pivotal
 - telus
 - logrhythm
-- Alliander
 - LEGO
+- Alliander
 - Snagajob
 ---
 
