@@ -7,7 +7,7 @@ screenshots:
 authors:
 - Ikuyadeu
 repository: Ikuyadeu/review-uniquer
-host: https://ikuyadeu-review-uniquer.glitch.me/probot
+host: https://ikuyadeu-review-uniquer.glitch.me/
 ---
 
 # Review Uniquer
