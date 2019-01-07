@@ -5,7 +5,7 @@ description: Replies to newly opened pull requests that do not update a file in 
 slug: update-docs
 screenshots:
 - https://user-images.githubusercontent.com/13410355/28179044-97207bee-67b5-11e7-80d0-0c8ede4a325f.png
-stars: 14
+stars: 16
 authors:
 - hiimbex
 repository: behaviorbot/update-docs
