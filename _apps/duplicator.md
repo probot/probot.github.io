@@ -15,6 +15,7 @@ updated: 2018-07-06 02:21:05 UTC
 installations: 8
 organizations:
 - opensourcecities
+- jaandrle
 ---
 
 # Probot: Duplicator

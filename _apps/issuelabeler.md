@@ -19,8 +19,8 @@ organizations:
 - nodeschool
 - janelia-flyem
 - chrisyue
-- JaneliaSciComp
 - RMHogervorst
+- JaneliaSciComp
 - denzuko
 ---
 
