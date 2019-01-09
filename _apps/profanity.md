@@ -15,7 +15,6 @@ installations: 10
 organizations:
 - tipeio
 - sargsyan
-- philoserf
 - micalevisk
 - emeraldsci
 ---

@@ -16,7 +16,6 @@ organizations:
 - humbug
 - AugurProject
 - kentaro-m
-- philoserf
 - buildkite
 ---
 

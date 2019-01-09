@@ -16,7 +16,6 @@ organizations:
 - OrkoHunter
 - IntellectualSites
 - fgl27
-- philoserf
 - DeustoPWEB2018
 ---
 

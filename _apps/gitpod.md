@@ -15,7 +15,6 @@ organizations:
 - caouecs
 - TypeFox
 - theia-ide
-- philoserf
 - JanitorTechnology
 - ProjectAliceDev
 - gitpod-io

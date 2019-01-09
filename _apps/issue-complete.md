@@ -10,10 +10,9 @@ repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
 updated: 2019-01-06 20:53:28 UTC
-installations: 11
+installations: 10
 organizations:
 - Maatwebsite
-- philoserf
 ---
 
 ## What It Does
