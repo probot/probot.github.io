@@ -10,7 +10,7 @@ repository: issc29/probot-prevent-public-repos
 host: https://probot-prevent-public-repos.herokuapp.com
 stars: 21
 updated: 2018-05-31 19:56:19 UTC
-installations: 114
+installations: 118
 organizations:
 - dollarshaveclub
 - bkeepers
@@ -19,8 +19,8 @@ organizations:
 - pivotal
 - telus
 - logrhythm
-- GateHubNet
 - LEGO
+- GateHubNet
 - Alliander
 ---
 
