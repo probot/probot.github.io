@@ -18,10 +18,10 @@ organizations:
 - zeit
 - jquery
 - Homebrew
+- mozilla
 - ethereum
 - atom
 - babel
-- Semantic-Org
 ---
 
 A GitHub App that locks closed issues and pull requests after
