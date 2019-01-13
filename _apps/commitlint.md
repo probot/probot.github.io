@@ -22,7 +22,7 @@ organizations:
 - react-native-sensors
 - ajsb85
 - flyve-mdm
-- algolia
+- tinesoft
 ---
 
 <p align="center">
