@@ -10,7 +10,7 @@ repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 68
 updated: 2018-11-19 06:13:50 UTC
-installations: 77
+installations: 78
 organizations:
 - alibaba
 - veggiemonk
