@@ -1,7 +1,7 @@
 ---
 title: All Contributors
 description: A bot for automatically adding contributors per the all-contributors spec
-slug: all-contributors
+slug: allcontributors
 screenshots:
 - https://raw.githubusercontent.com/all-contributors/all-contributors-bot/master/docs/usage.png
 authors:
