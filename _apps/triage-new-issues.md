@@ -25,7 +25,7 @@ organizations:
 - GameServerManagers
 - microstates
 - thefrontside
-- tunnckoCoreLabs
+- pymedusa
 ---
 
 

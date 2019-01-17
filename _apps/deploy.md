@@ -10,7 +10,7 @@ repository: helaili/deploy
 host: https://probot-deploy-dotcom.now.sh
 stars: 14
 updated: 2018-12-11 08:50:16 UTC
-installations: 13
+installations: 14
 organizations:
 - helaili
 - logikinc
