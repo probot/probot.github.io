@@ -13,8 +13,8 @@ authors:
 repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 13
-updated: 2019-01-11 22:54:34 UTC
-installations: 78
+updated: 2019-01-18 21:55:51 UTC
+installations: 79
 organizations:
 - CachetHQ
 - Semantic-Org
