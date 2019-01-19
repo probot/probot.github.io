@@ -9,7 +9,7 @@ authors:
 repository: dessant/lock-threads
 host: https://probot-lock-threads.glitch.me
 stars: 63
-updated: 2019-01-18 12:02:12 UTC
+updated: 2019-01-19 11:46:01 UTC
 installations: 198
 organizations:
 - facebook
@@ -19,8 +19,8 @@ organizations:
 - jquery
 - ethereum
 - Homebrew
-- atom
 - mozilla
+- atom
 - babel
 ---
 

@@ -14,7 +14,7 @@ authors:
 repository: probot/dco
 updated: 2019-01-11 22:05:23 UTC
 host: https://probot-dco.herokuapp.com
-installations: 678
+installations: 691
 organizations:
 - prometheus
 - hyperledger

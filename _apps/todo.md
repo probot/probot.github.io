@@ -9,8 +9,8 @@ authors:
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
 stars: 245
-updated: 2018-12-30 04:39:34 UTC
-installations: 533
+updated: 2019-01-19 21:47:58 UTC
+installations: 534
 organizations:
 - mikeal
 - nteract
