@@ -13,9 +13,9 @@ stars: 32
 updated: 2019-01-20 09:00:46 UTC
 installations: 105
 organizations:
-- ethereum
 - atom
 - flutter
+- ethereum
 - adobe
 - videojs
 - home-assistant

@@ -14,14 +14,14 @@ installations: 199
 organizations:
 - facebook
 - Microsoft
-- ReactiveX
 - zeit
+- ReactiveX
 - jquery
-- ethereum
 - Homebrew
-- mozilla
 - atom
+- ethereum
 - babel
+- mozilla
 ---
 
 A GitHub App that locks closed issues and pull requests after
