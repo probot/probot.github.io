@@ -19,4 +19,4 @@ organizations:
 - dowjones
 ---
 
-✨ Recognize all contributors, not just the ones who push code. Simple add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add tbenning for design`
+✨ Recognize all contributors, not just the ones who push code. Simply add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add tbenning for design`
