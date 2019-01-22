@@ -21,8 +21,8 @@ organizations:
 - react-native-sensors
 - ajsb85
 - flyve-mdm
-- tinesoft
 - xlayers
+- tinesoft
 ---
 
 <p align="center">
