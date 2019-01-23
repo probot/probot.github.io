@@ -12,6 +12,8 @@ updated: 2019-01-22 18:48:00 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
 installations: 21
 organizations:
+- nuxt-community
+- bootstrap-vue
 - all-contributors
 - thechangelog
 - tophat
