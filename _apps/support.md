@@ -18,10 +18,10 @@ organizations:
 - TryGhost
 - kivy
 - wix
+- getredash
 - CachetHQ
 - nozzle
 - PHPOffice
-- MinecraftForge
 ---
 A GitHub App that comments on and closes issues labeled as support requests.
 

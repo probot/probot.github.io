@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 62
+stars: 63
 updated: 2019-01-11 07:55:19 UTC
-installations: 522
+installations: 555
 organizations:
-- jumo
-- thinktandem
-- jonasbn
-- keeganstothert
-- 123fahrschule
-- uniper
-- zhigang1992
-- ad-m
-- dgroup
-- Oxxyg33n
+- kubehippie
+- zowe
+- zerobias
+- bchavez
+- YouAppi
+- drone-plugins
+- cardstack
+- skylines-project
+- ember-cli
+- Turbo87
 ---
 
 # Delete merged branch
