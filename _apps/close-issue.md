@@ -9,9 +9,9 @@ authors:
 - whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
-stars: 16
+stars: 17
 updated: 2019-01-22 20:49:10 UTC
-installations: 23
+installations: 24
 organizations:
 - ant-design
 - react-boilerplate
