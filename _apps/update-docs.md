@@ -5,13 +5,13 @@ description: Replies to newly opened pull requests that do not update a file in 
 slug: update-docs
 screenshots:
 - https://user-images.githubusercontent.com/13410355/28179044-97207bee-67b5-11e7-80d0-0c8ede4a325f.png
-stars: 16
+stars: 15
 authors:
 - hiimbex
 repository: behaviorbot/update-docs
 updated: 2018-10-17 22:02:17 UTC
 host: https://probot-update-docs.herokuapp.com
-installations: 38
+installations: 37
 organizations:
 - jekyll
 - adonisjs

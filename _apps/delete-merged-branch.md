@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 63
 updated: 2019-01-11 07:55:19 UTC
-installations: 560
+installations: 566
 organizations:
-- gopad
+- Rachelmorrell
+- coinsquare
+- kpnaidu56
+- monsterstrike
+- Teamup-inc
+- ascent-technologies
 - thesoftwarefanatics
+- GateHubNet
 - YehezkielSaputra
 - itzsaga
-- cchacin
-- aziz
-- foursixnine
-- mrsequeira
-- zerobias
-- YouAppi
 ---
 
 # Delete merged branch
