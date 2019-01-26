@@ -17,8 +17,8 @@ organizations:
 - debugger22
 - publiclab
 - campus-experts
-- dshaw
 - Richienb
+- dshaw
 - CallumIddon
 - MarvinJWendt
 - hemanth22
