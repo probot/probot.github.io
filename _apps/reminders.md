@@ -8,10 +8,10 @@ authors:
 - jbjonesjr
 - bkeepers
 repository: probot/reminders
-stars: 59
+stars: 60
 updated: 2019-01-10 21:06:07 UTC
 host: https://probot-reminders.herokuapp.com
-installations: 362
+installations: 376
 organizations:
 - i0natan
 - eggjs
@@ -21,8 +21,8 @@ organizations:
 - apereo
 - probot
 - eclipse
+- arcticicestudio
 - rtfd
-- git-for-windows
 ---
 
 Use the `/remind` slash command to set a reminder on any comment box on GitHub and you'll get a ping about it again when the reminder is due.

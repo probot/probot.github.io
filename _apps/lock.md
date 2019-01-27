@@ -17,11 +17,11 @@ organizations:
 - ReactiveX
 - zeit
 - jquery
-- mozilla
 - ethereum
 - Homebrew
 - atom
 - babel
+- Semantic-Org
 ---
 
 A GitHub App that locks closed issues and pull requests after

@@ -8,9 +8,9 @@ authors:
 - bkeepers
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
-stars: 49
+stars: 50
 updated: 2019-01-10 21:05:03 UTC
-installations: 206
+installations: 207
 organizations:
 - reactiveui
 - apereo
@@ -20,8 +20,8 @@ organizations:
 - goreleaser
 - fossasia
 - MvvmCross
-- GameServerManagers
 - caarlos0
+- GameServerManagers
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
