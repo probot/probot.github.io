@@ -22,7 +22,7 @@ organizations:
 - ajsb85
 - flyve-mdm
 - fomantic
-- xlayers
+- tinesoft
 ---
 
 <p align="center">

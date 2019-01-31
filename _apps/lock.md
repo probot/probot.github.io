@@ -10,18 +10,18 @@ repository: dessant/lock-threads
 host: https://probot-lock-threads.glitch.me
 stars: 64
 updated: 2019-01-20 08:30:27 UTC
-installations: 201
+installations: 205
 organizations:
 - facebook
 - Microsoft
-- ReactiveX
 - zeit
+- ReactiveX
 - jquery
-- ethereum
 - Homebrew
 - atom
+- ethereum
 - babel
-- Semantic-Org
+- mozilla
 ---
 
 A GitHub App that locks closed issues and pull requests after

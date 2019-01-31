@@ -7,8 +7,8 @@ screenshots:
 authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 52
-updated: 2019-01-31 13:31:00 UTC
+stars: 54
+updated: 2019-01-31 17:03:07 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
 installations: 37
 organizations:
@@ -16,9 +16,12 @@ organizations:
 - bootstrap-vue
 - all-contributors
 - thechangelog
+- JaeYeopHan
+- orthes
 - tophat
+- imolorhe
 - react-native-community
-- dowjones
+- pi0
 ---
 
 ✨ Recognize all contributors, not just the ones who push code. Simply add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add tbenning for design`
