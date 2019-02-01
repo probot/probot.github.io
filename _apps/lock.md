@@ -18,10 +18,10 @@ organizations:
 - ReactiveX
 - jquery
 - Homebrew
-- atom
 - ethereum
+- atom
 - babel
-- mozilla
+- Semantic-Org
 ---
 
 A GitHub App that locks closed issues and pull requests after
