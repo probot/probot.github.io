@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 62
 updated: 2019-01-11 07:55:19 UTC
-installations: 606
+installations: 609
 organizations:
-- pensiero
+- shopkeep
+- Prokyo
+- kubesphere
 - Inner-Heaven
+- ShiftLeftSecurity
 - Aghassi
 - livingdocsIO
 - xpologistics
 - richcontext
 - duckthatquantum
-- Jacksole
-- mhenrixon
-- tbotaq
 ---
 
 # Delete merged branch
