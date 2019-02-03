@@ -16,8 +16,8 @@ organizations:
 - humbug
 - AugurProject
 - kentaro-m
-- hemanth22
 - buildkite
+- hemanth22
 ---
 
 ## Usage

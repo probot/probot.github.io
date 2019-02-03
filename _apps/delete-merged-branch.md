@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 62
 updated: 2019-01-11 07:55:19 UTC
-installations: 609
+installations: 610
 organizations:
 - shopkeep
-- Prokyo
+- miicam
+- zz-jason
 - kubesphere
 - Inner-Heaven
 - ShiftLeftSecurity
@@ -22,7 +23,6 @@ organizations:
 - livingdocsIO
 - xpologistics
 - richcontext
-- duckthatquantum
 ---
 
 # Delete merged branch
