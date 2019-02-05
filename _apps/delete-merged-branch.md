@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 63
+stars: 64
 updated: 2019-01-11 07:55:19 UTC
-installations: 614
+installations: 617
 organizations:
-- reactive-os
+- EBSCOIS
+- s-ankur
+- gAmUssA
 - chibatching
+- andreiruse
 - OpenGamma
 - cropio
 - skshetry
 - miicam
 - Prokyo
-- zz-jason
-- kubesphere
-- Inner-Heaven
 ---
 
 # Delete merged branch
