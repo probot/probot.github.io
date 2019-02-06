@@ -9,11 +9,12 @@ authors:
 - rsarky
 repository: rsarky/helpr
 host: https://evening-depths-50399.herokuapp.com
-stars: 7
+stars: 8
 updated: 2018-04-20 09:11:34 UTC
-installations: 29
+installations: 31
 organizations:
 - moul
+- GameServerManagers
 - Glavin001
 - tox-dev
 - infection
@@ -22,7 +23,6 @@ organizations:
 - DarkPacks
 - JPry
 - Kibibit
-- OpenSourcePolitics
 ---
 
 <p align="center">

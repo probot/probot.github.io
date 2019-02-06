@@ -12,9 +12,9 @@ authors:
 - bkeepers
 - hiimbex
 repository: probot/dco
-updated: 2019-01-22 15:57:12 UTC
+updated: 2019-02-06 21:49:34 UTC
 host: https://probot-dco.herokuapp.com
-installations: 726
+installations: 734
 organizations:
 - prometheus
 - hyperledger

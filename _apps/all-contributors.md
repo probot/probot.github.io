@@ -7,21 +7,21 @@ screenshots:
 authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 64
-updated: 2019-02-05 02:28:54 UTC
+stars: 65
+updated: 2019-02-06 18:11:09 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 48
+installations: 53
 organizations:
 - nuxt-community
 - bootstrap-vue
 - all-contributors
 - thechangelog
 - JaeYeopHan
+- node-gh
 - akameco
 - orthes
 - tophat
 - imolorhe
-- HDInnovations
 ---
 
 ✨ Recognize all contributors, not just the ones who push code. Simply add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add tbenning for design`

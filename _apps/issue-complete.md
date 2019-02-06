@@ -8,7 +8,7 @@ authors:
 - stevenzeck
 repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
-stars: 2
+stars: 3
 updated: 2019-02-05 17:57:26 UTC
 installations: 15
 organizations:
