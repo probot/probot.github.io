@@ -10,7 +10,7 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 17
-updated: 2019-02-05 15:33:30 UTC
+updated: 2019-02-07 19:19:04 UTC
 installations: 33
 organizations:
 - ant-design
@@ -20,9 +20,9 @@ organizations:
 - coreos
 - vueComponent
 - offu
-- ZoneMinder
 - l-hammer
 - we-plugin
+- njleonzhang
 ---
 [![Build Status](https://travis-ci.org/offu/close-issue-app.svg?branch=master)](https://travis-ci.org/offu/close-issue-app)
 [![codecov](https://codecov.io/gh/offu/close-issue-app/branch/master/graph/badge.svg)](https://codecov.io/gh/offu/close-issue-app)  

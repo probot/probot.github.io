@@ -7,10 +7,10 @@ screenshots:
 authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 65
-updated: 2019-02-06 18:11:09 UTC
+stars: 67
+updated: 2019-02-07 21:58:01 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 53
+installations: 54
 organizations:
 - nuxt-community
 - bootstrap-vue

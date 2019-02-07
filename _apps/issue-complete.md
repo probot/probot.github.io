@@ -8,8 +8,8 @@ authors:
 - stevenzeck
 repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
-stars: 3
-updated: 2019-02-05 17:57:26 UTC
+stars: 2
+updated: 2019-02-07 20:19:07 UTC
 installations: 15
 organizations:
 - Maatwebsite
