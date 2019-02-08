@@ -20,8 +20,8 @@ organizations:
 - TECLIB
 - react-native-sensors
 - ajsb85
-- flyve-mdm
 - fomantic
+- flyve-mdm
 - xlayers
 ---
 

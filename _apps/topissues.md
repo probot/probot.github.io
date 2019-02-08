@@ -21,8 +21,8 @@ organizations:
 - waffleio
 - MOZGIII
 - go-study-group
-- CallumIddon
 - adamzolyak
+- CallumIddon
 ---
 
 ## How It Works
