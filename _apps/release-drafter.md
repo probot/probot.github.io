@@ -9,7 +9,7 @@ authors:
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 362
-updated: 2019-02-05 15:23:58 UTC
+updated: 2019-02-08 22:21:48 UTC
 installations: 286
 organizations:
 - gorilla

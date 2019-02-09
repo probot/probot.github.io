@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 66
-updated: 2019-01-11 07:55:19 UTC
-installations: 631
+updated: 2019-02-08 23:04:36 UTC
+installations: 637
 organizations:
-- EthVM
+- swaponline
+- ErichDonGubler
+- mpds-io
+- tilde-lab
+- nblagoev
+- YuzuruS
+- vitusortner
 - ClarusONE
+- vast
 - vlaim
-- fabfitfun
-- asiainspection
-- flashrecruit
-- uyuni-project
-- abehery
-- pizzahutuk
-- kudobuzz
 ---
 
 # Delete merged branch
