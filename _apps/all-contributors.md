@@ -8,9 +8,9 @@ authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 68
-updated: 2019-02-08 23:27:42 UTC
+updated: 2019-02-10 21:37:46 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 62
+installations: 64
 organizations:
 - kentcdodds
 - callstack

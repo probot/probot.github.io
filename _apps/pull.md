@@ -11,18 +11,18 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 91
 updated: 2019-02-08 22:32:00 UTC
-installations: 269
+installations: 275
 organizations:
 - SimenB
 - shazron
 - kofj
 - LiCybora
+- ErichDonGubler
 - wei
 - jrassa
 - nmrony
 - mhaidarh
 - sethbergman
-- dreambo8563
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.
