@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 66
+stars: 67
 updated: 2019-02-08 23:04:36 UTC
-installations: 641
+installations: 649
 organizations:
-- enkows
+- clio-jira
+- opendoor-labs
+- WordPress-Phoenix
+- TomodomoCo
+- SwitchbladeBot
+- gravitee-io
+- kossiitkgp
+- tunnckoCore
+- solecon
 - GeeDblA
-- prazuma
-- harmoney-dev
-- maxmarzz
-- ErichDonGubler
-- blokhin
-- mpds-io
-- tilde-lab
-- nblagoev
 ---
 
 # Delete merged branch

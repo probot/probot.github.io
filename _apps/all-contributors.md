@@ -8,16 +8,16 @@ authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 70
-updated: 2019-02-11 15:25:48 UTC
+updated: 2019-02-12 18:49:05 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 68
+installations: 73
 organizations:
 - kentcdodds
 - nuxt-community
 - bootstrap-vue
 - final-form
-- all-contributors
 - callstack
+- all-contributors
 - thechangelog
 - JaeYeopHan
 - node-gh
