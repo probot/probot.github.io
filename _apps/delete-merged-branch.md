@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 67
-updated: 2019-02-08 23:04:36 UTC
-installations: 649
+updated: 2019-02-13 02:10:10 UTC
+installations: 660
 organizations:
-- clio-jira
-- opendoor-labs
-- WordPress-Phoenix
-- TomodomoCo
-- SwitchbladeBot
-- gravitee-io
-- kossiitkgp
-- tunnckoCore
-- solecon
-- GeeDblA
+- ToFeet
+- JCrew-Engineering
+- SweetOps
+- glo2003
+- Gapminder
+- reactjs
+- rkarolis
+- linte
+- simplabs
+- qlik-trial
 ---
 
 # Delete merged branch

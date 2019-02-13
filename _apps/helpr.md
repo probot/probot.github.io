@@ -18,8 +18,8 @@ organizations:
 - Glavin001
 - tox-dev
 - infection
-- Unibeautify
 - wemake-services
+- Unibeautify
 - DarkPacks
 - JPry
 - Kibibit

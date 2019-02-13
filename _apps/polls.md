@@ -14,8 +14,8 @@ stars: 153
 updated: 2018-01-15 01:35:10 UTC
 installations: 280
 organizations:
-- dawnlabs
 - apex
+- dawnlabs
 - Automattic
 - RxSwiftCommunity
 - jaegertracing
