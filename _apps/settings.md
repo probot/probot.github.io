@@ -10,10 +10,11 @@ screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
 updated: 2019-01-16 22:54:13 UTC
 host: https://github-configurer.herokuapp.com
-installations: 327
+installations: 330
 organizations:
 - apollographql
 - denysdovhan
+- playframework
 - ArtSabintsev
 - bkeepers
 - chaijs
@@ -21,7 +22,6 @@ organizations:
 - wp-cli
 - Financial-Times
 - benbalter
-- tweag
 ---
 
 This GitHub App syncs repository settings defined in `.github/settings.yml` to GitHub, enabling Pull Requests for repository settings.

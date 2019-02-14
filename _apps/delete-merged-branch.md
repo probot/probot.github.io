@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 67
 updated: 2019-02-13 02:10:10 UTC
-installations: 660
+installations: 667
 organizations:
-- ToFeet
+- covidence
+- ArcGIS
+- 3megawatt
+- Signkick
+- 7Sports
+- rgibert
+- performly
 - JCrew-Engineering
+- paszkowskiDamian
 - SweetOps
-- glo2003
-- Gapminder
-- reactjs
-- rkarolis
-- linte
-- simplabs
-- qlik-trial
 ---
 
 # Delete merged branch

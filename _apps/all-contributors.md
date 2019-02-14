@@ -7,10 +7,10 @@ screenshots:
 authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 71
-updated: 2019-02-13 19:46:54 UTC
+stars: 72
+updated: 2019-02-14 21:58:13 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 82
+installations: 86
 organizations:
 - kentcdodds
 - nuxt-community
