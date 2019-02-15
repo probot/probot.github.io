@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 67
+stars: 68
 updated: 2019-02-13 02:10:10 UTC
-installations: 667
+installations: 670
 organizations:
-- covidence
+- bjeanes
+- j5api
+- KexyBiscuit
 - ArcGIS
+- arcivr
 - 3megawatt
 - Signkick
 - 7Sports
 - rgibert
 - performly
-- JCrew-Engineering
-- paszkowskiDamian
-- SweetOps
 ---
 
 # Delete merged branch

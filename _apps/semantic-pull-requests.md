@@ -13,7 +13,7 @@ repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
 stars: 80
 updated: 2019-02-13 13:47:16 UTC
-installations: 186
+installations: 188
 organizations:
 - electron
 - nuxt
@@ -24,7 +24,7 @@ organizations:
 - probot
 - fossasia
 - all-contributors
-- electron-userland
+- agalwood
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec
