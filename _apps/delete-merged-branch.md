@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 68
 updated: 2019-02-13 02:10:10 UTC
-installations: 670
+installations: 673
 organizations:
-- bjeanes
+- shapr3d
+- paydaplatformu
+- Potapy4
+- bytekoder
 - j5api
+- lawadvisor
 - KexyBiscuit
 - ArcGIS
 - arcivr
 - 3megawatt
-- Signkick
-- 7Sports
-- rgibert
-- performly
 ---
 
 # Delete merged branch

@@ -11,9 +11,8 @@ repository: adamzolyak/gh-vote-bot
 host: https://gh-vote-bot.herokuapp.com
 stars: 6
 updated: 2018-10-23 18:43:20 UTC
-installations: 15
+installations: 14
 organizations:
-- devhubapp
 - pypa
 - GameServerManagers
 - pyload
@@ -22,6 +21,7 @@ organizations:
 - MOZGIII
 - go-study-group
 - adamzolyak
+- hemanth22
 - CallumIddon
 ---
 

@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/request-info
 updated: 2018-11-27 19:07:54 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 547
+installations: 550
 organizations:
 - webtorrent
 - standard

@@ -10,7 +10,7 @@ repository: jusx/mergeable
 host: https://mergeable-bot.herokuapp.com
 stars: 116
 updated: 2019-02-13 23:25:30 UTC
-installations: 60
+installations: 59
 organizations:
 - grpc
 - fossasia
