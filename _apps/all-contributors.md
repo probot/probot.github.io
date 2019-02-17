@@ -10,7 +10,7 @@ repository: all-contributors/all-contributors-bot
 stars: 73
 updated: 2019-02-15 23:38:28 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 90
+installations: 92
 organizations:
 - kentcdodds
 - nuxt-community
