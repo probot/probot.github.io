@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 68
+stars: 69
 updated: 2019-02-13 02:10:10 UTC
-installations: 673
+installations: 690
 organizations:
-- shapr3d
-- paydaplatformu
-- Potapy4
-- bytekoder
-- j5api
-- lawadvisor
-- KexyBiscuit
-- ArcGIS
-- arcivr
-- 3megawatt
+- hieptranquoc
+- cmtt-ru
+- LycheeOrg
+- icco
+- curefit
+- coursalytics
+- kosanapp
+- omega-code
+- improvemedia
+- Guitardo
 ---
 
 # Delete merged branch
