@@ -10,18 +10,18 @@ repository: gitpod-io/gitpod-bot
 host: https://gitpod-bot.now.sh
 stars: 6
 updated: 2019-02-12 20:00:54 UTC
-installations: 19
+installations: 18
 organizations:
 - caouecs
 - zerobias
 - TypeFox
-- theia-ide
 - sr229
 - hemanth22
 - JanitorTechnology
-- gitpod-io
 - ProjectAliceDev
+- gitpod-io
 - Sayo-nika
+- abenchi
 ---
 
 Open issues and pull requests in [Gitpod](http://www.gitpod.io).

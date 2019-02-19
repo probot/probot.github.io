@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 69
 updated: 2019-02-13 02:10:10 UTC
-installations: 690
+installations: 697
 organizations:
-- hieptranquoc
+- aefhm
+- BenHall-1
+- fentech
+- weddingwire
+- stardust-ui
+- humanmade
+- Buzzvil
 - cmtt-ru
+- jayden8923
 - LycheeOrg
-- icco
-- curefit
-- coursalytics
-- kosanapp
-- omega-code
-- improvemedia
-- Guitardo
 ---
 
 # Delete merged branch
