@@ -10,7 +10,7 @@ repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
 stars: 256
 updated: 2019-02-14 01:36:14 UTC
-installations: 601
+installations: 608
 organizations:
 - mikeal
 - nteract

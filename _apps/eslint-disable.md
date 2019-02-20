@@ -14,13 +14,13 @@ installations: 26
 organizations:
 - thibmaek
 - ember-intl
+- levibostian
 - telus
 - buschtoens
-- levibostian
 - odykyi
 - Favna
-- Spudnik-Group
 - Berkmann18
+- Spudnik-Group
 ---
 ## Usage
 

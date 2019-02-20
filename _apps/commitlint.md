@@ -19,8 +19,8 @@ organizations:
 - mike-works
 - TECLIB
 - react-native-sensors
-- ajsb85
 - fomantic
+- ajsb85
 - flyve-mdm
 - xlayers
 ---

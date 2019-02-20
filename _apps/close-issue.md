@@ -11,14 +11,14 @@ repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 17
 updated: 2019-02-18 22:15:58 UTC
-installations: 38
+installations: 37
 organizations:
 - ant-design
 - react-boilerplate
 - travis-ci
 - android-hacker
-- coreos
 - vueComponent
+- coreos
 - offu
 - ZoneMinder
 - l-hammer
