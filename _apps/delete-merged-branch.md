@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 69
+stars: 70
 updated: 2019-02-13 02:10:10 UTC
-installations: 706
+installations: 713
 organizations:
-- bartveneman
+- MickaToast
+- arkokoley
+- degordian
+- ant-motion
+- ant-design
+- AVykhrystyuk
+- srueg
 - bigpopakap
+- embark-framework
 - andrewhowdencom
-- littlemanco
-- mendelhealth
-- InnovaCo
-- freshdesk
-- nodaguti
-- nielse63
-- BenHall-1
 ---
 
 # Delete merged branch
