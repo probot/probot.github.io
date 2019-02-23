@@ -10,7 +10,7 @@ repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 365
 updated: 2019-02-14 11:19:39 UTC
-installations: 378
+installations: 380
 organizations:
 - gorilla
 - reactiveui
@@ -18,10 +18,10 @@ organizations:
 - abraham
 - benbalter
 - dotnet
+- fossasia
 - testcontainers
 - idehub
 - EasyEngine
-- balloob
 ---
 
 ## Usage
