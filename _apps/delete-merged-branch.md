@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 71
 updated: 2019-02-13 02:10:10 UTC
-installations: 726
+installations: 727
 organizations:
-- owncloud
-- chenka
+- u-wave
+- UmkaDK
+- egormesyats
 - sanijajoy
 - ParaffinIoT
 - MobileWorks
@@ -22,7 +23,6 @@ organizations:
 - duyetdev
 - lonix
 - sirajulm
-- pass-team
 ---
 
 # Delete merged branch
