@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 71
 updated: 2019-02-13 02:10:10 UTC
-installations: 727
+installations: 734
 organizations:
-- u-wave
+- lightspeedretail
+- tacocats
+- CatenaLogic
+- GeertvanHorrik
+- Catel
+- SimplyEffectiveSolutions
+- WildGums
+- Jimdo
+- CyberV-inc
 - UmkaDK
-- egormesyats
-- sanijajoy
-- ParaffinIoT
-- MobileWorks
-- edwarnicke
-- duyetdev
-- lonix
-- sirajulm
 ---
 
 # Delete merged branch

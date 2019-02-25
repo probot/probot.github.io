@@ -8,9 +8,9 @@ authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 78
-updated: 2019-02-22 20:53:24 UTC
+updated: 2019-02-25 21:19:41 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 116
+installations: 121
 organizations:
 - kentcdodds
 - nuxt-community

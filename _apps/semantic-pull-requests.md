@@ -13,7 +13,7 @@ repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
 stars: 82
 updated: 2019-02-13 13:47:16 UTC
-installations: 202
+installations: 204
 organizations:
 - electron
 - nuxt
@@ -22,8 +22,8 @@ organizations:
 - frappe
 - algolia
 - probot
-- fossasia
 - agalwood
+- fossasia
 - all-contributors
 ---
 
