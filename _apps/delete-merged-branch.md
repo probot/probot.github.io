@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 71
 updated: 2019-02-13 02:10:10 UTC
-installations: 734
+installations: 740
 organizations:
-- lightspeedretail
+- instacart
+- jaredhowland
+- TheEmidee
+- 10xfuturetechnologies
+- richienb-dev
+- netjinzaibank
 - tacocats
+- pygae
 - CatenaLogic
 - GeertvanHorrik
-- Catel
-- SimplyEffectiveSolutions
-- WildGums
-- Jimdo
-- CyberV-inc
-- UmkaDK
 ---
 
 # Delete merged branch
