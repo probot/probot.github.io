@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 71
 updated: 2019-02-13 02:10:10 UTC
-installations: 740
+installations: 746
 organizations:
-- instacart
+- GainCompliance
+- domain-transactions
+- htmlhint
+- vshjxyz
+- MultiSafepay
+- LikeWhiteOnRice
 - jaredhowland
+- propertista
 - TheEmidee
 - 10xfuturetechnologies
-- richienb-dev
-- netjinzaibank
-- tacocats
-- pygae
-- CatenaLogic
-- GeertvanHorrik
 ---
 
 # Delete merged branch

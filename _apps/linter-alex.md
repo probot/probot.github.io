@@ -9,7 +9,7 @@ authors:
 repository: swinton/linter-alex
 host: https://linter-alex.herokuapp.com
 stars: 66
-updated: 2019-02-22 19:57:47 UTC
+updated: 2019-02-27 05:42:05 UTC
 installations: 33
 organizations:
 - probot
