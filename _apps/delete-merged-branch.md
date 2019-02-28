@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 71
+stars: 72
 updated: 2019-02-13 02:10:10 UTC
-installations: 746
+installations: 750
 organizations:
-- GainCompliance
+- greenkeeper-keeper
+- talkable
+- JetBrains
+- Fitconnect
+- jitta
+- dameety
 - domain-transactions
+- amargautam
 - htmlhint
 - vshjxyz
-- MultiSafepay
-- LikeWhiteOnRice
-- jaredhowland
-- propertista
-- TheEmidee
-- 10xfuturetechnologies
 ---
 
 # Delete merged branch
