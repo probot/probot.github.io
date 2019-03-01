@@ -21,8 +21,8 @@ organizations:
 - monicahq
 - frappe
 - algolia
-- probot
 - agalwood
+- probot
 - fossasia
 - all-contributors
 ---
