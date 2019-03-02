@@ -8,8 +8,8 @@ authors:
 - abhijeetps
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
-stars: 87
-updated: 2019-01-29 14:05:25 UTC
+stars: 88
+updated: 2019-03-02 17:06:57 UTC
 installations: 120
 organizations:
 - alibaba

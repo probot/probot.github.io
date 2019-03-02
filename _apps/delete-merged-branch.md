@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 72
 updated: 2019-02-13 02:10:10 UTC
-installations: 753
+installations: 759
 organizations:
-- Originate
+- SQUEEZE-Inc
+- exivity
+- Joehuu
+- kubelake
+- bangthetable
+- symonds
 - hibruno
+- grahamgilbert
 - salopensource
 - talkable
-- Pix4D
-- JetBrains
-- Fitconnect
-- jitta
-- dameety
-- domain-transactions
 ---
 
 # Delete merged branch

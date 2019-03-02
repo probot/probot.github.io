@@ -8,7 +8,7 @@ authors:
 - riyadhalnur
 repository: riyadhalnur/issuelabeler
 host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production
-stars: 2
+stars: 3
 updated: 2019-02-08 23:00:59 UTC
 installations: 27
 organizations:
