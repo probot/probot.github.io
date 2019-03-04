@@ -22,7 +22,7 @@ organizations:
 - ethereum
 - standard
 - freeCodeCamp
-- kivy
+- aws
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.
