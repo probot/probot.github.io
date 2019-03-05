@@ -32,13 +32,18 @@ A GitHub App that comments on and closes issues labeled as support requests.
 2. Create `.github/support.yml` based on the template below
 3. Start labeling issues as support requests
 
+**If possible, install the app only for select repositories.
+Do not leave the `All repositories` option selected, unless you intend
+to use the app for all current and future repositories.**
+
 #### Configuration
 
-Create `.github/support.yml` in the default branch to enable the app.
+Create `.github/support.yml` in the default branch to enable the app,
+or add it at the same file path to a repository named `.github`.
 The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for support-requests - https://github.com/dessant/support-requests
+# Configuration for Support Requests - https://github.com/dessant/support-requests
 
 # Label used to mark issues as support requests
 supportLabel: support
@@ -68,3 +73,4 @@ setLockReason: true
 The continued development of Support Requests is made possible
 thanks to the support of awesome backers. If you'd like to join them,
 please consider contributing with [Patreon](https://www.patreon.com/dessant).
+
