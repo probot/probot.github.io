@@ -18,8 +18,8 @@ organizations:
 - Laravel-Backpack
 - gridsome
 - tuist
-- publiclab
 - imolorhe
+- publiclab
 - cla-assistant
 - github-modules
 ---
