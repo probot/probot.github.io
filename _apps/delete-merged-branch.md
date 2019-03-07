@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 73
 updated: 2019-03-04 20:11:11 UTC
-installations: 785
+installations: 791
 organizations:
-- fiken
+- mode-github
+- Nittarab
+- ismay
+- CognitoIQ
+- fujexo
+- sundayfun
 - RCAFAWC
+- developer-learning
 - offu
 - symphonyoss
-- perch-homes
-- xteamstudio
-- flagbit
-- JustinBeckwith
-- NTNUIKoiene
-- fuze
 ---
 
 # Delete merged branch

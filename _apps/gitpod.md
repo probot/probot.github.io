@@ -18,8 +18,8 @@ organizations:
 - hemanth22
 - JanitorTechnology
 - ProjectAliceDev
-- gitpod-io
 - Sayo-nika
+- gitpod-io
 - abenchi
 ---
 
