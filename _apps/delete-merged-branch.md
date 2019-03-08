@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 73
-updated: 2019-03-04 20:11:11 UTC
-installations: 791
+updated: 2019-03-08 20:08:25 UTC
+installations: 795
 organizations:
-- mode-github
+- WorkSafeVictoria
+- heyspacetime
+- jacobtyq
+- lino-network
 - Nittarab
+- BlueBayTravel
 - ismay
 - CognitoIQ
 - fujexo
 - sundayfun
-- RCAFAWC
-- developer-learning
-- offu
-- symphonyoss
 ---
 
 # Delete merged branch

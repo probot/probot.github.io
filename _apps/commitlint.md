@@ -18,8 +18,8 @@ organizations:
 - bazzite
 - mike-works
 - TECLIB
-- react-native-sensors
 - fomantic
+- react-native-sensors
 - ajsb85
 - flyve-mdm
 - xlayers
