@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 73
 updated: 2019-03-08 20:08:25 UTC
-installations: 795
+installations: 799
 organizations:
-- WorkSafeVictoria
+- pascaliske
+- terramagna
+- csourcesc
+- locness3
 - heyspacetime
+- AElfProject
 - jacobtyq
 - lino-network
 - Nittarab
 - BlueBayTravel
-- ismay
-- CognitoIQ
-- fujexo
-- sundayfun
 ---
 
 # Delete merged branch
