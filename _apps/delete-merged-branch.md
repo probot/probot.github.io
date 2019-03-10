@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 73
+stars: 74
 updated: 2019-03-08 20:08:25 UTC
-installations: 799
+installations: 803
 organizations:
-- pascaliske
+- radiorabe
+- Semantic-Org
+- emitter-io
+- poteto
 - terramagna
+- luisholanda
 - csourcesc
 - locness3
 - heyspacetime
 - AElfProject
-- jacobtyq
-- lino-network
-- Nittarab
-- BlueBayTravel
 ---
 
 # Delete merged branch

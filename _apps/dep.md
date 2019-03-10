@@ -20,8 +20,8 @@ organizations:
 - thefrontside
 - timvideos
 - tunnckoCoreLabs
-- wieslawsoltes
 - SymbiFlow
+- wieslawsoltes
 - decidim
 ---
 
