@@ -10,7 +10,7 @@ repository: infection/tests-checker
 host: https://tests-checker.now.sh
 stars: 23
 updated: 2018-09-28 21:13:42 UTC
-installations: 20
+installations: 21
 organizations:
 - mcollina
 - infection
