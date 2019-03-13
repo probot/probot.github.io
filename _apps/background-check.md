@@ -11,7 +11,7 @@ repository: probot/background-check
 host: https://probot-background-check.herokuapp.com
 stars: 10
 updated: 2018-08-11 14:06:36 UTC
-installations: 30
+installations: 31
 organizations:
 - probot
 - debugger22
@@ -19,9 +19,9 @@ organizations:
 - campus-experts
 - Richienb
 - dshaw
+- njzjz
 - mxplusb
 - MarvinJWendt
-- hemanth22
 - CallumIddon
 ---
 

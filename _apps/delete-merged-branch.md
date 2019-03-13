@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 74
+stars: 77
 updated: 2019-03-08 20:08:25 UTC
-installations: 817
+installations: 823
 organizations:
-- stephenfin
+- inventure
+- Sonos-Inc
+- datacamp-engineering
+- labtwin
+- whtsky
+- Poussinou
+- smockle
 - ammit
+- SchibstedSpain
 - ucm-sfc
-- SSites
-- plebeiathon
-- mobile-maker-lab
-- CatCard
-- bitnaughts
-- adriandarian
-- UCMercedACM
 ---
 
 # Delete merged branch
