@@ -19,13 +19,13 @@ organizations:
 - CachetHQ
 - Semantic-Org
 - thepracticaldev
-- xbmc
 - adonisjs
 - Laravel-Backpack
 - Robdel12
 - Azure
 - microstates
 - thefrontside
+- pymedusa
 ---
 
 

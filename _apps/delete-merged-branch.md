@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 77
-updated: 2019-03-08 20:08:25 UTC
-installations: 823
+updated: 2019-03-13 22:27:39 UTC
+installations: 830
 organizations:
-- inventure
+- isagaco
+- lptracker
+- jask-oss
+- stjepang
+- vwdilab
+- dvajs
+- umijs
+- romkor
 - Sonos-Inc
-- datacamp-engineering
-- labtwin
-- whtsky
-- Poussinou
-- smockle
-- ammit
-- SchibstedSpain
-- ucm-sfc
+- njzjz
 ---
 
 # Delete merged branch
