@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 78
 updated: 2019-03-13 22:27:39 UTC
-installations: 836
+installations: 837
 organizations:
-- aio-libs
+- imba-tjd
+- uniquelyparticular
 - cezaraugusto
+- shunsugai
 - Effilab
 - koreacreditdata
 - adrian-bobev
 - sigmadigitalza
 - volvo-cars
 - Syncurity
-- heydoctor
-- jasklabs
 ---
 
 # Delete merged branch
