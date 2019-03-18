@@ -7,8 +7,8 @@ screenshots:
 authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 92
-updated: 2019-03-17 14:36:43 UTC
+stars: 93
+updated: 2019-03-18 20:25:01 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
 installations: 156
 organizations:
