@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 79
-updated: 2019-03-13 22:27:39 UTC
-installations: 841
+stars: 80
+updated: 2019-03-19 17:52:43 UTC
+installations: 847
 organizations:
-- evrardjp
+- Herklos-Bots
+- daneden
+- ynotdraw
+- rjmcneill
+- fuzz-productions
+- JaeYeopHan
+- hatena
 - ansible
+- masonitedoors
 - krzysztofzuraw
-- magknight
-- uniquelyparticular
-- homelane
-- cezaraugusto
-- shunsugai
-- Effilab
-- koreacreditdata
 ---
 
 # Delete merged branch
