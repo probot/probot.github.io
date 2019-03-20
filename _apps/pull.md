@@ -9,12 +9,12 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.now.sh
-stars: 123
-updated: 2019-03-12 18:11:09 UTC
-installations: 403
+stars: 124
+updated: 2019-03-20 21:09:40 UTC
+installations: 404
 organizations:
-- rvrsh3ll
 - instantbox
+- rvrsh3ll
 - SimenB
 - l3uddz
 - moimikey

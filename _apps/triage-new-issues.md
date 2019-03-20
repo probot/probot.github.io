@@ -21,8 +21,8 @@ organizations:
 - thepracticaldev
 - adonisjs
 - Laravel-Backpack
-- Robdel12
 - Azure
+- Robdel12
 - microstates
 - thefrontside
 - pymedusa

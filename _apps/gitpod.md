@@ -15,9 +15,9 @@ organizations:
 - caouecs
 - TypeFox
 - sr229
+- ProjectAliceDev
 - hemanth22
 - JanitorTechnology
-- ProjectAliceDev
 - gitpod-io
 - Sayo-nika
 - abenchi
