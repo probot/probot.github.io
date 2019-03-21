@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 83
+stars: 84
 updated: 2019-03-19 17:52:43 UTC
-installations: 851
+installations: 855
 organizations:
-- farmnote-holdings
+- esfiddle
+- egoist
+- demiurge-ash
+- hkustenterprize
+- NandosUK
 - LiveRamp
+- uniquelyparticular
 - pmcau
 - elisiano
 - bakdata
-- daneden
-- wadie
-- ynotdraw
-- rjmcneill
-- fuzz-productions
 ---
 
 # Delete merged branch
