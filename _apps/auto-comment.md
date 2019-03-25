@@ -10,9 +10,10 @@ repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 stars: 4
 updated: 2019-02-18 11:52:06 UTC
-installations: 33
+installations: 35
 organizations:
 - adonisjs
+- ethereum
 - OrkoHunter
 - IntellectualSites
 - fgl27
@@ -21,7 +22,6 @@ organizations:
 - hemanth22
 - Harshithpabbati
 - casualshammy
-- DeustoPWEB2018
 ---
 
 

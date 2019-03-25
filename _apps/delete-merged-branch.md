@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 84
-updated: 2019-03-19 17:52:43 UTC
-installations: 864
+updated: 2019-03-25 20:02:15 UTC
+installations: 867
 organizations:
-- arnav13081994
+- treebohotels
+- OlowuB
+- EducationalTestingService
+- actual-size
 - aliglelo
+- Clarifai
 - Bignotto
 - pvasa
 - leaninorg
 - activeviam
-- infonova
-- ahmedelgabri
-- kitabisa
-- sudar
 ---
 
 # Delete merged branch
