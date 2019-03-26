@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 428
-updated: 2019-03-25 20:01:58 UTC
-installations: 446
+stars: 431
+updated: 2019-03-26 00:14:10 UTC
+installations: 448
 organizations:
 - gorilla
 - reactiveui
@@ -19,9 +19,9 @@ organizations:
 - fossasia
 - benbalter
 - mcollina
+- theme-next
 - testcontainers
 - idehub
-- EasyEngine
 ---
 
 ## Usage

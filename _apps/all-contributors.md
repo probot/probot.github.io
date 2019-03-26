@@ -10,7 +10,7 @@ repository: all-contributors/all-contributors-bot
 stars: 95
 updated: 2019-03-25 20:02:24 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 229
+installations: 232
 organizations:
 - kentcdodds
 - react-boilerplate

@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 84
 updated: 2019-03-25 20:02:15 UTC
-installations: 867
+installations: 875
 organizations:
-- treebohotels
+- xmc-rs
+- getaroom
+- translationCoreApps
+- unfoldingWord-dev
+- fvcproductions
+- techqueria
+- Vikash-Kothary
 - OlowuB
+- tapsterbv
 - EducationalTestingService
-- actual-size
-- aliglelo
-- Clarifai
-- Bignotto
-- pvasa
-- leaninorg
-- activeviam
 ---
 
 # Delete merged branch

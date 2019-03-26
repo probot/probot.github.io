@@ -11,10 +11,10 @@ repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 56
 updated: 2018-10-04 17:24:42 UTC
-installations: 208
+installations: 210
 organizations:
-- atom
 - Homebrew
+- atom
 - facebook
 - flutter
 - prettier
