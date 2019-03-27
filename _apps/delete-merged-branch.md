@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 84
-updated: 2019-03-25 20:02:15 UTC
-installations: 875
+stars: 85
+updated: 2019-03-27 20:08:11 UTC
+installations: 886
 organizations:
-- xmc-rs
-- getaroom
-- translationCoreApps
-- unfoldingWord-dev
-- fvcproductions
-- techqueria
-- Vikash-Kothary
-- OlowuB
-- tapsterbv
-- EducationalTestingService
+- kentaro-m
+- piyush97
+- csdisco
+- GettUK
+- pionerlabs
+- smileycreations15
+- sdtechdev
+- Healthera
+- cenkalti
+- ran21
 ---
 
 # Delete merged branch
