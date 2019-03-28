@@ -20,8 +20,8 @@ organizations:
 - telus
 - logrhythm
 - LEGO
-- PrimerAI
 - njzjz
+- PrimerAI
 ---
 
 # Prevent-Public-Repos Probot App

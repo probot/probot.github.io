@@ -9,12 +9,12 @@ authors:
 - lee-dohm
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
-stars: 56
+stars: 58
 updated: 2018-10-04 17:24:42 UTC
-installations: 211
+installations: 212
 organizations:
-- Homebrew
 - atom
+- Homebrew
 - facebook
 - flutter
 - prettier
