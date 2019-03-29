@@ -22,7 +22,7 @@ organizations:
 - react-native-sensors
 - TECLIB
 - ajsb85
-- flyve-mdm
+- xlayers
 ---
 
 <p align="center">

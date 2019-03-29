@@ -21,8 +21,8 @@ organizations:
 - webtorrent
 - ethereum
 - standard
-- freeCodeCamp
 - aws
+- kivy
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.

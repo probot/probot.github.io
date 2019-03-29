@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 86
-updated: 2019-03-27 20:08:11 UTC
-installations: 892
+updated: 2019-03-29 20:43:58 UTC
+installations: 895
 organizations:
-- etsrepo
+- noracast
+- Logerfo
+- euharrison
+- Herbalifedev
+- wpeverest
 - FormationAI
 - Brightspace
 - getndazn
 - holidu
 - prospa-group
-- piyush97
-- kapoorlakshya
-- csdisco
-- GettUK
 ---
 
 # Delete merged branch
