@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 86
 updated: 2019-03-29 20:43:58 UTC
-installations: 895
+installations: 898
 organizations:
-- noracast
+- paintzen
+- argotechnica
+- Abergard
 - Logerfo
+- Sanofi
 - euharrison
 - Herbalifedev
 - wpeverest
 - FormationAI
 - Brightspace
-- getndazn
-- holidu
-- prospa-group
 ---
 
 # Delete merged branch
