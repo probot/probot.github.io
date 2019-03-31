@@ -11,9 +11,10 @@ repository: probot/background-check
 host: https://probot-background-check.herokuapp.com
 stars: 10
 updated: 2018-08-11 14:06:36 UTC
-installations: 34
+installations: 35
 organizations:
 - probot
+- theme-next
 - debugger22
 - publiclab
 - campus-experts
@@ -22,7 +23,6 @@ organizations:
 - dshaw
 - njzjz
 - mxplusb
-- CallumIddon
 ---
 
 When a new contributor comments on your repository, sentiment analysis is run on their recent public comments. If 5 or more comments stand out as toxic, then an issue is opened for this user in `probot-background-check/{your-github-username}-discussions` private repository so that you and other maintainers can review these toxic comments and discuss whether or not you all want to allow this hostile user to participate in the community.

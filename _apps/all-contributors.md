@@ -7,7 +7,7 @@ screenshots:
 authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 100
+stars: 102
 updated: 2019-03-30 20:06:02 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
 installations: 245
@@ -20,8 +20,8 @@ organizations:
 - MoOx
 - nock
 - final-form
-- SaraVieira
 - Raathigesh
+- SaraVieira
 ---
 
 ✨ Recognize all contributors, not just the ones who push code. Simply add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add @tbenning for design`

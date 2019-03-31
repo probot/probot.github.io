@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 86
-updated: 2019-03-29 20:43:58 UTC
-installations: 898
+updated: 2019-03-31 05:33:09 UTC
+installations: 900
 organizations:
-- paintzen
+- pinussilvestrus
+- theme-next
 - argotechnica
+- ksoda
 - Abergard
 - Logerfo
 - Sanofi
 - euharrison
 - Herbalifedev
 - wpeverest
-- FormationAI
-- Brightspace
 ---
 
 # Delete merged branch
