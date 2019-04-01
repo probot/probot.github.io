@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 86
 updated: 2019-03-31 05:33:09 UTC
-installations: 900
+installations: 911
 organizations:
-- pinussilvestrus
-- theme-next
-- argotechnica
-- ksoda
-- Abergard
-- Logerfo
-- Sanofi
-- euharrison
-- Herbalifedev
-- wpeverest
+- jsheroes
+- lucasmichot
+- openlawteam
+- form8ion
+- ebizmarts
+- Sylfaeen
+- Augment
+- shakeabi
+- orario-developer
+- rgtjf
 ---
 
 # Delete merged branch
