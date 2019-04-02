@@ -16,6 +16,7 @@ updated: 2019-03-23 23:05:32 UTC
 installations: 244
 organizations:
 - electron
+- ant-design
 - nuxt
 - ethereum
 - monicahq
@@ -24,7 +25,6 @@ organizations:
 - algolia
 - probot
 - fossasia
-- all-contributors
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec

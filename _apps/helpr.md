@@ -17,8 +17,8 @@ organizations:
 - moul
 - ansible
 - GameServerManagers
-- Glavin001
 - tox-dev
+- Glavin001
 - infection
 - wemake-services
 - Unibeautify
