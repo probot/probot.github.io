@@ -8,8 +8,8 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 438
-updated: 2019-04-02 21:14:38 UTC
+stars: 440
+updated: 2019-04-03 22:34:29 UTC
 installations: 453
 organizations:
 - gorilla

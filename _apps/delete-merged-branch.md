@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 86
-updated: 2019-03-31 05:33:09 UTC
-installations: 919
+stars: 87
+updated: 2019-04-03 16:05:21 UTC
+installations: 934
 organizations:
-- Borales
-- expert360
-- susmile1996
-- Zocdoc
-- ziyoung
-- clippedjs
-- IniZio
-- inJs
-- MIFind
-- lucasmichot
+- department-of-veterans-affairs
+- mannycolon
+- SkyScraperAI
+- codered-co
+- scoremedia
+- damianrudzk
+- xiaoyuhen
+- Oneflow
+- yumemi-inc-private
+- yumemi
 ---
 
 # Delete merged branch
