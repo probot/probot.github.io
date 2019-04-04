@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 87
 updated: 2019-04-03 16:05:21 UTC
-installations: 934
+installations: 943
 organizations:
-- department-of-veterans-affairs
-- mannycolon
-- SkyScraperAI
-- codered-co
-- scoremedia
-- damianrudzk
-- xiaoyuhen
-- Oneflow
-- yumemi-inc-private
-- yumemi
+- theja0473
+- TheLillyProject
+- glarce
+- DnDBeyond
+- LottaLeben
+- startupheroes
+- LemonadeLabInc
+- seekasia
+- Slahser
+- chenrui333
 ---
 
 # Delete merged branch

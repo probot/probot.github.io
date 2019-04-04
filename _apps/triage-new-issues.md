@@ -24,8 +24,8 @@ organizations:
 - Azure
 - Robdel12
 - microstates
-- thefrontside
 - pymedusa
+- thefrontside
 ---
 
 
