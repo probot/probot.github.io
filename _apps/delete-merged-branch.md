@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 87
+stars: 88
 updated: 2019-04-03 16:05:21 UTC
-installations: 943
+installations: 951
 organizations:
-- theja0473
+- sema4genomics
+- ros-planning
+- GreenPomelo
+- skdomains
+- productboard
+- matteo-hertel
+- 2Jours
+- remint27
+- graphql-community
 - TheLillyProject
-- glarce
-- DnDBeyond
-- LottaLeben
-- startupheroes
-- LemonadeLabInc
-- seekasia
-- Slahser
-- chenrui333
 ---
 
 # Delete merged branch
