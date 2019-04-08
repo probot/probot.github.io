@@ -9,9 +9,9 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.now.sh
-stars: 142
-updated: 2019-04-06 00:57:42 UTC
-installations: 493
+stars: 143
+updated: 2019-04-08 21:14:23 UTC
+installations: 498
 organizations:
 - instantbox
 - rvrsh3ll
