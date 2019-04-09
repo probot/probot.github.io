@@ -7,10 +7,10 @@ screenshots:
 authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 107
-updated: 2019-04-06 00:51:05 UTC
+stars: 109
+updated: 2019-04-09 19:56:27 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 287
+installations: 291
 organizations:
 - kentcdodds
 - react-boilerplate
