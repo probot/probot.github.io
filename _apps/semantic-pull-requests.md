@@ -11,9 +11,9 @@ authors:
 - bkeepers
 repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
-stars: 97
+stars: 98
 updated: 2019-03-23 23:05:32 UTC
-installations: 255
+installations: 257
 organizations:
 - electron
 - ant-design

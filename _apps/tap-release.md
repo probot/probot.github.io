@@ -8,8 +8,8 @@ authors:
 - toolmantim
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
-stars: 23
-updated: 2019-04-09 22:11:14 UTC
+stars: 25
+updated: 2019-04-10 00:30:28 UTC
 installations: 11
 organizations:
 - devhubapp
