@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 90
+stars: 92
 updated: 2019-04-11 18:34:11 UTC
-installations: 993
+installations: 1005
 organizations:
-- intuit
-- ViennaRSS
-- appaloosa-store
-- linthtml
-- licensee
-- benbalter
-- LeToteTeam
-- alexbaumgertner
-- visitu
-- agiom
+- redventuresLA
+- spotify
+- devJRL
+- octodemo
+- miniplug
+- energypool
+- triat
+- sgandon
+- dynverse
+- haiwen
 ---
 
 # Delete merged branch

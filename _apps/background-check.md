@@ -20,8 +20,8 @@ organizations:
 - campus-experts
 - techqueria
 - Richienb
-- dshaw
 - njzjz
+- dshaw
 - mxplusb
 ---
 

@@ -10,15 +10,15 @@ repository: jusx/mergeable
 host: https://mergeable-bot.herokuapp.com
 stars: 140
 updated: 2019-04-10 19:18:05 UTC
-installations: 86
+installations: 85
 organizations:
 - protocolbuffers
 - grpc
 - phpstan
 - fossasia
 - rundeck
-- Radarr
 - banzaicloud
+- Radarr
 - theme-next
 - audiohacked
 - denis-sokolov
