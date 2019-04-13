@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 92
+stars: 93
 updated: 2019-04-11 18:34:11 UTC
-installations: 1005
+installations: 1006
 organizations:
-- redventuresLA
+- HackMerced
+- bikecoders
 - spotify
+- nega0
 - devJRL
 - octodemo
 - miniplug
 - energypool
 - triat
 - sgandon
-- dynverse
-- haiwen
 ---
 
 # Delete merged branch
