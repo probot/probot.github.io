@@ -11,9 +11,8 @@ authors:
 repository: behaviorbot/update-docs
 updated: 2018-10-17 22:02:17 UTC
 host: https://probot-update-docs.herokuapp.com
-installations: 41
+installations: 40
 organizations:
-- jekyll
 - adonisjs
 - carla-simulator
 - u3u
@@ -23,6 +22,7 @@ organizations:
 - arkokoley
 - ilovecode1
 - njzjz
+- Rachelmorrell
 ---
 
 

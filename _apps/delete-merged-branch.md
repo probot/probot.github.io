@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 94
-updated: 2019-04-11 18:34:11 UTC
-installations: 1008
+updated: 2019-04-15 15:46:13 UTC
+installations: 1011
 organizations:
-- CCG-Dev
+- EngineerRandyN
+- viewthespace
+- bukalapak
 - ilyapasyuk
+- noom
 - bikecoders
 - hiveandfive
 - spotify
 - nega0
 - devJRL
-- octodemo
-- miniplug
-- energypool
 ---
 
 # Delete merged branch
