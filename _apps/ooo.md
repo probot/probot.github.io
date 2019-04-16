@@ -11,7 +11,7 @@ repository: swinton/probot-ooo
 host: https://probot-ooo.herokuapp.com
 stars: 27
 updated: 2018-01-06 15:08:10 UTC
-installations: 43
+installations: 44
 organizations:
 - CachetHQ
 - arcticicestudio
@@ -19,8 +19,8 @@ organizations:
 - natemcmaster
 - karthik
 - openjournals
-- ropensci
 - JasonEtco
+- ropensci
 - matthewmccullough
 - SuriyaaKudoIsc
 ---
