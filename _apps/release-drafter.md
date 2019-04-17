@@ -8,20 +8,20 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 456
-updated: 2019-04-15 15:18:50 UTC
-installations: 499
+stars: 457
+updated: 2019-04-17 13:29:49 UTC
+installations: 502
 organizations:
 - gorilla
 - reactiveui
 - concourse
+- jenkinsci
 - abraham
 - fossasia
 - benbalter
 - theme-next
 - mcollina
 - testcontainers
-- idehub
 ---
 
 ## Usage

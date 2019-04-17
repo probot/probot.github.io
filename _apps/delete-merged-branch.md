@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 94
+stars: 96
 updated: 2019-04-16 13:35:43 UTC
-installations: 1015
+installations: 1027
 organizations:
-- gAmUssA
-- richard-ramos
-- CMProductions
-- arashout
-- qantas-loyalty
-- viewthespace
-- Bengejd
-- bukalapak
-- ilyapasyuk
-- noom
+- Scr1ptK1tt13s
+- hostinger
+- Together-Software
+- Agrium
+- koDaegon
+- nusr
+- MindesignGCV
+- el-hoshino
+- piktochart
+- dormroomfund
 ---
 
 # Delete merged branch

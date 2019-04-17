@@ -10,9 +10,8 @@ repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 55
 updated: 2019-04-15 15:44:21 UTC
-installations: 246
+installations: 245
 organizations:
-- ant-design
 - reactiveui
 - apereo
 - probot
@@ -22,6 +21,7 @@ organizations:
 - goreleaser
 - Varying-Vagrant-Vagrants
 - snipe
+- fossasia
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
