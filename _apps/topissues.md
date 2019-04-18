@@ -13,6 +13,7 @@ stars: 8
 updated: 2018-10-23 18:43:20 UTC
 installations: 18
 organizations:
+- swagger-api
 - pypa
 - theme-next
 - GameServerManagers
@@ -22,7 +23,6 @@ organizations:
 - MOZGIII
 - techqueria
 - njzjz
-- go-study-group
 ---
 
 ## How It Works
