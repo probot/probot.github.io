@@ -18,8 +18,8 @@ organizations:
 - u3u
 - splash-cli
 - behaviorbot
-- KengoTODA
 - arkokoley
+- KengoTODA
 - ilovecode1
 - njzjz
 - Rachelmorrell
