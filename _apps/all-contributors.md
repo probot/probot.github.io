@@ -19,9 +19,9 @@ organizations:
 - bootstrap-vue
 - MoOx
 - nock
-- CompuIves
 - final-form
 - Raathigesh
+- SaraVieira
 ---
 
 ✨ Recognize all contributors, not just the ones who push code. Simply add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add @tbenning for design`

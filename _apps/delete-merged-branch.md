@@ -10,11 +10,12 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 98
-updated: 2019-04-18 18:25:45 UTC
-installations: 1048
+updated: 2019-04-21 02:32:18 UTC
+installations: 1049
 organizations:
-- farmnote-holdings
-- ArizenHQ
+- Herklos-Bots
+- GuenoleK
+- zattoo
 - jrfnl
 - WPTRT
 - WordPress-Coding-Standards
@@ -22,7 +23,6 @@ organizations:
 - PHPCompatibility
 - MeredithCorp
 - wijae
-- HealthBrain
 ---
 
 # Delete merged branch
