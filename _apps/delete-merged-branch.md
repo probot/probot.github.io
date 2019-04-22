@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 98
-updated: 2019-04-21 02:32:18 UTC
-installations: 1049
+stars: 100
+updated: 2019-04-22 16:47:35 UTC
+installations: 1055
 organizations:
-- Herklos-Bots
+- maxmarzz
+- dollarshaveclub
+- thitemple
+- finspin
+- shet00s
+- sthima
+- rgardner
 - GuenoleK
+- ArizenHQ
 - zattoo
-- jrfnl
-- WPTRT
-- WordPress-Coding-Standards
-- TGMPA
-- PHPCompatibility
-- MeredithCorp
-- wijae
 ---
 
 # Delete merged branch

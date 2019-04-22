@@ -8,17 +8,17 @@ authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 112
-updated: 2019-04-19 18:29:03 UTC
+updated: 2019-04-22 16:48:33 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 325
+installations: 327
 organizations:
 - kentcdodds
 - react-boilerplate
 - dawnlabs
 - nuxt-community
 - bootstrap-vue
-- MoOx
 - nock
+- MoOx
 - final-form
 - Raathigesh
 - SaraVieira
