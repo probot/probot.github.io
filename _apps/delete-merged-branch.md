@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 100
-updated: 2019-04-22 16:47:35 UTC
-installations: 1055
+updated: 2019-04-23 07:32:51 UTC
+installations: 1065
 organizations:
-- maxmarzz
-- dollarshaveclub
-- thitemple
-- finspin
-- shet00s
-- sthima
-- rgardner
-- GuenoleK
-- ArizenHQ
-- zattoo
+- gdml
+- riptano
+- onerzafer
+- alan-eu
+- presslabs
+- flatiron-labs
+- GearoidCollins
+- UST-MICO
+- geniusu
+- ARodrig1283
 ---
 
 # Delete merged branch

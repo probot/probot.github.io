@@ -20,8 +20,8 @@ organizations:
 - Semantic-Org
 - thepracticaldev
 - adonisjs
-- Laravel-Backpack
 - Azure
+- Laravel-Backpack
 - Robdel12
 - microstates
 - ytti

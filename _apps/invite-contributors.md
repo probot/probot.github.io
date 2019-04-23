@@ -16,8 +16,8 @@ organizations:
 - nextcloud
 - stylelint
 - gridsome
-- Laravel-Backpack
 - theme-next
+- Laravel-Backpack
 - tuist
 - imolorhe
 - publiclab
