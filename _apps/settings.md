@@ -8,20 +8,20 @@ authors:
 repository: probot/settings
 screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
-updated: 2019-04-22 16:38:13 UTC
+updated: 2019-04-24 17:23:18 UTC
 host: https://github-configurer.herokuapp.com
 installations: 420
 organizations:
 - apollographql
 - denysdovhan
 - playframework
+- owncloud
 - ArtSabintsev
 - bkeepers
 - chaijs
 - probot
 - wp-cli
 - Financial-Times
-- benbalter
 ---
 
 This GitHub App syncs repository settings defined in `.github/settings.yml` to GitHub, enabling Pull Requests for repository settings.
