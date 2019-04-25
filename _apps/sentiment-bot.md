@@ -18,8 +18,8 @@ organizations:
 - probot
 - git-for-windows
 - tiaanduplessis
-- MvvmCross
 - theme-next
+- MvvmCross
 - modo-studio
 - jahirfiquitiva
 - imolorhe

@@ -8,12 +8,12 @@ authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 112
-updated: 2019-04-24 18:30:26 UTC
+updated: 2019-04-25 18:26:00 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 330
+installations: 335
 organizations:
-- kentcdodds
 - react-boilerplate
+- kentcdodds
 - dawnlabs
 - nuxt-community
 - bootstrap-vue
