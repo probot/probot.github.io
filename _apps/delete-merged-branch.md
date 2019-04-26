@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 104
 updated: 2019-04-24 17:23:17 UTC
-installations: 1080
+installations: 1085
 organizations:
-- revel0
+- noracast
+- propanepro
+- mr-linch
+- bitkey-platform
+- StreetAcademy
 - American-Addiction-Centers
+- Panduit
 - offinga
 - zhaozb1212
 - cftsi
-- schoolvpn
-- kshitijpurwar
-- Studio3
-- SpokoSachs
-- pafcloud
 ---
 
 # Delete merged branch
