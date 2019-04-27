@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 104
+stars: 105
 updated: 2019-04-24 17:23:17 UTC
-installations: 1085
+installations: 1088
 organizations:
-- noracast
+- GameBench
+- philippe-vandermoere
+- andreamorosati
+- Amerr
 - propanepro
+- wriggle
 - mr-linch
 - bitkey-platform
 - StreetAcademy
 - American-Addiction-Centers
-- Panduit
-- offinga
-- zhaozb1212
-- cftsi
 ---
 
 # Delete merged branch

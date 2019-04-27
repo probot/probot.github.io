@@ -21,8 +21,8 @@ organizations:
 - thefrontside
 - timvideos
 - tunnckoCoreLabs
-- decidim
 - wieslawsoltes
+- decidim
 ---
 
 <p align="center">
