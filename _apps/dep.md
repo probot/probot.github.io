@@ -21,8 +21,8 @@ organizations:
 - thefrontside
 - timvideos
 - tunnckoCoreLabs
+- SymbiFlow
 - wieslawsoltes
-- decidim
 ---
 
 <p align="center">

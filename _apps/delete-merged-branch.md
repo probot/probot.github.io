@@ -9,12 +9,13 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 105
-updated: 2019-04-24 17:23:17 UTC
+stars: 106
+updated: 2019-04-28 21:25:35 UTC
 installations: 1088
 organizations:
 - GameBench
-- philippe-vandermoere
+- renew-js
+- plopcas
 - andreamorosati
 - Amerr
 - propanepro
@@ -22,7 +23,6 @@ organizations:
 - mr-linch
 - bitkey-platform
 - StreetAcademy
-- American-Addiction-Centers
 ---
 
 # Delete merged branch
