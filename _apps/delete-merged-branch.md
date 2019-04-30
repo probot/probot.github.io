@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 106
+stars: 108
 updated: 2019-04-28 21:25:35 UTC
-installations: 1091
+installations: 1097
 organizations:
-- batch2
+- TwinPeek
+- goranovs
+- reformarent
+- xiaohuilam
+- flowcommerce
+- traintool
 - akoliyot
+- Intellection
 - camunda-ci
 - ScentreGroup
-- renew-js
-- philippe-vandermoere
-- plopcas
-- andreamorosati
-- Amerr
-- propanepro
 ---
 
 # Delete merged branch
