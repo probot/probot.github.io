@@ -19,8 +19,8 @@ organizations:
 - fvcproductions
 - OrkoHunter
 - servicemesher
-- IntellectualSites
 - techqueria
+- IntellectualSites
 - fgl27
 ---
 

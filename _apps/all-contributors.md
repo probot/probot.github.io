@@ -7,21 +7,21 @@ screenshots:
 authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 112
-updated: 2019-04-28 21:24:45 UTC
+stars: 113
+updated: 2019-04-30 18:44:08 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 350
+installations: 357
 organizations:
 - react-boilerplate
 - kentcdodds
 - dawnlabs
 - nuxt-community
+- testing-library
 - bootstrap-vue
 - nock
 - MoOx
 - final-form
 - Raathigesh
-- SaraVieira
 ---
 
 ✨ Recognize all contributors, not just the ones who push code. Simply add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add @tbenning for design`
