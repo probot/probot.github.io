@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 109
 updated: 2019-05-01 07:14:46 UTC
-installations: 1101
+installations: 1106
 organizations:
-- genericclient
+- 123fahrschule
+- kevgo
+- astrosat
+- dk0105
+- joshuazhu
+- Benio101
 - UrbanCompass
+- brianhanifin
 - davidsneighbour
 - sajmoni
-- goranovs
-- uber-atg
-- reformarent
-- xiaohuilam
-- flowcommerce
-- traintool
 ---
 
 # Delete merged branch

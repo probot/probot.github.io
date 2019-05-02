@@ -8,9 +8,9 @@ authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 114
-updated: 2019-05-01 18:39:23 UTC
+updated: 2019-05-02 20:04:32 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 359
+installations: 363
 organizations:
 - react-boilerplate
 - kentcdodds
@@ -21,7 +21,7 @@ organizations:
 - nock
 - MoOx
 - final-form
-- Raathigesh
+- typescript-cheatsheets
 ---
 
 ✨ Recognize all contributors, not just the ones who push code. Simply add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add @tbenning for design`
