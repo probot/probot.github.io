@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 109
-updated: 2019-05-01 07:14:46 UTC
-installations: 1106
+updated: 2019-05-03 04:34:50 UTC
+installations: 1117
 organizations:
-- 123fahrschule
-- kevgo
-- astrosat
-- dk0105
-- joshuazhu
-- Benio101
-- UrbanCompass
-- brianhanifin
-- davidsneighbour
-- sajmoni
+- rtfd
+- SaltieRL
+- evryfs
+- wework
+- rickyplouis
+- ember-cli-sentry
+- etherlabsio
+- xuchunyang
+- moneysmartco
+- turo
 ---
 
 # Delete merged branch
