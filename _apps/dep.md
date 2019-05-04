@@ -22,7 +22,7 @@ organizations:
 - timvideos
 - tunnckoCoreLabs
 - wieslawsoltes
-- SymbiFlow
+- decidim
 ---
 
 <p align="center">

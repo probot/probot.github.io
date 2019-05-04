@@ -15,8 +15,8 @@ installations: 127
 organizations:
 - Microsoft
 - apache
-- flutter
 - ethereum
+- flutter
 - atom
 - adobe
 - videojs
