@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 110
 updated: 2019-05-03 04:34:50 UTC
-installations: 1121
+installations: 1124
 organizations:
-- nithincvpoyyil
+- genexuslabs
+- Perkles
+- sharekura01
 - saberland
+- troyronda
 - cuongw
 - splunk
 - SaltieRL
 - davidkarlsen
 - evryfs
-- wework
-- rickyplouis
-- ember-cli-sentry
 ---
 
 # Delete merged branch
