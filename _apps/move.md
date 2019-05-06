@@ -13,13 +13,13 @@ stars: 33
 updated: 2019-01-20 09:00:46 UTC
 installations: 128
 organizations:
-- Microsoft
+- microsoft
 - apache
-- ethereum
 - flutter
 - atom
-- videojs
+- ethereum
 - adobe
+- videojs
 - home-assistant
 - kivy
 - tidyverse
