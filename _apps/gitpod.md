@@ -8,7 +8,7 @@ authors:
 - gitpod-io
 repository: gitpod-io/gitpod-bot
 host: https://gitpod-bot.now.sh
-stars: 8
+stars: 9
 updated: 2019-02-12 20:00:54 UTC
 installations: 17
 organizations:
@@ -16,9 +16,9 @@ organizations:
 - TypeFox
 - sr229
 - ProjectAliceDev
+- gitpod-io
 - hemanth22
 - JanitorTechnology
-- gitpod-io
 - Sayo-nika
 - abenchi
 ---
