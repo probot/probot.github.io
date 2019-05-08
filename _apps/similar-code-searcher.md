@@ -8,7 +8,7 @@ authors:
 - Ikuyadeu
 repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
-stars: 4
+stars: 5
 updated: 2018-12-28 09:22:39 UTC
 installations: 17
 organizations:

@@ -10,7 +10,7 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 111
-updated: 2019-05-03 04:34:50 UTC
+updated: 2019-05-08 19:35:37 UTC
 installations: 1138
 organizations:
 - drone-plugins
