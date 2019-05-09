@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 111
-updated: 2019-05-08 19:35:37 UTC
-installations: 1138
+updated: 2019-05-09 04:48:59 UTC
+installations: 1160
 organizations:
-- drone-plugins
-- probono-dev
-- eftours
-- HqOapp
-- AIGEXP
-- bikingbadger
-- labox-inc
-- Sreekalyani
-- splice
-- tmsouza
+- foursixnine
+- bidgely
+- srushe
+- voxxit
+- moovweb-operations
+- bankrate
+- mariandev
+- crowdanalyzer
+- FKS-Tecnologia
+- auchan-retail-international
 ---
 
 # Delete merged branch
