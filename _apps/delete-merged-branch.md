@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 111
+stars: 112
 updated: 2019-05-09 04:48:59 UTC
-installations: 1160
+installations: 1164
 organizations:
-- foursixnine
+- Turbo87
+- TheHiringEngine
+- project-pulse
+- arielo
 - bidgely
+- layer-platform
 - srushe
 - voxxit
 - moovweb-operations
 - bankrate
-- mariandev
-- crowdanalyzer
-- FKS-Tecnologia
-- auchan-retail-international
 ---
 
 # Delete merged branch

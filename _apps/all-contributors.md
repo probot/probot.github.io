@@ -8,20 +8,20 @@ authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 118
-updated: 2019-05-09 20:30:14 UTC
+updated: 2019-05-10 18:37:13 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 382
+installations: 390
 organizations:
-- react-boilerplate
 - kentcdodds
+- react-boilerplate
 - dawnlabs
 - nuxt-community
 - testing-library
 - bootstrap-vue
 - nock
 - MoOx
+- codesandbox
 - final-form
-- typescript-cheatsheets
 ---
 
 ✨ Recognize all contributors, not just the ones who push code. Simply add a contributor with comments on issues or pull requests, e.g. `@all-contributors please add @tbenning for design`
