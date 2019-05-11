@@ -11,7 +11,7 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 169
 updated: 2019-05-05 02:12:51 UTC
-installations: 605
+installations: 607
 organizations:
 - instantbox
 - rvrsh3ll

@@ -13,8 +13,8 @@ stars: 60
 updated: 2018-10-04 17:24:42 UTC
 installations: 234
 organizations:
-- atom
 - Homebrew
+- atom
 - facebook
 - flutter
 - prettier

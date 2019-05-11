@@ -21,8 +21,8 @@ organizations:
 - tox-dev
 - pyload
 - waffleio
-- MOZGIII
 - techqueria
+- MOZGIII
 ---
 
 ## How It Works
