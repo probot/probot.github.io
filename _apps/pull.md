@@ -11,7 +11,7 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 169
 updated: 2019-05-05 02:12:51 UTC
-installations: 607
+installations: 608
 organizations:
 - instantbox
 - rvrsh3ll
@@ -19,8 +19,8 @@ organizations:
 - l3uddz
 - moimikey
 - shazron
-- kofj
 - dreambo8563
+- kofj
 - LiCybora
 - wei
 ---
