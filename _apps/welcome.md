@@ -12,18 +12,18 @@ authors:
 repository: behaviorbot/welcome
 updated: 2019-03-12 10:31:55 UTC
 host: https://probot-welcome.herokuapp.com
-installations: 634
+installations: 636
 organizations:
 - vuejs
 - electron
 - ant-design
 - jekyll
 - webtorrent
+- overtrue
 - videojs
 - standard
 - nextcloud
 - kivy
-- alibaba
 ---
 
 

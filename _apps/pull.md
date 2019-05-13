@@ -10,9 +10,10 @@ authors:
 repository: wei/pull
 host: https://pull.now.sh
 stars: 169
-updated: 2019-05-05 02:12:51 UTC
-installations: 608
+updated: 2019-05-13 10:53:15 UTC
+installations: 610
 organizations:
+- overtrue
 - instantbox
 - rvrsh3ll
 - SimenB
@@ -22,7 +23,6 @@ organizations:
 - dreambo8563
 - kofj
 - LiCybora
-- wei
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.
