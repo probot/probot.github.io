@@ -10,7 +10,7 @@ repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 55
 updated: 2019-05-12 22:24:10 UTC
-installations: 256
+installations: 257
 organizations:
 - overtrue
 - reactiveui
