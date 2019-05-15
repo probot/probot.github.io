@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 114
-updated: 2019-05-09 04:48:59 UTC
-installations: 1179
+stars: 116
+updated: 2019-05-15 00:26:55 UTC
+installations: 1184
 organizations:
-- deepakputhraya
+- livingdocsIO
+- WhiteRabbitGithub
+- simplybusiness
+- logickit-io
+- daddyfatstacksBIG
 - jobox-team
+- onzo-com
 - MenelvagorMilsom
 - postpersonality
 - tcelestino
-- AYLIEN
-- zeckli
-- skalenetwork
-- crowdtech
-- DeadWish
 ---
 
 # Delete merged branch

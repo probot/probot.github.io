@@ -15,8 +15,8 @@ installations: 23
 organizations:
 - swagger-api
 - PrestaShop
-- pypa
 - theme-next
+- pypa
 - GameServerManagers
 - pyload
 - tox-dev
