@@ -20,8 +20,8 @@ organizations:
 - njzjz
 - kentaro-m
 - buildkite
-- hemanth22
 - iamogbz
+- hemanth22
 ---
 
 ## Usage

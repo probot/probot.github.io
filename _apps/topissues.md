@@ -11,18 +11,18 @@ repository: adamzolyak/gh-vote-bot
 host: https://gh-vote-bot.herokuapp.com
 stars: 8
 updated: 2018-10-23 18:43:20 UTC
-installations: 21
+installations: 23
 organizations:
 - swagger-api
 - PrestaShop
-- pypa
 - theme-next
+- pypa
 - GameServerManagers
-- tox-dev
 - pyload
+- tox-dev
 - waffleio
-- MOZGIII
 - techqueria
+- MOZGIII
 ---
 
 ## How It Works
