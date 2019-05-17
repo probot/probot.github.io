@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 116
-updated: 2019-05-15 00:26:55 UTC
-installations: 1191
+updated: 2019-05-17 05:36:03 UTC
+installations: 1197
 organizations:
-- rajgurung
+- JarnoRFB
+- SVPASW
+- node-influx
+- dizcza
+- onefit
+- finderau
 - hamajyotan
+- pradeepjaladi
 - katelovescode
 - yumemi-kterada
-- qideng
-- TeselaGen
-- dynasty-com
-- WhiteRabbitGithub
-- JuanSanchezAdl
-- simplybusiness
 ---
 
 # Delete merged branch
