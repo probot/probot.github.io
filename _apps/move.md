@@ -11,15 +11,15 @@ repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 34
 updated: 2019-01-20 09:00:46 UTC
-installations: 126
+installations: 127
 organizations:
 - microsoft
 - apache
 - flutter
 - ethereum
 - atom
-- videojs
 - adobe
+- videojs
 - home-assistant
 - kivy
 - tidyverse

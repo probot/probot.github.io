@@ -15,8 +15,8 @@ installations: 41
 organizations:
 - adonisjs
 - carla-simulator
-- u3u
 - splash-cli
+- u3u
 - behaviorbot
 - arkokoley
 - KengoTODA
