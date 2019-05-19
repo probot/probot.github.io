@@ -7,7 +7,7 @@ screenshots:
 authors:
 - agonzalez0515
 - Techforchange
-stars: 186
+stars: 188
 repository: hoodiehq/first-timers-bot
 updated: 2019-05-18 03:13:30 UTC
 host: https://first-timers-bot.now.sh
