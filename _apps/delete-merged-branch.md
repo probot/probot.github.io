@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 117
 updated: 2019-05-17 05:36:03 UTC
-installations: 1206
+installations: 1216
 organizations:
-- kubesphere
-- rk202
-- atSCM
-- LukasHechenberger
-- ls-age
-- g59
-- mctrollingtons
-- prabhath6
-- chasemccoy
-- reedhhw
+- YuzuruS
+- guilhermesteves
+- barrymcgee
+- matthewnessworthy
+- OneAfricaMedia
+- hsuanxyz
+- StrixTech
+- mention-me
+- Tulpep
+- BizCover
 ---
 
 # Delete merged branch
