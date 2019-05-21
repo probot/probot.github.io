@@ -18,8 +18,8 @@ organizations:
 - getredash
 - thepracticaldev
 - nock
-- NG-ZORRO
 - developer-learning
+- NG-ZORRO
 - git-for-windows
 - umijs
 ---
