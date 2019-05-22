@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 117
-updated: 2019-05-17 05:36:03 UTC
-installations: 1220
+stars: 118
+updated: 2019-05-22 16:19:36 UTC
+installations: 1227
 organizations:
-- abehery
+- OpenGamma
+- popularlab
+- AndreiAlexParaschiv
+- linkorb
+- yakkun
+- missionsports
+- zenotech
 - QualitativeDataRepository
+- udemy
 - boomerweb
-- cloudflare
-- guilhermesteves
-- staeco
-- barrymcgee
-- matthewnessworthy
-- OneAfricaMedia
-- hsuanxyz
 ---
 
 # Delete merged branch

@@ -18,8 +18,8 @@ organizations:
 - apache
 - fossasia
 - banzaicloud
-- rundeck
 - theme-next
+- rundeck
 - Radarr
 - audiohacked
 ---
