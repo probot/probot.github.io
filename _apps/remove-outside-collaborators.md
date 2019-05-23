@@ -13,9 +13,9 @@ stars: 10
 updated: 2019-04-13 01:42:30 UTC
 installations: 29
 organizations:
+- pivotal
 - times
 - LiveRamp
-- pivotal
 - telus
 - OpenAIM
 - ekimetrics

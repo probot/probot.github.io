@@ -8,8 +8,8 @@ authors:
 - dessant
 repository: dessant/lock-threads
 host: https://probot-lock-threads.glitch.me
-stars: 83
-updated: 2019-01-20 08:30:27 UTC
+stars: 88
+updated: 2019-05-23 15:38:01 UTC
 installations: 208
 organizations:
 - facebook
