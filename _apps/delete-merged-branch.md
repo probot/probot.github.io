@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 119
-updated: 2019-05-22 16:19:36 UTC
-installations: 1241
+updated: 2019-05-24 15:12:33 UTC
+installations: 1250
 organizations:
-- ClarusONE
+- paszkowskiDamian
+- HomePass
+- luissilva1044894
+- TruckITllc
+- tomtom-international
+- zowe
+- scoutbeedev
+- alanvardy
+- QLPD
 - jane
-- carglassgithub
-- power-libraries
-- bebit
-- totvs
-- yumemi-sfukusaka
-- steinbrueckri
-- caioquiqueto
-- danmaq
 ---
 
 # Delete merged branch
