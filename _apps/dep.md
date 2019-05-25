@@ -9,9 +9,9 @@ authors:
 - z0al
 repository: z0al/dep
 host: https://probot-dep.now.sh
-stars: 45
+stars: 46
 updated: 2018-08-12 07:47:54 UTC
-installations: 142
+installations: 145
 organizations:
 - ant-design
 - AvaloniaUI
@@ -21,8 +21,8 @@ organizations:
 - thefrontside
 - timvideos
 - tunnckoCoreLabs
-- SymbiFlow
 - wieslawsoltes
+- SymbiFlow
 ---
 
 <p align="center">

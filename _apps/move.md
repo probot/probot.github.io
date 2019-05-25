@@ -9,11 +9,11 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
-stars: 33
-updated: 2019-01-20 09:00:46 UTC
+stars: 35
+updated: 2019-05-23 15:35:54 UTC
 installations: 127
 organizations:
-- Microsoft
+- microsoft
 - apache
 - flutter
 - ethereum
