@@ -7,7 +7,7 @@ screenshots:
 authors:
 - JasonEtco
 repository: JasonEtco/todo
-host: http://probot-todo.herokuapp.com
+host: https://probot-todo.herokuapp.com
 stars: 328
 updated: 2019-05-08 16:19:47 UTC
 installations: 626
