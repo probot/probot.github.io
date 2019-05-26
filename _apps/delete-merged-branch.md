@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 120
 updated: 2019-05-25 18:36:10 UTC
-installations: 1255
+installations: 1256
 organizations:
-- TimeInc
+- TomodomoCo
+- lucasmichot
 - sklnd
+- agorlov
 - guilherme-pereira-ifood
 - hizzle-co
 - GordonSmith
 - HomePass
 - percy
 - luissilva1044894
-- TruckITllc
-- tomtom-international
 ---
 
 # Delete merged branch

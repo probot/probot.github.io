@@ -18,8 +18,8 @@ organizations:
 - flutter
 - ethereum
 - atom
-- videojs
 - adobe
+- videojs
 - home-assistant
 - kivy
 - tidyverse

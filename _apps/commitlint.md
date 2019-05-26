@@ -21,8 +21,8 @@ organizations:
 - simoncozens
 - react-native-sensors
 - TECLIB
-- ajsb85
 - xlayers
+- ajsb85
 ---
 
 <p align="center">

@@ -8,7 +8,7 @@ authors:
 - dessant
 repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
-stars: 21
+stars: 23
 updated: 2019-05-23 15:39:16 UTC
 installations: 69
 organizations:

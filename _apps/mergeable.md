@@ -17,8 +17,8 @@ organizations:
 - phpstan
 - apache
 - fossasia
-- banzaicloud
 - theme-next
+- banzaicloud
 - rundeck
 - Radarr
 - audiohacked
