@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 120
 updated: 2019-05-25 18:36:10 UTC
-installations: 1256
+installations: 1260
 organizations:
-- TomodomoCo
+- prazuma
+- sseacrest
+- frilox042
+- glavpunkt
+- acastSthlm
 - lucasmichot
+- gismokit
 - sklnd
 - agorlov
 - guilherme-pereira-ifood
-- hizzle-co
-- GordonSmith
-- HomePass
-- percy
-- luissilva1044894
 ---
 
 # Delete merged branch

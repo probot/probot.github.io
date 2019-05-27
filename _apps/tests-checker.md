@@ -10,8 +10,9 @@ repository: infection/tests-checker
 host: https://tests-checker.now.sh
 stars: 23
 updated: 2018-09-28 21:13:42 UTC
-installations: 22
+installations: 24
 organizations:
+- ant-design
 - fastify
 - mcollina
 - infection
@@ -21,7 +22,6 @@ organizations:
 - borNfreee
 - SantiMA10
 - hemanth22
-- devkabiir
 ---
 
 # Tests Checker
