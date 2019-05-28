@@ -8,9 +8,9 @@ authors:
 - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 130
-updated: 2019-05-26 23:37:43 UTC
+updated: 2019-05-28 21:10:12 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
-installations: 468
+installations: 471
 organizations:
 - kentcdodds
 - react-boilerplate

@@ -9,7 +9,7 @@ authors:
 - bkeepers
 stars: 713
 repository: probot/stale
-updated: 2019-05-24 15:13:08 UTC
+updated: 2019-05-28 23:04:16 UTC
 host: https://probot-stale.herokuapp.com
 installations: 1145
 organizations:

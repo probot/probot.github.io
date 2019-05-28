@@ -17,12 +17,12 @@ organizations:
 - apache
 - flutter
 - ethereum
+- atom
 - adobe
 - videojs
 - home-assistant
 - kivy
 - tidyverse
-- CachetHQ
 ---
 
 A GitHub App that moves issues between repositories.
