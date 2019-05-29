@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 121
-updated: 2019-05-25 18:36:10 UTC
-installations: 1265
+updated: 2019-05-29 17:16:10 UTC
+installations: 1279
 organizations:
-- TobiasBales
-- ranisalt
-- GatorEducator
-- askpt
-- Neophy7e
-- sseacrest
-- Bhacaz
-- frilox042
-- glavpunkt
-- acastSthlm
+- TimeInc
+- adamgibbins
+- globoi
+- businessinsider
+- akaiypova
+- teamupstart
+- johngallagher
+- zendesk
+- aragon
+- dhurba87
 ---
 
 # Delete merged branch

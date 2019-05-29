@@ -11,7 +11,7 @@ repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
 stars: 35
 updated: 2019-05-23 15:35:54 UTC
-installations: 129
+installations: 128
 organizations:
 - microsoft
 - apache
