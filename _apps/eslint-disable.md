@@ -17,8 +17,8 @@ organizations:
 - theme-next
 - ember-intl
 - levibostian
-- buschtoens
 - telus
+- buschtoens
 - odykyi
 - njzjz
 - Berkmann18

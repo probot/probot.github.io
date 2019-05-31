@@ -15,6 +15,7 @@ organizations:
 - pharo-project
 - dtr-org
 - njzjz
+- symphonyoss
 - divyenduz
 - hemanth22
 - frilox042
