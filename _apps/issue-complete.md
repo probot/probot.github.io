@@ -9,12 +9,13 @@ authors:
 repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
-updated: 2019-05-14 01:44:48 UTC
-installations: 18
+updated: 2019-05-30 00:26:29 UTC
+installations: 19
 organizations:
 - Maatwebsite
 - njzjz
 - hemanth22
+- frilox042
 - gw-pem
 - MiyoKouseki
 - DanielFatkic

@@ -13,19 +13,19 @@ authors:
 repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 15
-updated: 2019-04-14 08:32:41 UTC
-installations: 94
+updated: 2019-05-25 11:38:13 UTC
+installations: 100
 organizations:
+- playframework
 - CachetHQ
-- Semantic-Org
 - thepracticaldev
+- Semantic-Org
 - adonisjs
+- pypa
 - Azure
 - Laravel-Backpack
+- lagom
 - Robdel12
-- microstates
-- ytti
-- pymedusa
 ---
 
 

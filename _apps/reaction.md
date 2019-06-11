@@ -8,8 +8,8 @@ authors:
 - dessant
 repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
-stars: 21
-updated: 2019-01-20 08:21:08 UTC
+stars: 24
+updated: 2019-05-23 15:39:16 UTC
 installations: 69
 organizations:
 - zealdocs
