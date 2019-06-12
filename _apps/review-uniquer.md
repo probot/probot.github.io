@@ -1,12 +1,12 @@
 ---
-title: Review Uniquer
+title: Dev Avatar
 description: Suggests code fix ways that already fixed in the past
-slug: review-uniquer
+slug: dev-avatar
 screenshots:
-- https://raw.githubusercontent.com/Ikuyadeu/review-uniquer/master/img/Usage.gif?token=AH-0wuuMacNCXN86wKQdanxFaQod7FUFks5cMyaDwA%3D%3D
+- https://raw.githubusercontent.com/Ikuyadeu/dev-avatar/master/img/Usage.gif
 authors:
 - Ikuyadeu
-repository: Ikuyadeu/review-uniquer
+repository: Ikuyadeu/dev-avatar
 host: https://evening-waters-63164.herokuapp.com/
 ---
 
@@ -18,7 +18,7 @@ Review Uniquer suggests code fix ways that already fixed by human reviewers in p
 
 ## Usage
 
-1. Install this app from https://github.com/apps/review-uniquer
+1. Install this app from https://github.com/apps/dev-avatar
 2. Create `pattern.json` file in your repo, like bellow:
 `trigger` is bad source code.
 `code` is fix way of source code.
@@ -83,8 +83,9 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 ## Supported Language
 
 * Python (Supported: default pattern is based on google and Microsoft)
-* Java (TODO)
-* Javascript (TODO)
+* Java
+* Javascript
+* Ruby
 
 ## Pattern Detection Algorythm
 
@@ -93,4 +94,4 @@ Yuki Ueda, Takashi Ishio, Akinori Ihara, and Kenichi Matsumoto, “Mining Source
 ## Sponsor
 
 We would like to thank the Support Center for Advanced Telecommunications (SCAT) Technology Research, Foundation.
-This system was supported by JSPS KAKENHI Grant Numbers JP18H03222, JP17H00731, JP15H02683, and JP18KT0013.
+This system was supported by JSPS KAKENHI Grant Numbers JP18H03222, JP17H00731, JP15H02683, and JP18KT0013, IPA Mitou.
