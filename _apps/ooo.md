@@ -13,7 +13,6 @@ stars: 27
 updated: 2018-01-06 15:08:10 UTC
 installations: 47
 organizations:
-- CachetHQ
 - arcticicestudio
 - Laravel-Backpack
 - natemcmaster
@@ -23,6 +22,7 @@ organizations:
 - JasonEtco
 - ropensci
 - matthewmccullough
+- SuriyaaKudoIsc
 ---
 
 # Probot: OOO

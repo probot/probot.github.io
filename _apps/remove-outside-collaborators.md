@@ -11,15 +11,16 @@ repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 10
 updated: 2019-04-13 01:42:30 UTC
-installations: 29
+installations: 32
 organizations:
 - pivotal
 - times
 - LiveRamp
 - telus
+- Thezone1975
 - OpenAIM
-- ekimetrics
 - daddyfatstacksBIG
+- ekimetrics
 - RepublicServicesRepository
 ---
 
