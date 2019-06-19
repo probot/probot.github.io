@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 121
-updated: 2019-05-31 07:30:37 UTC
-installations: 1295
+stars: 132
+updated: 2019-06-13 14:44:18 UTC
+installations: 1401
 organizations:
-- 3megawatt
-- Nosferican
-- strongloop
-- plexinc
-- ontruck
-- lincza
-- liormb
-- tesaguri
-- AG-Develop
-- wistia
+- ismay
+- underarmour
+- transloadit
+- convoyinc
+- JReinhold
+- DecipherNow
+- carla-simulator
+- dparrish
+- SportlabsTechnology
+- keplergl
 ---
 
 # Delete merged branch

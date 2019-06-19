@@ -8,8 +8,8 @@ authors:
 - swinton
 repository: swinton/linter-alex
 host: https://linter-alex.herokuapp.com
-stars: 67
-updated: 2019-05-31 01:05:56 UTC
+stars: 68
+updated: 2019-06-17 05:23:22 UTC
 installations: 31
 organizations:
 - probot

@@ -9,9 +9,9 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 198
-updated: 2019-05-27 15:35:57 UTC
-installations: 669
+stars: 218
+updated: 2019-06-13 14:52:36 UTC
+installations: 739
 organizations:
 - overtrue
 - instantbox

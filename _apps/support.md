@@ -9,11 +9,12 @@ authors:
 repository: dessant/support-requests
 host: https://probot-support-requests.glitch.me
 stars: 20
-updated: 2019-05-23 15:36:11 UTC
-installations: 58
+updated: 2019-06-10 07:25:40 UTC
+installations: 60
 organizations:
 - Homebrew
 - mui-org
+- ReactTraining
 - gulpjs
 - kivy
 - wix
@@ -21,7 +22,6 @@ organizations:
 - CachetHQ
 - nozzle
 - PHPOffice
-- cefsharp
 ---
 A GitHub App that comments on and closes issues labeled as support requests.
 
