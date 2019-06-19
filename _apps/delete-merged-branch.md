@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 132
-updated: 2019-06-13 14:44:18 UTC
-installations: 1401
+updated: 2019-06-19 12:23:52 UTC
+installations: 1413
 organizations:
-- ismay
-- underarmour
-- transloadit
-- convoyinc
-- JReinhold
-- DecipherNow
-- carla-simulator
-- dparrish
-- SportlabsTechnology
-- keplergl
+- ammit
+- h900n4
+- ovotech
+- mmitrik
+- stadline
+- stadline
+- wegotpop
+- React95
+- heremaps
+- happinessworks
 ---
 
 # Delete merged branch

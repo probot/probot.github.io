@@ -9,12 +9,12 @@ authors:
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 584
-updated: 2019-06-15 12:02:34 UTC
-installations: 681
+updated: 2019-06-19 22:19:43 UTC
+installations: 686
 organizations:
 - gorilla
-- reactiveui
 - fossasia
+- reactiveui
 - moovweb
 - concourse
 - jenkinsci

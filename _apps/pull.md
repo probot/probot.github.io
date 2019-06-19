@@ -10,8 +10,8 @@ authors:
 repository: wei/pull
 host: https://pull.now.sh
 stars: 218
-updated: 2019-06-13 14:52:36 UTC
-installations: 739
+updated: 2019-06-19 01:59:41 UTC
+installations: 744
 organizations:
 - overtrue
 - instantbox
