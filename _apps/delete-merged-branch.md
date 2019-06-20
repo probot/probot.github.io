@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 132
 updated: 2019-06-19 12:23:52 UTC
-installations: 1413
+installations: 1418
 organizations:
-- ammit
+- TonyKev
+- TimMcJilton
+- cooksmarts
+- codepunkt
+- 2mpower
+- Beamanator
 - h900n4
+- TARAAI
 - ovotech
 - mmitrik
-- stadline
-- stadline
-- wegotpop
-- React95
-- heremaps
-- happinessworks
 ---
 
 # Delete merged branch

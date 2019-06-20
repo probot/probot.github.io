@@ -9,7 +9,7 @@ authors:
 repository: issc29/probot-prevent-public-repos
 host: https://probot-prevent-public-repos.herokuapp.com
 stars: 22
-updated: 2019-05-24 16:46:16 UTC
+updated: 2019-06-20 16:25:01 UTC
 installations: 179
 organizations:
 - dollarshaveclub

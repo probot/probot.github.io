@@ -8,9 +8,9 @@ authors:
 - dessant
 repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
-stars: 24
+stars: 25
 updated: 2019-06-10 14:00:22 UTC
-installations: 71
+installations: 73
 organizations:
 - zealdocs
 - invertase
