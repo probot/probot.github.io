@@ -16,8 +16,8 @@ organizations:
 - tipeio
 - fvcproductions
 - techqueria
-- dgroup
 - njzjz
+- dgroup
 - sargsyan
 - hemanth22
 - frilox042
