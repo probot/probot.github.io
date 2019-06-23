@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 132
+stars: 133
 updated: 2019-06-19 12:23:52 UTC
-installations: 1428
+installations: 1433
 organizations:
-- adrian-bobev
+- romkor
+- outline
+- mwangi-njuguna
+- SupinePandora43
+- flincubelk
 - ahmdigital
+- sunilmathewm
 - uniplaces
 - mash-up-kr
 - stampedeapp
-- imliam
-- 15five
-- Decathlon
-- AndKiel
-- sovrn
 ---
 
 # Delete merged branch
