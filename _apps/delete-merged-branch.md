@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 133
 updated: 2019-06-19 12:23:52 UTC
-installations: 1433
+installations: 1443
 organizations:
-- romkor
-- outline
-- mwangi-njuguna
-- SupinePandora43
-- flincubelk
-- ahmdigital
-- sunilmathewm
-- uniplaces
-- mash-up-kr
-- stampedeapp
+- WordPress-Phoenix
+- pkgscenter
+- samueldervis
+- helapkg
+- msalerno2
+- agragera
+- coretech
+- teaminaho
+- toreta
+- hden
 ---
 
 # Delete merged branch

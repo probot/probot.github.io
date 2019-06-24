@@ -19,7 +19,7 @@ organizations:
 - hoodiearon
 - cosmocode
 - fvcproductions
-- tunnckoCoreHQ
+- tunnckocorehq
 - OrkoHunter
 - servicemesher
 ---

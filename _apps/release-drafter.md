@@ -8,11 +8,12 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 608
-updated: 2019-06-23 06:21:28 UTC
-installations: 693
+stars: 610
+updated: 2019-06-24 13:00:12 UTC
+installations: 700
 organizations:
 - gorilla
+- akka
 - fossasia
 - reactiveui
 - moovweb
@@ -21,7 +22,6 @@ organizations:
 - gitextensions
 - abraham
 - includeos
-- benbalter
 ---
 
 ## Usage

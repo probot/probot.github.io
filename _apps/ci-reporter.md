@@ -10,18 +10,18 @@ repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 22
 updated: 2019-01-27 23:36:23 UTC
-installations: 154
+installations: 209
 organizations:
 - ant-design
 - ReactiveX
 - veggiemonk
+- poteto
+- vueComponent
 - styleguidist
 - thibmaek
 - fossasia
 - octokit
-- offu
-- Radarr
-- electron
+- watson-developer-cloud
 ---
 ## Usage
 
