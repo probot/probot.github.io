@@ -11,7 +11,7 @@ describe "lint test" do
     ')\b', Regexp::IGNORECASE | Regexp::MULTILINE)
 
   EXCEPTIONS = {
-    "bot" => ["sentiment-bot", "ghint-bot"]
+    "bot" => ["sentiment-bot", "githint-bot"]
   }
 
   Dir.glob("_apps/*.md").each do |path|
