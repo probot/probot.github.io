@@ -6,7 +6,7 @@ banned_words:
   - probot         # Now you're just name dropping
 
 exceptions:
-  bot: ["sentiment-bot"]
+  bot: ["sentiment-bot", "githint-bot"]
 
 fields:
   title:
