@@ -16,8 +16,8 @@ organizations:
 - helaili
 - logikinc
 - frilox042
-- mdelagrange
 - BadIdeaFactory
+- mdelagrange
 - krithiva
 - octodemo
 ---

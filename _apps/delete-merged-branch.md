@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 135
-updated: 2019-06-25 21:02:06 UTC
-installations: 1452
+stars: 137
+updated: 2019-06-26 16:59:47 UTC
+installations: 1459
 organizations:
-- adrian-bobev
+- 3megawatt
+- arsmtech
+- andreafalzetti
+- exfreight-zeta
+- WriteSpeakCode
+- cuichenli
+- tutuka
+- codercodingthecode
 - KitchenMate
-- renemarc
-- proteantecs
-- AutomaticPotato
-- wheely
-- nicoevergara
-- Galabov93
-- startappdev
-- goabstract
+- nextcloud
 ---
 
 # Delete merged branch
