@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 137
-updated: 2019-06-26 16:59:47 UTC
-installations: 1459
+stars: 138
+updated: 2019-06-27 12:07:58 UTC
+installations: 1461
 organizations:
-- 3megawatt
-- arsmtech
+- paszkowskiDamian
+- getcrft
+- locusview
+- MatthewOwens
+- Rainist
+- unoplatform
+- hennybarbera
+- FoseFx
 - andreafalzetti
 - exfreight-zeta
-- WriteSpeakCode
-- cuichenli
-- tutuka
-- codercodingthecode
-- KitchenMate
-- nextcloud
 ---
 
 # Delete merged branch
