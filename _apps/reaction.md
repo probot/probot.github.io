@@ -10,10 +10,11 @@ repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
 stars: 25
 updated: 2019-06-10 14:00:22 UTC
-installations: 73
+installations: 74
 organizations:
 - zealdocs
 - invertase
+- microsoft
 - Mottie
 - CellularPrivacy
 - Radarr
@@ -21,7 +22,6 @@ organizations:
 - GameServerManagers
 - idehub
 - chefspec
-- GoogleCloudPlatform
 ---
 
 A GitHub App that deletes reaction comments, such as +1,
