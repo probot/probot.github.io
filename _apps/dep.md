@@ -11,7 +11,7 @@ repository: z0al/dep
 host: https://probot-dep.now.sh
 stars: 51
 updated: 2018-08-12 07:47:54 UTC
-installations: 154
+installations: 153
 organizations:
 - ant-design
 - AvaloniaUI
@@ -20,9 +20,9 @@ organizations:
 - thefrontside
 - timvideos
 - tunnckoCoreLabs
-- wieslawsoltes
 - SymbiFlow
 - decidim
+- TECLIB
 ---
 
 <p align="center">
