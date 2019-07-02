@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 141
 updated: 2019-06-27 12:07:58 UTC
-installations: 1480
+installations: 1488
 organizations:
-- arcivr
+- AVykhrystyuk
+- palantir
+- cycle-game
+- IndustriousOfficeLLC
+- zhuravel
+- trickypr
+- weathernews
+- xiangce
 - bazzite
-- AmazeeLabs
-- smrtzr
-- commons-app
-- Graincorp
-- DevSnox
-- global-dv
-- IlluYing
-- maskaravivek
+- careemfood
 ---
 
 # Delete merged branch
