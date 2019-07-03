@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 141
+stars: 142
 updated: 2019-06-27 12:07:58 UTC
-installations: 1488
+installations: 1493
 organizations:
-- AVykhrystyuk
+- stardust-ui
+- doordash
+- mkj28
+- AtomicConductor
+- autifyhq
+- iredelmeier
 - palantir
+- asaasdev
 - cycle-game
 - IndustriousOfficeLLC
-- zhuravel
-- trickypr
-- weathernews
-- xiangce
-- bazzite
-- careemfood
 ---
 
 # Delete merged branch

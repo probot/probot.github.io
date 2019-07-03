@@ -17,7 +17,7 @@ organizations:
 - mike-north
 - webpack
 - bazzite
-- WittBulter
+- unix
 - mike-works
 - simoncozens
 - linkorb

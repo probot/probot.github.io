@@ -11,7 +11,7 @@ authors:
 repository: pr-triage/app
 host: https://pr-triage.glitch.me
 stars: 31
-updated: 2019-07-02 05:22:48 UTC
+updated: 2019-07-03 05:24:28 UTC
 installations: 65
 organizations:
 - getredash
