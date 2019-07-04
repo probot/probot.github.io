@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 142
 updated: 2019-06-27 12:07:58 UTC
-installations: 1493
+installations: 1496
 organizations:
-- stardust-ui
+- kosanapp
+- ahmadi-akbar
+- aquatiko
 - doordash
+- EdgeCaseResearch
 - mkj28
 - AtomicConductor
 - autifyhq
 - iredelmeier
 - palantir
-- asaasdev
-- cycle-game
-- IndustriousOfficeLLC
 ---
 
 # Delete merged branch
