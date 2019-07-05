@@ -10,15 +10,15 @@ repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 615
 updated: 2019-07-04 23:17:02 UTC
-installations: 733
+installations: 734
 organizations:
 - gorilla
 - akka
 - fossasia
 - reactiveui
+- jenkinsci
 - moovweb
 - concourse
-- jenkinsci
 - gitextensions
 - abraham
 - includeos
