@@ -18,8 +18,8 @@ organizations:
 - techqueria
 - opsway
 - renemarc
-- urcomputeringpal
 - tomkerkhove
+- urcomputeringpal
 - guykisel
 - citellusorg
 - mko-x

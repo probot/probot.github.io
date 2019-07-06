@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 142
 updated: 2019-06-27 12:07:58 UTC
-installations: 1500
+installations: 1502
 organizations:
-- brafton
+- 3megawatt
+- react-dnd
 - NBIM
+- newscorp-ghfb
 - thecogworks
 - whisklabs
 - iflix
 - saiichihashimoto
 - ahmadi-akbar
 - lilihi
-- aquatiko
-- doordash
 ---
 
 # Delete merged branch

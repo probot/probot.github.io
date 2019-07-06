@@ -9,20 +9,20 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.now.sh
-stars: 256
+stars: 259
 updated: 2019-06-27 22:48:54 UTC
-installations: 833
+installations: 836
 organizations:
 - overtrue
 - hemanth
 - instantbox
+- amio
 - bundestag
 - AchoArnold
 - rvrsh3ll
 - Pandinosaurus
 - SimenB
 - ifyour
-- l3uddz
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.
