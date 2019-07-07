@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 616
+stars: 618
 updated: 2019-07-06 17:40:33 UTC
-installations: 737
+installations: 742
 organizations:
 - gorilla
 - akka
