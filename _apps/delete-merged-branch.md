@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 142
-updated: 2019-06-27 12:07:58 UTC
-installations: 1515
+updated: 2019-07-09 18:56:14 UTC
+installations: 1523
 organizations:
-- Buzzvil
-- volo-ai
-- INFURA
-- fegbers
-- Jingxiaoyi970208
-- Dekoruma
-- moz-debug
-- qantas-insurance
-- abatilo
-- jesseduffield
+- CatenaLogic
+- HackSocNotts
+- axelav
+- solidtoken
+- pratyushj
+- spl
+- openpolitics
+- Web-tree
+- perottilds
+- michael-gillett
 ---
 
 # Delete merged branch
