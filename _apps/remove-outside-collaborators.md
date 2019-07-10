@@ -17,8 +17,8 @@ organizations:
 - times
 - LiveRamp
 - telus
-- OpenAIM
 - Thezone1975
+- OpenAIM
 - daddyfatstacksBIG
 - ekimetrics
 - RepublicServicesRepository

@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 142
+stars: 149
 updated: 2019-07-09 18:56:14 UTC
-installations: 1523
+installations: 1538
 organizations:
-- CatenaLogic
-- HackSocNotts
-- axelav
-- solidtoken
-- pratyushj
-- spl
-- openpolitics
-- Web-tree
-- perottilds
-- michael-gillett
+- grahamgilbert
+- wecreatesoftware
+- OI-wiki
+- emberjs
+- ember-template-lint
+- ember-lifeline
+- ember-codemods
+- rwjblue
+- vonq
+- rolfberkenbosch
 ---
 
 # Delete merged branch
