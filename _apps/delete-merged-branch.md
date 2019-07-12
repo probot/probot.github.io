@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 153
-updated: 2019-07-11 21:28:17 UTC
-installations: 1547
+stars: 155
+updated: 2019-07-12 21:30:01 UTC
+installations: 1554
 organizations:
-- chenka
-- PivotusVentures
-- msgphp
-- dreiQBIK
-- Roadmunk
-- kade-robertson
-- lachmanfrantisek
-- kfit-dev
-- zacanger
-- wecreatesoftware
+- azz0r
+- macmms
+- syncurity-exchange
+- abdelhai
+- Babylonpartners
+- TextUsBiz
+- stadline
+- OpusCapita
+- mmbvbk
+- icare-jp
 ---
 
 # Delete merged branch
