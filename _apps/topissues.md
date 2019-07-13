@@ -18,8 +18,8 @@ organizations:
 - theme-next
 - pypa
 - GameServerManagers
-- pyload
 - tox-dev
+- pyload
 - unoplatform
 - techqueria
 - MOZGIII
