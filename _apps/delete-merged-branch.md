@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 155
+stars: 156
 updated: 2019-07-12 21:30:01 UTC
-installations: 1559
+installations: 1567
 organizations:
-- hibruno
+- WildGums
+- Alorel
+- irkvuz
+- dirk-thomas
+- syzygypl
+- venn-city
+- HeroProtagonist
+- muraai
+- TrapTeamCCNZ
 - sourcebots
-- Bwvolleyball
-- SheroesDev
-- tunein
-- macmms
-- 5and2studio
-- syncurity-exchange
-- abdelhai
-- Babylonpartners
 ---
 
 # Delete merged branch
