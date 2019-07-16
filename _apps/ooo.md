@@ -22,7 +22,7 @@ organizations:
 - ropensci
 - matthewmccullough
 - wlandau
-- SuriyaaKudoIsc
+- paulooosrj
 ---
 
 # Probot: OOO
