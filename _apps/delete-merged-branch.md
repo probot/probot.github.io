@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 156
-updated: 2019-07-18 09:23:59 UTC
-installations: 1580
+updated: 2019-07-19 10:04:43 UTC
+installations: 1598
 organizations:
-- symonds
-- onoranzefunebricloud
-- karhoo
-- hangy
-- hangy
-- bridgecrewio
-- emisgroup
-- alphabrik
-- whizzscooters
-- Introhive
+- org-dependencies
+- venobo
+- RadialDevGroup
+- close2realtraining
+- kiwicom
+- damejidlo
+- gobacklog
+- cookpad-dietlab
+- medpeer-dev
+- mmcc007
 ---
 
 # Delete merged branch
