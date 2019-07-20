@@ -10,14 +10,14 @@ repository: helaili/deploy
 host: https://probot-deploy-dotcom.now.sh
 stars: 16
 updated: 2019-02-27 06:10:12 UTC
-installations: 22
+installations: 21
 organizations:
 - njzjz
 - helaili
 - logikinc
 - frilox042
-- mdelagrange
 - BadIdeaFactory
+- mdelagrange
 - krithiva
 - octodemo
 ---

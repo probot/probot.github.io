@@ -20,8 +20,8 @@ organizations:
 - wix
 - getredash
 - CachetHQ
-- nozzle
 - PHPOffice
+- cefsharp
 ---
 A GitHub App that comments on and closes issues labeled as support requests.
 
