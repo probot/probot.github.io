@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 165
-updated: 2019-07-19 10:04:43 UTC
-installations: 1602
+stars: 173
+updated: 2019-07-21 06:31:23 UTC
+installations: 1604
 organizations:
-- Poussinou
+- plebeiathon
+- meetsmore
+- kagof
 - sudoforge
+- purple-squid
 - SECCON
 - gorgias
 - venobo
 - noprotocol
 - RadialDevGroup
-- close2realtraining
-- kiwicom
-- damejidlo
 ---
 
 # Delete merged branch
