@@ -3,7 +3,7 @@ title: Create Issue Branch
 description: Creates a new branch after assigning an issue
 slug: create-issue-branch
 screenshots:
-- https://somewebsite.com/your-screenshot.png
+- https://github.com/robvanderleek/create-issue-branch/blob/master/static/create-issue-branch.gif?raw=true
 authors: robvanderleek
 repository: https://github.com/robvanderleek/create-issue-branch
 host: https://secret-brook-77867.herokuapp.com
@@ -12,15 +12,19 @@ host: https://secret-brook-77867.herokuapp.com
 
 > A GitHub app that creates a new branch after assigning an issue
 
+Built in response to this feature reuest issue: 
+https://github.com/isaacs/github/issues/1125
+
 ## What does this app do?
 
 The typical workflow is:
- 1. An issue is created
+ 1. An issue is created, for example: Issue 15: Fix nasty bug!
 
  *some time may pass*
  
  2. The issue is assigned
- 3. This app will create a new branch for this issue
+ 3. When the issue is assigned this app will create a new issue branch
+    (for the example issue this branch will be called `issue-15-Fix_nasty_bug`)
 
 If the issue is re-assigned no new branch will be created.
 
@@ -30,4 +34,4 @@ You can install the app directly from [*this page*](https://github.com/apps/crea
 
 ## Feedback, suggestions and bug reports
 
-Please create an issue here: https://github.com/robvanderleek/create-issue-brancg/issues
+Please create an issue here: https://github.com/robvanderleek/create-issue-branch/issues
