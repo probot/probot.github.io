@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 173
-updated: 2019-07-21 06:31:23 UTC
-installations: 1604
+updated: 2019-07-22 09:57:39 UTC
+installations: 1612
 organizations:
-- plebeiathon
+- RCAFAWC
+- mhaack
+- JuliaLang
+- breiv
+- iFelix18
+- legendecas
+- RoboticaUtnFrba
+- Taimee
+- jetlore
 - meetsmore
-- kagof
-- sudoforge
-- purple-squid
-- SECCON
-- gorgias
-- venobo
-- noprotocol
-- RadialDevGroup
 ---
 
 # Delete merged branch
