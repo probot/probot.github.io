@@ -9,17 +9,17 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
-stars: 35
-updated: 2019-05-23 15:35:54 UTC
-installations: 127
+stars: 37
+updated: 2019-06-10 11:47:16 UTC
+installations: 130
 organizations:
 - microsoft
 - apache
 - flutter
 - ethereum
 - atom
-- adobe
 - videojs
+- adobe
 - home-assistant
 - kivy
 - tidyverse

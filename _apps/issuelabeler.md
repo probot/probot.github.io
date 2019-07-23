@@ -7,9 +7,9 @@ screenshots:
 authors:
 - riyadhalnur
 repository: riyadhalnur/issuelabeler
-host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production
-stars: 5
-updated: 2019-05-24 15:12:11 UTC
+host: https://issuelabeler.verticalaxisbd.com
+stars: 8
+updated: 2019-07-22 11:05:04 UTC
 installations: 27
 organizations:
 - pymc-devs

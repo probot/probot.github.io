@@ -8,18 +8,18 @@ authors:
 - dessant
 repository: dessant/support-requests
 host: https://probot-support-requests.glitch.me
-stars: 19
-updated: 2019-05-23 15:36:11 UTC
-installations: 57
+stars: 20
+updated: 2019-06-10 07:25:40 UTC
+installations: 60
 organizations:
 - Homebrew
 - mui-org
+- ReactTraining
 - gulpjs
 - kivy
 - wix
 - getredash
 - CachetHQ
-- nozzle
 - PHPOffice
 - cefsharp
 ---

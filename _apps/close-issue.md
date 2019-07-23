@@ -9,10 +9,11 @@ authors:
 - whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
-stars: 20
-updated: 2019-05-24 15:12:35 UTC
-installations: 51
+stars: 22
+updated: 2019-07-17 19:30:12 UTC
+installations: 56
 organizations:
+- Homebrew
 - ant-design
 - react-boilerplate
 - vuetifyjs
@@ -22,7 +23,6 @@ organizations:
 - coreos
 - CopyTranslator
 - offu
-- ZoneMinder
 ---
 [![Build Status](https://travis-ci.org/offu/close-issue-app.svg?branch=master)](https://travis-ci.org/offu/close-issue-app)
 [![codecov](https://codecov.io/gh/offu/close-issue-app/branch/master/graph/badge.svg)](https://codecov.io/gh/offu/close-issue-app)  

@@ -8,17 +8,17 @@ authors:
 - jusx
 repository: jusx/mergeable
 host: https://mergeable-bot.herokuapp.com
-stars: 158
-updated: 2019-05-21 10:56:17 UTC
-installations: 106
+stars: 180
+updated: 2019-06-30 13:46:09 UTC
+installations: 128
 organizations:
 - protocolbuffers
 - grpc
 - phpstan
 - apache
-- fossasia
 - banzaicloud
 - theme-next
+- fossasia
 - rundeck
 - Radarr
 - audiohacked

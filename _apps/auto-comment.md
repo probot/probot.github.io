@@ -8,20 +8,20 @@ authors:
 - boyney123
 repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
-stars: 6
+stars: 7
 updated: 2019-02-18 11:52:06 UTC
-installations: 53
+installations: 63
 organizations:
 - adonisjs
 - ethereum
 - meetfranz
+- mitchellkrogza
+- hoodiearon
 - cosmocode
 - fvcproductions
 - OrkoHunter
+- tunnckocorehq
 - servicemesher
-- techqueria
-- IntellectualSites
-- fgl27
 ---
 
 

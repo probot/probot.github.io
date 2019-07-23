@@ -8,9 +8,9 @@ authors:
 - abhijeetps
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
-stars: 108
+stars: 114
 updated: 2019-03-02 17:06:57 UTC
-installations: 176
+installations: 174
 organizations:
 - ant-design
 - alibaba
@@ -18,10 +18,10 @@ organizations:
 - getredash
 - thepracticaldev
 - nock
+- datproject
 - developer-learning
 - NG-ZORRO
 - umijs
-- git-for-windows
 ---
 > App built using [Probot](https://probot.github.io/) which generates a weekly automated summary of activity on your GitHub repository
 ## App in Action ##
