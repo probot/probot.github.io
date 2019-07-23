@@ -11,7 +11,7 @@ repository: wei/pull
 host: https://pull.now.sh
 stars: 278
 updated: 2019-07-11 13:16:30 UTC
-installations: 910
+installations: 918
 organizations:
 - overtrue
 - hemanth
@@ -21,8 +21,8 @@ organizations:
 - AchoArnold
 - rvrsh3ll
 - SimenB
+- mubaidr
 - l3uddz
-- bgruening
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.
