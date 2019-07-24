@@ -18,13 +18,13 @@ organizations:
 - electron
 - ant-design
 - nuxt
+- influxdata
 - react-component
 - material-components
 - agalwood
 - monicahq
 - ethereum
 - frappe
-- probot
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec

@@ -10,18 +10,18 @@ repository: erickzhao/invite-contributors
 stars: 24
 updated: 2018-05-05 14:10:11 UTC
 host: https://vast-stream-78160.herokuapp.com
-installations: 40
+installations: 39
 organizations:
 - nteract
 - nextcloud
 - stylelint
 - gridsome
-- theme-next
 - Laravel-Backpack
 - tuist
 - imolorhe
 - publiclab
 - unoplatform
+- cla-assistant
 ---
 
 # invite-contributors

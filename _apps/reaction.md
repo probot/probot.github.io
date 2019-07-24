@@ -10,7 +10,7 @@ repository: dessant/reaction-comments
 host: https://probot-reaction-comments.glitch.me
 stars: 25
 updated: 2019-06-10 14:00:22 UTC
-installations: 75
+installations: 76
 organizations:
 - zealdocs
 - invertase

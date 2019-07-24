@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 175
-updated: 2019-07-23 16:43:56 UTC
-installations: 1625
+updated: 2019-07-24 15:29:49 UTC
+installations: 1631
 organizations:
-- ucm-sfc
+- jacobtyq
+- visitu
+- axel3rd
+- jesperryom
+- zcued
+- duy-a
+- freshesx
+- andrekampll
+- gaudiy
 - FairwindsOps
-- avaldigitallabs
-- viniciusavieira
-- ZiplineTeam
-- bhut-it
-- mubaidr
-- johno
-- AZDS
-- tomcorke
 ---
 
 # Delete merged branch
