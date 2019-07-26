@@ -5,7 +5,7 @@ slug: create-issue-branch
 screenshots:
 - https://github.com/robvanderleek/create-issue-branch/blob/master/static/create-issue-branch.gif?raw=true
 authors: [robvanderleek]
-repository: https://github.com/robvanderleek/create-issue-branch
+repository: robvanderleek/create-issue-branch
 host: https://secret-brook-77867.herokuapp.com
 ---
 # Create Issue Branch
