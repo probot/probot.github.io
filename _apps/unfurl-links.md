@@ -9,10 +9,11 @@ authors:
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 60
-updated: 2019-07-12 21:30:26 UTC
-installations: 283
+updated: 2019-07-24 15:23:11 UTC
+installations: 284
 organizations:
 - overtrue
+- istio
 - reactiveui
 - Eugeny
 - apereo
@@ -21,7 +22,6 @@ organizations:
 - thibmaek
 - goreleaser
 - Varying-Vagrant-Vagrants
-- snipe
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
