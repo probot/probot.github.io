@@ -14,7 +14,8 @@ updated: 2019-07-24 15:29:49 UTC
 installations: 1644
 organizations:
 - njzjz
-- Lughino
+- GhostWriters
+- python-mario
 - radicodeinc
 - Alfaesal23
 - ScileaDevelopment
@@ -22,7 +23,6 @@ organizations:
 - SEOshop
 - istio
 - mensinda
-- pedidosya
 ---
 
 # Delete merged branch
