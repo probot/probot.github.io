@@ -19,7 +19,6 @@ organizations:
 - njzjz
 - Sama34
 - opensourcecities
-- Algorhythm-IO
 - Amgwana
 - siphonyeti
 - jaandrle

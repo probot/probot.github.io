@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 156
-updated: 2019-07-19 10:04:43 UTC
-installations: 1598
+stars: 175
+updated: 2019-07-24 15:29:49 UTC
+installations: 1644
 organizations:
-- org-dependencies
-- venobo
-- RadialDevGroup
-- close2realtraining
-- kiwicom
-- damejidlo
-- gobacklog
-- cookpad-dietlab
-- medpeer-dev
-- mmcc007
+- njzjz
+- GhostWriters
+- python-mario
+- radicodeinc
+- Alfaesal23
+- ScileaDevelopment
+- eure
+- SEOshop
+- istio
+- mensinda
 ---
 
 # Delete merged branch

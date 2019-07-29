@@ -11,12 +11,13 @@ repository: entendu/untrivializer
 host: https://puffy-aftermath.glitch.me
 stars: 7
 updated: 2018-09-27 01:14:12 UTC
-installations: 14
+installations: 15
 organizations:
 - theme-next
 - marketplacer
 - njzjz
 - Kristinita
+- fanai-inc
 - entendu
 - VukAnd
 - octodemo

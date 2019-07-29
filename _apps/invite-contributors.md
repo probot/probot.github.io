@@ -12,11 +12,11 @@ updated: 2018-05-05 14:10:11 UTC
 host: https://vast-stream-78160.herokuapp.com
 installations: 40
 organizations:
+- istio
 - nteract
 - nextcloud
 - stylelint
 - gridsome
-- theme-next
 - Laravel-Backpack
 - tuist
 - imolorhe
