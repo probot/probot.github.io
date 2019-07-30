@@ -9,7 +9,7 @@ authors:
 - adamzolyak
 repository: adamzolyak/gh-vote-bot
 host: https://gh-vote-bot.herokuapp.com
-stars: 8
+stars: 9
 updated: 2018-10-23 18:43:20 UTC
 installations: 31
 organizations:
