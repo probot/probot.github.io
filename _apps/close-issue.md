@@ -10,7 +10,7 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 22
-updated: 2019-07-30 00:57:57 UTC
+updated: 2019-07-31 18:57:09 UTC
 installations: 56
 organizations:
 - Homebrew

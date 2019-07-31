@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 177
-updated: 2019-07-30 22:38:12 UTC
+updated: 2019-07-31 12:28:27 UTC
 installations: 1655
 organizations:
-- uniquelyparticular
+- NandosUK
+- RLittlesII
+- mani3522
+- ysura
+- electrofelix
+- preply
+- tommoor
 - anthHugo
+- MediaMarktSaturn
 - TE-0025110266
-- TE-0000103377
-- Satont
-- paymejp
-- beproud
-- showcase-gig-platform
-- fieldcast
-- TheSimpleZ
 ---
 
 # Delete merged branch
