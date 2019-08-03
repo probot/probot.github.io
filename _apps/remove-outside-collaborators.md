@@ -20,8 +20,8 @@ organizations:
 - Thezone1975
 - OpenAIM
 - TrapTeamCCNZ
-- ekimetrics
 - daddyfatstacksBIG
+- ekimetrics
 - KondaReddyR
 ---
 

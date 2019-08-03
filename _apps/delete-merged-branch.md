@@ -11,9 +11,9 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 179
 updated: 2019-08-02 12:01:42 UTC
-installations: 1647
+installations: 1643
 organizations:
-- datacamp-engineering
+- Effilab
 - logrhythm
 - hypha-publication
 - RebelMouseTeam
