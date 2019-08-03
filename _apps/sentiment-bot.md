@@ -18,8 +18,8 @@ organizations:
 - kartik-v
 - probot
 - git-for-windows
-- tiaanduplessis
 - theme-next
+- tiaanduplessis
 - MvvmCross
 - modo-studio
 - mitchellkrogza
