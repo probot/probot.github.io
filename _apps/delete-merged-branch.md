@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 180
-updated: 2019-08-05 21:33:33 UTC
-installations: 1639
+updated: 2019-08-06 13:31:30 UTC
+installations: 1634
 organizations:
-- pmcau
+- fvcproductions
+- darcyclarke
+- BinaryStudioAcademy
+- ozkanbicer78
+- universalunits
+- Archomeda
 - lmduc
+- kiranburra92
 - aredotna
 - sportshead
-- browscap
-- CURBON
-- Phila3beqn
-- pdulapalli
-- logrhythm
-- Muchogoc
 ---
 
 # Delete merged branch
