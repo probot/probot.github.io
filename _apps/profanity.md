@@ -21,8 +21,8 @@ organizations:
 - dgroup
 - sargsyan
 - hemanth22
-- frilox042
 - micalevisk
+- frilox042
 ---
 
 ## Usage
