@@ -10,16 +10,16 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 22
-updated: 2019-08-07 21:32:36 UTC
-installations: 57
+updated: 2019-08-07 23:40:51 UTC
+installations: 58
 organizations:
 - Homebrew
 - ant-design
 - react-boilerplate
 - vuetifyjs
 - android-hacker
-- travis-ci
 - vueComponent
+- travis-ci
 - coreos
 - CopyTranslator
 - offu
