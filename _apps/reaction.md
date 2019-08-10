@@ -12,8 +12,8 @@ stars: 25
 updated: 2019-06-10 14:00:22 UTC
 installations: 80
 organizations:
-- zealdocs
 - invertase
+- zealdocs
 - microsoft
 - Mottie
 - CellularPrivacy
