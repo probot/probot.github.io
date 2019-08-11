@@ -15,9 +15,9 @@ organizations:
 - njzjz
 - helaili
 - logikinc
-- frilox042
 - BadIdeaFactory
 - mdelagrange
+- frilox042
 - krithiva
 - octodemo
 ---
