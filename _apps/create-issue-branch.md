@@ -34,4 +34,4 @@ You can install the app directly from [*this page*](https://github.com/apps/crea
 
 ## Feedback, suggestions and bug reports
 
-Please create an issue here: https://github.com/robvanderleek/create-issue-branch/issues
+Please create an issue: https://github.com/robvanderleek/create-issue-branch/issues
