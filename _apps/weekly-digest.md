@@ -9,7 +9,7 @@ authors:
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 117
-updated: 2019-03-02 17:06:57 UTC
+updated: 2019-08-06 11:13:56 UTC
 installations: 174
 organizations:
 - ant-design

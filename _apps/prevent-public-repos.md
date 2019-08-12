@@ -10,18 +10,18 @@ repository: issc29/probot-prevent-public-repos
 host: https://probot-prevent-public-repos.herokuapp.com
 stars: 22
 updated: 2019-07-13 09:04:29 UTC
-installations: 190
+installations: 194
 organizations:
 - dollarshaveclub
 - bkeepers
 - pivotal
 - LiveRamp
 - SPSCommerce
+- tokopedia
 - telus
 - octopart
 - LEGO
 - logrhythm
-- njzjz
 ---
 
 # Prevent-Public-Repos Probot App
@@ -42,7 +42,7 @@ A GitHub Probot App that monitors and prevents Public Repositories from being cr
 ## Get Started
 
 1. [Configure the GitHub App](https://github.com/apps/prevent-public-repos)
-2. [Recommended] Create repo named `org-settings` and in it a file `.github/prevent-public-repos.yml` as described in the [How it Works](#How-it-Works) section to configure settings (and override defaults)
+2. [Recommended] Create repo named `org-settings` and in it a file `.github/prevent-public-repos.yml` as described in the [How it Works](#how-it-works) section to configure settings (and override defaults)
 3. It will then prevent public repos from being created
 
 ## How it Works

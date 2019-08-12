@@ -10,7 +10,7 @@ repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 6
 updated: 2018-12-28 09:22:39 UTC
-installations: 17
+installations: 16
 organizations:
 - xSploited
 - chrisyue
