@@ -21,7 +21,7 @@ organizations:
 - dgroup
 - sargsyan
 - hemanth22
-- micalevisk
+- zapify-ui
 - frilox042
 ---
 

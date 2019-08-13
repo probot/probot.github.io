@@ -17,8 +17,8 @@ organizations:
 - ant-design
 - react-boilerplate
 - vuetifyjs
-- android-hacker
 - vueComponent
+- android-hacker
 - travis-ci
 - coreos
 - CopyTranslator
