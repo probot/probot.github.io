@@ -20,8 +20,8 @@ organizations:
 - njzjz
 - dgroup
 - sargsyan
+- zapify-ui
 - hemanth22
-- micalevisk
 - frilox042
 ---
 

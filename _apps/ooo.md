@@ -20,8 +20,8 @@ organizations:
 - openjournals
 - JasonEtco
 - ropensci
-- matthewmccullough
 - wlandau
+- matthewmccullough
 - paulooosrj
 ---
 
