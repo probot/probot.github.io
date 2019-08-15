@@ -6,10 +6,10 @@ screenshots:
 - https://raw.githubusercontent.com/gr2m/wip-bot/master/assets/wip.gif
 authors:
 - gr2m
-repository: gr2m/wip-bot
+repository: wip/app
 stars: 492
 updated: 2019-08-13 19:28:51 UTC
-host: https://wip-bot.now.sh
+host: https://wip.now.sh
 installations: 1366
 organizations:
 - electron
