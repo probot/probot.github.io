@@ -13,16 +13,16 @@ stars: 184
 updated: 2019-08-13 18:42:57 UTC
 installations: 1655
 organizations:
-- kapoorlakshya
+- piyush97
+- osmaviation
+- ajax-systems
 - Marpop
+- Bjerkio
 - AndrewDaws
 - Ledgex
 - consensusaps
 - go-exchange
 - fluid-framework
-- pkuczynski
-- rvm
-- JamiesonRoberts
 ---
 
 # Delete merged branch
