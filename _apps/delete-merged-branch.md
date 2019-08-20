@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 184
-updated: 2019-08-19 21:11:47 UTC
+updated: 2019-08-20 07:19:59 UTC
 installations: 1652
 organizations:
-- theme-next
+- luckyscript
+- hmsholdings
 - sky-uk
+- EMnify
 - 1v9
 - u3u
 - brandondoran
 - disruptek
 - osmaviation
 - gogovan
-- ajax-systems
-- Marpop
 ---
 
 # Delete merged branch
