@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 183
-updated: 2019-08-22 23:13:49 UTC
-installations: 1652
+updated: 2019-08-23 08:07:25 UTC
+installations: 1654
 organizations:
-- orario-developer
+- ksoda
+- jhoward321
+- IsmaelMartinez
+- core-se
+- acmucsd
 - mtgolibrary
+- nupplaphil
 - BenDrozdoff
 - artnetworldwide
 - EdinburghAirport
-- w4ctech
-- brainstormforce
-- hmsholdings
-- insolar
-- sky-uk
 ---
 
 # Delete merged branch
