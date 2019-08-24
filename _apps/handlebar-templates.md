@@ -1,4 +1,4 @@
---
+---
 title: Handlebar Templates
 description: Issue body and pull request's body through handlebars to generate new bodies
 slug: handlebar-templates
