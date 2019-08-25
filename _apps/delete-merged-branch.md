@@ -14,7 +14,8 @@ updated: 2019-08-24 07:46:18 UTC
 installations: 1659
 organizations:
 - Healthera
-- taruuuch
+- VFDan
+- hashgraph
 - steven-sheehy
 - stenvix
 - gatsbyjs
@@ -22,7 +23,6 @@ organizations:
 - jhoward321
 - ronenl1
 - IsmaelMartinez
-- core-se
 ---
 
 # Delete merged branch
