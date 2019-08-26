@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 183
-updated: 2019-08-24 07:46:18 UTC
-installations: 1659
+updated: 2019-08-26 20:16:50 UTC
+installations: 1661
 organizations:
-- Healthera
+- oneiress
+- Nikschavan
+- zyro-inc
+- Uqido
+- oapio
 - VFDan
+- taruuuch
 - hashgraph
 - steven-sheehy
 - stenvix
-- gatsbyjs
-- AMDlab
-- jhoward321
-- ronenl1
-- IsmaelMartinez
 ---
 
 # Delete merged branch

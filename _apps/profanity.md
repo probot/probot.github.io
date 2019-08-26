@@ -19,8 +19,8 @@ organizations:
 - techqueria
 - njzjz
 - dgroup
-- sargsyan
 - zapify-ui
+- sargsyan
 - hemanth22
 - frilox042
 ---

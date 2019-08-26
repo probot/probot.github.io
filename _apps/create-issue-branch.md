@@ -4,9 +4,22 @@ description: Creates a new branch after assigning an issue
 slug: create-issue-branch
 screenshots:
 - https://github.com/robvanderleek/create-issue-branch/blob/master/static/create-issue-branch.gif?raw=true
-authors: [robvanderleek]
+authors:
+- robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://secret-brook-77867.herokuapp.com
+stars: 4
+updated: 2019-08-20 21:28:56 UTC
+installations: 19
+organizations:
+- othreecodes
+- nerdmax
+- mohanagy
+- BucketDev
+- robvanderleek
+- fabio-particles
+- danielkov
+- vibindaniel
 ---
 # Create Issue Branch
 
