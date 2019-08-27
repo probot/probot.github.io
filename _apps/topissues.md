@@ -31,11 +31,4 @@ The Top Issues bot runs every 25 minutes, labeling top issues and unlabeling iss
 
 ## Installation
 
-After installing the app, create a `topissuebot.yml` file to the `.github` directory to enable the bot. The file must contain the following properties.  Customize the values as desired.
-
-```yml
-# Configuration for top-issue-bot
-labelName: ":thumbsup: Top Issue!"
-labelColor: "f442c2"
-numberOfIssuesToLabel: 5
-```
+The Top Issue bot is being deprecated in favor of the [Top Issues GitHub Action](https://github.com/marketplace/actions/top-issues-labeler).  The bot will be removed on September 15, 2019.
