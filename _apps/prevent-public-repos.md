@@ -15,8 +15,8 @@ organizations:
 - dollarshaveclub
 - bkeepers
 - pivotal
-- LiveRamp
 - SPSCommerce
+- LiveRamp
 - tokopedia
 - telus
 - octopart
