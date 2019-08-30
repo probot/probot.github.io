@@ -10,7 +10,7 @@ authors:
 repository: nickgarlis/probot-profanity
 host: https://probot-profanity.now.sh
 stars: 8
-updated: 2018-08-27 17:02:44 UTC
+updated: 2019-08-30 21:39:33 UTC
 installations: 18
 organizations:
 - tipeio

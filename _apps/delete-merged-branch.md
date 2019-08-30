@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 184
 updated: 2019-08-29 05:31:10 UTC
-installations: 1670
+installations: 1668
 organizations:
-- expert360
-- teamcurri
+- yumemi-inc-private
+- enriquemanuel
+- mtttcgcg
 - Techpit-Market
 - dinaredaa
 - gopinath-langote
@@ -22,7 +23,6 @@ organizations:
 - pattyland
 - subbu107
 - Noeyfan
-- lucywyman
 ---
 
 # Delete merged branch

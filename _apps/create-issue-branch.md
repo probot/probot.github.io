@@ -10,7 +10,7 @@ repository: robvanderleek/create-issue-branch
 host: https://secret-brook-77867.herokuapp.com
 stars: 5
 updated: 2019-08-20 21:28:56 UTC
-installations: 24
+installations: 25
 organizations:
 - othreecodes
 - nerdmax
@@ -19,9 +19,9 @@ organizations:
 - robvanderleek
 - fabio-particles
 - corrortiz
+- hamonikr
 - joenkl
 - danielkov
-- vibindaniel
 ---
 # Create Issue Branch
 
