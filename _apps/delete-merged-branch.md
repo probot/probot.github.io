@@ -13,8 +13,9 @@ stars: 184
 updated: 2019-08-29 05:31:10 UTC
 installations: 1668
 organizations:
-- yumemi-inc-private
-- enriquemanuel
+- Oneflow
+- jmunoz1992
+- teamcurri
 - mtttcgcg
 - Techpit-Market
 - dinaredaa
@@ -22,7 +23,6 @@ organizations:
 - lilebin
 - pattyland
 - subbu107
-- Noeyfan
 ---
 
 # Delete merged branch
