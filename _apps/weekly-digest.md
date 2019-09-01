@@ -8,7 +8,7 @@ authors:
 - abhijeetps
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
-stars: 119
+stars: 120
 updated: 2019-08-27 17:47:31 UTC
 installations: 196
 organizations:
