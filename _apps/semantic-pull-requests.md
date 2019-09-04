@@ -13,7 +13,7 @@ repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
 stars: 179
 updated: 2019-08-29 17:39:25 UTC
-installations: 520
+installations: 523
 organizations:
 - electron
 - ant-design

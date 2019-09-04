@@ -19,8 +19,8 @@ organizations:
 - Laravel-Backpack
 - tuist
 - imolorhe
-- publiclab
 - unoplatform
+- publiclab
 - cla-assistant
 ---
 
