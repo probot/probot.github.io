@@ -17,8 +17,8 @@ organizations:
 - times
 - LiveRamp
 - telus
-- Thezone1975
 - OpenAIM
+- Thezone1975
 - TrapTeamCCNZ
 - daddyfatstacksBIG
 - ekimetrics
