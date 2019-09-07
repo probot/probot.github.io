@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 183
-updated: 2019-09-03 11:14:00 UTC
-installations: 1680
+updated: 2019-09-07 05:09:17 UTC
+installations: 1682
 organizations:
-- react-component
+- UZIhuhuhu
+- JoachimVeulemans
 - barryvdh
+- transferwise
 - grassberry-high
 - semabit
 - KaycoinsInc
 - helix-re
 - neoreo
 - classdojo
-- open-ocean-robotics
-- sbacchio
 ---
 
 # Delete merged branch
