@@ -20,8 +20,8 @@ organizations:
 - fabio-particles
 - ilyasmohamed
 - tibmeister
+- EncoreProject
 - corrortiz
-- hamonikr
 ---
 # Create Issue Branch
 
