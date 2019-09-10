@@ -15,8 +15,8 @@ installations: 31
 organizations:
 - reactiveui
 - swagger-api
-- PrestaShop
 - theme-next
+- PrestaShop
 - pypa
 - Robdel12
 - GameServerManagers
