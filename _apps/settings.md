@@ -10,7 +10,7 @@ screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
 updated: 2019-09-12 05:32:55 UTC
 host: https://github-configurer.herokuapp.com
-installations: 592
+installations: 593
 organizations:
 - apollographql
 - npm

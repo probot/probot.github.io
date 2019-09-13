@@ -18,8 +18,8 @@ organizations:
 - BucketDev
 - fabio-particles
 - robvanderleek
+- reactgular
 - kacper1095
-- ilyasmohamed
 - tibmeister
 - EncoreProject
 ---
