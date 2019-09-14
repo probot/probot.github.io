@@ -17,8 +17,8 @@ organizations:
 - Laravel-Backpack
 - aragon
 - karthik
-- openjournals
 - JasonEtco
+- openjournals
 - ropensci
 - wlandau
 - matthewmccullough
