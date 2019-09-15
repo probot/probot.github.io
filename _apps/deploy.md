@@ -16,9 +16,9 @@ organizations:
 - suhanlee
 - helaili
 - logikinc
-- frilox042
 - BadIdeaFactory
 - mdelagrange
+- frilox042
 - BlueBaseJS
 - krithiva
 - octodemo

@@ -22,7 +22,7 @@ organizations:
 - zapify-ui
 - sargsyan
 - hemanth22
-- frilox042
+- micalevisk
 ---
 
 ## Usage

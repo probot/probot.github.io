@@ -13,16 +13,16 @@ stars: 185
 updated: 2019-09-14 20:39:10 UTC
 installations: 1683
 organizations:
-- magneticio
+- hrg921
+- sneg55
 - ari1988
+- chunlea
 - luuna-tech
 - lukasmrtvy
 - yotamshapira
 - SnowCait
 - vmattaparthi
 - DmitrijKotsur
-- c0ntact
-- glavdev
 ---
 
 # Delete merged branch
