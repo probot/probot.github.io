@@ -10,9 +10,8 @@ repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 6
 updated: 2018-12-28 09:22:39 UTC
-installations: 16
+installations: 15
 organizations:
-- xSploited
 - chrisyue
 - duncdrum
 - hemanth22
@@ -21,7 +20,8 @@ organizations:
 - byteshiva
 - frilox042
 - olitreadwell
-- cerebrowang
+- Skeyelab
+- revad-ueda
 ---
 
 # Similar code Searcher

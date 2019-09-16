@@ -19,10 +19,10 @@ organizations:
 - bazzite
 - unix
 - mike-works
-- simoncozens
 - yhlben
 - linkorb
 - xlayers
+- react-native-sensors
 ---
 
 <p align="center">

@@ -21,8 +21,8 @@ organizations:
 - google
 - timvideos
 - thefrontside
-- tunnckoCoreLabs
 - SymbiFlow
+- su2code
 ---
 
 <p align="center">
