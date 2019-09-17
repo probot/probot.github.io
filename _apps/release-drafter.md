@@ -10,7 +10,7 @@ repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 689
 updated: 2019-09-12 20:49:36 UTC
-installations: 900
+installations: 901
 organizations:
 - fossasia
 - jenkinsci
@@ -19,9 +19,9 @@ organizations:
 - DevExpress
 - moovweb
 - concourse
-- HospitalRun
 - gitextensions
 - abraham
+- electron
 ---
 
 ## Usage
