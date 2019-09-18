@@ -21,8 +21,8 @@ organizations:
 - Thezone1975
 - TrapTeamCCNZ
 - daddyfatstacksBIG
+- pgetech
 - ekimetrics
-- KondaReddyR
 ---
 
 # Remove Outside Collaborators

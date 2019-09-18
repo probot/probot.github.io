@@ -22,7 +22,7 @@ organizations:
 - frilox042
 - VukAnd
 - octodemo
-- switchplus
+- Prometheos2
 ---
 
 # untrivializer
