@@ -7,8 +7,8 @@ screenshots:
 authors:
 - gr2m
 repository: wip/app
-stars: 497
-updated: 2019-09-18 18:41:51 UTC
+stars: 498
+updated: 2019-09-19 16:50:06 UTC
 host: https://wip.now.sh
 installations: 1366
 organizations:
