@@ -9,8 +9,8 @@ authors:
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 691
-updated: 2019-09-19 16:48:39 UTC
-installations: 908
+updated: 2019-09-20 15:44:54 UTC
+installations: 910
 organizations:
 - fossasia
 - jenkinsci
@@ -20,8 +20,8 @@ organizations:
 - moovweb
 - concourse
 - gitextensions
-- abraham
 - electron
+- abraham
 ---
 
 ## Usage
