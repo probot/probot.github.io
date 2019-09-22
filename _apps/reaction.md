@@ -18,8 +18,8 @@ organizations:
 - Mottie
 - CellularPrivacy
 - Radarr
-- GameServerManagers
 - sethvargo
+- GameServerManagers
 - idehub
 - chefspec
 ---
