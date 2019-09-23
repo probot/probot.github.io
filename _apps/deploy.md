@@ -18,8 +18,8 @@ organizations:
 - logikinc
 - BadIdeaFactory
 - mdelagrange
-- frilox042
 - BlueBaseJS
+- frilox042
 - krithiva
 - octodemo
 ---
