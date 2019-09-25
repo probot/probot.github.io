@@ -11,10 +11,9 @@ repository: z0al/dep
 host: https://probot-dep.now.sh
 stars: 52
 updated: 2018-08-12 07:47:54 UTC
-installations: 162
+installations: 161
 organizations:
 - ant-design
-- antvis
 - AvaloniaUI
 - wp-cli
 - Laravel-Backpack
@@ -23,6 +22,7 @@ organizations:
 - thefrontside
 - SymbiFlow
 - su2code
+- decidim
 ---
 
 <p align="center">
