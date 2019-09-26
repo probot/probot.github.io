@@ -9,12 +9,13 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 187
+stars: 189
 updated: 2019-09-23 17:08:11 UTC
-installations: 1692
+installations: 1689
 organizations:
-- matteo-hertel
-- CruGlobal
+- GurdZain
+- Twistbioscience
+- agottschling
 - workos-inc
 - pedroassumpcao
 - scordio
@@ -22,7 +23,6 @@ organizations:
 - 13LD
 - raxjs
 - Prenetics
-- hk01-digital
 ---
 
 # Delete merged branch

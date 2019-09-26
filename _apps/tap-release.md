@@ -19,8 +19,8 @@ organizations:
 - njzjz
 - buildkite
 - kentaro-m
-- iamogbz
 - dmirubtsov
+- iamogbz
 - hemanth22
 ---
 
