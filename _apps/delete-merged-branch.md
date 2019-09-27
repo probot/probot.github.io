@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 189
-updated: 2019-09-23 17:08:11 UTC
-installations: 1689
+updated: 2019-09-26 11:27:18 UTC
+installations: 1692
 organizations:
-- GurdZain
+- skdomains
+- DjolePetrovic
+- rndsqr
+- passiv
+- marcobiedermann
+- xmohap
 - Twistbioscience
+- CruGlobal
 - agottschling
 - workos-inc
-- pedroassumpcao
-- scordio
-- MoonActive
-- 13LD
-- raxjs
-- Prenetics
 ---
 
 # Delete merged branch
