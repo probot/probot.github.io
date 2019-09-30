@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 189
-updated: 2019-09-26 11:27:18 UTC
-installations: 1692
+updated: 2019-09-29 10:13:38 UTC
+installations: 1697
 organizations:
-- skdomains
+- octodemo
+- jspargo
+- Dysproz
+- WhiteOnBlackCode
+- timqian
+- frondeus
+- ao-libre
+- imow-frontend
 - DjolePetrovic
-- rndsqr
-- passiv
-- marcobiedermann
-- xmohap
-- Twistbioscience
-- CruGlobal
-- agottschling
-- workos-inc
+- mikecousins
 ---
 
 # Delete merged branch

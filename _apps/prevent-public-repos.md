@@ -20,8 +20,8 @@ organizations:
 - telus
 - octopart
 - LEGO
-- logrhythm
 - njzjz
+- logrhythm
 ---
 
 # Prevent-Public-Repos Probot App

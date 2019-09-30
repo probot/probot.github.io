@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 692
-updated: 2019-09-26 10:45:22 UTC
-installations: 928
+stars: 696
+updated: 2019-09-29 10:15:43 UTC
+installations: 934
 organizations:
 - fossasia
 - jenkinsci
@@ -21,7 +21,7 @@ organizations:
 - concourse
 - gitextensions
 - electron
-- abraham
+- theme-next
 ---
 
 ## Usage
