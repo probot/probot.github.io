@@ -11,7 +11,7 @@ repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 10
 updated: 2019-09-16 23:47:38 UTC
-installations: 37
+installations: 38
 organizations:
 - times
 - LiveRamp
