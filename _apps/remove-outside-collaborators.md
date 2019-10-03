@@ -10,7 +10,7 @@ authors:
 repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 10
-updated: 2019-09-16 23:47:38 UTC
+updated: 2019-10-02 12:09:42 UTC
 installations: 38
 organizations:
 - times

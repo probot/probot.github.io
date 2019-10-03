@@ -13,7 +13,6 @@ stars: 22
 updated: 2019-09-29 12:00:04 UTC
 installations: 68
 organizations:
-- Homebrew
 - ant-design
 - react-boilerplate
 - vuetifyjs
@@ -23,6 +22,7 @@ organizations:
 - coreos
 - CopyTranslator
 - offu
+- l-hammer
 ---
 [![Build Status](https://travis-ci.org/offu/close-issue-app.svg?branch=master)](https://travis-ci.org/offu/close-issue-app)
 [![codecov](https://codecov.io/gh/offu/close-issue-app/branch/master/graph/badge.svg)](https://codecov.io/gh/offu/close-issue-app)  
