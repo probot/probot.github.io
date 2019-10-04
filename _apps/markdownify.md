@@ -21,7 +21,7 @@ organizations:
 - octokit
 - gr2m
 - stefanbuck
-- tunnckoCoreLabs
+- aashutoshrathi
 ---
 
 ## How it works

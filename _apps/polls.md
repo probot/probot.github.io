@@ -12,18 +12,18 @@ repository: evenchange4/gh-polls-bot
 host: https://gh-polls-bot.now.sh
 stars: 169
 updated: 2018-01-15 01:35:10 UTC
-installations: 457
+installations: 460
 organizations:
 - overtrue
 - istio
 - apex
 - Automattic
+- kataras
 - RxSwiftCommunity
 - jaegertracing
 - siddharthkp
 - RasaHQ
 - chaijs
-- probot
 ---
 
 # GitHub Polls Bot

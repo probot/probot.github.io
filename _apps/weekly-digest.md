@@ -10,7 +10,7 @@ repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 124
 updated: 2019-08-27 17:47:31 UTC
-installations: 226
+installations: 225
 organizations:
 - ant-design
 - foundation

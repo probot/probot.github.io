@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 189
-updated: 2019-10-01 13:01:32 UTC
-installations: 1710
+stars: 190
+updated: 2019-10-03 09:18:18 UTC
+installations: 1713
 organizations:
-- blthemes
+- piktochart
+- NargiT
+- emisgroup
+- candor
+- wallaby-rails
 - insapio
+- WesleyBatista
 - huvrdata
 - Babylonpartners
 - jacebenson
-- wemake-services
-- enjin
-- aiden
-- sky-uk
-- Open-Source-Contributors-JSS
 ---
 
 # Delete merged branch
