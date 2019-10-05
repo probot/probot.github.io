@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 190
 updated: 2019-10-03 09:18:18 UTC
-installations: 1713
+installations: 1721
 organizations:
-- piktochart
+- limebike
+- easybroker
+- Cosmic9Studios
+- phenry20
+- OpenMessage
+- arjunsajeev
+- golangci
+- TritonSE
 - NargiT
-- emisgroup
-- candor
-- wallaby-rails
-- insapio
-- WesleyBatista
-- huvrdata
-- Babylonpartners
-- jacebenson
+- chadmayfield
 ---
 
 # Delete merged branch

@@ -9,9 +9,9 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.now.sh
-stars: 405
+stars: 408
 updated: 2019-10-02 18:09:25 UTC
-installations: 1263
+installations: 1267
 organizations:
 - overtrue
 - hemanth
