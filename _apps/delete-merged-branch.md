@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 190
 updated: 2019-10-03 09:18:18 UTC
-installations: 1721
+installations: 1720
 organizations:
-- limebike
-- easybroker
+- triat
+- mude-fit
+- w88vietnam
 - Cosmic9Studios
 - phenry20
 - OpenMessage
@@ -22,7 +23,6 @@ organizations:
 - golangci
 - TritonSE
 - NargiT
-- chadmayfield
 ---
 
 # Delete merged branch
