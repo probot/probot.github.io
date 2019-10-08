@@ -9,20 +9,20 @@ authors:
 - z0al
 repository: z0al/commitlint-bot
 host: https://probot-commitlint.now.sh
-stars: 139
+stars: 140
 updated: 2019-10-03 20:40:41 UTC
-installations: 200
+installations: 199
 organizations:
 - rook
 - mike-north
 - webpack
 - bazzite
 - unix
-- ceph
 - mike-works
 - yhlben
 - linkorb
 - xlayers
+- react-native-sensors
 ---
 
 <p align="center">
