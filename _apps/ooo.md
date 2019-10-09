@@ -11,7 +11,7 @@ repository: swinton/probot-ooo
 host: https://probot-ooo.herokuapp.com
 stars: 28
 updated: 2018-01-06 15:08:10 UTC
-installations: 51
+installations: 53
 organizations:
 - arcticicestudio
 - Laravel-Backpack
@@ -20,9 +20,9 @@ organizations:
 - JasonEtco
 - openjournals
 - ropensci
+- intermine
 - wlandau
 - matthewmccullough
-- paulooosrj
 ---
 
 # Probot: OOO
