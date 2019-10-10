@@ -10,7 +10,7 @@ repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 stars: 10
 updated: 2019-09-26 14:00:33 UTC
-installations: 76
+installations: 77
 organizations:
 - adonisjs
 - ethereum

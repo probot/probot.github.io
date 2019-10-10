@@ -9,8 +9,8 @@ authors:
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
 stars: 31
-updated: 2019-10-07 23:44:57 UTC
-installations: 20
+updated: 2019-10-09 22:30:40 UTC
+installations: 22
 organizations:
 - infection
 - humbug
@@ -19,9 +19,9 @@ organizations:
 - njzjz
 - buildkite
 - kentaro-m
+- GetStream
 - dmirubtsov
 - iamogbz
-- hemanth22
 ---
 
 ## Usage

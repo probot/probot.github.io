@@ -18,11 +18,11 @@ organizations:
 - telus
 - OpenAIM
 - Thezone1975
-- syaifudin857
 - daddyfatstacksBIG
 - TrapTeamCCNZ
 - KondaReddyR
 - ekimetrics
+- pgetech
 ---
 
 # Remove Outside Collaborators
