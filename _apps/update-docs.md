@@ -18,8 +18,8 @@ organizations:
 - carla-simulator
 - hvac
 - splash-cli
-- behaviorbot
 - arkokoley
+- behaviorbot
 - KengoTODA
 - techqueria
 - ilovecode1

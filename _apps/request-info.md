@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/request-info
 updated: 2019-04-19 17:01:24 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 952
+installations: 953
 organizations:
 - Homebrew
 - ant-design
@@ -19,10 +19,10 @@ organizations:
 - overtrue
 - standard
 - apache
+- HeroTransitions
 - invertase
 - nlohmann
 - react-component
-- getredash
 ---
 
 

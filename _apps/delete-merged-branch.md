@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 190
-updated: 2019-10-09 22:37:10 UTC
-installations: 1722
+updated: 2019-10-10 07:21:51 UTC
+installations: 1726
 organizations:
-- ac3cloud
+- BridgeU
+- jmdeejay
+- gunn-capstone
+- edsbuildings
 - snowe2010
+- weibo785424079
 - syaifudin857
 - refreex
 - netrebel
 - ljuraszek
-- awvwgk
-- buildeazy-gmbh
-- mude-fit
-- easybroker
 ---
 
 # Delete merged branch
