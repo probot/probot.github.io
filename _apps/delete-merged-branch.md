@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 190
-updated: 2019-10-10 07:21:51 UTC
-installations: 1726
+updated: 2019-10-11 07:44:43 UTC
+installations: 1731
 organizations:
-- BridgeU
+- cnmetro
+- highscoresl
+- antonyGeorge
+- owncloud-docker
+- owncloud-ci
+- Na-Nazhou
+- visenze
 - jmdeejay
+- fluidly
 - gunn-capstone
-- edsbuildings
-- snowe2010
-- weibo785424079
-- syaifudin857
-- refreex
-- netrebel
-- ljuraszek
 ---
 
 # Delete merged branch
