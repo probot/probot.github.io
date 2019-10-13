@@ -9,7 +9,7 @@ authors:
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 61
-updated: 2019-10-09 22:35:15 UTC
+updated: 2019-10-12 17:51:55 UTC
 installations: 298
 organizations:
 - overtrue

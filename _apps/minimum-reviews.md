@@ -20,8 +20,8 @@ organizations:
 - divyenduz
 - hemanth22
 - frilox042
+- platzi
 - Katlean
-- iShaVas
 ---
 
 # Probot: Minimum Reviews
