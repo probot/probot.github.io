@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 190
-updated: 2019-10-12 17:53:17 UTC
-installations: 1735
+updated: 2019-10-13 11:02:11 UTC
+installations: 1738
 organizations:
-- Agrium
+- CMProductions
+- ex0b1t
+- SITE4D
 - oslobf
+- PARK-JONGSEOK
 - CheerlessCloud
 - jgratha
 - hanxiaodd01
 - highscoresl
 - einhyrningen
-- antonyGeorge
-- owncloud-docker
-- owncloud-ci
 ---
 
 # Delete merged branch
