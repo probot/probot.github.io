@@ -19,8 +19,8 @@ organizations:
 - symphonyoss
 - divyenduz
 - hemanth22
-- frilox042
 - platzi
+- frilox042
 - Katlean
 ---
 

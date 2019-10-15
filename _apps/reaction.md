@@ -21,7 +21,7 @@ organizations:
 - sethvargo
 - GameServerManagers
 - idehub
-- chefspec
+- open62541
 ---
 
 A GitHub App that deletes reaction comments, such as +1,
