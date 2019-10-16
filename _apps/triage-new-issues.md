@@ -19,8 +19,8 @@ organizations:
 - pypa
 - playframework
 - thepracticaldev
-- Semantic-Org
 - CachetHQ
+- Semantic-Org
 - adonisjs
 - Azure
 - Laravel-Backpack
