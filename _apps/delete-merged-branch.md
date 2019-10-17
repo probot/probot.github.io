@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 191
-updated: 2019-10-15 23:38:09 UTC
-installations: 1742
+updated: 2019-10-16 06:31:01 UTC
+installations: 1750
 organizations:
-- nega0
+- rgardner
+- LALALAB
+- kareo-pm
+- kareo-galvatron
+- kareo-ehr
+- kareo-doctorbase
+- kareo-archive
+- Kareo
 - Birds-Awesome-Org
-- zlrenner
-- emscripten-core
-- james2mid
-- emanuel-bs
-- pycontribs
-- rajatgoyal715
-- ex0b1t
-- hmmbob
+- mashupgarage
 ---
 
 # Delete merged branch
