@@ -21,8 +21,8 @@ organizations:
 - tox-dev
 - bitnami-labs
 - Glavin001
-- infection
 - wemake-services
+- infection
 ---
 
 <p align="center">

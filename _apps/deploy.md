@@ -13,15 +13,15 @@ updated: 2019-02-27 06:10:12 UTC
 installations: 28
 organizations:
 - njzjz
-- suhanlee
 - helaili
+- suhanlee
 - logikinc
 - BadIdeaFactory
 - mdelagrange
-- BlueBaseJS
 - frilox042
-- krithiva
+- BlueBaseJS
 - octodemo
+- 2bellbree
 ---
 
 This app uses GitHub's deployment API and triggers a deployment event when a matching label is applied to a Pull Request. 

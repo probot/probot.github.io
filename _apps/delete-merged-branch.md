@@ -14,15 +14,15 @@ updated: 2019-10-18 22:33:14 UTC
 installations: 1761
 organizations:
 - wriggle
+- qwertyyb
 - kareo-mobile
+- kareo-it
 - kareo-marketing
 - kareo-frontend
 - kareo-experiments
 - kareo-data
 - UKMNorge
 - amarjupalli
-- hzuo
-- devYaga
 ---
 
 # Delete merged branch
