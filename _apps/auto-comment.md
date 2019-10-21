@@ -18,8 +18,8 @@ organizations:
 - mitchellkrogza
 - mazipan
 - hoodiearon
-- cosmocode
 - fvcproductions
+- cosmocode
 - OrkoHunter
 - fgl27
 ---

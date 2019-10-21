@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 193
 updated: 2019-10-18 22:33:14 UTC
-installations: 1761
+installations: 1765
 organizations:
-- wriggle
+- pafcloud
+- vinayakainhhh
+- DeBuchie
+- sPresto
 - qwertyyb
+- wiley
 - kareo-mobile
 - kareo-it
 - kareo-marketing
 - kareo-frontend
-- kareo-experiments
-- kareo-data
-- UKMNorge
-- amarjupalli
 ---
 
 # Delete merged branch
