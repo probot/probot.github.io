@@ -8,9 +8,9 @@ authors:
 - abhijeetps
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
-stars: 127
+stars: 128
 updated: 2019-08-27 17:47:31 UTC
-installations: 229
+installations: 231
 organizations:
 - ant-design
 - ionic-team
