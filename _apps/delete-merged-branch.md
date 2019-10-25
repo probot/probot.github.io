@@ -13,16 +13,16 @@ stars: 194
 updated: 2019-10-23 19:33:58 UTC
 installations: 1780
 organizations:
-- akoliyot
+- traintool
+- TPSEngage
+- henkrehorst
+- meunice
 - bcgov
+- Unity-Technologies
 - customink
 - 605data
 - streetmagic406
-- eyesight-tech
 - Smile-js
-- kushthedude
-- kareo-misc
-- simoneb
 ---
 
 # Delete merged branch
