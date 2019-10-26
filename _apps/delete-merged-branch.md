@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 194
+stars: 195
 updated: 2019-10-23 19:33:58 UTC
-installations: 1780
+installations: 1783
 organizations:
-- traintool
+- plopcas
+- ahazou
+- Nullifiers
+- atolia-scoledge
+- uktrade
 - TPSEngage
+- captec
 - henkrehorst
 - meunice
 - bcgov
-- Unity-Technologies
-- customink
-- 605data
-- streetmagic406
-- Smile-js
 ---
 
 # Delete merged branch
