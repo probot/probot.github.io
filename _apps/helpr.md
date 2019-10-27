@@ -11,7 +11,7 @@ repository: rsarky/helpr
 host: https://evening-depths-50399.herokuapp.com
 stars: 10
 updated: 2018-04-20 09:11:34 UTC
-installations: 51
+installations: 58
 organizations:
 - aio-libs
 - cefsharp
@@ -19,10 +19,10 @@ organizations:
 - ansible
 - GameServerManagers
 - tox-dev
+- bitnami-labs
 - Glavin001
-- infection
 - wemake-services
-- Unibeautify
+- infection
 ---
 
 <p align="center">

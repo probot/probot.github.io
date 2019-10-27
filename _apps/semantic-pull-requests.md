@@ -11,20 +11,20 @@ authors:
 - bkeepers
 repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
-stars: 162
-updated: 2019-07-11 17:40:10 UTC
-installations: 450
+stars: 223
+updated: 2019-10-04 17:03:28 UTC
+installations: 629
 organizations:
 - electron
 - ant-design
 - nuxt
+- antvis
+- NativeScript
 - influxdata
-- react-component
-- material-components
+- prisma-labs
+- vuejs
 - agalwood
-- monicahq
-- ethereum
-- frappe
+- material-components
 ---
 
 > GitHub status check that ensures your pull requests follow the Conventional Commits spec

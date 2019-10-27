@@ -8,20 +8,20 @@ authors:
 - toolmantim
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
-stars: 30
-updated: 2019-07-13 03:56:23 UTC
-installations: 16
+stars: 31
+updated: 2019-10-24 09:13:30 UTC
+installations: 22
 organizations:
 - infection
 - humbug
 - AugurProject
 - tophat
 - njzjz
-- kentaro-m
 - buildkite
+- kentaro-m
+- GetStream
+- dmirubtsov
 - iamogbz
-- hemanth22
-- frilox042
 ---
 
 ## Usage

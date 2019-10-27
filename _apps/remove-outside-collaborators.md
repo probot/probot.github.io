@@ -10,19 +10,19 @@ authors:
 repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 10
-updated: 2019-07-26 15:12:14 UTC
-installations: 35
+updated: 2019-10-10 12:47:33 UTC
+installations: 53
 organizations:
-- pivotal
 - times
 - LiveRamp
 - telus
-- Thezone1975
 - OpenAIM
-- TrapTeamCCNZ
-- ekimetrics
+- Thezone1975
 - daddyfatstacksBIG
+- TrapTeamCCNZ
 - KondaReddyR
+- ekimetrics
+- pgetech
 ---
 
 # Remove Outside Collaborators
@@ -41,7 +41,7 @@ Constant monitoring and instant removal of any Outside Collaborators added to yo
 ## Get Started
 
 1. [Configure the App](https://github.com/apps/remove-outside-collaborators)
-2. [Recommended] Create repo named `org-settings` and in it a file `.github/remove-outside-collaborators.yml` as described in the [How it Works](#How-it-Works) section to configure settings (and override defaults)
+2. [Recommended] Create repo named `org-settings` and in it a file `.github/remove-outside-collaborators.yml` as described in the [How it Works](#how-it-works) section to configure settings (and override defaults)
 3. It will then prevent any outside collaborators (other than any whitelisted members) from being added to your organization.
 
 ## How it Works

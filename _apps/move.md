@@ -9,8 +9,8 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://probot-move-issues.glitch.me
-stars: 37
-updated: 2019-06-10 11:47:16 UTC
+stars: 39
+updated: 2019-10-25 21:33:51 UTC
 installations: 130
 organizations:
 - microsoft

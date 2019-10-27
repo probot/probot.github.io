@@ -5,23 +5,23 @@ slug: tests-checker
 screenshots:
 - https://user-images.githubusercontent.com/3725595/45590526-b7f3fa00-b942-11e8-972d-143c0b367017.png
 authors:
-- borNfreee
+- maks-rafalko
 repository: infection/tests-checker
 host: https://tests-checker.now.sh
-stars: 23
+stars: 24
 updated: 2019-07-22 18:21:14 UTC
-installations: 25
+installations: 29
 organizations:
 - ant-design
+- antvis
 - fastify
 - mcollina
 - infection
+- commons-app
 - chrisyue
-- mimmi20
 - njzjz
 - maks-rafalko
-- SantiMA10
-- hemanth22
+- devkabiir
 ---
 
 # Tests Checker

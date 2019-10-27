@@ -5,21 +5,21 @@ description: Replies to toxic comments with a maintainer designated reply and a 
 slug: sentiment-bot
 screenshots:
 - https://user-images.githubusercontent.com/13410355/29323857-fcfe4b4e-8196-11e7-9a08-6184fd46edbb.png
-stars: 58
+stars: 60
 authors:
 - hiimbex
 repository: behaviorbot/sentiment-bot
 updated: 2018-10-25 18:45:35 UTC
 host: https://probot-sentiment-bot.herokuapp.com
-installations: 125
+installations: 130
 organizations:
 - ant-design
 - nlohmann
 - kartik-v
 - probot
 - git-for-windows
-- tiaanduplessis
 - theme-next
+- tiaanduplessis
 - MvvmCross
 - modo-studio
 - mitchellkrogza

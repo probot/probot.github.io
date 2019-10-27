@@ -17,12 +17,12 @@ organizations:
 - marketplacer
 - njzjz
 - Kristinita
-- fanai-inc
 - entendu
+- fanai-inc
+- frilox042
 - VukAnd
 - octodemo
-- andrewmurraydavid
-- switchplus
+- Prometheos2
 ---
 
 # untrivializer

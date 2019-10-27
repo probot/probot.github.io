@@ -3,5 +3,3 @@
 set -e
 
 ruby test/*_test.rb
-script/build
-script/html-proofer

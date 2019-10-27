@@ -9,20 +9,20 @@ authors:
 - nickgarlis
 repository: nickgarlis/probot-profanity
 host: https://probot-profanity.now.sh
-stars: 8
-updated: 2018-08-27 17:02:44 UTC
-installations: 16
+stars: 9
+updated: 2019-10-10 17:29:28 UTC
+installations: 19
 organizations:
 - tipeio
+- darcyclarke
 - fvcproductions
 - techqueria
 - njzjz
 - dgroup
+- zapify-ui
 - sargsyan
 - hemanth22
 - micalevisk
-- frilox042
-- TrapTeamCCNZ
 ---
 
 ## Usage
