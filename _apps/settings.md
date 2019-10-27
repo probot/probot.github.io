@@ -2,7 +2,7 @@
 title: Settings
 description: Pull Requests for repository settings
 slug: settings
-stars: 351
+stars: 353
 authors:
 - bkeepers
 repository: probot/settings
@@ -19,8 +19,8 @@ organizations:
 - owncloud
 - ArtSabintsev
 - chaijs
-- bkeepers
 - probot
+- bkeepers
 - jhen0409
 ---
 

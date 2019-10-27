@@ -10,11 +10,12 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 195
-updated: 2019-10-23 19:33:58 UTC
+updated: 2019-10-26 05:31:55 UTC
 installations: 1783
 organizations:
-- plopcas
-- ahazou
+- philippe-vandermoere
+- tanzislam
+- lucaspizzo
 - Nullifiers
 - atolia-scoledge
 - uktrade
@@ -22,7 +23,6 @@ organizations:
 - captec
 - henkrehorst
 - meunice
-- bcgov
 ---
 
 # Delete merged branch

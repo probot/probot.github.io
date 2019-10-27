@@ -8,7 +8,7 @@ authors:
 - dessant
 repository: dessant/support-requests
 host: https://probot-support-requests.glitch.me
-stars: 21
+stars: 22
 updated: 2019-10-25 21:09:05 UTC
 installations: 69
 organizations:
