@@ -8,7 +8,7 @@ screenshots:
 authors:
 - wei
 repository: wei/pull
-host: https://pull.now.sh
+host: https://pull.git.ci
 stars: 469
 updated: 2019-10-11 16:50:37 UTC
 installations: 1490
