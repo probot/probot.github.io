@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 196
-updated: 2019-10-27 07:44:34 UTC
-installations: 1784
+updated: 2019-10-28 17:29:47 UTC
+installations: 1786
 organizations:
-- Amerr
+- American-Addiction-Centers
+- zhenxiedd01
 - cheton
+- tanzislam
 - ahazou
 - lucaspizzo
 - Nullifiers
 - atolia-scoledge
 - uktrade
 - TPSEngage
-- captec
-- henkrehorst
 ---
 
 # Delete merged branch
