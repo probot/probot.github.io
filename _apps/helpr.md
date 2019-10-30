@@ -10,7 +10,7 @@ authors:
 repository: rsarky/helpr
 host: https://evening-depths-50399.herokuapp.com
 stars: 10
-updated: 2018-04-20 09:11:34 UTC
+updated: 2019-10-29 14:25:07 UTC
 installations: 60
 organizations:
 - aio-libs
