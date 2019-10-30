@@ -7,7 +7,7 @@ screenshots:
 authors:
 - dessant
 repository: dessant/reaction-comments
-host: https://probot-reaction-comments.glitch.me
+host: https://reaction-comments.apps.armin.dev
 stars: 28
 updated: 2019-10-25 21:53:02 UTC
 installations: 84
@@ -82,4 +82,4 @@ reactionComment: >
 
 The continued development of Reaction Comments is made possible
 thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with [Patreon](https://www.patreon.com/dessant).
+please consider contributing with [Patreon](https://armin.dev/go/patreon).

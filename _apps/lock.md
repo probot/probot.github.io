@@ -7,7 +7,7 @@ screenshots:
 authors:
 - dessant
 repository: dessant/lock-threads
-host: https://probot-lock-threads.glitch.me
+host: https://lock-threads.apps.armin.dev
 stars: 105
 updated: 2019-10-25 17:18:20 UTC
 installations: 304
@@ -89,4 +89,4 @@ setLockReason: true
 
 The continued development of Lock Threads is made possible
 thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with [Patreon](https://www.patreon.com/dessant).
+please consider contributing with [Patreon](https://armin.dev/go/patreon).

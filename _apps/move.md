@@ -8,7 +8,7 @@ screenshots:
 authors:
 - dessant
 repository: dessant/move-issues
-host: https://probot-move-issues.glitch.me
+host: https://move-issues.apps.armin.dev
 stars: 39
 updated: 2019-10-25 21:33:51 UTC
 installations: 130
@@ -99,4 +99,4 @@ moveLabels: true
 
 The continued development of Move Issues is made possible
 thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with [Patreon](https://www.patreon.com/dessant).
+please consider contributing with [Patreon](https://armin.dev/go/patreon).

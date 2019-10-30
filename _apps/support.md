@@ -7,7 +7,7 @@ screenshots:
 authors:
 - dessant
 repository: dessant/support-requests
-host: https://probot-support-requests.glitch.me
+host: https://support-requests.apps.armin.dev
 stars: 22
 updated: 2019-10-25 21:09:05 UTC
 installations: 69
@@ -72,5 +72,4 @@ setLockReason: true
 
 The continued development of Support Requests is made possible
 thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with [Patreon](https://www.patreon.com/dessant).
-
+please consider contributing with [Patreon](https://armin.dev/go/patreon).
