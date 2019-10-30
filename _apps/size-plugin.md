@@ -1,6 +1,6 @@
 ---
 title: size-plugin
-description: A GitHub 🤖 built with Probot that helps you to keep an 👁️ on static assert 📦 sizes of your application and gives instant feedback 📝 for developer whenever they make a change
+description: A GitHub 🤖 that helps you to keep an 👁️ on static assert 📦 sizes of your application and gives instant feedback 📝 for developer whenever they make a change
 slug: size-plugin
 screenshots:
 - https://github.com/kuldeepkeshwar/size-plugin-bot/raw/master/static/images/sample.png?raw=true
