@@ -18,8 +18,8 @@ organizations:
 - theme-next
 - PrestaShop
 - pypa
-- Robdel12
 - GameServerManagers
+- Robdel12
 - tox-dev
 - pyload
 - unoplatform

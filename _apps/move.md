@@ -11,18 +11,18 @@ repository: dessant/move-issues
 host: https://move-issues.apps.armin.dev
 stars: 39
 updated: 2019-10-25 21:33:51 UTC
-installations: 130
+installations: 139
 organizations:
-- microsoft
-- apache
 - flutter
-- ethereum
 - atom
-- videojs
 - adobe
 - home-assistant
+- videojs
+- apache
 - kivy
 - tidyverse
+- r-lib
+- CachetHQ
 ---
 
 A GitHub App that moves issues between repositories.

@@ -1,12 +1,29 @@
 ---
 title: size-plugin
-description: A GitHub 🤖 that helps you to keep an 👁️ on static assert 📦 sizes of your application and gives instant feedback 📝 for developer whenever they make a change
+description: "A GitHub \U0001F916 that helps you to keep an \U0001F441️ on static
+  assert \U0001F4E6 sizes of your application and gives instant feedback \U0001F4DD
+  for developer whenever they make a change"
 slug: size-plugin
 screenshots:
 - https://github.com/kuldeepkeshwar/size-plugin-bot/raw/master/static/images/sample.png?raw=true
-authors: [ kuldeepkeshwar]
+authors:
+- kuldeepkeshwar
 repository: kuldeepkeshwar/size-plugin-bot
 host: https://size-plugin-bot.glitch.me
+stars: 48
+updated: 2019-10-30 16:50:07 UTC
+installations: 26
+organizations:
+- antvis
+- preactjs
+- BlueEastCode
+- bejamas
+- AndrewUsher
+- frilox042
+- netstart
+- zyd745077
+- kuldeepkeshwar
+- photo-pieces
 ---
 
 

@@ -10,17 +10,17 @@ repository: dessant/lock-threads
 host: https://lock-threads.apps.armin.dev
 stars: 105
 updated: 2019-10-25 17:18:20 UTC
-installations: 304
+installations: 424
 organizations:
 - facebook
-- microsoft
-- ReactiveX
-- jquery
-- zeit
-- Semantic-Org
-- babel
-- ReactTraining
 - Homebrew
+- jquery
+- atom
+- ReactTraining
+- lodash
+- grpc
+- zeit
+- babel
 - prettier
 ---
 
