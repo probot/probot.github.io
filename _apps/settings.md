@@ -2,15 +2,15 @@
 title: Settings
 description: Pull Requests for repository settings
 slug: settings
-stars: 358
+stars: 359
 authors:
 - bkeepers
 repository: probot/settings
 screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
-updated: 2019-10-30 22:34:54 UTC
+updated: 2019-10-31 21:57:50 UTC
 host: https://github-configurer.herokuapp.com
-installations: 673
+installations: 674
 organizations:
 - apollographql
 - npm
