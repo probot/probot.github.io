@@ -22,7 +22,7 @@ organizations:
 - lmjben
 - linkorb
 - xlayers
-- react-native-sensors
+- fdv
 ---
 
 <p align="center">
