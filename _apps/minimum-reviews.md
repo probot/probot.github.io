@@ -18,8 +18,8 @@ organizations:
 - njzjz
 - symphonyoss
 - divyenduz
-- hemanth22
 - platzi
+- hemanth22
 - frilox042
 - Katlean
 ---

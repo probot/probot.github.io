@@ -10,10 +10,10 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 197
-updated: 2019-11-01 19:33:57 UTC
-installations: 1796
+updated: 2019-11-02 20:00:34 UTC
+installations: 1795
 organizations:
-- evryfs
+- splunk
 - ericmjl
 - gastaldi
 - TicketGuardian
