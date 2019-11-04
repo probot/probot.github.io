@@ -14,8 +14,8 @@ installations: 231
 organizations:
 - dollarshaveclub
 - bkeepers
-- SPSCommerce
 - LiveRamp
+- SPSCommerce
 - tokopedia
 - telus
 - LEGO
