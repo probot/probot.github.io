@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 197
-updated: 2019-11-03 21:32:51 UTC
-installations: 1797
+updated: 2019-11-04 08:24:32 UTC
+installations: 1801
 organizations:
-- ember-cli-sentry
+- davidsneighbour
+- iterative
+- koska-devs
+- trayio
+- koldunsky
+- kamleshchandnani
 - StriveMedia
+- Sabuto
 - GeorgiosGoniotakis
 - ericmjl
-- zobainc
-- gastaldi
-- TicketGuardian
-- FoxOptimization
-- rubiin
-- EffeF
 ---
 
 # Delete merged branch

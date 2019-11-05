@@ -10,7 +10,7 @@ repository: dessant/lock-threads
 host: https://lock-threads.apps.armin.dev
 stars: 105
 updated: 2019-10-25 17:18:20 UTC
-installations: 426
+installations: 428
 organizations:
 - facebook
 - Homebrew
