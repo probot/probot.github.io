@@ -9,7 +9,7 @@ authors:
 repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
-updated: 2019-11-05 23:59:55 UTC
+updated: 2019-11-06 03:46:48 UTC
 installations: 21
 organizations:
 - Maatwebsite

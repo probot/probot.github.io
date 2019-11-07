@@ -13,16 +13,16 @@ stars: 197
 updated: 2019-11-05 07:38:28 UTC
 installations: 1804
 organizations:
-- ScentreGroup
-- ProjectBorealisTeam
+- Intellection
+- digitaliza
+- AHEAD-MSP
+- agence-fast
+- kingdavid6336
 - betclicgroup
 - hypermedia-app
 - tpluscode
 - iterative
 - GetStream
-- koska-devs
-- trayio
-- koldunsky
 ---
 
 # Delete merged branch

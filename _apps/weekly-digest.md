@@ -8,9 +8,9 @@ authors:
 - abhijeetps
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
-stars: 130
+stars: 132
 updated: 2019-08-27 17:47:31 UTC
-installations: 240
+installations: 238
 organizations:
 - ant-design
 - foundation
