@@ -17,8 +17,8 @@ organizations:
 - stylelint
 - gridsome
 - Laravel-Backpack
-- tuist
 - unoplatform
+- tuist
 - imolorhe
 - publiclab
 - cla-assistant
