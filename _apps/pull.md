@@ -9,20 +9,20 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 511
+stars: 514
 updated: 2019-11-07 20:49:02 UTC
-installations: 1707
+installations: 1717
 organizations:
 - ant-design
 - overtrue
 - hemanth
 - HospitalRun
+- guanguans
 - instantbox
 - amio
 - bundestag
 - AchoArnold
 - WangNingkai
-- IsmaelMartinez
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.

@@ -16,10 +16,10 @@ organizations:
 - helaili
 - suhanlee
 - logikinc
+- BlueBaseJS
 - BadIdeaFactory
 - mdelagrange
 - frilox042
-- BlueBaseJS
 - octodemo
 - 2bellbree
 ---
