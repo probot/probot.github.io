@@ -14,15 +14,15 @@ updated: 2019-11-05 07:38:28 UTC
 installations: 1825
 organizations:
 - 2Jours
+- blueskyanalytics
 - twothinkinc
+- rsksmart
 - ofgi-github
 - Vdauphin
 - trickeydan
 - clipboard-org
 - hakanensari
 - PerxTech
-- jessehanley
-- CyberGRX
 ---
 
 # Delete merged branch
