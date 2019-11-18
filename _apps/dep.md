@@ -19,8 +19,8 @@ organizations:
 - Laravel-Backpack
 - google
 - timvideos
-- thefrontside
 - SymbiFlow
+- thefrontside
 - su2code
 - decidim
 ---
