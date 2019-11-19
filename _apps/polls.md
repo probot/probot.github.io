@@ -15,6 +15,7 @@ updated: 2018-01-15 01:35:10 UTC
 installations: 496
 organizations:
 - npm
+- PowerShell
 - overtrue
 - istio
 - apex
@@ -23,7 +24,6 @@ organizations:
 - jaegertracing
 - siddharthkp
 - RasaHQ
-- huihut
 ---
 
 # GitHub Polls Bot
