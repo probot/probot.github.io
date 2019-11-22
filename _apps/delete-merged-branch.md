@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 202
 updated: 2019-11-20 16:05:59 UTC
-installations: 1835
+installations: 1836
 organizations:
 - probono-dev
+- seshagudimellasonos
+- willianfalbo-enterprise
+- creativecolab
+- tryflux
 - one-more
+- evalphobia
 - zylahealth
 - wikibus
 - EB-Forks
-- krishnapatamsettisonos
-- SAP
-- sasha240100
-- nickpiercy95
-- mustafaulukaya
 ---
 
 # Delete merged branch

@@ -9,19 +9,19 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 10
-updated: 2019-11-20 14:50:26 UTC
-installations: 137
+updated: 2019-11-21 04:55:03 UTC
+installations: 149
 organizations:
 - othreecodes
+- ExtendedXmlSerializer
 - jpomykala
 - dereknex
-- esfiddle
 - nerdmax
+- esfiddle
 - mohanagy
 - baldator
 - drich14
 - A-Team-Rowan-University
-- paced
 ---
 # Create Issue Branch
 

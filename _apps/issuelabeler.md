@@ -9,7 +9,7 @@ authors:
 repository: riyadhalnur/issuelabeler
 host: https://issuelabeler.verticalaxisbd.com
 stars: 9
-updated: 2019-11-13 09:36:36 UTC
+updated: 2019-11-21 07:19:27 UTC
 installations: 27
 organizations:
 - pymc-devs

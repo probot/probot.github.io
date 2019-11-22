@@ -11,7 +11,7 @@ repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 22
 updated: 2019-11-20 15:47:27 UTC
-installations: 72
+installations: 73
 organizations:
 - ant-design
 - react-boilerplate
@@ -21,8 +21,8 @@ organizations:
 - travis-ci
 - CopyTranslator
 - offu
+- prettier
 - l-hammer
-- aritchie
 ---
 [![Build Status](https://travis-ci.org/offu/close-issue-app.svg?branch=master)](https://travis-ci.org/offu/close-issue-app)
 [![codecov](https://codecov.io/gh/offu/close-issue-app/branch/master/graph/badge.svg)](https://codecov.io/gh/offu/close-issue-app)  
