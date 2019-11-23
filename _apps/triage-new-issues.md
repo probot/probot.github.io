@@ -13,7 +13,7 @@ authors:
 repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 17
-updated: 2019-11-20 01:58:56 UTC
+updated: 2019-11-22 18:45:37 UTC
 installations: 127
 organizations:
 - pypa
