@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 202
 updated: 2019-11-22 14:32:16 UTC
-installations: 1836
+installations: 1844
 organizations:
-- a1motion
+- apache
+- ernieMrtnz
+- pomelofashion
+- SkilledApps
+- yoyota-pose-estimation
+- yoyota-jungto
+- yoyota-archived
+- yoyota
 - nutanix-release-engineering
-- seshagudimellasonos
-- gss-bds
-- willianfalbo-enterprise
-- creativecolab
-- tryflux
-- one-more
-- evalphobia
-- zylahealth
+- tatablack
 ---
 
 # Delete merged branch
