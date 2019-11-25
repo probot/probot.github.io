@@ -21,7 +21,7 @@ organizations:
 - telus
 - odykyi
 - Dekoruma
-- njzjz
+- saiichihashimoto
 ---
 ## Usage
 
