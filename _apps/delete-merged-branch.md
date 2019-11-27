@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 202
+stars: 203
 updated: 2019-11-22 14:32:16 UTC
-installations: 1847
+installations: 1849
 organizations:
-- tcelestino
+- simsim0709
+- playauto
+- sunnyfounder
+- unloan
 - html-next
+- szymon-konieczny
 - PallasStreams
 - johnsondnz
-- ernieMrtnz
 - bookabirdie
 - pomelofashion
-- SkilledApps
-- yoyota-pose-estimation
-- yoyota-jungto
 ---
 
 # Delete merged branch
