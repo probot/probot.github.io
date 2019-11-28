@@ -11,10 +11,10 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 203
 updated: 2019-11-22 14:32:16 UTC
-installations: 1849
+installations: 1846
 organizations:
-- simsim0709
-- playauto
+- logickit-io
+- zionhome
 - sunnyfounder
 - unloan
 - html-next
