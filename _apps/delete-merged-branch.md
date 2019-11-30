@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 203
 updated: 2019-11-22 14:32:16 UTC
-installations: 1845
+installations: 1848
 organizations:
-- sandragryga
+- postpersonality
+- StarCorp-Tech
+- VirusTotal
+- ubiregiinc
 - zionhome
+- PhilippeMorier
 - sunnyfounder
 - unloan
 - html-next
 - szymon-konieczny
-- PallasStreams
-- johnsondnz
-- bookabirdie
-- pomelofashion
 ---
 
 # Delete merged branch

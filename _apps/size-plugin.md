@@ -10,11 +10,12 @@ authors:
 - kuldeepkeshwar
 repository: kuldeepkeshwar/size-plugin-bot
 host: https://size-plugin-bot.glitch.me
-stars: 53
+stars: 54
 updated: 2019-11-08 06:56:16 UTC
-installations: 37
+installations: 38
 organizations:
 - antvis
+- tannerlinsley
 - preactjs
 - BlueEastCode
 - bejamas
@@ -22,7 +23,6 @@ organizations:
 - eoysky
 - AndrewUsher
 - frilox042
-- Molizo
 - netstart
 ---
 
