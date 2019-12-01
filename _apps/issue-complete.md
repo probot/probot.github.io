@@ -10,9 +10,10 @@ repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
 updated: 2019-11-26 02:38:20 UTC
-installations: 21
+installations: 22
 organizations:
 - Maatwebsite
+- laraform
 - njzjz
 - hemanth22
 - frilox042

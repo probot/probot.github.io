@@ -17,8 +17,8 @@ organizations:
 - react-boilerplate
 - vuetifyjs
 - vueComponent
-- android-hacker
 - arendst
+- android-hacker
 - travis-ci
 - CopyTranslator
 - offu
