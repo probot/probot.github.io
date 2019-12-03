@@ -10,7 +10,7 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 23
-updated: 2019-11-27 08:21:06 UTC
+updated: 2019-12-02 01:32:49 UTC
 installations: 77
 organizations:
 - ant-design
