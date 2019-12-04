@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 205
 updated: 2019-11-22 14:32:16 UTC
-installations: 1851
+installations: 1850
 organizations:
-- imranfawan
-- gamer4life1
+- zeckli
+- Pointwelve
+- Archilyse
 - ernieMrtnz
 - diogobest
 - StarCorp-Tech
@@ -22,7 +23,6 @@ organizations:
 - VirusTotal
 - ubiregiinc
 - zionhome
-- PhilippeMorier
 ---
 
 # Delete merged branch

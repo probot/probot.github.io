@@ -9,9 +9,9 @@ authors:
 - lee-dohm
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
-stars: 75
+stars: 77
 updated: 2018-10-04 17:24:42 UTC
-installations: 317
+installations: 320
 organizations:
 - Homebrew
 - facebook
