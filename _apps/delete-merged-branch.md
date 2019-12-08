@@ -13,8 +13,9 @@ stars: 205
 updated: 2019-11-22 14:32:16 UTC
 installations: 1851
 organizations:
-- overtrue
-- yemeksepeti
+- skalenetwork
+- samayo
+- appearhere
 - rupeshjha
 - plentific
 - Pointwelve
@@ -22,7 +23,6 @@ organizations:
 - Archilyse
 - ernieMrtnz
 - diogobest
-- StarCorp-Tech
 ---
 
 # Delete merged branch
