@@ -10,7 +10,7 @@ repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 62
 updated: 2019-11-24 01:51:17 UTC
-installations: 314
+installations: 316
 organizations:
 - overtrue
 - HeroTransitions
