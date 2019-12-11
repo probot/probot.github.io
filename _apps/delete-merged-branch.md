@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 206
 updated: 2019-11-22 14:32:16 UTC
-installations: 1853
+installations: 1855
 organizations:
-- yatho
+- srushe
+- goodyear
 - basilalex
+- tribiahq
 - semanteecore
 - samayo
 - yemeksepeti
 - appearhere
 - rupeshjha
 - plentific
-- Pointwelve
-- gamer4life1
 ---
 
 # Delete merged branch

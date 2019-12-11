@@ -9,8 +9,8 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 12
-updated: 2019-12-08 14:20:06 UTC
-installations: 168
+updated: 2019-12-10 22:16:11 UTC
+installations: 167
 organizations:
 - othreecodes
 - ExtendedXmlSerializer
