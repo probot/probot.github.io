@@ -10,7 +10,7 @@ repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 6
 updated: 2018-12-28 09:22:39 UTC
-installations: 17
+installations: 18
 organizations:
 - chrisyue
 - r37r0m0d3l
@@ -21,7 +21,7 @@ organizations:
 - frilox042
 - eromano
 - olitreadwell
-- atomspace
+- njzjz
 ---
 
 # Similar code Searcher
