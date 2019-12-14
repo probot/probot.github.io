@@ -22,8 +22,8 @@ organizations:
 - Automattic
 - RxSwiftCommunity
 - jaegertracing
-- siddharthkp
 - RasaHQ
+- siddharthkp
 ---
 
 # GitHub Polls Bot

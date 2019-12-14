@@ -10,11 +10,12 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 207
-updated: 2019-12-12 08:56:47 UTC
+updated: 2019-12-13 18:30:36 UTC
 installations: 1855
 organizations:
-- layer-platform
-- callum-atwal
+- bidgely
+- underscopeio
+- 4cm4k1
 - SergeyKons
 - Inpher
 - goodyear
@@ -22,7 +23,6 @@ organizations:
 - basilalex
 - tribiahq
 - samayo
-- yemeksepeti
 ---
 
 # Delete merged branch
