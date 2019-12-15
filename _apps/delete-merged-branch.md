@@ -9,11 +9,11 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 207
-updated: 2019-12-13 18:30:36 UTC
-installations: 1855
+stars: 208
+updated: 2019-12-14 11:56:03 UTC
+installations: 1848
 organizations:
-- bidgely
+- JuanSanchezAdl
 - underscopeio
 - 4cm4k1
 - SergeyKons
