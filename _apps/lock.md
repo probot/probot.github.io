@@ -8,20 +8,20 @@ authors:
 - dessant
 repository: dessant/lock-threads
 host: https://lock-threads.apps.armin.dev
-stars: 109
+stars: 110
 updated: 2019-10-25 17:18:20 UTC
-installations: 445
+installations: 448
 organizations:
 - facebook
+- 30-seconds
 - Homebrew
 - jquery
-- atom
 - ReactTraining
+- atom
 - lodash
 - grpc
 - zeit
 - babel
-- prettier
 ---
 
 A GitHub App that locks closed issues and pull requests after

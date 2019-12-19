@@ -14,8 +14,8 @@ updated: 2019-10-11 17:40:52 UTC
 installations: 220
 organizations:
 - rook
-- mike-north
 - bazzite
+- mike-north
 - webpack
 - unix
 - mike-works

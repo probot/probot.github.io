@@ -18,8 +18,8 @@ organizations:
 - wp-cli
 - Laravel-Backpack
 - google
-- SymbiFlow
 - timvideos
+- SymbiFlow
 - thefrontside
 - su2code
 - decidim

@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 209
 updated: 2019-12-14 11:56:03 UTC
-installations: 1852
+installations: 1855
 organizations:
-- skalenetwork
+- project-pulse
+- genefriendway
+- 30-seconds
 - luuna-tech
+- zydalabs
 - adsanderson
 - vuejs-in
 - oxr463
 - itmometalens
 - underscopeio
-- callum-atwal
-- 4cm4k1
-- SergeyKons
 ---
 
 # Delete merged branch
