@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 209
-updated: 2019-12-14 11:56:03 UTC
-installations: 1855
+stars: 210
+updated: 2019-12-19 17:52:40 UTC
+installations: 1857
 organizations:
-- project-pulse
+- miniplug
+- SDUUitgevers
+- seafileltd
 - genefriendway
+- blueberryapps
 - 30-seconds
 - luuna-tech
 - zydalabs
 - adsanderson
 - vuejs-in
-- oxr463
-- itmometalens
-- underscopeio
 ---
 
 # Delete merged branch
