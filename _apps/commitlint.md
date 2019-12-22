@@ -21,8 +21,8 @@ organizations:
 - mike-works
 - lmjben
 - open-wc
-- linkorb
 - madlabsinc
+- linkorb
 ---
 
 <p align="center">
