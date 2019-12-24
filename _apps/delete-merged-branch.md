@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 210
-updated: 2019-12-19 17:52:40 UTC
-installations: 1860
+updated: 2019-12-23 08:01:43 UTC
+installations: 1865
 organizations:
-- LeToteTeam
+- prabhath6
+- Guestlogix
+- serpentarius-health
+- DeMoorJasper
+- jamstatic
 - Mgorunuch
+- matbur
 - nahknarmi
 - SDUUitgevers
 - xintelligent
-- seafileltd
-- genefriendway
-- blueberryapps
-- 30-seconds
-- luuna-tech
 ---
 
 # Delete merged branch

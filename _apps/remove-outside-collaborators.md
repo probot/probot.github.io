@@ -10,7 +10,7 @@ authors:
 repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 10
-updated: 2019-10-10 12:47:33 UTC
+updated: 2019-12-23 18:23:54 UTC
 installations: 48
 organizations:
 - times
@@ -18,11 +18,11 @@ organizations:
 - telus
 - OpenAIM
 - Thezone1975
-- daddyfatstacksBIG
 - TrapTeamCCNZ
+- daddyfatstacksBIG
+- pgetech
 - KondaReddyR
 - ekimetrics
-- pgetech
 ---
 
 # Remove Outside Collaborators

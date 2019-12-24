@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/request-info
 updated: 2019-04-19 17:01:24 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 1000
+installations: 1004
 organizations:
 - 30-seconds
 - Homebrew
