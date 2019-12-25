@@ -11,9 +11,9 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 210
 updated: 2019-12-23 08:01:43 UTC
-installations: 1865
+installations: 1864
 organizations:
-- prabhath6
+- LukasHechenberger
 - Guestlogix
 - serpentarius-health
 - DeMoorJasper
