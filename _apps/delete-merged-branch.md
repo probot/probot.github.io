@@ -9,11 +9,11 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 210
-updated: 2019-12-23 08:01:43 UTC
-installations: 1864
+stars: 211
+updated: 2019-12-25 09:43:15 UTC
+installations: 1863
 organizations:
-- LukasHechenberger
+- BizCover
 - Guestlogix
 - serpentarius-health
 - DeMoorJasper
