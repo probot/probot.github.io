@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 211
-updated: 2019-12-25 09:43:15 UTC
-installations: 1863
+updated: 2019-12-26 22:27:30 UTC
+installations: 1866
 organizations:
-- BizCover
+- daberg2
+- vinayakkulkarni
+- ProjectEKA
 - Guestlogix
+- foxundermoon
 - serpentarius-health
 - DeMoorJasper
 - jamstatic
 - Mgorunuch
 - matbur
-- nahknarmi
-- SDUUitgevers
-- xintelligent
 ---
 
 # Delete merged branch
