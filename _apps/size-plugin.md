@@ -20,8 +20,8 @@ organizations:
 - BlueEastCode
 - bejamas
 - free-easy
-- eoysky
 - AndrewUsher
+- eoysky
 - gamer4life1
 - frilox042
 ---
