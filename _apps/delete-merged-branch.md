@@ -11,9 +11,9 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 211
 updated: 2019-12-27 13:43:55 UTC
-installations: 1867
+installations: 1866
 organizations:
-- dizcza
+- reedhhw
 - RTO-Chatter
 - vinayakkulkarni
 - ustaty
