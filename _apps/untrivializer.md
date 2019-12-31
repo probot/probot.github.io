@@ -11,7 +11,7 @@ repository: entendu/untrivializer
 host: https://puffy-aftermath.glitch.me
 stars: 8
 updated: 2018-09-27 01:14:12 UTC
-installations: 15
+installations: 14
 organizations:
 - theme-next
 - marketplacer
@@ -21,7 +21,7 @@ organizations:
 - fanai-inc
 - frilox042
 - VukAnd
-- octodemo
+- andrewmurraydavid
 - Prometheos2
 ---
 
