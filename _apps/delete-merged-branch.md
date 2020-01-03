@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 211
 updated: 2019-12-27 13:43:55 UTC
-installations: 1866
+installations: 1868
 organizations:
-- reedhhw
+- finderau
+- BukuTrotter
 - brandtotal
+- RTO-Chatter
 - prevplan
 - vinayakkulkarni
 - ustaty
 - ProjectEKA
 - Guestlogix
 - foxundermoon
-- serpentarius-health
-- DeMoorJasper
 ---
 
 # Delete merged branch

@@ -9,15 +9,15 @@ authors:
 - whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
-stars: 25
-updated: 2019-12-30 18:26:32 UTC
+stars: 26
+updated: 2020-01-02 15:24:51 UTC
 installations: 78
 organizations:
 - ant-design
 - react-boilerplate
 - vuetifyjs
-- vueComponent
 - arendst
+- vueComponent
 - android-hacker
 - travis-ci
 - CopyTranslator
