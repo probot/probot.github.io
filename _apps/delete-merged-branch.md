@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 211
 updated: 2019-12-27 13:43:55 UTC
-installations: 1868
+installations: 1870
 organizations:
-- finderau
+- dynasty-com
+- styu
 - BukuTrotter
+- PolideaInternal
 - brandtotal
 - RTO-Chatter
 - prevplan
 - vinayakkulkarni
 - ustaty
 - ProjectEKA
-- Guestlogix
-- foxundermoon
 ---
 
 # Delete merged branch
