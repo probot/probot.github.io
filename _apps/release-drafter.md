@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 863
-updated: 2020-01-03 21:53:48 UTC
-installations: 1182
+stars: 864
+updated: 2020-01-04 18:53:16 UTC
+installations: 1183
 organizations:
 - fossasia
 - jenkinsci
