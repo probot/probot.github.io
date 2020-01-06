@@ -6,7 +6,7 @@ screenshots:
 - https://github.com/kaxil/boring-cyborg/blob/master/assets/usage-screenshot-1.png
 authors: [ "kaxil" ]
 repository: kaxil/boring-cyborg
-host: https://gentle-mesa-48041.herokuapp.com/
+host: https://gentle-mesa-48041.herokuapp.com
 ---
 
 ## Features
@@ -14,6 +14,8 @@ host: https://gentle-mesa-48041.herokuapp.com/
 * Add labels based on the path of the file that are modified in the PR.
 * Welcome new users to your project when they open their first Issue/PR or first merged PR by an
 automated comment. 
+* Insert Issue (Jira/Github etc) link in PR description based on the Issue ID in PR title.
+
 ## Usage
 
 1. **[Configure the Github App](https://github.com/apps/boring-cyborg)**
@@ -52,4 +54,21 @@ firstPRMergeComment: >
 firstIssueWelcomeComment: >
   Thanks for opening your first issue here! Be sure to follow the issue template!
 
+# Insert Issue (Jira/Github etc) link in PR description based on the Issue ID in PR title.
+insertIssueLinkInPrDescription:
+   # specify the placeholder for the issue link that should be present in the description
+  descriptionIssuePlaceholderRegexp: "^Issue link: (.*)$"
+  matchers:
+    # you can have several matches - for different types of issues
+    # only the first matching entry is replaced
+    jiraIssueMatch:
+      # specify the regexp of issue id that you can find in the title of the PR
+      # the match groups can be used to build the issue id (${1}, ${2}, etc.).
+      titleIssueIdRegexp: \[(AIRFLOW-[0-9]{4})\]
+      # the issue link to be added. ${1}, ${2} ... are replaced with the match groups from the
+      # title match (remember to use quotes)
+      descriptionIssueLink: "[${1}](https://issues.apache.org/jira/browse/${1}/)"
+    docOnlyIssueMatch:
+      titleIssueIdRegexp: \[(AIRFLOW-X{4})\]
+      descriptionIssueLink: "`Document only change, no JIRA issue`"
 ```
