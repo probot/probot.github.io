@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 211
 updated: 2019-12-27 13:43:55 UTC
-installations: 1871
+installations: 1876
 organizations:
-- simplybusiness
+- bikecoders
+- Qubinode
+- streamnative
+- node-fetch
+- ak1ra24
 - python-desert
+- styu
 - scolmore
 - BukuTrotter
 - PolideaInternal
-- brandtotal
-- RTO-Chatter
-- prevplan
-- vinayakkulkarni
-- ustaty
 ---
 
 # Delete merged branch
