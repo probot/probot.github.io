@@ -21,7 +21,7 @@ organizations:
 - lodash
 - grpc
 - zeit
-- babel
+- hapijs
 ---
 
 A GitHub App that locks closed issues and pull requests after

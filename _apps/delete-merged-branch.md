@@ -13,16 +13,16 @@ stars: 211
 updated: 2019-12-27 13:43:55 UTC
 installations: 1882
 organizations:
-- cloudflare
+- boomerweb
+- clouddrove
+- Wiredcraft
 - Insiderser
+- Askmona
 - 11FSConsulting
 - businx
 - macx6
 - joancaron
 - Qubinode
-- antecha
-- streamnative
-- node-fetch
 ---
 
 # Delete merged branch
