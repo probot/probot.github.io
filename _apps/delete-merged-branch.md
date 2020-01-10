@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 211
-updated: 2019-12-27 13:43:55 UTC
-installations: 1882
+updated: 2020-01-09 20:34:29 UTC
+installations: 1883
 organizations:
-- boomerweb
+- staeco
+- Duy97-Company
 - clouddrove
+- acolorbright
 - Wiredcraft
 - Insiderser
-- Askmona
 - 11FSConsulting
 - businx
 - macx6
 - joancaron
-- Qubinode
 ---
 
 # Delete merged branch

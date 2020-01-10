@@ -11,7 +11,7 @@ authors:
 - kaxil
 repository: kaxil/boring-cyborg
 host: https://gentle-mesa-48041.herokuapp.com
-stars: 4
+stars: 5
 updated: 2020-01-06 17:25:33 UTC
 installations: 6
 organizations:

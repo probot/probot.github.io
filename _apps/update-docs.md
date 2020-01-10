@@ -11,10 +11,11 @@ authors:
 repository: behaviorbot/update-docs
 updated: 2018-10-17 22:02:17 UTC
 host: https://probot-update-docs.herokuapp.com
-installations: 52
+installations: 53
 organizations:
 - ant-design
 - adonisjs
+- owncloud
 - carla-simulator
 - hvac
 - splash-cli
@@ -22,7 +23,6 @@ organizations:
 - behaviorbot
 - atk4
 - KengoTODA
-- techqueria
 ---
 
 
