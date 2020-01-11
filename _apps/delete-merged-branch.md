@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 211
-updated: 2020-01-09 20:34:29 UTC
+updated: 2020-01-10 17:24:46 UTC
 installations: 1883
 organizations:
-- staeco
+- cloudflare
+- simon-kingston
 - Duy97-Company
+- nathanleiby
 - clouddrove
 - acolorbright
 - Wiredcraft
 - Insiderser
 - 11FSConsulting
-- businx
-- macx6
-- joancaron
+- splash-ink
 ---
 
 # Delete merged branch
