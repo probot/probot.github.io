@@ -1,18 +1,11 @@
 ---
-# A human-friendly name of your listing
 title: Prettifier
-# A short description of what your app does
 description: Prettifier keeps your repository content formatted using [https://prettier.io](Prettier).
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: prettifier
-# Include a few screenshots that show your app in action
 screenshots:
 - https://raw.githubusercontent.com/kevgo/prettifier/master/documentation/screenshot_annotated.png
-# The GitHub usernames of anyone who authored the app
-authors: [ kevgo ]
-# The repository where the code is located
+authors: [kevgo]
 repository: https://github.com/kevgo/prettifier
-# The address where this app is deployed
 host: https://prettifier-prod.herokuapp.com/probot
 ---
 
