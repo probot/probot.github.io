@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>AuthOAuthSecret | probot - v0.0.0-development</title>
+	<title>Paginate | probot - v0.0.0-development</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style type="text/css">/*! normalize.css v1.1.3 | MIT License | git.io/normalize */
@@ -2364,21 +2364,10 @@ img {
 <nav class="tsd-navigation secondary">
 	<ul>
 		<li class="current tsd-kind-interface">
-			<a href="githubapi.html" class="tsd-kind-icon">Git<wbr>HubAPI</a>
+			<a href="paginate.html" class="tsd-kind-icon">Paginate</a>
 			<ul>
-				<li class="current tsd-kind-interface tsd-parent-kind-interface">
-					<a href="githubapi.authoauthsecret.html" class="tsd-kind-icon">AuthOAuth<wbr>Secret</a>
-					<ul>
-						<li class=" tsd-kind-property tsd-parent-kind-interface">
-							<a href="githubapi.authoauthsecret.html#key" class="tsd-kind-icon">key</a>
-						</li>
-						<li class=" tsd-kind-property tsd-parent-kind-interface">
-							<a href="githubapi.authoauthsecret.html#secret" class="tsd-kind-icon">secret</a>
-						</li>
-						<li class=" tsd-kind-property tsd-parent-kind-interface">
-							<a href="githubapi.authoauthsecret.html#type" class="tsd-kind-icon">type</a>
-						</li>
-					</ul>
+				<li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-inherited">
+					<a href="paginate.html#iterator" class="tsd-kind-icon">iterator</a>
 				</li>
 			</ul>
 		</li>
@@ -2390,7 +2379,76 @@ img {
 			<h3>Hierarchy</h3>
 			<ul class="tsd-hierarchy">
 				<li>
-					<span class="target">AuthOAuthSecret</span>
+					<a href="githubapi.paginate.html" class="tsd-signature-type">Paginate</a>
+					<ul class="tsd-hierarchy">
+						<li>
+							<span class="target">Paginate</span>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</section>
+		<section class="tsd-panel">
+			<h3 class="tsd-before-signature">Callable</h3>
+			<ul class="tsd-signatures tsd-kind-interface">
+				<li class="tsd-signature tsd-kind-icon">__call<span class="tsd-signature-symbol">(</span>responsePromise<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">Octokit.AnyResponse</span><span class="tsd-signature-symbol">&gt;</span>, callback<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">function</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">&gt;</span></li>
+				<li class="tsd-signature tsd-kind-icon">__call<span class="tsd-signature-symbol">(</span>Route<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span>, EndpointOptions<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">Octokit.EndpointOptions</span>, callback<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">function</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">&gt;</span></li>
+				<li class="tsd-signature tsd-kind-icon">__call<span class="tsd-signature-symbol">(</span>EndpointOptions<span class="tsd-signature-symbol">: </span><a href="githubapi.endpointoptions.html" class="tsd-signature-type">EndpointOptions</a>, callback<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">function</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">&gt;</span></li>
+			</ul>
+			<ul class="tsd-descriptions">
+				<li class="tsd-description">
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in <a href="https://github.com/probot/probot/blob/59af701/src/github/index.ts#L70">src/github/index.ts:70</a></li>
+						</ul>
+					</aside>
+					<h4 class="tsd-parameters-title">Parameters</h4>
+					<ul class="tsd-parameters">
+						<li>
+							<h5>responsePromise: <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">Octokit.AnyResponse</span><span class="tsd-signature-symbol">&gt;</span></h5>
+						</li>
+						<li>
+							<h5><span class="tsd-flag ts-flagOptional">Optional</span> callback: <span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">function</span></h5>
+						</li>
+					</ul>
+					<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">&gt;</span></h4>
+				</li>
+				<li class="tsd-description">
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in node_modules/@octokit/rest/index.d.ts:266</li>
+						</ul>
+					</aside>
+					<h4 class="tsd-parameters-title">Parameters</h4>
+					<ul class="tsd-parameters">
+						<li>
+							<h5>Route: <span class="tsd-signature-type">string</span></h5>
+						</li>
+						<li>
+							<h5><span class="tsd-flag ts-flagOptional">Optional</span> EndpointOptions: <span class="tsd-signature-type">Octokit.EndpointOptions</span></h5>
+						</li>
+						<li>
+							<h5><span class="tsd-flag ts-flagOptional">Optional</span> callback: <span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">function</span></h5>
+						</li>
+					</ul>
+					<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">&gt;</span></h4>
+				</li>
+				<li class="tsd-description">
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in node_modules/@octokit/rest/index.d.ts:271</li>
+						</ul>
+					</aside>
+					<h4 class="tsd-parameters-title">Parameters</h4>
+					<ul class="tsd-parameters">
+						<li>
+							<h5>EndpointOptions: <a href="githubapi.endpointoptions.html" class="tsd-signature-type">EndpointOptions</a></h5>
+						</li>
+						<li>
+							<h5><span class="tsd-flag ts-flagOptional">Optional</span> callback: <span class="tsd-signature-type">undefined</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">function</span></h5>
+						</li>
+					</ul>
+					<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">&gt;</span></h4>
 				</li>
 			</ul>
 		</section>
@@ -2398,48 +2456,48 @@ img {
 			<h2>Index</h2>
 			<section class="tsd-panel tsd-index-panel">
 				<div class="tsd-index-content">
-					<section class="tsd-index-section ">
+					<section class="tsd-index-section tsd-is-inherited">
 						<h3>Properties</h3>
 						<ul class="tsd-index-list">
-							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="githubapi.authoauthsecret.html#key" class="tsd-kind-icon">key</a></li>
-							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="githubapi.authoauthsecret.html#secret" class="tsd-kind-icon">secret</a></li>
-							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="githubapi.authoauthsecret.html#type" class="tsd-kind-icon">type</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-interface tsd-is-inherited"><a href="paginate.html#iterator" class="tsd-kind-icon">iterator</a></li>
 						</ul>
 					</section>
 				</div>
 			</section>
 		</section>
-		<section class="tsd-panel-group tsd-member-group ">
+		<section class="tsd-panel-group tsd-member-group tsd-is-inherited">
 			<h2>Properties</h2>
-			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
-				<a name="key" class="tsd-anchor"></a>
-				<h3>key</h3>
-				<div class="tsd-signature tsd-kind-icon">key<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-inherited">
+				<a name="iterator" class="tsd-anchor"></a>
+				<h3>iterator</h3>
+				<div class="tsd-signature tsd-kind-icon">iterator<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">function</span></div>
 				<aside class="tsd-sources">
+					<p>Inherited from <a href="paginate.html">Paginate</a>.<a href="paginate.html#iterator">iterator</a></p>
 					<ul>
-						<li>Defined in node_modules/@octokit/rest/index.d.ts:213</li>
+						<li>Defined in node_modules/@octokit/rest/index.d.ts:276</li>
 					</ul>
 				</aside>
-			</section>
-			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
-				<a name="secret" class="tsd-anchor"></a>
-				<h3>secret</h3>
-				<div class="tsd-signature tsd-kind-icon">secret<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
-				<aside class="tsd-sources">
-					<ul>
-						<li>Defined in node_modules/@octokit/rest/index.d.ts:214</li>
+				<div class="tsd-type-declaration">
+					<h4>Type declaration</h4>
+					<ul class="tsd-parameters">
+						<li class="tsd-parameter-siganture">
+							<ul class="tsd-signatures tsd-kind-type-literal tsd-parent-kind-property">
+								<li class="tsd-signature tsd-kind-icon"><span class="tsd-signature-symbol">(</span>EndpointOptions<span class="tsd-signature-symbol">: </span><a href="githubapi.endpointoptions.html" class="tsd-signature-type">EndpointOptions</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">AsyncIterableIterator</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">Octokit.AnyResponse</span><span class="tsd-signature-symbol">&gt;</span></li>
+							</ul>
+							<ul class="tsd-descriptions">
+								<li class="tsd-description">
+									<h4 class="tsd-parameters-title">Parameters</h4>
+									<ul class="tsd-parameters">
+										<li>
+											<h5>EndpointOptions: <a href="githubapi.endpointoptions.html" class="tsd-signature-type">EndpointOptions</a></h5>
+										</li>
+									</ul>
+									<h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">AsyncIterableIterator</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">Octokit.AnyResponse</span><span class="tsd-signature-symbol">&gt;</span></h4>
+								</li>
+							</ul>
+						</li>
 					</ul>
-				</aside>
-			</section>
-			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
-				<a name="type" class="tsd-anchor"></a>
-				<h3>type</h3>
-				<div class="tsd-signature tsd-kind-icon">type<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">"oauth"</span></div>
-				<aside class="tsd-sources">
-					<ul>
-						<li>Defined in node_modules/@octokit/rest/index.d.ts:212</li>
-					</ul>
-				</aside>
+				</div>
 			</section>
 		</section>
 		<footer class="with-border-bottom">
