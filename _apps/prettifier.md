@@ -3,7 +3,7 @@ title: Prettifier
 description: Prettifier keeps your repository content formatted using [https://prettier.io](Prettier).
 slug: prettifier
 screenshots:
-- https://raw.githubusercontent.com/kevgo/prettifier/master/documentation/screenshot_annotated.png
+  - https://raw.githubusercontent.com/kevgo/prettifier/master/documentation/screenshot_annotated.png
 authors: [kevgo]
 repository: https://github.com/kevgo/prettifier
 host: https://prettifier-prod.herokuapp.com
