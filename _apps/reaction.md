@@ -16,8 +16,8 @@ organizations:
 - zealdocs
 - microsoft
 - Mottie
-- CellularPrivacy
 - Radarr
+- CellularPrivacy
 - sethvargo
 - GameServerManagers
 - idehub
