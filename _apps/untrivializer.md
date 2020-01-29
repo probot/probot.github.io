@@ -9,9 +9,9 @@ authors:
 - entendu
 repository: entendu/untrivializer
 host: https://puffy-aftermath.glitch.me
-stars: 8
+stars: 10
 updated: 2018-09-27 01:14:12 UTC
-installations: 14
+installations: 13
 organizations:
 - theme-next
 - marketplacer
@@ -20,9 +20,8 @@ organizations:
 - entendu
 - fanai-inc
 - frilox042
-- VukAnd
+- octodemo
 - andrewmurraydavid
-- Prometheos2
 ---
 
 # untrivializer

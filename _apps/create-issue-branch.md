@@ -8,11 +8,12 @@ authors:
 - robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
-stars: 13
-updated: 2020-01-09 04:54:36 UTC
-installations: 206
+stars: 18
+updated: 2020-01-27 04:50:01 UTC
+installations: 226
 organizations:
 - othreecodes
+- dsabanin
 - ExtendedXmlSerializer
 - jpomykala
 - dereknex
@@ -21,7 +22,6 @@ organizations:
 - mohanagy
 - menajosep
 - baldator
-- drich14
 ---
 # Create Issue Branch
 

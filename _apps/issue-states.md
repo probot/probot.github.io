@@ -8,9 +8,9 @@ authors:
 - dessant
 repository: dessant/issue-states
 host: https://issue-states.apps.armin.dev
-stars: 28
+stars: 29
 updated: 2019-10-25 20:19:41 UTC
-installations: 119
+installations: 125
 organizations:
 - samvera
 - inextensodigital

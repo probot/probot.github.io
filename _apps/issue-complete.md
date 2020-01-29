@@ -9,19 +9,19 @@ authors:
 repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
-updated: 2020-01-10 15:55:06 UTC
-installations: 24
+updated: 2020-01-27 19:09:27 UTC
+installations: 25
 organizations:
 - Maatwebsite
 - laraform
 - njzjz
+- mehmetanbaki
 - hemanth22
 - frilox042
 - Wagnerp
 - gw-pem
 - DanielFatkic
 - magnetica-studio
-- MiyoKouseki
 ---
 
 ## What It Does

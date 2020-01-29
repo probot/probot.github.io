@@ -8,19 +8,19 @@ authors:
 - Ikuyadeu
 repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
-stars: 6
+stars: 7
 updated: 2018-12-28 09:22:39 UTC
 installations: 18
 organizations:
 - chrisyue
-- r37r0m0d3l
 - duncdrum
 - hemanth22
 - Ikuyadeu
+- r37r0m0d3l
 - byteshiva
 - frilox042
-- cerebrowang
 - eromano
+- cerebrowang
 - olitreadwell
 ---
 

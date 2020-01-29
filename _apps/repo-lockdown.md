@@ -8,20 +8,20 @@ authors:
 - dessant
 repository: dessant/repo-lockdown
 host: https://repo-lockdown.apps.armin.dev
-stars: 18
+stars: 21
 updated: 2019-10-25 20:56:10 UTC
-installations: 25
+installations: 29
 organizations:
 - postgres
 - llvm
 - prism-break
 - alpinelinux
+- googlemaps
 - hrt
+- LambdaSchool
+- Bonta0
 - 42Kmi
-- ControlledChaos
 - theilluminatus
-- fuchsia-mirror
-- csculley
 ---
 
 A GitHub App that closes and locks existing and new issues or pull requests.
