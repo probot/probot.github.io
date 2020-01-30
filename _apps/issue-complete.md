@@ -9,8 +9,8 @@ authors:
 repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
-updated: 2020-01-27 19:09:27 UTC
-installations: 25
+updated: 2020-01-29 22:04:47 UTC
+installations: 26
 organizations:
 - Maatwebsite
 - laraform

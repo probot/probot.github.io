@@ -11,16 +11,16 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 212
 updated: 2020-01-28 18:21:05 UTC
-installations: 1917
+installations: 1915
 organizations:
-- glavpunkt
-- roji
+- piktochart
+- desklabs
+- ShopBonsai
 - maxwowo
 - Ealenn
 - pirvudoru
 - kelaspajak
 - hjdivad
-- the-totem
 - alexalisov
 - iamskok
 ---
