@@ -12,18 +12,18 @@ repository: kuldeepkeshwar/size-plugin-bot
 host: https://size-plugin-bot.glitch.me
 stars: 63
 updated: 2019-12-16 06:07:08 UTC
-installations: 64
+installations: 65
 organizations:
 - antvis
 - tannerlinsley
 - preactjs
+- fannypackui
 - tilde-lab
 - uniquexiaobai
 - BlueEastCode
 - bejamas
 - blokhin
 - mpds-io
-- free-easy
 ---
 
 

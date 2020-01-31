@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 212
 updated: 2020-01-28 18:21:05 UTC
-installations: 1915
+installations: 1916
 organizations:
-- piktochart
+- ricoh-rits
+- datashaman
 - desklabs
+- roji
 - ShopBonsai
 - maxwowo
 - Ealenn
 - pirvudoru
 - kelaspajak
 - hjdivad
-- alexalisov
-- iamskok
 ---
 
 # Delete merged branch
