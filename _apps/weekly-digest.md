@@ -20,8 +20,8 @@ organizations:
 - thepracticaldev
 - LightTable
 - vueComponent
-- developer-learning
 - nock
+- developer-learning
 ---
 > App built using [Probot](https://probot.github.io/) which generates a weekly automated summary of activity on your GitHub repository
 ## App in Action ##
