@@ -10,7 +10,7 @@ repository: infection/tests-checker
 host: https://tests-checker.now.sh
 stars: 25
 updated: 2019-11-03 14:35:13 UTC
-installations: 32
+installations: 33
 organizations:
 - ant-design
 - antvis

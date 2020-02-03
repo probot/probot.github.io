@@ -1,6 +1,7 @@
 ---
 title: Handlebar Templates
-description: Issue body and pull request's body through handlebars to generate new bodies
+description: Issue body and pull request's body through handlebars to generate new
+  bodies
 slug: handlebar-templates
 screenshots:
 - https://marketplace-screenshots.githubusercontent.com/4741/9cc94800-a642-11e9-9e44-3a6791c11e3b
@@ -9,8 +10,9 @@ screenshots:
 authors:
 - cyberhck
 repository: fossapps/Handlebars-Issue-and-Pull-Requests
-stars: 0
+stars: 1
 host: https://handlebar-templates.cyberhck.now.sh
+updated: 2020-01-31 22:06:45 UTC
 ---
 
 One example usage is to add link to build for this issue, or link to docs built for this PR
