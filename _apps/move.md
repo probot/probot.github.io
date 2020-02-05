@@ -9,9 +9,9 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://move-issues.apps.armin.dev
-stars: 43
+stars: 42
 updated: 2019-10-25 21:33:51 UTC
-installations: 143
+installations: 144
 organizations:
 - flutter
 - atom

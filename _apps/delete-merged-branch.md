@@ -14,7 +14,8 @@ updated: 2020-02-02 10:51:02 UTC
 installations: 1922
 organizations:
 - mr-linch
-- rireson
+- adschw1
+- helpetapp
 - andrielfn
 - James-Bovis
 - fluentstream
@@ -22,7 +23,6 @@ organizations:
 - vojtechsimetka
 - OTP-Awesome
 - datashaman
-- suryasr007
 ---
 
 # Delete merged branch

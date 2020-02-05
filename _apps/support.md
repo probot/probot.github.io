@@ -8,9 +8,9 @@ authors:
 - dessant
 repository: dessant/support-requests
 host: https://support-requests.apps.armin.dev
-stars: 22
+stars: 21
 updated: 2019-10-25 21:09:05 UTC
-installations: 70
+installations: 69
 organizations:
 - Homebrew
 - mui-org
