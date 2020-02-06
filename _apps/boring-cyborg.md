@@ -21,8 +21,8 @@ organizations:
 - tensorflow
 - dependency-check
 - ZC-CN
-- VukAnd
 - DesktopGooseUnofficial
+- VukAnd
 ---
 
 ## Features

@@ -17,8 +17,8 @@ organizations:
 - njzjz
 - mehmetanbaki
 - hemanth22
-- frilox042
 - Wagnerp
+- frilox042
 - gw-pem
 - DanielFatkic
 - magnetica-studio
