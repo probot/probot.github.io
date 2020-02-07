@@ -8,9 +8,9 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 946
+stars: 948
 updated: 2020-02-02 19:26:19 UTC
-installations: 1191
+installations: 1231
 organizations:
 - fossasia
 - gorilla

@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 212
 updated: 2020-02-02 10:51:02 UTC
-installations: 1925
+installations: 1926
 organizations:
-- Git-Prime
+- sophaz
+- NESTLab
+- mandrepont
 - philoserf
+- bitwarden
 - mnes
 - adschw1
 - rireson
 - helpetapp
 - andrielfn
-- James-Bovis
-- fluentstream
-- developars
 ---
 
 # Delete merged branch
