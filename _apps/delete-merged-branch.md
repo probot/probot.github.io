@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 212
-updated: 2020-02-02 10:51:02 UTC
-installations: 1926
+updated: 2020-02-07 21:43:43 UTC
+installations: 1925
 organizations:
-- sophaz
+- Gary-Ash
+- planningcenter
 - NESTLab
+- AvaBank
 - mandrepont
 - philoserf
 - bitwarden
 - mnes
 - adschw1
-- rireson
 - helpetapp
-- andrielfn
 ---
 
 # Delete merged branch
