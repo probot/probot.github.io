@@ -14,7 +14,8 @@ updated: 2020-02-08 15:16:19 UTC
 installations: 1927
 organizations:
 - presslabs
-- Rumadra
+- pepperstone
+- SandyKarunia
 - planningcenter
 - efureev
 - NESTLab
@@ -22,7 +23,6 @@ organizations:
 - mandrepont
 - philoserf
 - bitwarden
-- mnes
 ---
 
 # Delete merged branch

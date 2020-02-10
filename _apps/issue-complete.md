@@ -15,8 +15,8 @@ organizations:
 - Maatwebsite
 - laraform
 - njzjz
-- mehmetanbaki
 - hemanth22
+- mehmetanbaki
 - Wagnerp
 - frilox042
 - gw-pem
