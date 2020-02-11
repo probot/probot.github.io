@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 212
 updated: 2020-02-08 15:16:19 UTC
-installations: 1927
+installations: 1929
 organizations:
-- presslabs
+- thitemple
+- gamercatorg
 - pepperstone
+- Rumadra
 - SandyKarunia
 - planningcenter
 - efureev
 - NESTLab
 - AvaBank
 - mandrepont
-- philoserf
-- bitwarden
 ---
 
 # Delete merged branch
