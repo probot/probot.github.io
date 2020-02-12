@@ -19,8 +19,8 @@ organizations:
 - GameServerManagers
 - tox-dev
 - bitnami-labs
-- Glavin001
 - wemake-services
+- Glavin001
 - infection
 - Unibeautify
 ---
