@@ -10,8 +10,9 @@ repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 7
 updated: 2018-12-28 09:22:39 UTC
-installations: 18
+installations: 19
 organizations:
+- Alfresco
 - chrisyue
 - r37r0m0d3l
 - duncdrum
@@ -21,7 +22,6 @@ organizations:
 - frilox042
 - eromano
 - olitreadwell
-- njzjz
 ---
 
 # Similar code Searcher

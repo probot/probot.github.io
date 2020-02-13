@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 212
-updated: 2020-02-08 15:16:19 UTC
-installations: 1935
+stars: 213
+updated: 2020-02-12 21:16:50 UTC
+installations: 1938
 organizations:
-- aragon
+- davidsneighbour
+- haumeadesigns
+- OpenBCI
+- Andrey1994
+- anthonysena
 - mairieli
+- architrave-de
 - landtechnologies
 - bsc-s2
 - drmingdrmer
-- openacid
-- gamercatorg
-- Samelogic
-- pepperstone
-- Rumadra
 ---
 
 # Delete merged branch
