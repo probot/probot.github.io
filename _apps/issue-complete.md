@@ -10,18 +10,18 @@ repository: stevenzeck/issue-complete
 host: https://issue-complete.glitch.me
 stars: 2
 updated: 2020-02-11 00:37:20 UTC
-installations: 26
+installations: 27
 organizations:
 - Maatwebsite
 - laraform
 - njzjz
+- coolcode
 - hemanth22
 - Wagnerp
 - frilox042
 - gw-pem
 - DanielFatkic
 - magnetica-studio
-- mehmetanbaki
 ---
 
 ## What It Does

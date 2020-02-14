@@ -21,7 +21,7 @@ organizations:
 - tilde-lab
 - uniquexiaobai
 - BlueEastCode
-- ZeroCool-one
+- NauhWuun
 - bejamas
 - blokhin
 ---
