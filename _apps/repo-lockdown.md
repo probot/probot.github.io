@@ -21,7 +21,7 @@ organizations:
 - LambdaSchool
 - Bonta0
 - 42Kmi
-- theilluminatus
+- fuchsia-mirror
 ---
 
 A GitHub App that closes and locks existing and new issues or pull requests.
