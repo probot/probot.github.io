@@ -13,18 +13,18 @@ repository: kaxil/boring-cyborg
 host: https://gentle-mesa-48041.herokuapp.com
 stars: 10
 updated: 2020-01-22 06:34:45 UTC
-installations: 23
+installations: 26
 organizations:
 - apache
 - quarkusio
 - PyTorchLightning
+- bisq-network
 - jeremylong
 - tensorflow
 - dependency-check
 - NauhWuun
 - DesktopGooseUnofficial
-- VukAnd
-- binary-com
+- Neufund
 ---
 
 ## Features
