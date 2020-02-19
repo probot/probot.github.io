@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 214
-updated: 2020-02-17 19:29:55 UTC
+updated: 2020-02-18 08:53:24 UTC
 installations: 1947
 organizations:
 - onerzafer
+- getrevue
 - global-safety-systems
+- experfy
 - muzmatch
 - templaterepos
 - itsnewt
 - mogmet
 - Tecco
 - AurelioPa
-- cognicraftio
-- alexandervalencia
 ---
 
 # Delete merged branch
