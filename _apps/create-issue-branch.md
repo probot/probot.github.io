@@ -16,8 +16,8 @@ organizations:
 - dsabanin
 - ExtendedXmlSerializer
 - jpomykala
-- dereknex
 - nerdmax
+- dereknex
 - esfiddle
 - mohanagy
 - menajosep

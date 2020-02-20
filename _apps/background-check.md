@@ -16,8 +16,8 @@ organizations:
 - kartik-v
 - probot
 - theme-next
-- debugger22
 - publiclab
+- debugger22
 - cherrypy
 - fvcproductions
 - campus-experts
