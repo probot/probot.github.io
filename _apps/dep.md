@@ -21,8 +21,8 @@ organizations:
 - SymbiFlow
 - timvideos
 - thefrontside
-- su2code
 - decidim
+- su2code
 ---
 
 <p align="center">

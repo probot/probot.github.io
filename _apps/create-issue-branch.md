@@ -8,8 +8,8 @@ authors:
 - robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
-stars: 19
-updated: 2020-02-20 17:24:56 UTC
+stars: 20
+updated: 2020-02-22 20:05:32 UTC
 installations: 248
 organizations:
 - othreecodes
