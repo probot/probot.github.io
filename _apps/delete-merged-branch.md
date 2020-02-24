@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 214
 updated: 2020-02-21 22:59:20 UTC
-installations: 1952
+installations: 1953
 organizations:
-- splice
-- oscarbc96
+- ProjectDrgn
+- mantoso
+- nguyenvanuyn96
 - huynh39391
 - DiegoAvmor
 - r58Playz
@@ -22,7 +23,6 @@ organizations:
 - moonmeister
 - timobartels
 - getrevue
-- HyperLinqHQ
 ---
 
 # Delete merged branch
