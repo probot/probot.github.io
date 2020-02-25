@@ -15,8 +15,8 @@ organizations:
 - njzjz
 - suhanlee
 - helaili
-- logikinc
 - BlueBaseJS
+- logikinc
 - BadIdeaFactory
 - mdelagrange
 - pmanlukas
