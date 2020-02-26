@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 214
-updated: 2020-02-24 17:45:28 UTC
-installations: 1954
+stars: 216
+updated: 2020-02-25 09:16:36 UTC
+installations: 1958
 organizations:
-- saberland
+- joshuazhu
+- mori-s4d
+- vegvesen
+- kareo-dataops
 - manuelvanrijn
+- tburrows13
 - mantoso
 - oscarbc96
 - nguyenvanuyn96
 - huynh39391
-- DiegoAvmor
-- r58Playz
-- PenzK
-- moonmeister
 ---
 
 # Delete merged branch
