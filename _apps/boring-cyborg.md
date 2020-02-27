@@ -23,8 +23,8 @@ organizations:
 - tensorflow
 - dependency-check
 - NauhWuun
-- reececomo
 - DesktopGooseUnofficial
+- reececomo
 ---
 
 ## Features
