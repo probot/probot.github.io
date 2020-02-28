@@ -15,8 +15,8 @@ organizations:
 - infection
 - humbug
 - phogolabs
-- AugurProject
 - tophat
+- AugurProject
 - njzjz
 - buildkite
 - kentaro-m
