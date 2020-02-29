@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 216
 updated: 2020-02-25 09:16:36 UTC
-installations: 1961
+installations: 1960
 organizations:
-- camunda-ci
-- morgvanny
+- flowcommerce
+- OpenMined
+- xoxys
 - OrchardCMS
 - mori-s4d
 - Agilefreaks
@@ -22,7 +23,6 @@ organizations:
 - kareo-dataops
 - manuelvanrijn
 - tburrows13
-- mantoso
 ---
 
 # Delete merged branch

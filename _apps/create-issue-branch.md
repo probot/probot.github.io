@@ -9,8 +9,8 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 21
-updated: 2020-02-24 07:19:36 UTC
-installations: 257
+updated: 2020-02-28 21:38:43 UTC
+installations: 260
 organizations:
 - othreecodes
 - dsabanin

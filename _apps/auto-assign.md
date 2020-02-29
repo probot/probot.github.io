@@ -9,7 +9,7 @@ authors:
 - kentaro-m
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
-stars: 87
+stars: 88
 updated: 2020-02-27 19:58:03 UTC
 installations: 66
 organizations:

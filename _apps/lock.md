@@ -10,18 +10,18 @@ repository: dessant/lock-threads
 host: https://lock-threads.apps.armin.dev
 stars: 117
 updated: 2020-02-22 06:29:10 UTC
-installations: 491
+installations: 93
 organizations:
-- facebook
-- 30-seconds
-- Homebrew
-- jquery
-- ReactTraining
-- atom
-- lodash
-- zeit
-- grpc
-- hapijs
+- invertase
+- zealdocs
+- microsoft
+- Mottie
+- Radarr
+- CellularPrivacy
+- sethvargo
+- GameServerManagers
+- idehub
+- open62541
 ---
 
 A GitHub App that locks closed issues and pull requests after

@@ -9,20 +9,20 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 762
+stars: 763
 updated: 2020-02-20 05:15:34 UTC
-installations: 2608
+installations: 2618
 organizations:
 - ant-design
 - overtrue
 - hemanth
+- OpenMined
 - HospitalRun
 - bestony
 - guanguans
 - lhie1
 - instantbox
 - amio
-- ibhavikmakwana
 ---
 
 Keep your forks up-to-date via automatic pull requests, merges, or hard resets.
