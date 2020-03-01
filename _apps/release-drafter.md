@@ -10,18 +10,18 @@ repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 972
 updated: 2020-02-26 07:18:02 UTC
-installations: 1231
+installations: 1255
 organizations:
 - fossasia
 - gorilla
 - jenkinsci
 - akka
+- microsoft
 - DevExpress
 - beautify-web
 - moovweb
 - concourse
 - theme-next
-- gitextensions
 ---
 
 ## Usage
