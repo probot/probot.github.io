@@ -10,19 +10,19 @@ authors:
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 88
-updated: 2020-03-02 20:22:46 UTC
-installations: 66
+updated: 2020-03-03 20:56:06 UTC
+installations: 523
 organizations:
+- flutter
+- ant-design
+- HeroTransitions
+- Requarks
+- NG-ZORRO
+- theme-next
 - pypa
-- ahmadnassri
-- tox-dev
-- PHPOffice
-- AugurProject
-- telus
-- PickNikRobotics
-- nmrony
-- LoyaltyOne
-- RagtagOpen
+- status-im
+- instructure
+- aragon
 ---
 
 ## What it does

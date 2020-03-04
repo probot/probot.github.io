@@ -18,8 +18,8 @@ organizations:
 - DeMoorJasper
 - kevgo
 - williamluke4
-- Thomashighbaugh
 - vinitshahdeo
+- Thomashighbaugh
 - darkmatter18
 - ScratchUtilities
 ---
