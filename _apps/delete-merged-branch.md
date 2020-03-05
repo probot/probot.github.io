@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 216
-updated: 2020-02-25 09:16:36 UTC
-installations: 1964
+stars: 217
+updated: 2020-03-04 04:27:39 UTC
+installations: 1967
 organizations:
-- American-Addiction-Centers
+- riptano
+- Hitched-Inc
+- ashavk
+- dol-lab
 - hungryhub-team
+- ivannkf
 - wellpay
 - adityakrgupta25
 - forward-head-posture
 - nomadfoodtruckapp
-- OpenMined
-- morgvanny
-- xoxys
-- OrchardCMS
 ---
 
 # Delete merged branch
