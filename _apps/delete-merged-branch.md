@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 217
 updated: 2020-03-04 04:27:39 UTC
-installations: 1967
+installations: 1972
 organizations:
-- riptano
+- AIGEXP
+- Backblaze
+- filtered-ai
+- canopy-channels
+- piterpy-meetup
+- muilab
+- wcvendors
 - Hitched-Inc
+- seanyen
 - ashavk
-- dol-lab
-- hungryhub-team
-- ivannkf
-- wellpay
-- adityakrgupta25
-- forward-head-posture
-- nomadfoodtruckapp
 ---
 
 # Delete merged branch

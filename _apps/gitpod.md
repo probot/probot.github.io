@@ -16,8 +16,8 @@ organizations:
 - TypeFox
 - sr229
 - gitpod-io
-- JanitorTechnology
 - hemanth22
+- JanitorTechnology
 - Sayo-nika
 - abenchi
 ---

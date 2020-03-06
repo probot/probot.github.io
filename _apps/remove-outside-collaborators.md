@@ -20,9 +20,9 @@ organizations:
 - Thezone1975
 - Hollywood
 - TrapTeamCCNZ
+- pgetech
 - daddyfatstacksBIG
 - KondaReddyR
-- pgetech
 ---
 
 # Remove Outside Collaborators
