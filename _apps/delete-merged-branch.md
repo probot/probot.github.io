@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 217
 updated: 2020-03-04 04:27:39 UTC
-installations: 1972
+installations: 1973
 organizations:
-- AIGEXP
-- Backblaze
+- tmsouza
+- AHEAD-Terraform
+- reef-technologies
 - filtered-ai
 - canopy-channels
 - piterpy-meetup
@@ -22,7 +23,6 @@ organizations:
 - wcvendors
 - Hitched-Inc
 - seanyen
-- ashavk
 ---
 
 # Delete merged branch
