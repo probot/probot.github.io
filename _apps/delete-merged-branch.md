@@ -9,12 +9,13 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 217
+stars: 216
 updated: 2020-03-04 04:27:39 UTC
 installations: 1973
 organizations:
 - tmsouza
-- AHEAD-Terraform
+- Silentely
+- Backblaze
 - reef-technologies
 - filtered-ai
 - canopy-channels
@@ -22,7 +23,6 @@ organizations:
 - muilab
 - wcvendors
 - Hitched-Inc
-- seanyen
 ---
 
 # Delete merged branch
