@@ -20,8 +20,8 @@ organizations:
 - williamluke4
 - Thomashighbaugh
 - ScratchUtilities
+- makhweb
 - jellz
-- Warzone
 ---
 
 Prettifier keeps your repository content formatted using [Prettier](https://prettier.io).

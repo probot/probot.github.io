@@ -9,9 +9,9 @@ authors:
 - z0al
 repository: z0al/dep
 host: https://probot-dep.now.sh
-stars: 57
+stars: 58
 updated: 2018-08-12 07:47:54 UTC
-installations: 190
+installations: 192
 organizations:
 - ant-design
 - AvaloniaUI
