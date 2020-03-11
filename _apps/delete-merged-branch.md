@@ -10,10 +10,10 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 217
-updated: 2020-03-09 20:03:42 UTC
-installations: 1975
+updated: 2020-03-10 07:58:55 UTC
+installations: 1973
 organizations:
-- troyronda
+- bikingbadger
 - dantosXD
 - sidataplus
 - Silentely
