@@ -13,17 +13,17 @@ repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
 stars: 325
 updated: 2020-03-10 18:31:32 UTC
-installations: 873
+installations: 881
 organizations:
 - electron
 - ant-design
 - antvis
 - nuxt
 - react-navigation
-- prisma-labs
 - NativeScript
 - influxdata
 - agalwood
+- prisma-labs
 - vuejs
 ---
 
