@@ -9,7 +9,7 @@ authors:
 repository: KengoTODA/rtd-bot
 host: https://rtd-bot.herokuapp.com
 stars: 8
-updated: 2020-03-11 22:27:31 UTC
+updated: 2020-03-12 21:44:02 UTC
 installations: 10
 organizations:
 - pytest-dev

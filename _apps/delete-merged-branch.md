@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 217
-updated: 2020-03-11 20:30:18 UTC
-installations: 1974
+updated: 2020-03-12 23:45:26 UTC
+installations: 1976
 organizations:
-- DFO-Ocean-Navigator
+- SaltieRL
+- NicklasTegner
 - mayo0828
+- dantosXD
 - ssjrnath
 - sidataplus
 - Silentely
 - AHEAD-Terraform
 - Backblaze
 - reef-technologies
-- filtered-ai
-- canopy-channels
 ---
 
 # Delete merged branch

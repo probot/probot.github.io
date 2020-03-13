@@ -11,7 +11,7 @@ repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 88
 updated: 2020-03-03 20:56:06 UTC
-installations: 532
+installations: 533
 organizations:
 - flutter
 - ant-design

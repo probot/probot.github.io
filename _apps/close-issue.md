@@ -10,8 +10,8 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 29
-updated: 2020-03-11 19:10:00 UTC
-installations: 88
+updated: 2020-03-12 23:09:33 UTC
+installations: 90
 organizations:
 - ant-design
 - react-boilerplate
