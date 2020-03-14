@@ -18,9 +18,9 @@ organizations:
 - althea-net
 - phpfour
 - itsnwa
+- coolcode
 - retog
 - njzjz
-- coolcode
 - LeapBeyond
 ---
 
