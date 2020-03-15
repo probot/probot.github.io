@@ -19,8 +19,8 @@ organizations:
 - preactjs
 - fannypackui
 - tilde-lab
-- uniquexiaobai
 - Ignitus
+- uniquexiaobai
 - BlueEastCode
 - bejamas
 - blokhin

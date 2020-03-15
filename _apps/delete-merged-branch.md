@@ -9,12 +9,13 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 217
-updated: 2020-03-13 22:48:49 UTC
-installations: 1973
+stars: 218
+updated: 2020-03-14 23:59:13 UTC
+installations: 1974
 organizations:
-- bikingbadger
-- NicklasTegner
+- DFO-Ocean-Navigator
+- retr0h
+- moberries
 - mayo0828
 - dantosXD
 - ssjrnath
@@ -22,7 +23,6 @@ organizations:
 - Silentely
 - AHEAD-Terraform
 - Backblaze
-- reef-technologies
 ---
 
 # Delete merged branch
