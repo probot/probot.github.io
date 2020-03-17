@@ -9,13 +9,13 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 23
-updated: 2020-03-13 21:01:51 UTC
-installations: 293
+updated: 2020-03-16 05:30:32 UTC
+installations: 295
 organizations:
 - kwebio
 - othreecodes
-- dsabanin
 - ExtendedXmlSerializer
+- dsabanin
 - jpomykala
 - nerdmax
 - robvanderleek

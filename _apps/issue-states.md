@@ -17,8 +17,8 @@ organizations:
 - Algomorph
 - althea-net
 - phpfour
-- itsnwa
 - coolcode
+- itsnwa
 - retog
 - njzjz
 - LeapBeyond

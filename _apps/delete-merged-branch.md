@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 218
 updated: 2020-03-15 16:26:04 UTC
-installations: 1976
+installations: 1977
 organizations:
-- SaltieRL
+- rickyplouis
+- coc-proj-nbg
 - andoriyu
+- VOREStation
 - andyfen
 - retr0h
 - NicklasTegner
 - moberries
 - mayo0828
 - dantosXD
-- ssjrnath
-- sidataplus
 ---
 
 # Delete merged branch
