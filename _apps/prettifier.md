@@ -9,8 +9,8 @@ authors:
 repository: kevgo/prettifier
 host: https://prettifier-prod.herokuapp.com
 stars: 9
-updated: 2020-03-11 23:52:32 UTC
-installations: 31
+updated: 2020-03-18 01:33:51 UTC
+installations: 30
 organizations:
 - typescript-cheatsheets
 - LukeLin
@@ -20,8 +20,8 @@ organizations:
 - williamluke4
 - Thomashighbaugh
 - ScratchUtilities
-- makhweb
 - jellz
+- Warzone
 ---
 
 Prettifier keeps your repository content formatted using [Prettier](https://prettier.io).

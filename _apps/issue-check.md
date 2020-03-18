@@ -19,10 +19,10 @@ organizations:
 - njzjz
 - Wagnerp
 - hemanth22
+- mehmetanbaki
 - frilox042
 - gw-pem
 - DanielFatkic
-- magnetica-studio
 ---
 
 ## What It Does
