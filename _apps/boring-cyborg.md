@@ -24,7 +24,7 @@ organizations:
 - dependency-check
 - OpenMS
 - DesktopGooseUnofficial
-- VOREStation
+- gitwdel
 ---
 
 ## Features

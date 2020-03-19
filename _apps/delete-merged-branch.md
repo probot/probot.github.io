@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 218
+stars: 219
 updated: 2020-03-15 16:26:04 UTC
-installations: 1982
+installations: 1983
 organizations:
-- Intellection
+- philippe-vandermoere
+- nerkarso
+- CyberAgent
 - mrigesh-dev
+- Dica-Developer
 - karlnini
 - diffagency
 - kinjoBobchin
 - coc-proj-nbg
 - WeFoxTech
-- andoriyu
-- VOREStation
-- andyfen
 ---
 
 # Delete merged branch

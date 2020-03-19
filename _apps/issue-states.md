@@ -16,8 +16,8 @@ organizations:
 - inextensodigital
 - Algomorph
 - althea-net
-- phpfour
 - coolcode
+- phpfour
 - itsnwa
 - retog
 - njzjz
