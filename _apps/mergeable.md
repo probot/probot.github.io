@@ -9,8 +9,8 @@ authors:
 repository: jusx/mergeable
 host: https://mergeable-bot.herokuapp.com
 stars: 398
-updated: 2020-03-19 00:42:27 UTC
-installations: 220
+updated: 2020-03-19 23:08:26 UTC
+installations: 223
 organizations:
 - protocolbuffers
 - grpc
