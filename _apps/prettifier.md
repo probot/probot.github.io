@@ -9,7 +9,7 @@ authors:
 repository: kevgo/prettifier
 host: https://prettifier-prod.herokuapp.com
 stars: 9
-updated: 2020-03-21 01:29:02 UTC
+updated: 2020-03-22 00:20:24 UTC
 installations: 31
 organizations:
 - typescript-cheatsheets

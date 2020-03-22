@@ -10,7 +10,7 @@ repository: erickzhao/invite-contributors
 stars: 27
 updated: 2018-05-05 14:10:11 UTC
 host: https://vast-stream-78160.herokuapp.com
-installations: 48
+installations: 49
 organizations:
 - nteract
 - nextcloud
