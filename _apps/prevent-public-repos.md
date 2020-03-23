@@ -19,8 +19,8 @@ organizations:
 - tokopedia
 - telus
 - LEGO
-- octopart
 - njzjz
+- octopart
 - logrhythm
 ---
 

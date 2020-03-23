@@ -9,7 +9,7 @@ authors:
 - dessant
 repository: dessant/move-issues
 host: https://move-issues.apps.armin.dev
-stars: 43
+stars: 44
 updated: 2019-10-25 21:33:51 UTC
 installations: 149
 organizations:

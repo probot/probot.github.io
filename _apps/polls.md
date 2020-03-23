@@ -12,7 +12,7 @@ repository: evenchange4/gh-polls-bot
 host: https://gh-polls-bot.now.sh
 stars: 172
 updated: 2018-01-15 01:35:10 UTC
-installations: 556
+installations: 563
 organizations:
 - npm
 - PowerShell
@@ -23,7 +23,7 @@ organizations:
 - RxSwiftCommunity
 - jaegertracing
 - RasaHQ
-- siddharthkp
+- huihut
 ---
 
 # GitHub Polls Bot

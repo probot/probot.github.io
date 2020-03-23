@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 219
 updated: 2020-03-21 01:02:54 UTC
-installations: 1986
+installations: 1987
 organizations:
-- imranfawan
-- fgriberi
+- flemzord
+- thomasbui93
+- timc95
 - a01sa01to
 - niosus
 - jetbridge
@@ -22,7 +23,6 @@ organizations:
 - pranjalnadhani
 - CyberAgent
 - mrigesh-dev
-- Dica-Developer
 ---
 
 # Delete merged branch
