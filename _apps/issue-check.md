@@ -10,8 +10,8 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-03-22 15:44:39 UTC
-installations: 29
+updated: 2020-03-23 22:44:46 UTC
+installations: 30
 organizations:
 - Maatwebsite
 - laraform

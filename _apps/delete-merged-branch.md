@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 219
-updated: 2020-03-21 01:02:54 UTC
-installations: 1987
+updated: 2020-03-23 21:48:13 UTC
+installations: 1988
 organizations:
-- flemzord
+- layer-platform
+- arislab
 - thomasbui93
+- fgriberi
 - timc95
 - a01sa01to
 - niosus
 - jetbridge
 - nerkarso
 - pranjalnadhani
-- CyberAgent
-- mrigesh-dev
 ---
 
 # Delete merged branch
