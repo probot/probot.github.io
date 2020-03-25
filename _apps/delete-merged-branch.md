@@ -10,11 +10,12 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 219
-updated: 2020-03-23 21:48:13 UTC
-installations: 1988
+updated: 2020-03-24 08:28:57 UTC
+installations: 1987
 organizations:
-- layer-platform
-- arislab
+- VenomVendor
+- mjirayu
+- DNI-Mercury
 - thomasbui93
 - fgriberi
 - timc95
@@ -22,7 +23,6 @@ organizations:
 - niosus
 - jetbridge
 - nerkarso
-- pranjalnadhani
 ---
 
 # Delete merged branch
