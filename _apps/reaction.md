@@ -10,8 +10,9 @@ repository: dessant/reaction-comments
 host: https://reaction-comments.apps.armin.dev
 stars: 29
 updated: 2019-10-25 21:53:02 UTC
-installations: 95
+installations: 96
 organizations:
+- swagger-api
 - invertase
 - zealdocs
 - microsoft
@@ -21,7 +22,6 @@ organizations:
 - sethvargo
 - GameServerManagers
 - idehub
-- open62541
 ---
 
 A GitHub App that deletes reaction comments, such as +1,

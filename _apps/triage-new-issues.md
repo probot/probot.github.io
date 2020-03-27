@@ -14,7 +14,7 @@ repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 19
 updated: 2019-12-01 18:46:24 UTC
-installations: 148
+installations: 149
 organizations:
 - pypa
 - playframework
