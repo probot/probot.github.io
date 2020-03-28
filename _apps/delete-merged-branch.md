@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 219
 updated: 2020-03-26 09:13:45 UTC
-installations: 1988
+installations: 1991
 organizations:
-- flemzord
+- Voyanta
+- SallaApp
+- ngx-rocket
 - liveaction
+- yjshen
 - alfa-laboratory
 - nuuday
 - jeffy-g
 - mjirayu
 - tandfgroup
-- DNI-Mercury
-- thomasbui93
-- fgriberi
 ---
 
 # Delete merged branch
