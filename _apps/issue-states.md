@@ -10,7 +10,7 @@ repository: dessant/issue-states
 host: https://issue-states.apps.armin.dev
 stars: 35
 updated: 2019-10-25 20:19:41 UTC
-installations: 141
+installations: 142
 organizations:
 - samvera
 - inextensodigital
