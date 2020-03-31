@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 219
+stars: 220
 updated: 2020-03-26 09:13:45 UTC
-installations: 1993
+installations: 1994
 organizations:
-- a1motion
+- HqOapp
+- opentransportro
 - vjack33
+- Adrael
 - SallaApp
 - georgehrke
 - ngx-rocket
 - liveaction
 - yjshen
 - alfa-laboratory
-- nuuday
-- jeffy-g
 ---
 
 # Delete merged branch
