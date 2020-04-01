@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 220
 updated: 2020-03-26 09:13:45 UTC
-installations: 1994
+installations: 1995
 organizations:
-- HqOapp
-- opentransportro
+- splice
+- lucamolteni
+- usemarkup
 - vjack33
 - Adrael
 - SallaApp
@@ -22,7 +23,6 @@ organizations:
 - ngx-rocket
 - liveaction
 - yjshen
-- alfa-laboratory
 ---
 
 # Delete merged branch

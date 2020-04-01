@@ -16,8 +16,8 @@ organizations:
 - r37r0m0d3l
 - duncdrum
 - hemanth22
-- Ikuyadeu
 - byteshiva
+- Ikuyadeu
 - frilox042
 - eromano
 - olitreadwell
