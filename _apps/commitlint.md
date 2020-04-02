@@ -19,8 +19,8 @@ organizations:
 - webpack
 - unix
 - mike-works
-- open-wc
 - zeit-ui
+- open-wc
 - lmjben
 - madlabsinc
 ---

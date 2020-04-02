@@ -10,7 +10,7 @@ repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 stars: 15
 updated: 2019-09-26 14:00:33 UTC
-installations: 108
+installations: 109
 organizations:
 - nhn
 - Juanpe

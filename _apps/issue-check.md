@@ -18,8 +18,8 @@ organizations:
 - laraform
 - njzjz
 - hemanth22
-- mehmetanbaki
 - frilox042
+- mehmetanbaki
 - gw-pem
 - DanielFatkic
 - magnetica-studio

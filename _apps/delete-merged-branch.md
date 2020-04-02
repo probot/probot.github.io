@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 220
 updated: 2020-03-26 09:13:45 UTC
-installations: 1995
+installations: 1999
 organizations:
-- splice
+- etherlabsio
+- SuaMusica
+- murad-guliyev-pb
+- HeartfulnessInstitute
 - lucamolteni
+- opentransportro
 - usemarkup
 - vjack33
 - Adrael
 - SallaApp
-- georgehrke
-- ngx-rocket
-- liveaction
-- yjshen
 ---
 
 # Delete merged branch
