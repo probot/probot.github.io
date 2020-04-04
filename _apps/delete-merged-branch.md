@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 220
+stars: 221
 updated: 2020-03-26 09:13:45 UTC
-installations: 2000
+installations: 2002
 organizations:
-- reedhhw
+- hamajyotan
+- ESSAMAMI
+- bluesheeptoken
 - fix-point
+- BulbEnergy
 - SuaMusica
 - minecode
 - murad-guliyev-pb
 - HeartfulnessInstitute
 - lucamolteni
-- opentransportro
-- usemarkup
-- vjack33
 ---
 
 # Delete merged branch
