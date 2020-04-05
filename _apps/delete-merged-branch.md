@@ -11,9 +11,9 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 221
 updated: 2020-03-26 09:13:45 UTC
-installations: 2002
+installations: 2000
 organizations:
-- hamajyotan
+- prabhath6
 - ESSAMAMI
 - bluesheeptoken
 - fix-point
