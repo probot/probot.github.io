@@ -8,9 +8,9 @@ authors:
 - bkeepers
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
-stars: 67
+stars: 68
 updated: 2020-03-30 01:33:41 UTC
-installations: 334
+installations: 335
 organizations:
 - overtrue
 - PowerShell
