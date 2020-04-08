@@ -11,9 +11,9 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 221
 updated: 2020-03-26 09:13:45 UTC
-installations: 2006
+installations: 2004
 organizations:
-- AYLIEN
+- simplybusiness
 - adyavanapalli
 - andrijasinski
 - surajudge9
