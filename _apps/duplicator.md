@@ -12,7 +12,7 @@ repository: raulriera/probot-duplicator
 host: https://rapid-sousaphone.glitch.me
 stars: 3
 updated: 2018-07-06 02:21:05 UTC
-installations: 24
+installations: 25
 organizations:
 - fvcproductions
 - techqueria

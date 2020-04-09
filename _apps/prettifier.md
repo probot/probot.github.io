@@ -9,8 +9,8 @@ authors:
 repository: kevgo/prettifier
 host: https://prettifier-prod.herokuapp.com
 stars: 9
-updated: 2020-04-07 20:00:29 UTC
-installations: 32
+updated: 2020-04-08 22:25:00 UTC
+installations: 33
 organizations:
 - LukeLin
 - Bluscream

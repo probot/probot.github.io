@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 221
-updated: 2020-03-26 09:13:45 UTC
-installations: 2004
+updated: 2020-04-08 22:45:41 UTC
+installations: 2005
 organizations:
-- simplybusiness
+- jobox-team
+- RedVentures
 - adyavanapalli
+- mdelcarlo
 - andrijasinski
 - surajudge9
 - yeya24
 - smaranjitghose
 - iangregsondev
 - ESSAMAMI
-- greymatter-io
-- bluesheeptoken
 ---
 
 # Delete merged branch
