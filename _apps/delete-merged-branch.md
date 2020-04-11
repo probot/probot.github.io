@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 222
 updated: 2020-04-09 06:43:57 UTC
-installations: 2005
+installations: 2006
 organizations:
-- daddyfatstacksBIG
+- postpersonality
+- nuxeh
 - Dizzzmas
+- Dreamsplutox
 - RedVentures
 - dana-food
 - adyavanapalli
 - mdelcarlo
 - andrijasinski
 - surajudge9
-- yeya24
-- smaranjitghose
 ---
 
 # Delete merged branch
