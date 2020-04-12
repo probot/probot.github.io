@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 222
 updated: 2020-04-09 06:43:57 UTC
-installations: 2006
+installations: 2005
 organizations:
-- postpersonality
+- logickit-io
+- ReactiveMongo
 - nuxeh
+- aristanetworks
 - Dizzzmas
 - Dreamsplutox
 - RedVentures
 - dana-food
 - adyavanapalli
 - mdelcarlo
-- andrijasinski
-- surajudge9
 ---
 
 # Delete merged branch

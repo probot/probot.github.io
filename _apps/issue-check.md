@@ -21,8 +21,8 @@ organizations:
 - frilox042
 - mehmetanbaki
 - gw-pem
+- philoserf
 - DanielFatkic
-- magnetica-studio
 ---
 
 ## What It Does
