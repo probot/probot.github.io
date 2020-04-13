@@ -9,8 +9,8 @@ authors:
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 68
-updated: 2020-03-30 01:33:41 UTC
-installations: 336
+updated: 2020-04-12 19:01:12 UTC
+installations: 335
 organizations:
 - overtrue
 - PowerShell
@@ -21,7 +21,7 @@ organizations:
 - probot
 - MacDownApp
 - thibmaek
-- goreleaser
+- benbalter
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
