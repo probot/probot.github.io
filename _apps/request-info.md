@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/request-info
 updated: 2019-04-19 17:01:24 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 1045
+installations: 1051
 organizations:
 - 30-seconds
 - Homebrew
@@ -21,8 +21,8 @@ organizations:
 - standard
 - apache
 - HeroTransitions
-- invertase
 - nlohmann
+- invertase
 ---
 
 
