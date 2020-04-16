@@ -13,7 +13,7 @@ repository: kaxil/boring-cyborg
 host: https://boring-cyborg.herokuapp.com
 stars: 17
 updated: 2020-03-13 20:47:42 UTC
-installations: 47
+installations: 48
 organizations:
 - apache
 - quarkusio
