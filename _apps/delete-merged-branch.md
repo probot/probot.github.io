@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 224
-updated: 2020-04-14 07:09:11 UTC
-installations: 2009
+stars: 225
+updated: 2020-04-16 22:38:19 UTC
+installations: 2010
 organizations:
-- VenomVendor
+- project-pulse
+- orithankyou
+- artgorbunov
+- pedroSoaresll
+- replayvalue
 - sikmi
+- OmegaSmash
 - Demon-DK
 - zourite
 - samsungnext
-- tomaae
-- ReactiveMongo
-- fxsalazar
-- nuxeh
-- aristanetworks
 ---
 
 # Delete merged branch

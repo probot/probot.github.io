@@ -11,7 +11,7 @@ repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
 updated: 2020-04-13 19:11:57 UTC
-installations: 29
+installations: 28
 organizations:
 - Maatwebsite
 - coolcode
@@ -21,8 +21,8 @@ organizations:
 - frilox042
 - gw-pem
 - mehmetanbaki
-- philoserf
 - DanielFatkic
+- magnetica-studio
 ---
 
 ## What It Does

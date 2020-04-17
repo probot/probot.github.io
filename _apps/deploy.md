@@ -21,7 +21,7 @@ organizations:
 - mdelagrange
 - BadIdeaFactory
 - frilox042
-- octodemo
+- krithiva
 ---
 
 This app uses GitHub's deployment API and triggers a deployment event when a matching label is applied to a Pull Request. 
