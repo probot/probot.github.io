@@ -21,7 +21,7 @@ organizations:
 - buildkite
 - kentaro-m
 - GetStream
-- ipolyzos
+- dmirubtsov
 ---
 
 ## Usage
