@@ -15,6 +15,7 @@ installations: 2010
 organizations:
 - project-pulse
 - lukaszflorczak
+- orithankyou
 - Bizaline
 - artgorbunov
 - pedroSoaresll
@@ -22,7 +23,6 @@ organizations:
 - sikmi
 - OmegaSmash
 - Demon-DK
-- zourite
 ---
 
 # Delete merged branch

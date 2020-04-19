@@ -10,7 +10,7 @@ repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 155
 updated: 2019-08-27 17:47:31 UTC
-installations: 251
+installations: 275
 organizations:
 - foundation
 - alibaba
@@ -18,7 +18,7 @@ organizations:
 - veggiemonk
 - getredash
 - LightTable
-- developer-learning
+- talk-go
 - vueComponent
 - nock
 - umijs
