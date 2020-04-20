@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 225
 updated: 2020-04-17 07:03:52 UTC
-installations: 2010
+installations: 2014
 organizations:
-- project-pulse
+- abujagonda
+- MarkelFe
+- jackton1
+- Suricards
+- Tiryoh
 - lukaszflorczak
+- yetanother-blog
 - orithankyou
 - Bizaline
 - artgorbunov
-- pedroSoaresll
-- replayvalue
-- sikmi
-- OmegaSmash
-- Demon-DK
 ---
 
 # Delete merged branch

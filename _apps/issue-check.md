@@ -10,8 +10,8 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-04-17 23:52:44 UTC
-installations: 28
+updated: 2020-04-20 00:53:26 UTC
+installations: 29
 organizations:
 - Maatwebsite
 - coolcode
