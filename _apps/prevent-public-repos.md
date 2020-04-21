@@ -21,7 +21,7 @@ organizations:
 - LEGO
 - njzjz
 - octopart
-- PrimerAI
+- logrhythm
 ---
 
 # Prevent-Public-Repos Probot App
