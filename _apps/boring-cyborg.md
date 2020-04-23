@@ -16,8 +16,8 @@ updated: 2020-04-21 13:10:23 UTC
 installations: 50
 organizations:
 - apache
-- quarkusio
 - PyTorchLightning
+- quarkusio
 - bisq-network
 - jeremylong
 - lballabio

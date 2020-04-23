@@ -11,7 +11,7 @@ authors:
 repository: fossapps/pr_label_enforcer
 host: https://prlabelenforcer.cyberhck.now.sh/
 stars: 2
-updated: 2020-04-20 17:05:10 UTC
+updated: 2020-04-22 04:53:08 UTC
 ---
 If you want to require certain labels before your PR can be merged, just enable this bot and add a config file under at `.github/pr_labels.yml` here's a sample config file:
 ```yaml

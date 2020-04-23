@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 226
-updated: 2020-04-17 07:03:52 UTC
+updated: 2020-04-22 09:05:26 UTC
 installations: 2024
 organizations:
 - pradeepjaladi
+- echedaleux
 - paps-app
+- mattd3v
 - eazybee2010
 - COVID19Tracking
 - vipinlahoti
 - suzu-prog
 - rhythmictech
-- word-up
 - Vyeno
-- memCrab
 ---
 
 # Delete merged branch
