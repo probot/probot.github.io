@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 226
 updated: 2020-04-22 09:05:26 UTC
-installations: 2024
+installations: 2025
 organizations:
-- pradeepjaladi
+- qideng
+- nullren
+- emiltodorov
+- matt-plank
 - echedaleux
+- technofriends
 - paps-app
 - mattd3v
 - eazybee2010
 - COVID19Tracking
-- vipinlahoti
-- suzu-prog
-- rhythmictech
-- Vyeno
 ---
 
 # Delete merged branch

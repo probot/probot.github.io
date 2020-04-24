@@ -22,10 +22,10 @@ organizations:
 - Semantic-Org
 - CachetHQ
 - adonisjs
-- Azure
 - iterative
 - Laravel-Backpack
 - lagom
+- Robdel12
 ---
 
 
