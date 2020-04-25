@@ -11,7 +11,7 @@ repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 87
 updated: 2018-10-04 17:24:42 UTC
-installations: 375
+installations: 374
 organizations:
 - flutter
 - Homebrew
