@@ -11,9 +11,9 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 225
 updated: 2020-04-22 09:05:26 UTC
-installations: 2028
+installations: 2026
 organizations:
-- AYLIEN
+- sandragryga
 - owncloud-ops
 - vokod
 - nullren

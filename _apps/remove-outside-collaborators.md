@@ -16,8 +16,8 @@ organizations:
 - times
 - LiveRamp
 - telus
-- OpenAIM
 - Thezone1975
+- OpenAIM
 - Hollywood
 - TrapTeamCCNZ
 - pgetech
