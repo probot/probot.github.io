@@ -15,8 +15,8 @@ installations: 150
 organizations:
 - ant-design
 - nlohmann
-- kartik-v
 - arendst
+- kartik-v
 - probot
 - git-for-windows
 - theme-next

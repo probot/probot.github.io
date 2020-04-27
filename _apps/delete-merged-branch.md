@@ -11,10 +11,11 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 225
 updated: 2020-04-22 09:05:26 UTC
-installations: 2026
+installations: 2027
 organizations:
-- sandragryga
-- owncloud-ops
+- daddyfatstacksBIG
+- lithiumtoast
+- CDAsia
 - vokod
 - nullren
 - instructure
@@ -22,7 +23,6 @@ organizations:
 - matt-plank
 - echedaleux
 - technofriends
-- paps-app
 ---
 
 # Delete merged branch
