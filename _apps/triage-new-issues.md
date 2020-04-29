@@ -25,7 +25,7 @@ organizations:
 - iterative
 - Laravel-Backpack
 - lagom
-- kedacore
+- thefrontside
 ---
 
 

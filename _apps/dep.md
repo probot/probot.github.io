@@ -17,10 +17,10 @@ organizations:
 - AvaloniaUI
 - wp-cli
 - Laravel-Backpack
+- thefrontside
 - google
 - SymbiFlow
 - timvideos
-- thefrontside
 - decidim
 - su2code
 ---

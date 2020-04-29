@@ -12,7 +12,7 @@ repository: kuldeepkeshwar/size-plugin-bot
 host: https://size-plugin-bot.glitch.me
 stars: 64
 updated: 2020-03-15 10:46:25 UTC
-installations: 91
+installations: 92
 organizations:
 - antvis
 - tannerlinsley
