@@ -10,7 +10,7 @@ repository: kevgo/prettifier
 host: https://prettifier-prod.herokuapp.com
 stars: 9
 updated: 2020-04-28 00:22:52 UTC
-installations: 34
+installations: 35
 organizations:
 - git-town
 - TokTok

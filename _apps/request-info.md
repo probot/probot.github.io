@@ -18,8 +18,8 @@ organizations:
 - thedaviddias
 - webtorrent
 - overtrue
-- apache
 - standard
+- apache
 - HeroTransitions
 - nlohmann
 - invertase
