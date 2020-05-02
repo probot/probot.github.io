@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 226
+stars: 227
 updated: 2020-04-22 09:05:26 UTC
-installations: 2036
+installations: 2039
 organizations:
-- totvs
+- guilhermesteves
+- Dema
+- muyantech
+- software-station
 - koala-labs
+- Addono
 - Meemaw
 - wuiidl
 - evelzi
 - ThomascookTourism
-- Giveback-ru
-- BorsaTeam
-- MeltStudio
-- komorebitech
 ---
 
 # Delete merged branch

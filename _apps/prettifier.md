@@ -13,7 +13,6 @@ updated: 2020-04-28 00:22:52 UTC
 installations: 35
 organizations:
 - git-town
-- TokTok
 - LukeLin
 - Bluscream
 - DeMoorJasper
@@ -22,6 +21,7 @@ organizations:
 - ScratchUtilities
 - Thomashighbaugh
 - jellz
+- Warzone
 ---
 
 Prettifier keeps your repository content formatted using [Prettier](https://prettier.io).
