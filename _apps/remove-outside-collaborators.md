@@ -16,13 +16,13 @@ organizations:
 - times
 - LiveRamp
 - telus
-- RedVentures
 - Thezone1975
 - OpenAIM
 - Hollywood
-- pgetech
 - TrapTeamCCNZ
+- pgetech
 - daddyfatstacksBIG
+- KondaReddyR
 ---
 
 # Remove Outside Collaborators

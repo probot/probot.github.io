@@ -10,7 +10,7 @@ repository: dessant/lock-threads
 host: https://lock-threads.apps.armin.dev
 stars: 120
 updated: 2020-02-22 06:29:10 UTC
-installations: 517
+installations: 522
 organizations:
 - facebook
 - flutter
@@ -19,8 +19,8 @@ organizations:
 - jquery
 - ReactTraining
 - atom
-- lodash
 - zeit
+- lodash
 - grpc
 ---
 
