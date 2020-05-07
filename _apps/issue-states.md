@@ -8,9 +8,9 @@ authors:
 - dessant
 repository: dessant/issue-states
 host: https://issue-states.apps.armin.dev
-stars: 37
+stars: 38
 updated: 2019-10-25 20:19:41 UTC
-installations: 153
+installations: 152
 organizations:
 - TokTok
 - samvera

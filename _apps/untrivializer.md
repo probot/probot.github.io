@@ -21,7 +21,6 @@ organizations:
 - entendu
 - fanai-inc
 - frilox042
-- octodemo
 - andrewmurraydavid
 ---
 
