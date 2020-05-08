@@ -21,7 +21,7 @@ organizations:
 - wix
 - getredash
 - CachetHQ
-- PHPOffice
+- jupyterhub
 ---
 A GitHub App that comments on and closes issues labeled as support requests.
 

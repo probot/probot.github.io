@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 227
 updated: 2020-04-22 09:05:26 UTC
-installations: 2041
+installations: 2042
 organizations:
-- BizCover
+- atSCM
+- torticity
 - Defiancefew
+- TheOdinProject
 - buildstream
 - Laboratoria
 - chuva-inc
 - bgold09
 - devnw
 - Dema
-- tamj0rd2
-- muyantech
 ---
 
 # Delete merged branch
