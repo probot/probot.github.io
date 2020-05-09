@@ -9,8 +9,8 @@ authors:
 repository: kevgo/prettifier
 host: https://prettifier-prod.herokuapp.com
 stars: 8
-updated: 2020-05-05 19:27:50 UTC
-installations: 36
+updated: 2020-05-08 19:44:20 UTC
+installations: 37
 organizations:
 - git-town
 - LukeLin
