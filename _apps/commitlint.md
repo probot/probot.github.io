@@ -22,7 +22,7 @@ organizations:
 - open-wc
 - lmjben
 - fdv
-- xlayers
+- linkorb
 ---
 
 <p align="center">
