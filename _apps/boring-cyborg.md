@@ -13,7 +13,7 @@ repository: kaxil/boring-cyborg
 host: https://boring-cyborg.herokuapp.com
 stars: 17
 updated: 2020-04-21 13:10:23 UTC
-installations: 61
+installations: 62
 organizations:
 - apache
 - PyTorchLightning
@@ -21,10 +21,10 @@ organizations:
 - bisq-network
 - jeremylong
 - lballabio
+- Zettlr
 - tensorflow
 - dependency-check
 - OpenMS
-- DesktopGooseUnofficial
 ---
 
 ## Features
