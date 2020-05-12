@@ -9,7 +9,7 @@ authors:
 - rsarky
 repository: rsarky/helpr
 host: https://evening-depths-50399.herokuapp.com
-stars: 12
+stars: 13
 updated: 2019-10-29 14:25:07 UTC
 installations: 63
 organizations:

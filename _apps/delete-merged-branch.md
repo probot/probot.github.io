@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 227
-updated: 2020-04-22 09:05:26 UTC
+updated: 2020-05-11 17:47:58 UTC
 installations: 2045
 organizations:
 - onefit
+- healthiestyou
+- ciq-arch
 - arminaaki
+- Country-Broot
 - 3loool
 - solidnerd
 - RibbonEx
 - developer-student-club-thapar
 - PhearZero
-- torticity
-- lo-trial
-- Defiancefew
 ---
 
 # Delete merged branch
