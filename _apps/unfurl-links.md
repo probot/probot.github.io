@@ -10,13 +10,13 @@ repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 72
 updated: 2020-05-11 17:15:08 UTC
-installations: 345
+installations: 346
 organizations:
 - overtrue
 - PowerShell
 - HeroTransitions
-- reactiveui
 - Eugeny
+- reactiveui
 - apereo
 - probot
 - MacDownApp

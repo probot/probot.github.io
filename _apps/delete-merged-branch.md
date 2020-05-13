@@ -9,20 +9,20 @@ authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
-stars: 227
+stars: 228
 updated: 2020-05-11 17:47:58 UTC
-installations: 2045
+installations: 2050
 organizations:
-- onefit
+- SandyKarunia
+- tinyfool
+- CogScreen
+- MIT-Sloan-Food-Safety-Project
+- mogedy
+- shirshak55
+- andig
 - healthiestyou
+- beekpr
 - ciq-arch
-- arminaaki
-- Country-Broot
-- 3loool
-- solidnerd
-- RibbonEx
-- developer-student-club-thapar
-- PhearZero
 ---
 
 # Delete merged branch
