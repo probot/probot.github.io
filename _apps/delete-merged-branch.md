@@ -11,9 +11,9 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 228
 updated: 2020-05-11 17:47:58 UTC
-installations: 2050
+installations: 2049
 organizations:
-- SandyKarunia
+- Rumadra
 - tinyfool
 - CogScreen
 - MIT-Sloan-Food-Safety-Project

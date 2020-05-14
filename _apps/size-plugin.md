@@ -22,8 +22,8 @@ organizations:
 - tilde-lab
 - Ignitus
 - uniquexiaobai
-- BlueEastCode
 - bejamas
+- BlueEastCode
 ---
 
 

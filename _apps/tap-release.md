@@ -10,7 +10,7 @@ repository: toolmantim/tap-release
 host: https://tap-release.now.sh
 stars: 32
 updated: 2020-05-05 13:55:36 UTC
-installations: 27
+installations: 28
 organizations:
 - infection
 - humbug
