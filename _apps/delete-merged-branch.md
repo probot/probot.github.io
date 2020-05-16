@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 228
 updated: 2020-05-14 12:05:26 UTC
-installations: 2049
+installations: 2050
 organizations:
-- Rumadra
+- Samelogic
+- FireRedNinja
+- vendida
 - VOREStation
+- tinyfool
 - SyncBee
 - CogScreen
 - MIT-Sloan-Food-Safety-Project
 - mogedy
 - shirshak55
-- andig
-- healthiestyou
-- beekpr
 ---
 
 # Delete merged branch

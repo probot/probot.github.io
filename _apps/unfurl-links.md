@@ -10,7 +10,7 @@ repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 72
 updated: 2020-05-11 17:15:08 UTC
-installations: 346
+installations: 347
 organizations:
 - overtrue
 - PowerShell
