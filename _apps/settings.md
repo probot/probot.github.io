@@ -21,7 +21,7 @@ organizations:
 - ArtSabintsev
 - probot
 - bkeepers
-- jhen0409
+- posva
 ---
 
 This GitHub App syncs repository settings defined in `.github/settings.yml` to GitHub, enabling Pull Requests for repository settings.

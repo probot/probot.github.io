@@ -10,19 +10,19 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 228
-updated: 2020-05-14 12:05:26 UTC
-installations: 2053
+updated: 2020-05-18 14:50:23 UTC
+installations: 2054
 organizations:
-- gamercatorg
+- frilox042
+- montecha
+- d7lab
 - Nickwasused
+- hanzoai
 - kiranparajuli589
 - pazz
 - FUNEE-inc
 - FireRedNinja
 - asahi-digital
-- vendida
-- VOREStation
-- tinyfool
 ---
 
 # Delete merged branch

@@ -9,8 +9,8 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 39
-updated: 2020-05-17 20:39:03 UTC
-installations: 456
+updated: 2020-05-18 05:44:37 UTC
+installations: 461
 organizations:
 - lukaszflorczak
 - kwebio
@@ -20,8 +20,8 @@ organizations:
 - chris-ware
 - jpomykala
 - robvanderleek
-- JiscSD
 - agentlab
+- JiscSD
 ---
 # Create Issue Branch
 
