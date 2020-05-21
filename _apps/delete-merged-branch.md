@@ -11,18 +11,18 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 228
 updated: 2020-05-18 14:50:23 UTC
-installations: 2057
+installations: 2058
 organizations:
-- TruckITllc
+- alanvardy
+- XtremeBits
 - ynfle
+- tamu-datathon-org
 - santiment
 - Dawsson-Group
 - montecha
 - mint-hosting
 - Nickwasused
 - hanzoai
-- kiranparajuli589
-- pazz
 ---
 
 # Delete merged branch

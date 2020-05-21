@@ -14,8 +14,8 @@ updated: 2020-05-20 01:48:56 UTC
 installations: 110
 organizations:
 - ant-design
-- react-boilerplate
 - vuetifyjs
+- react-boilerplate
 - arendst
 - vueComponent
 - android-hacker
