@@ -10,7 +10,7 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 229
-updated: 2020-05-18 14:50:23 UTC
+updated: 2020-05-24 19:57:05 UTC
 installations: 2071
 organizations:
 - zendesk

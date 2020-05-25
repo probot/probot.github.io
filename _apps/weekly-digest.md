@@ -9,7 +9,7 @@ authors:
 repository: probot/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 164
-updated: 2020-05-23 17:55:51 UTC
+updated: 2020-05-24 17:43:39 UTC
 installations: 275
 organizations:
 - foundation
