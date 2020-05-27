@@ -12,17 +12,7 @@ host: https://delete-merged-branch.now.sh
 stars: 229
 updated: 2020-05-25 06:52:51 UTC
 installations: 2075
-organizations:
-- gismokit
-- garrettgibo
-- Potato1682
-- P2P-Develop
-- Hvuj
-- all-social
-- kentond18
-- Corfucinas
-- StrawberryCo
-- chrisbsmith
+organizations: []
 ---
 
 # Delete merged branch
