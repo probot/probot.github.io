@@ -9,8 +9,8 @@ authors:
 repository: KengoTODA/rtd-bot
 host: https://rtd-bot.herokuapp.com
 stars: 8
-updated: 2020-05-25 23:00:23 UTC
-installations: 11
+updated: 2020-05-28 21:13:57 UTC
+installations: 12
 organizations:
 - pytest-dev
 - pypa
@@ -21,6 +21,7 @@ organizations:
 - sanitizers
 - CivicActions
 - patron-it
+- CartoonFan
 ---
 
 Get URL of documents when review changes in docs directory.
