@@ -10,18 +10,18 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-05-28 21:13:11 UTC
+updated: 2020-05-29 18:49:03 UTC
 installations: 30
 organizations:
 - Maatwebsite
 - laraform
 - coolcode
 - njzjz
+- CartoonFan
 - hemanth22
 - frilox042
 - mehmetanbaki
 - DanielFatkic
-- ahmed-al-bermawy
 - magnetica-studio
 ---
 

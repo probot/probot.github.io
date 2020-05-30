@@ -18,10 +18,10 @@ organizations:
 - DeMoorJasper
 - williamluke4
 - kevgo
+- CartoonFan
 - Thomashighbaugh
 - jellz
 - Warzone
-- vinayaksh42
 ---
 
 Prettifier keeps your repository content formatted using [Prettier](https://prettier.io).
