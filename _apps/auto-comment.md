@@ -10,8 +10,9 @@ repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 stars: 14
 updated: 2019-09-26 14:00:33 UTC
-installations: 114
+installations: 126
 organizations:
+- ipfs
 - nhn
 - acmesh-official
 - Juanpe
@@ -19,9 +20,8 @@ organizations:
 - ethereum
 - node-formidable
 - meetfranz
-- moonlight-stream
-- mitchellkrogza
-- mazipan
+- cosmos
+- tendermint
 ---
 
 

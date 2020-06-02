@@ -8,8 +8,8 @@ authors:
 - jusx
 repository: jusx/mergeable
 host: https://mergeable-bot.herokuapp.com
-stars: 418
-updated: 2020-05-30 23:44:20 UTC
+stars: 419
+updated: 2020-06-01 22:48:26 UTC
 installations: 244
 organizations:
 - protocolbuffers
@@ -17,8 +17,8 @@ organizations:
 - apache
 - xbmc
 - phpstan
-- rvm
 - banzaicloud
+- rvm
 - theme-next
 - fossasia
 - Radarr

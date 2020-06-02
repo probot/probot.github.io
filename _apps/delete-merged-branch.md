@@ -11,7 +11,7 @@ repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 229
 updated: 2020-05-29 07:10:59 UTC
-installations: 2091
+installations: 2090
 organizations: []
 ---
 
