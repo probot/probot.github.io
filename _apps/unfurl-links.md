@@ -20,8 +20,8 @@ organizations:
 - apereo
 - probot
 - MacDownApp
-- thibmaek
 - benbalter
+- thibmaek
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.
