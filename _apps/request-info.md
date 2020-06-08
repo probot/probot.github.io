@@ -11,7 +11,7 @@ authors:
 repository: behaviorbot/request-info
 updated: 2020-05-01 13:25:52 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 1098
+installations: 1100
 organizations:
 - Homebrew
 - ant-design
