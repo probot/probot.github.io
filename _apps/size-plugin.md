@@ -19,11 +19,11 @@ organizations:
 - ignatandrei
 - preactjs
 - fannypackui
-- tilde-lab
+- CartoonFan
 - Ignitus
+- tilde-lab
 - uniquexiaobai
 - bejamas
-- BlueEastCode
 ---
 
 
