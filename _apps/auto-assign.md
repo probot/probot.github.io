@@ -11,18 +11,18 @@ repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 100
 updated: 2020-04-21 01:30:01 UTC
-installations: 626
+installations: 665
 organizations:
 - flutter
 - ant-design
 - HeroTransitions
 - Requarks
-- NG-ZORRO
-- theme-next
 - gofiber
+- theme-next
 - pypa
 - status-im
 - instructure
+- aragon
 ---
 
 ## What it does
