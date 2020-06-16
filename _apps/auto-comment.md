@@ -10,7 +10,7 @@ repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 stars: 14
 updated: 2019-09-26 14:00:33 UTC
-installations: 130
+installations: 131
 organizations:
 - ipfs
 - nhn
