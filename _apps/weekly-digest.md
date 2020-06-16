@@ -6,7 +6,7 @@ screenshots:
 - https://user-images.githubusercontent.com/20141002/41304450-d2bc9234-6e8d-11e8-965d-649ed2d04651.gif
 authors:
 - abhijeetps
-repository: probot/weekly-digest
+repository: abhijeetps/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 167
 updated: 2020-05-24 17:43:39 UTC
