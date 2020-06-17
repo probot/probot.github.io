@@ -21,7 +21,7 @@ organizations:
 - platzi
 - hemanth22
 - frilox042
-- Katlean
+- raralabs
 ---
 
 # Probot: Minimum Reviews
