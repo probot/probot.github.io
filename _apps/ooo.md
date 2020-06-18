@@ -9,9 +9,9 @@ authors:
 - swinton
 repository: swinton/probot-ooo
 host: https://probot-ooo.herokuapp.com
-stars: 30
+stars: 31
 updated: 2018-01-06 15:08:10 UTC
-installations: 55
+installations: 57
 organizations:
 - karthik
 - JasonEtco

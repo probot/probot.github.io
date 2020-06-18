@@ -10,18 +10,18 @@ repository: kevgo/prettifier
 host: https://prettifier-prod.herokuapp.com
 stars: 10
 updated: 2020-06-16 15:56:32 UTC
-installations: 39
+installations: 38
 organizations:
 - git-town
 - LukeLin
 - Bluscream
 - DeMoorJasper
-- ryohlan
 - kevgo
 - Thomashighbaugh
 - code-for-chapel-hill
 - jellz
 - Warzone
+- vinayaksh42
 ---
 
 Prettifier keeps your repository content formatted using [Prettier](https://prettier.io).

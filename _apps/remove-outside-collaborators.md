@@ -9,20 +9,20 @@ authors:
 - hollywood
 repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
-stars: 11
+stars: 12
 updated: 2020-05-08 15:28:25 UTC
-installations: 60
+installations: 62
 organizations:
 - times
 - LiveRamp
 - telus
-- OpenAIM
+- reedhhw
 - Thezone1975
+- OpenAIM
 - Hollywood
-- TrapTeamCCNZ
 - pgetech
+- TrapTeamCCNZ
 - daddyfatstacksBIG
-- simright
 ---
 
 # Remove Outside Collaborators
