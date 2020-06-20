@@ -18,12 +18,12 @@ organizations:
 - tannerlinsley
 - ignatandrei
 - preactjs
-- fannypackui
 - CartoonFan
 - Ignitus
 - tilde-lab
 - uniquexiaobai
 - bejamas
+- BlueEastCode
 ---
 
 

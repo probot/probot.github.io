@@ -8,9 +8,9 @@ authors:
 repository: probot/settings
 screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
-updated: 2020-06-09 19:28:50 UTC
+updated: 2020-06-19 18:06:18 UTC
 host: https://github-configurer.herokuapp.com
-installations: 1051
+installations: 1054
 organizations:
 - apollographql
 - npm

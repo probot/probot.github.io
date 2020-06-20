@@ -22,8 +22,8 @@ organizations:
 - Semantic-Org
 - CachetHQ
 - adonisjs
-- Azure
 - iterative
+- Azure
 - Laravel-Backpack
 - lagom
 ---

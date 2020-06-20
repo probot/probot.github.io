@@ -14,8 +14,8 @@ updated: 2020-06-16 16:56:44 UTC
 installations: 31
 organizations:
 - Maatwebsite
-- coolcode
 - laraform
+- coolcode
 - CartoonFan
 - njzjz
 - hemanth22
