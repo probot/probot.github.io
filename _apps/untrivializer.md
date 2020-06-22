@@ -16,8 +16,8 @@ organizations:
 - theme-next
 - marketplacer
 - njzjz
-- reedhhw
 - Kristinita
+- reedhhw
 - entendu
 - fanai-inc
 - frilox042

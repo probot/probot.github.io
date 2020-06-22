@@ -9,8 +9,8 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 51
-updated: 2020-06-20 21:58:26 UTC
-installations: 569
+updated: 2020-06-21 21:16:31 UTC
+installations: 570
 organizations:
 - lukaszflorczak
 - kwebio
