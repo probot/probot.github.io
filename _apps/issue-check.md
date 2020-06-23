@@ -10,12 +10,12 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-06-16 16:56:44 UTC
+updated: 2020-06-22 19:51:32 UTC
 installations: 31
 organizations:
 - Maatwebsite
-- laraform
 - coolcode
+- laraform
 - CartoonFan
 - njzjz
 - hemanth22
