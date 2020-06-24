@@ -10,11 +10,10 @@ repository: hiimbex/markdownify
 host: https://desolate-river-85665.herokuapp.com
 stars: 10
 updated: 2018-12-27 06:51:10 UTC
-installations: 77
+installations: 76
 organizations:
 - ant-design
 - atom
-- jaredpalmer
 - aio-libs
 - HeroTransitions
 - probot
@@ -22,6 +21,7 @@ organizations:
 - benbalter
 - octokit
 - Provenance-Emu
+- stefanbuck
 ---
 
 ## How it works
