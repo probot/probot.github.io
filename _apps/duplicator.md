@@ -21,9 +21,9 @@ organizations:
 - reedhhw
 - frilox042
 - opensourcecities
+- inspiredlab
 - Amgwana
 - siphonyeti
-- jaandrle
 ---
 
 # Probot: Duplicator
