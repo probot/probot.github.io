@@ -11,7 +11,7 @@ authors:
 - kaxil
 repository: kaxil/boring-cyborg
 host: https://boring-cyborg.herokuapp.com
-stars: 21
+stars: 22
 updated: 2020-04-21 13:10:23 UTC
 installations: 89
 organizations:
@@ -20,8 +20,8 @@ organizations:
 - quarkusio
 - golangci
 - bisq-network
-- jeremylong
 - Zettlr
+- jeremylong
 - lballabio
 - WyriHaximus
 - tensorflow
