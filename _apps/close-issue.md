@@ -10,8 +10,8 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 31
-updated: 2020-07-06 21:32:09 UTC
-installations: 125
+updated: 2020-07-10 20:44:58 UTC
+installations: 124
 organizations:
 - ant-design
 - RocketChat
