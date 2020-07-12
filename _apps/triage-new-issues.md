@@ -20,8 +20,8 @@ organizations:
 - playframework
 - thepracticaldev
 - Semantic-Org
-- CachetHQ
 - adonisjs
+- CachetHQ
 - iterative
 - Azure
 - Laravel-Backpack

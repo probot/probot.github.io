@@ -10,12 +10,12 @@ repository: issc29/probot-prevent-public-repos
 host: https://probot-prevent-public-repos.herokuapp.com
 stars: 25
 updated: 2020-04-16 14:11:17 UTC
-installations: 308
+installations: 309
 organizations:
 - dollarshaveclub
 - SPSCommerce
-- LiveRamp
 - tokopedia
+- LiveRamp
 - telus
 - aussiegeek
 - LEGO
