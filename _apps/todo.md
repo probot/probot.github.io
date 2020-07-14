@@ -8,7 +8,7 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://probot-todo.herokuapp.com
-stars: 591
+stars: 593
 updated: 2020-05-20 04:58:02 UTC
 installations: 626
 organizations:
