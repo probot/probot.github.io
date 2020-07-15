@@ -19,9 +19,9 @@ organizations:
 - thebookofeveryone
 - BlueBaseJS
 - logikinc
+- frilox042
 - pmanlukas
 - BadIdeaFactory
-- mdelagrange
 ---
 
 This app uses GitHub's deployment API and triggers a deployment event when a matching label is applied to a Pull Request. 

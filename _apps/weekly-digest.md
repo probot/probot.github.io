@@ -17,8 +17,8 @@ organizations:
 - serhii-londar
 - veggiemonk
 - getredash
-- LightTable
 - talkgo
+- LightTable
 - vueComponent
 - nock
 - umijs

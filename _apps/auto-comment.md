@@ -20,8 +20,8 @@ organizations:
 - ethereum
 - node-formidable
 - meetfranz
-- cosmos
 - lvgl
+- cosmos
 ---
 
 
