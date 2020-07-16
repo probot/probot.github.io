@@ -13,8 +13,8 @@ updated: 2018-12-28 09:22:39 UTC
 installations: 24
 organizations:
 - chrisyue
-- reedhhw
 - r37r0m0d3l
+- reedhhw
 - duncdrum
 - byteshiva
 - Ikuyadeu

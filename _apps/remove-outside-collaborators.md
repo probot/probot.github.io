@@ -17,9 +17,9 @@ organizations:
 - times
 - LiveRamp
 - telus
-- reedhhw
 - Thezone1975
 - OpenAIM
+- reedhhw
 - Hollywood
 - TrapTeamCCNZ
 - pgetech
