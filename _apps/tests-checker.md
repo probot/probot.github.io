@@ -9,7 +9,7 @@ authors:
 repository: infection/tests-checker
 host: https://tests-checker.now.sh
 stars: 27
-updated: 2020-05-25 22:45:03 UTC
+updated: 2020-07-16 10:05:03 UTC
 installations: 50
 organizations:
 - ant-design
@@ -20,8 +20,8 @@ organizations:
 - commons-app
 - chrisyue
 - njzjz
-- retr0h
 - open-data-plan
+- retr0h
 ---
 
 # Tests Checker
