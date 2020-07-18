@@ -12,7 +12,7 @@ authors:
 repository: fossapps/Handlebars-Issue-and-Pull-Requests
 stars: 4
 host: https://handlebar-templates.cyberhck.now.sh
-updated: 2020-06-02 00:32:22 UTC
+updated: 2020-07-17 18:10:06 UTC
 ---
 
 One example usage is to add link to build for this issue, or link to docs built for this PR
