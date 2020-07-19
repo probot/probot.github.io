@@ -19,8 +19,8 @@ organizations:
 - adonisjs
 - ethereum
 - node-formidable
-- meetfranz
 - lvgl
+- meetfranz
 - cosmos
 ---
 

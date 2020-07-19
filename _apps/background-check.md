@@ -20,8 +20,8 @@ organizations:
 - debugger22
 - cherrypy
 - fvcproductions
-- campus-experts
 - Richienb
+- campus-experts
 - mxplusb
 ---
 
