@@ -14,8 +14,8 @@ installations: 24
 organizations:
 - chrisyue
 - r37r0m0d3l
-- reedhhw
 - duncdrum
+- reedhhw
 - byteshiva
 - Ikuyadeu
 - hemanth22

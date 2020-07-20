@@ -17,9 +17,9 @@ organizations:
 - njzjz
 - symphonyoss
 - fullfacing
-- reedhhw
 - divyenduz
 - platzi
+- reedhhw
 - hemanth22
 - frilox042
 ---

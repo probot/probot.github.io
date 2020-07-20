@@ -14,8 +14,8 @@ installations: 43
 organizations:
 - njzjz
 - helaili
-- reedhhw
 - suhanlee
+- reedhhw
 - thebookofeveryone
 - BlueBaseJS
 - logikinc

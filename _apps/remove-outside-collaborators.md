@@ -19,8 +19,8 @@ organizations:
 - telus
 - Thezone1975
 - OpenAIM
-- reedhhw
 - Hollywood
+- reedhhw
 - TrapTeamCCNZ
 - pgetech
 ---
