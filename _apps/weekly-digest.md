@@ -9,8 +9,8 @@ authors:
 repository: abhijeetps/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 169
-updated: 2020-05-24 17:43:39 UTC
-installations: 287
+updated: 2020-07-20 15:55:38 UTC
+installations: 288
 organizations:
 - alibaba
 - foundation
