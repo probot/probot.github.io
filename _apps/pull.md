@@ -9,7 +9,7 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 1091
+stars: 1094
 updated: 2020-07-18 14:07:31 UTC
 installations: 4266
 organizations:
