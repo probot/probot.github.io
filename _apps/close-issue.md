@@ -9,20 +9,20 @@ authors:
 - whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
-stars: 31
-updated: 2020-07-22 02:58:29 UTC
-installations: 123
+stars: 32
+updated: 2020-07-24 00:34:21 UTC
+installations: 124
 organizations:
 - ant-design
 - RocketChat
 - vuetifyjs
 - react-boilerplate
+- fullcalendar
 - arendst
 - vueComponent
 - android-hacker
 - CopyTranslator
 - travis-ci
-- netbox-community
 ---
 [![Build Status](https://travis-ci.org/offu/close-issue-app.svg?branch=master)](https://travis-ci.org/offu/close-issue-app)
 [![codecov](https://codecov.io/gh/offu/close-issue-app/branch/master/graph/badge.svg)](https://codecov.io/gh/offu/close-issue-app)  
