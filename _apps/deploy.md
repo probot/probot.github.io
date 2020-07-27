@@ -17,9 +17,9 @@ organizations:
 - suhanlee
 - reedhhw
 - thebookofeveryone
+- frilox042
 - BlueBaseJS
 - logikinc
-- frilox042
 - pmanlukas
 - BadIdeaFactory
 ---

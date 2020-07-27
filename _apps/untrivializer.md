@@ -19,8 +19,8 @@ organizations:
 - Kristinita
 - reedhhw
 - entendu
-- fanai-inc
 - frilox042
+- fanai-inc
 - andrewmurraydavid
 ---
 
