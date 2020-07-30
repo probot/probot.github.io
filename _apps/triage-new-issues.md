@@ -14,12 +14,12 @@ repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
 stars: 17
 updated: 2020-07-17 11:30:43 UTC
-installations: 182
+installations: 181
 organizations:
 - pypa
 - playframework
-- Semantic-Org
 - adonisjs
+- Semantic-Org
 - CachetHQ
 - iterative
 - Azure

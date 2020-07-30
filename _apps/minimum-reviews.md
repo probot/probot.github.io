@@ -20,8 +20,8 @@ organizations:
 - divyenduz
 - platzi
 - reedhhw
-- frilox042
 - hemanth22
+- frilox042
 ---
 
 # Probot: Minimum Reviews
