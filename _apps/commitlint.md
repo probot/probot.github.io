@@ -20,8 +20,8 @@ organizations:
 - open-wc
 - lmjben
 - fdv
-- linkorb
 - xlayers
+- linkorb
 - react-native-sensors
 ---
 
