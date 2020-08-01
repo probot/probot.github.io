@@ -17,8 +17,8 @@ organizations:
 - tokopedia
 - LiveRamp
 - telus
-- aussiegeek
 - LEGO
+- aussiegeek
 - JuulLabs
 - RedVentures
 - njzjz
