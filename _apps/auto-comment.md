@@ -10,7 +10,7 @@ repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
 stars: 13
 updated: 2019-09-26 14:00:33 UTC
-installations: 136
+installations: 137
 organizations:
 - ipfs
 - nhn
@@ -20,8 +20,8 @@ organizations:
 - ethereum
 - node-formidable
 - lvgl
-- meetfranz
 - cosmos
+- meetfranz
 ---
 
 
