@@ -19,8 +19,8 @@ organizations:
 - ignatandrei
 - preactjs
 - CartoonFan
-- Ignitus
 - tilde-lab
+- Ignitus
 - uniquexiaobai
 - bejamas
 - BlueEastCode
