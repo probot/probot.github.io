@@ -10,7 +10,7 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-08-03 18:02:47 UTC
+updated: 2020-08-06 01:08:10 UTC
 installations: 31
 organizations:
 - Maatwebsite
@@ -18,8 +18,8 @@ organizations:
 - coolcode
 - CartoonFan
 - njzjz
-- hemanth22
 - frilox042
+- hemanth22
 - mehmetanbaki
 - DanielFatkic
 - magnetica-studio

@@ -16,8 +16,8 @@ organizations:
 - helaili
 - suhanlee
 - reedhhw
-- thebookofeveryone
 - frilox042
+- thebookofeveryone
 - BlueBaseJS
 - logikinc
 - pmanlukas

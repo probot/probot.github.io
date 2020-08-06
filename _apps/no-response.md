@@ -14,8 +14,8 @@ updated: 2018-10-04 17:24:42 UTC
 installations: 420
 organizations:
 - flutter
-- Homebrew
 - facebook
+- Homebrew
 - atom
 - prettier
 - webtorrent
