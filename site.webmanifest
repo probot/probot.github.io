@@ -1,0 +1,20 @@
+{
+    "name": "Probot",
+    "short_name": "Probot",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png?v=jw3d9vxKo4",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png?v=jw3d9vxKo4",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#66cce0",
+    "background_color": "#66cce0",
+    "start_url": "https://probot.github.io/",
+    "display": "standalone"
+}
