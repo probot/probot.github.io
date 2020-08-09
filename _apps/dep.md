@@ -21,8 +21,8 @@ organizations:
 - google
 - timvideos
 - SymbiFlow
-- su2code
 - decidim
+- su2code
 ---
 
 <p align="center">
