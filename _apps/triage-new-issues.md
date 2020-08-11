@@ -25,7 +25,7 @@ organizations:
 - Azure
 - Laravel-Backpack
 - json-schema-org
-- lagom
+- microsoft
 ---
 
 
