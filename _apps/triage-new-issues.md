@@ -24,8 +24,8 @@ organizations:
 - iterative
 - Azure
 - Laravel-Backpack
-- json-schema-org
 - microsoft
+- json-schema-org
 ---
 
 
