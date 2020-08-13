@@ -10,7 +10,7 @@ repository: dessant/support-requests
 host: https://support-requests.apps.armin.dev
 stars: 24
 updated: 2019-10-25 21:09:05 UTC
-installations: 80
+installations: 92
 organizations:
 - Homebrew
 - mui-org
@@ -20,8 +20,8 @@ organizations:
 - kivy
 - wix
 - getredash
-- CachetHQ
 - jupyterhub
+- CachetHQ
 ---
 A GitHub App that comments on and closes issues labeled as support requests.
 

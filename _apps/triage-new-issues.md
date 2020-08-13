@@ -23,8 +23,8 @@ organizations:
 - CachetHQ
 - iterative
 - Azure
-- Laravel-Backpack
 - microsoft
+- Laravel-Backpack
 - json-schema-org
 ---
 
