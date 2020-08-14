@@ -21,8 +21,8 @@ organizations:
 - apache
 - mono
 - kivy
-- tidyverse
 - dart-lang
+- tidyverse
 ---
 
 A GitHub App that moves issues between repositories.
