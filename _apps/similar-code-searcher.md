@@ -10,18 +10,18 @@ repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 7
 updated: 2018-12-28 09:22:39 UTC
-installations: 25
+installations: 26
 organizations:
 - chrisyue
-- reedhhw
 - duncdrum
+- reedhhw
+- soehlert
 - frilox042
 - hemanth22
 - byteshiva
 - Ikuyadeu
 - eromano
 - olitreadwell
-- njzjz
 ---
 
 # Similar code Searcher
