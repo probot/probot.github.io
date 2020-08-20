@@ -26,7 +26,7 @@ organizations:
 - tiaanduplessis
 ---
 
-[![Probot #1 Most Installed](https://badgen.net/badge/probot/%231%20most%20installed/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
+[![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
 [![Managing](https://badgen.net/https/raw.githack.com/pull-app/stats/master/badges/managing.json?style=flat&cache=600)](https://probot.git.ci/apps/pull)
 [![Installations](https://badgen.net/https/raw.githack.com/pull-app/stats/master/badges/installed.json?style=flat&cache=600)](https://probot.git.ci/apps/pull)
 [![Triggered #](https://badgen.net/runkit/pull-triggered-badge-5e55hqhkhmid?style=flat&cache=600)](https://github.com/issues?q=author%3Aapp%2Fpull)
