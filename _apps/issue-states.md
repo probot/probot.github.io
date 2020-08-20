@@ -20,8 +20,8 @@ organizations:
 - coolcode
 - itsnwa
 - phpfour
-- retog
 - njzjz
+- retog
 ---
 
 A GitHub App that closes or reopens issues when they are moved to a project column.

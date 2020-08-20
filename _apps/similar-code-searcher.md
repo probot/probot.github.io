@@ -17,8 +17,8 @@ organizations:
 - reedhhw
 - soehlert
 - frilox042
-- hemanth22
 - byteshiva
+- hemanth22
 - Ikuyadeu
 - eromano
 - olitreadwell

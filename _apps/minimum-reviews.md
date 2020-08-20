@@ -18,10 +18,10 @@ organizations:
 - fullfacing
 - symphonyoss
 - diegoazh
-- divyenduz
 - platzi
 - reedhhw
 - frilox042
+- hemanth22
 ---
 
 # Probot: Minimum Reviews
