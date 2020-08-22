@@ -9,9 +9,9 @@ authors:
 - lee-dohm
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
-stars: 93
+stars: 94
 updated: 2018-10-04 17:24:42 UTC
-installations: 422
+installations: 424
 organizations:
 - flutter
 - facebook
