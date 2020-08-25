@@ -10,9 +10,9 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 1171
-updated: 2020-08-21 09:14:25 UTC
-installations: 4640
+stars: 1173
+updated: 2020-08-24 09:43:32 UTC
+installations: 4661
 organizations:
 - ant-design
 - overtrue

@@ -9,7 +9,7 @@ authors:
 - hollywood
 repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
-stars: 16
+stars: 17
 updated: 2020-05-08 15:28:25 UTC
 installations: 73
 organizations:
@@ -17,9 +17,9 @@ organizations:
 - times
 - LiveRamp
 - telus
+- Hollywood
 - Thezone1975
 - OpenAIM
-- Hollywood
 - reedhhw
 - pgetech
 - TrapTeamCCNZ
