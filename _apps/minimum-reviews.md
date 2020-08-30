@@ -15,8 +15,8 @@ organizations:
 - RobertAudi
 - dtr-org
 - njzjz
-- fullfacing
 - symphonyoss
+- fullfacing
 - diegoazh
 - platzi
 - reedhhw
