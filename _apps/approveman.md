@@ -1,20 +1,13 @@
 ---
-# A human-friendly name of your listing
 title: ApproveMan
-# A short description of what your app does
 description: Approves pull requests with safe changes for protected branches.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: approveman
-# Include a few screenshots that show your app in action
 screenshots:
 - https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/approval.png
 - https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/check_status.png
-# The GitHub usernames of anyone who authored the app
 authors:
 - tianhaoz95
-# The repository where the code is located
 repository: tianhaoz95/approveman
-# The address where this app is deployed
 host: https://approveman.herokuapp.com/probot
 ---
 
