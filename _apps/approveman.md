@@ -7,7 +7,8 @@ description: Approves pull requests with safe changes for protected branches.
 slug: approveman
 # Include a few screenshots that show your app in action
 screenshots:
-- https://somewebsite.com/your-screenshot.png
+- https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/approval.png
+- https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/check_status.png
 # The GitHub usernames of anyone who authored the app
 authors:
 - tianhaoz95
