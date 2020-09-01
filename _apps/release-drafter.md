@@ -8,8 +8,8 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 1348
-updated: 2020-08-27 09:20:30 UTC
+stars: 1349
+updated: 2020-08-31 13:41:29 UTC
 installations: 1255
 organizations:
 - fossasia

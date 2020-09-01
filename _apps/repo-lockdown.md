@@ -10,7 +10,7 @@ repository: dessant/repo-lockdown
 host: https://repo-lockdown.apps.armin.dev
 stars: 30
 updated: 2020-08-22 11:53:49 UTC
-installations: 73
+installations: 74
 organizations:
 - postgres
 - llvm
@@ -18,10 +18,10 @@ organizations:
 - wireshark
 - libvirt
 - prism-break
+- KiCad
 - BitcoinUnlimited
 - alpinelinux
 - tozd
-- hrt
 ---
 
 A GitHub App that closes and locks existing and new issues or pull requests.

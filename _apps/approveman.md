@@ -9,6 +9,10 @@ authors:
 - tianhaoz95
 repository: tianhaoz95/approveman
 host: https://approveman.herokuapp.com
+stars: 0
+updated: 2020-08-31 08:17:58 UTC
+installations: 1
+organizations: []
 ---
 
 ApproveMan is a GitHub app that helps approve pull requests with safe changes.
