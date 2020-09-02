@@ -18,8 +18,8 @@ organizations:
 - moul
 - json-schema-org
 - GameServerManagers
-- tox-dev
 - bitnami-labs
+- tox-dev
 - wemake-services
 - Glavin001
 - infection

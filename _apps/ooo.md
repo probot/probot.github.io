@@ -21,7 +21,7 @@ organizations:
 - wlandau
 - matthewmccullough
 - paulooosrj
-- SuriyaaKudoIsc
+- suriyaa
 - annakrystalli
 ---
 
