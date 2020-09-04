@@ -8,9 +8,9 @@ authors:
 - dessant
 repository: dessant/repo-lockdown
 host: https://repo-lockdown.apps.armin.dev
-stars: 30
+stars: 31
 updated: 2020-08-22 11:53:49 UTC
-installations: 74
+installations: 75
 organizations:
 - postgres
 - llvm
@@ -21,7 +21,7 @@ organizations:
 - KiCad
 - BitcoinUnlimited
 - alpinelinux
-- tozd
+- jetstack
 ---
 
 A GitHub App that closes and locks existing and new issues or pull requests.
