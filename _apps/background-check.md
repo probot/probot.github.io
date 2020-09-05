@@ -9,15 +9,15 @@ authors:
 - itaditya
 repository: probot/background-check
 host: https://probot-background-check.herokuapp.com
-stars: 20
+stars: 21
 updated: 2018-08-11 14:06:36 UTC
 installations: 67
 organizations:
 - kartik-v
 - probot
 - theme-next
-- debugger22
 - publiclab
+- debugger22
 - cherrypy
 - fvcproductions
 - Richienb

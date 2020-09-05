@@ -8,7 +8,7 @@ authors:
 - dessant
 repository: dessant/support-requests
 host: https://support-requests.apps.armin.dev
-stars: 24
+stars: 23
 updated: 2020-08-24 16:46:11 UTC
 installations: 95
 organizations:
