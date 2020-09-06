@@ -10,7 +10,7 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-09-05 01:11:11 UTC
+updated: 2020-09-05 22:40:10 UTC
 installations: 32
 organizations:
 - Maatwebsite
