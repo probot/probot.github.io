@@ -20,8 +20,8 @@ organizations:
 - preactjs
 - CartoonFan
 - tilde-lab
-- Ignitus
 - Smirenost
+- Ignitus
 - uniquexiaobai
 - evryfs
 ---
