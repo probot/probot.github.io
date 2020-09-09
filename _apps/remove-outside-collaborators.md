@@ -18,11 +18,11 @@ organizations:
 - LiveRamp
 - telus
 - Hollywood
-- Thezone1975
 - OpenAIM
+- Thezone1975
 - reedhhw
-- pgetech
 - TrapTeamCCNZ
+- pgetech
 ---
 
 # Remove Outside Collaborators
