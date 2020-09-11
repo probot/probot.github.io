@@ -16,12 +16,12 @@ organizations:
 - samvera
 - inextensodigital
 - Algomorph
+- LeapBeyond
 - althea-net
 - coolcode
 - itsnwa
 - phpfour
 - njzjz
-- retog
 ---
 
 A GitHub App that closes or reopens issues when they are moved to a project column.
