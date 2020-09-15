@@ -6,7 +6,7 @@ screenshots:
 - https://raw.githubusercontent.com/jpoehnelt/in-solidarity-bot/main/static/screenshot.png
 authors: [jpoehnelt]
 repository: jpoehnelt/in-solidarity-bot
-host: https://in-solidarity-bot-7gd35pnqwq-uc.a.run.app
+host: https://bot.in-solidarity.dev
 ---
 
 A GitHub bot to add status checks for inclusive language. 
