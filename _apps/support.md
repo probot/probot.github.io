@@ -16,9 +16,9 @@ organizations:
 - mui-org
 - ReactTraining
 - gulpjs
-- NativeScript
 - kivy
 - wix
+- NativeScript
 - getredash
 - jupyterhub
 - CachetHQ
