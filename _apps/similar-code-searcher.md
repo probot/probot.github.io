@@ -9,7 +9,7 @@ authors:
 repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 7
-updated: 2018-12-28 09:22:39 UTC
+updated: 2020-09-18 23:35:42 UTC
 installations: 28
 organizations:
 - hirezio
