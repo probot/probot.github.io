@@ -18,8 +18,8 @@ organizations:
 - tannerlinsley
 - ignatandrei
 - preactjs
-- CartoonFan
 - Smirenost
+- CartoonFan
 - tilde-lab
 - Ignitus
 - uniquexiaobai
