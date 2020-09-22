@@ -17,8 +17,8 @@ organizations:
 - cefsharp
 - moul
 - json-schema-org
-- GameServerManagers
 - bitnami-labs
+- GameServerManagers
 - tox-dev
 - wemake-services
 - Glavin001
