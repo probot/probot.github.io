@@ -1,53 +1,72 @@
 ---
 title: Check Group
-description: Groups CI checks based on sub-projects for monorepo.
+description: Groups CI checks based on the sub-projects for monorepo projects.
 slug: check-group
 screenshots:
-- https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/approval.png
-- https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/check_status.png
+- https://github.com/tianhaoz95/check-group/raw/master/docs/assets/screenshot/example_pr_checks.png
+- https://github.com/tianhaoz95/check-group/raw/master/docs/assets/screenshot/check_details.png
 authors:
 - tianhaoz95
 repository: tianhaoz95/check-group
 host: https://check-group.herokuapp.com
-stars: 0
-updated: 2020-09-22 00:28:41 UTC
-installations: 1
-organizations:
-- tianhaoz95
 ---
 
-ApproveMan is a GitHub app that helps approve pull requests with safe changes.
-
-> This is especially useful for protected branches.
+Groups CI checks based on the sub-projects for monorepo projects.
 
 ## Motivation
 
-To maintain the health of repositories, it's important to set up review requirements and continuous integration to make sure every pull request that goes in is good.
+For example, a monorepo project can define that changes checked into documentation (e.g. files in `docs/**.md`) should pass a set of checks (e.g. `markdown lint` and `github_pages_build`), and changes checked into mobile app source code (e.g. files in `clients/app/**.dart`) should pass another set of checks (e.g. `app_unit_tests` and  `app_integration_test`) before being merged. It's also possible that there is a set of checks to make sure related sub-projects are compatible (e.g. `compatibility_check`).
 
-For example, GitHub provides "protected branches" as a way to put hard requirements including passing checks and code review approvals on incoming pull requests.
+For the situation above, there is no easy way to guard the main branch with protected branch schema. The project has to either only define a subset of full CI checks as requirement leaving the main branch less secure or define and run a full list of CI checks for every pull request slowing down merging process.
 
-However, not all pull requests require human attention.
+With **Check Group**, we can add one more CI check that is a combination of CI checks based on sub-projects of interests. The protected branch rule can depend only on the combined check.
 
-For example, it's reasonable for a repository to set up a location with a user's GitHub ID like `[project_root]/playground/tianhaoz95` to allow developers add quick experiments that they want to keep a record and share with the team.
-
-In this case, if I want to add some notes in `[project_root]/playground/tianhaoz95/my-note.md`, there is no reason to ask another developer to review the change.
-
-## Usage
-
-You can configure the behavior by adding rules into `.github/approveman.yml`.
-
-Here is an example that, given that my GitHub ID is `tianhaoz95`, approves all the changes that go into `playground/tianhaoz95` and `docs/personal/tianhaoz95`:
+To fit the example above into the usecase, we can use the following configuration to tell Check Group how to collect required checks:
 
 ```yml
-ownership_rules:
-  directory_matching_rules:
-    - name: personal projects in experimental
-      path: playground/{{username}}/**/*
-    - name: personal documentation
-      path: docs/personal/{{username}}/**/*
+subprojects:
+  - id: documentation
+    paths:
+      - "docs/**.md"
+    checks:
+      - "markdown_lint"
+      - "github_pages_build"
+  - id: mobile_app
+    paths:
+      - "clients/app/**"
+    checks:
+      - "app_static_analysis"
+      - "app_unit_tests"
+      - "compatibility_check"
+  - id: cli_app
+    paths:
+      - "clients/cli/**"
+    checks:
+      - "cli_unit_tests"
+      - "compatibility_check"
 ```
 
-Note:
+With the configuration above, Check Group collects the requirements that will secure the main branch and only LGTM if they all pass.
 
--   The default config contains `playground/{{username}}/**/*` if no config file is provided in the repository.
--   All pull requests that modify files within `.github` the directory is denied regardless of the rules in the configuration for safety.
+Here is an example of how it works in the [pull request](https://github.com/tianhaoz95/check-group-demo/pull/1):
+
+![screenshot of the pr checks](https://github.com/tianhaoz95/check-group/raw/master/docs/assets/screenshot/example_pr_checks.png)
+
+A list of requirements and current fulfillment status is available in the "Details":
+
+![screenshot of the details view](https://github.com/tianhaoz95/check-group/raw/master/docs/assets/screenshot/check_details.png)
+
+Note: since Check Group converts all required checks into a single check to make protected branch happy, the repository only needs to run the affected checks for pull requests. There are many ways to do on every CI/CD platform. Here's an example with GitHub Actions for the usecase above (for more details, check out the [example project](https://github.com/tianhaoz95/check-group-demo)):
+
+```yml
+name: app checks
+on:
+  pull_request:
+    branches:
+      - "master"
+    paths:
+      - "clients/app/**"
+jobs:
+  app_static_analysis: ...
+  app_unit_tests: ...
+```
