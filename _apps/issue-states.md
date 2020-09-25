@@ -8,7 +8,7 @@ authors:
 - dessant
 repository: dessant/issue-states
 host: https://issue-states.apps.armin.dev
-stars: 40
+stars: 41
 updated: 2019-10-25 20:19:41 UTC
 installations: 196
 organizations:

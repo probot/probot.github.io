@@ -17,8 +17,8 @@ organizations:
 - JasonEtco
 - openjournals
 - ropensci
-- intermine
 - wlandau
+- intermine
 - matthewmccullough
 - paulooosrj
 - suriyaa
