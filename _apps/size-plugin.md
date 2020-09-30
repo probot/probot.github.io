@@ -17,8 +17,8 @@ organizations:
 - antvis
 - tannerlinsley
 - ignatandrei
-- preactjs
 - Smirenost
+- preactjs
 - CartoonFan
 - tilde-lab
 - Ignitus
