@@ -17,13 +17,13 @@ organizations:
 - antvis
 - tannerlinsley
 - ignatandrei
-- Smirenost
 - preactjs
 - CartoonFan
 - tilde-lab
 - Ignitus
 - evryfs
 - uniquexiaobai
+- Smirenost
 ---
 
 
