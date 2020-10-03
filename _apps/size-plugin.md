@@ -20,10 +20,10 @@ organizations:
 - preactjs
 - CartoonFan
 - tilde-lab
+- Smirenost
 - Ignitus
 - evryfs
 - uniquexiaobai
-- Smirenost
 ---
 
 
