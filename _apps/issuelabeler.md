@@ -8,7 +8,7 @@ authors:
 - riyadhalnur
 repository: riyadhalnur/issuelabeler
 host: https://issuelabeler.verticalaxisbd.com
-stars: 13
+stars: 12
 updated: 2020-09-11 04:18:36 UTC
 installations: 27
 organizations:
