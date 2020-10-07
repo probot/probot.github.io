@@ -10,7 +10,7 @@ repository: dessant/reaction-comments
 host: https://reaction-comments.apps.armin.dev
 stars: 31
 updated: 2019-10-25 21:53:02 UTC
-installations: 104
+installations: 103
 organizations:
 - swagger-api
 - invertase
