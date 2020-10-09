@@ -11,7 +11,7 @@ repository: dessant/move-issues
 host: https://move-issues.apps.armin.dev
 stars: 45
 updated: 2019-10-25 21:33:51 UTC
-installations: 158
+installations: 157
 organizations:
 - dotnet
 - flutter
