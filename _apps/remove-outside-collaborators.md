@@ -22,7 +22,7 @@ organizations:
 - OpenAIM
 - reedhhw
 - GameWith
-- pgetech
+- TrapTeamCCNZ
 ---
 
 # Remove Outside Collaborators
