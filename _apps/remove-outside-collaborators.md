@@ -11,15 +11,15 @@ repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 17
 updated: 2020-05-08 15:28:25 UTC
-installations: 78
+installations: 79
 organizations:
 - tracelytics
 - times
 - LiveRamp
 - telus
 - Hollywood
-- Thezone1975
 - OpenAIM
+- Thezone1975
 - reedhhw
 - GameWith
 - TrapTeamCCNZ

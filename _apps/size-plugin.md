@@ -12,10 +12,11 @@ repository: kuldeepkeshwar/size-plugin-bot
 host: https://size-plugin-bot.glitch.me
 stars: 67
 updated: 2020-09-12 05:22:33 UTC
-installations: 112
+installations: 113
 organizations:
 - antvis
 - tannerlinsley
+- DestinyItemManager
 - ignatandrei
 - preactjs
 - CartoonFan
@@ -23,7 +24,6 @@ organizations:
 - tilde-lab
 - Ignitus
 - evryfs
-- uniquexiaobai
 ---
 
 
