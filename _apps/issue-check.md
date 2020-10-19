@@ -11,7 +11,7 @@ repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
 updated: 2020-10-16 23:44:31 UTC
-installations: 35
+installations: 34
 organizations:
 - Maatwebsite
 - laraform

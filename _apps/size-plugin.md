@@ -19,8 +19,8 @@ organizations:
 - DestinyItemManager
 - ignatandrei
 - preactjs
-- CartoonFan
 - Smirenost
+- CartoonFan
 - tilde-lab
 - Ignitus
 - evryfs
