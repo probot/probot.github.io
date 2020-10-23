@@ -1,6 +1,6 @@
 ---
 title: Prettifier
-description: Prettifier keeps your repository content formatted using [https://prettier.io](Prettier).
+description: Prettifier keeps your repository content formatted using Prettier.
 slug: prettifier
 screenshots:
 - https://raw.githubusercontent.com/kevgo/prettifier/master/website/website/static/img/screenshot_annotated_small.gif
