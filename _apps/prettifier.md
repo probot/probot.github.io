@@ -3,7 +3,7 @@ title: Prettifier
 description: Prettifier keeps your repository content formatted using Prettier.
 slug: prettifier
 screenshots:
-- https://raw.githubusercontent.com/kevgo/prettifier/master/website/website/static/img/screenshot_annotated_small.gif
+- https://www.prettifier.io/learn/pull-requests/images/screenshot_pull_request.png
 authors:
 - kevgo
 repository: kevgo/prettifier
