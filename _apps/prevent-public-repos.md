@@ -20,8 +20,8 @@ organizations:
 - JuulLabs
 - LEGO
 - njzjz
-- RedVentures
 - Oteemo
+- RedVentures
 ---
 
 # Prevent-Public-Repos Probot App
