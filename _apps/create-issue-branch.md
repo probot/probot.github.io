@@ -8,18 +8,18 @@ authors:
 - robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
-stars: 80
-updated: 2020-10-27 06:26:34 UTC
-installations: 859
+stars: 81
+updated: 2020-10-28 20:51:05 UTC
+installations: 905
 organizations:
 - lukaszflorczak
 - kwebio
 - CoreProc
 - chauncey-garrett
 - othreecodes
+- Smirenost
 - ExtendedXmlSerializer
 - dsabanin
-- Smirenost
 - mejdi14
 - chris-ware
 ---
