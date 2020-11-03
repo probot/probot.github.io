@@ -10,7 +10,7 @@ authors:
 repository: tianhaoz95/approveman
 host: https://approveman.herokuapp.com
 stars: 4
-updated: 2020-10-30 18:01:50 UTC
+updated: 2020-11-02 16:56:06 UTC
 installations: 1
 organizations:
 - tianhaoz95
