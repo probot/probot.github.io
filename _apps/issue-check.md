@@ -21,8 +21,8 @@ organizations:
 - frilox042
 - hemanth22
 - mehmetanbaki
-- DanielFatkic
 - Jankyboy
+- DanielFatkic
 ---
 
 ## What It Does
