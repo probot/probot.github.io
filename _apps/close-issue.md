@@ -17,8 +17,8 @@ organizations:
 - RocketChat
 - vuetifyjs
 - react-boilerplate
-- fullcalendar
 - arendst
+- fullcalendar
 - vueComponent
 - android-hacker
 - CopyTranslator
