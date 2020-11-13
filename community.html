@@ -5,44 +5,57 @@ office_hours_link: https://github.zoom.us/j/221410810
 redirect_from:
   - /contribute/
 links:
-- octicon: unmute
-  pretext: "Listen to the podcast with @hiimbex & @bdougie"
-  title: "Frontsize 105: Automating GitHub with Probot"
-  href: https://frontside.io/podcast/105-automating-github-with-probot/
-- octicon: unmute
-  pretext: "Listen to the podcast with @bkeepers & @hiimbex"
-  title: "The Changelog #264: Automating GitHub with Probot"
-  href: https://changelog.com/podcast/264
-- octicon: device-camera-video
-  pretext: "Watch the talk at GitHub Universe from @jbjonesjr"
-  title: "Extending with GitHub: easy integrations with Probot"
-  href: https://www.youtube.com/watch?v=AJXDdkd9U7M
-- octicon: device-camera-video
-  pretext: "Watch the talk at Node Summit from @hiimbex"
-  title: "Automating your Workflow with Probot"
-  href: https://vimeo.com/287507595
+  - octicon: unmute
+    pretext: "Listen to the podcast with @hiimbex & @bdougie"
+    title: "Frontsize 105: Automating GitHub with Probot"
+    href: https://frontside.io/podcast/105-automating-github-with-probot/
+  - octicon: unmute
+    pretext: "Listen to the podcast with @bkeepers & @hiimbex"
+    title: "The Changelog #264: Automating GitHub with Probot"
+    href: https://changelog.com/podcast/264
+  - octicon: device-camera-video
+    pretext: "Watch the talk at GitHub Universe from @jbjonesjr"
+    title: "Extending with GitHub: easy integrations with Probot"
+    href: https://www.youtube.com/watch?v=AJXDdkd9U7M
+  - octicon: device-camera-video
+    pretext: "Watch the talk at Node Summit from @hiimbex"
+    title: "Automating your Workflow with Probot"
+    href: https://vimeo.com/287507595
 ---
 
 <div class="container-lg px-3 featurette">
   <h1 class="alt-h2 text-center">Join the Community</h1>
   <p class="alt-lead col-md-8 text-center text-gray mx-auto">
-    We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+    We're thrilled that you'd like to contribute to this project. Your help is
+    essential for keeping it great.
   </p>
 
   <div class="text-center mt-6">
-    <a class="btn btn-outline d-inline-block mb-1 mb-md-0 mr-0 mr-md-3" href="https://probot-slackin.herokuapp.com/">
+    <a
+      class="btn btn-outline d-inline-block mb-1 mb-md-0 mr-0 mr-md-3"
+      href="https://probot-slackin.herokuapp.com/"
+    >
       Chat on Slack
     </a>
 
-    <a class="btn btn-outline d-inline-block mb-1 mb-md-0 mr-0 mr-md-3" href="https://github.com/probot/probot">
+    <a
+      class="btn btn-outline d-inline-block mb-1 mb-md-0 mr-0 mr-md-3"
+      href="https://github.com/probot/probot"
+    >
       Contribute on GitHub
     </a>
 
-    <a class="btn btn-outline d-inline-block mb-1 mb-md-0 mr-0 mr-md-3" href="https://twitter.com/ProbotTheRobot">
+    <a
+      class="btn btn-outline d-inline-block mb-1 mb-md-0 mr-0 mr-md-3"
+      href="https://twitter.com/ProbotTheRobot"
+    >
       Follow on Twitter
     </a>
 
-    <a class="btn btn-outline d-inline-block mb-1" href="https://stackoverflow.com/questions/tagged/probot">
+    <a
+      class="btn btn-outline d-inline-block mb-1"
+      href="https://stackoverflow.com/questions/tagged/probot"
+    >
       Ask on Stack Overflow
     </a>
   </div>
@@ -53,8 +66,13 @@ links:
       <p>
         Join us every
         <strong>
-          <span class="js-office-hours-start-time" data-format="dddd">first Friday of the month</span> at
-          <span class="js-office-hours-start-time" data-format="h:mm A">9:30 Pacific</span>
+          <span class="js-office-hours-start-time" data-format="dddd"
+            >first Friday of the month</span
+          >
+          at
+          <span class="js-office-hours-start-time" data-format="h:mm A"
+            >9:30 Pacific</span
+          >
         </strong>
         to give feedback, ask questions, get help, or just chat about ideas.
       </p>
@@ -64,22 +82,38 @@ links:
           {% octicon calendar class:"mr-2" %} Add to Calendar
         </a>
 
-        <span class="start js-office-hours-start-time" data-format="YYYY-MM-DD HH:mm" data-utc></span>
-        <span class="end js-office-hours-end-time" data-format="YYYY-MM-DD HH:mm" data-utc></span>
+        <span
+          class="start js-office-hours-start-time"
+          data-format="YYYY-MM-DD HH:mm"
+          data-utc
+        ></span>
+        <span
+          class="end js-office-hours-end-time"
+          data-format="YYYY-MM-DD HH:mm"
+          data-utc
+        ></span>
         <span class="timezone">UTC</span>
         <span class="title">Probot Office Hours</span>
-        <span class="description">Join us every week to give feedback, ask questions, get help, or just chat about ideas.</span>
+        <span class="description"
+          >Join us every week to give feedback, ask questions, get help, or just
+          chat about ideas.</span
+        >
         <span class="location">{{ page.office_hours_link }}</span>
-        <span class="recurring">FREQ=MONTHLY;BYSETPOS=1;BYDAY=FR;INTERVAL=1</span>
+        <span class="recurring"
+          >FREQ=MONTHLY;BYSETPOS=1;BYDAY=FR;INTERVAL=1</span
+        >
       </span>
 
-      <a href="{{ page.office_hours_link }}" class="btn btn-outline ml-2 office-hours-nag d-none">
+      <a
+        href="{{ page.office_hours_link }}"
+        class="btn btn-outline ml-2 office-hours-nag d-none"
+      >
         {% octicon device-camera-video class:"mr-2" %} Join Now
       </a>
     </div>
     <div class="col-md-6 py-4 px-md-6">
       <a href="{{ page.office_hours_link }}">
-        <img src="/assets/office-hours.png" alt="" class="width-fit">
+        <img src="/assets/office-hours.png" alt="" class="width-fit" />
       </a>
     </div>
   </div>
@@ -88,7 +122,7 @@ links:
     <div class="d-flex gutter flex-wrap">
       {% for link in page.links %}
       <div class="col-md-6 col-12 mb-4">
-        {{ link.pretext }}:<br>
+        {{ link.pretext }}:<br />
         {% octicon {{ link.octicon }} class:"mr-2 text-gray" %}
         <a href="{{ link.href }}">{{ link.title }}</a>
       </div>
@@ -96,7 +130,5 @@ links:
     </div>
   </div>
 </div>
-
-
 
 <script src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async></script>
