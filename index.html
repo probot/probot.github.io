@@ -101,10 +101,13 @@ layout: default
             class="rounded-2 overflow-hidden border"
             style="margin-left: 60px"
           >
-            {% highlight javascript %} module.exports = ({ app }) => {
-            app.on('issues.opened', async context => { const params =
-            context.issue({ body: 'Hello World!' }) await
-            context.github.issues.createComment(params) }) } {% endhighlight %}
+{% highlight javascript %}
+module.exports = ({ app }) => {
+  app.on('issues.opened', async context => { const params =
+  context.issue({ body: 'Hello World!' }) await
+  context.github.issues.createComment(params) })
+}
+{% endhighlight %}
           </div>
         </div>
       </div>
