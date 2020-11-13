@@ -11,18 +11,18 @@ repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
 updated: 2020-11-11 19:34:53 UTC
-installations: 36
+installations: 37
 organizations:
+- Requarks
 - Maatwebsite
 - laraform
 - coolcode
 - CartoonFan
 - njzjz
 - frilox042
-- hemanth22
 - velotoxicsounds
+- hemanth22
 - mehmetanbaki
-- Jankyboy
 ---
 
 ## What It Does
