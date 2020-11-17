@@ -10,8 +10,8 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-11-14 01:42:20 UTC
-installations: 37
+updated: 2020-11-16 20:09:05 UTC
+installations: 38
 organizations:
 - Requarks
 - Maatwebsite
@@ -19,8 +19,8 @@ organizations:
 - coolcode
 - CartoonFan
 - njzjz
-- frilox042
 - velotoxicsounds
+- frilox042
 - hemanth22
 - mehmetanbaki
 ---
