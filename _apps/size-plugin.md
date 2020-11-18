@@ -18,8 +18,8 @@ organizations:
 - tannerlinsley
 - DestinyItemManager
 - ignatandrei
-- preactjs
 - Smirenost
+- preactjs
 - CartoonFan
 - tilde-lab
 - Ignitus
