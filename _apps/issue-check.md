@@ -10,7 +10,7 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-11-18 03:26:55 UTC
+updated: 2020-11-20 00:41:08 UTC
 installations: 38
 organizations:
 - Requarks
