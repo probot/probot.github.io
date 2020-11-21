@@ -10,7 +10,7 @@ authors:
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
 stars: 99
-updated: 2018-10-04 17:24:42 UTC
+updated: 2020-11-20 22:42:11 UTC
 installations: 443
 organizations:
 - flutter
