@@ -10,7 +10,7 @@ authors:
 repository: z0al/dep
 host: https://probot-dep.now.sh
 stars: 70
-updated: 2020-11-01 12:15:43 UTC
+updated: 2020-11-24 20:02:43 UTC
 installations: 206
 organizations:
 - ant-design
