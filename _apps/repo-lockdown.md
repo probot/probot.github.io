@@ -8,7 +8,7 @@ authors:
 - dessant
 repository: dessant/repo-lockdown
 host: https://repo-lockdown.apps.armin.dev
-stars: 40
+stars: 41
 updated: 2020-08-22 11:53:49 UTC
 installations: 77
 organizations:
