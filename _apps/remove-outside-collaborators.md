@@ -18,8 +18,8 @@ organizations:
 - LiveRamp
 - telus
 - Hollywood
-- OpenAIM
 - Thezone1975
+- OpenAIM
 - reedhhw
 - GameWith
 - TrapTeamCCNZ
