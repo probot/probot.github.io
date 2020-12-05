@@ -9,8 +9,8 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 89
-updated: 2020-12-03 06:23:54 UTC
-installations: 990
+updated: 2020-12-04 06:24:58 UTC
+installations: 993
 organizations:
 - openaphid
 - lukaszflorczak
