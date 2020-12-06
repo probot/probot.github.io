@@ -18,7 +18,7 @@ organizations:
 - tannerlinsley
 - DestinyItemManager
 - ignatandrei
-- Smirenost
+- m4ta1l
 - preactjs
 - CartoonFan
 - tilde-lab
