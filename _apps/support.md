@@ -10,7 +10,7 @@ repository: dessant/support-requests
 host: https://support-requests.apps.armin.dev
 stars: 24
 updated: 2020-08-24 16:46:11 UTC
-installations: 94
+installations: 95
 organizations:
 - Homebrew
 - mui-org
