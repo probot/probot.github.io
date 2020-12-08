@@ -16,11 +16,11 @@ Advanced:
   - docs/persistence.md
   - docs/best-practices.md
 Reference:
-  - title: Application
-    url: "https://probot.github.io/api/latest/classes/application.html"
+  - title: Probot
+    url: "https://probot.github.io/api/latest/classes/probot.html"
   - title: context
     url: "https://probot.github.io/api/latest/classes/context.html"
-  - title: context.github
+  - title: context.octokit
     url: "http://octokit.github.io/rest.js/"
   - title: GitHub Webhook Events
-    url: "https://developer.github.com/webhooks/#events"
+    url: "https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/webhook-events-and-payloads"
