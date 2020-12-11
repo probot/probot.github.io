@@ -10,20 +10,20 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 1844
-updated: 2020-12-08 06:56:18 UTC
-installations: 7762
+stars: 1851
+updated: 2020-12-10 22:02:53 UTC
+installations: 7802
 organizations:
 - ant-design
 - overtrue
 - hemanth
+- ameizi
 - OpenMined
 - CHEF-KOCH
 - HospitalRun
 - bestony
 - guanguans
 - lhie1
-- ericmjl
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
