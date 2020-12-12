@@ -9,7 +9,7 @@ authors:
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
 stars: 39
-updated: 2020-12-11 03:32:43 UTC
+updated: 2020-12-11 17:58:34 UTC
 installations: 29
 organizations:
 - infection
