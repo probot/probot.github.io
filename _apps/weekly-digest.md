@@ -9,7 +9,7 @@ authors:
 repository: abhijeetps/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 190
-updated: 2020-11-18 22:39:45 UTC
+updated: 2020-12-12 17:00:35 UTC
 installations: 292
 organizations:
 - alibaba
