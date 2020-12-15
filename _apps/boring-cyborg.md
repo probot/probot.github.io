@@ -11,9 +11,9 @@ authors:
 - kaxil
 repository: kaxil/boring-cyborg
 host: https://boring-cyborg.herokuapp.com
-stars: 36
+stars: 37
 updated: 2020-12-12 14:45:35 UTC
-installations: 144
+installations: 145
 organizations:
 - apache
 - PyTorchLightning
