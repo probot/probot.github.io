@@ -10,7 +10,7 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-12-14 20:41:18 UTC
+updated: 2020-12-15 23:53:55 UTC
 installations: 38
 organizations:
 - Requarks
@@ -22,7 +22,7 @@ organizations:
 - velotoxicsounds
 - frilox042
 - hemanth22
-- mehmetanbaki
+- Jankyboy
 ---
 
 ## What It Does
