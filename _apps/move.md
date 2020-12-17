@@ -22,7 +22,7 @@ organizations:
 - apache
 - mono
 - kivy
-- dart-lang
+- tidyverse
 ---
 
 A GitHub App that moves issues between repositories.
