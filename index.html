@@ -102,7 +102,7 @@ layout: default
             style="margin-left: 60px"
           >
 {% highlight javascript %}
-module.exports = ({ app }) => {
+module.exports = (app) => {
   app.on('issues.opened', async context => { 
     const params = context.issue({ body: 'Hello World!' })
     await context.octokit.issues.createComment(params) })
