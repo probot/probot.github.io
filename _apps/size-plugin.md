@@ -10,7 +10,7 @@ authors:
 - kuldeepkeshwar
 repository: kuldeepkeshwar/size-plugin-bot
 host: https://size-plugin-bot.glitch.me
-stars: 70
+stars: 71
 updated: 2020-12-11 15:41:46 UTC
 installations: 119
 organizations:
