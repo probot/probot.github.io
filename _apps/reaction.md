@@ -10,7 +10,7 @@ repository: dessant/reaction-comments
 host: https://reaction-comments.apps.armin.dev
 stars: 33
 updated: 2019-10-25 21:53:02 UTC
-installations: 106
+installations: 105
 organizations:
 - swagger-api
 - invertase
@@ -19,9 +19,9 @@ organizations:
 - Mottie
 - Radarr
 - CellularPrivacy
-- GameServerManagers
 - idehub
 - open62541
+- chefspec
 ---
 
 A GitHub App that deletes reaction comments, such as +1,

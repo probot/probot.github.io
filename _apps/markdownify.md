@@ -16,8 +16,8 @@ organizations:
 - atom
 - aio-libs
 - HeroTransitions
-- probot
 - umijs
+- probot
 - benbalter
 - octokit
 - Provenance-Emu

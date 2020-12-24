@@ -12,7 +12,7 @@ repository: wei/pull
 host: https://pull.git.ci
 stars: 1940
 updated: 2020-12-21 18:05:02 UTC
-installations: 8128
+installations: 8159
 organizations:
 - ant-design
 - overtrue
