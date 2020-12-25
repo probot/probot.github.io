@@ -22,7 +22,7 @@ organizations:
 - velotoxicsounds
 - frilox042
 - hemanth22
-- Jankyboy
+- magnetica-studio
 ---
 
 ## What It Does
