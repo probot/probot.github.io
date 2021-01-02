@@ -9,7 +9,7 @@ authors:
 repository: dessant/repo-lockdown
 host: https://repo-lockdown.apps.armin.dev
 stars: 47
-updated: 2020-08-22 11:53:49 UTC
+updated: 2021-01-01 11:04:05 UTC
 installations: 81
 organizations:
 - postgres

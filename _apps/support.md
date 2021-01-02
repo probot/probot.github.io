@@ -9,7 +9,7 @@ authors:
 repository: dessant/support-requests
 host: https://support-requests.apps.armin.dev
 stars: 25
-updated: 2020-08-24 16:46:11 UTC
+updated: 2021-01-01 10:47:10 UTC
 installations: 94
 organizations:
 - Homebrew
