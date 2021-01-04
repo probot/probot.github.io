@@ -8,7 +8,7 @@ authors:
 - dessant
 repository: dessant/lock-threads
 host: https://lock-threads.apps.armin.dev
-stars: 154
+stars: 153
 updated: 2021-01-01 10:19:46 UTC
 installations: 522
 organizations:
