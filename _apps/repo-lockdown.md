@@ -10,7 +10,7 @@ repository: dessant/repo-lockdown
 host: https://repo-lockdown.apps.armin.dev
 stars: 47
 updated: 2021-01-01 11:04:05 UTC
-installations: 80
+installations: 79
 organizations:
 - postgres
 - llvm

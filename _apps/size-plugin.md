@@ -11,7 +11,7 @@ authors:
 repository: kuldeepkeshwar/size-plugin-bot
 host: https://size-plugin-bot.glitch.me
 stars: 72
-updated: 2020-12-11 15:41:46 UTC
+updated: 2021-01-05 11:36:25 UTC
 installations: 119
 organizations:
 - antvis
