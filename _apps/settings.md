@@ -8,7 +8,7 @@ authors:
 repository: probot/settings
 screenshots:
 - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
-updated: 2021-01-03 20:48:05 UTC
+updated: 2021-01-06 20:27:50 UTC
 host: https://github-configurer.herokuapp.com
 installations: 1114
 organizations:
