@@ -12,7 +12,7 @@ screenshots:
 # The GitHub usernames of anyone who authored the app
 authors: [ svanboxel ]
 # The repository where the code is located
-repository: SvanBoxel/organization-workflows/
+repository: SvanBoxel/organization-workflows
 # The address where this app is deployed
 host: https://organization-workflows-bot.azurewebsites.net/
 ---
