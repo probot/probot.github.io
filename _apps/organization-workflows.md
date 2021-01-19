@@ -1,20 +1,17 @@
 ---
-# A human-friendly name of your listing
 title: Organization Workflows
-# A short description of what your app does
-description: Need to centrally manage and run Actions workflows across multiple repositories? This app does it for you.
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
+description: Need to centrally manage and run Actions workflows across multiple repositories?
+  This app does it for you.
 slug: organization-workflows
-# Include a few screenshots that show your app in action
 screenshots:
 - https://socialify.git.ci/SvanBoxel/organization-workflows/image?font=Inter&owner=1&theme=Dark
 - https://user-images.githubusercontent.com/24505883/102870418-479b8380-443d-11eb-9fe7-ea78a20a09fb.png
-# The GitHub usernames of anyone who authored the app
-authors: [ svanboxel ]
-# The repository where the code is located
+authors:
+- svanboxel
 repository: SvanBoxel/organization-workflows
-# The address where this app is deployed
 host: https://organization-workflows-bot.azurewebsites.net/
+stars: 21
+updated: 2021-01-17 15:36:53 UTC
 ---
 
 # Organization workflows app
