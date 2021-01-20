@@ -11,7 +11,7 @@ authors:
 repository: SvanBoxel/organization-workflows
 host: https://organization-workflows-bot.azurewebsites.net/
 stars: 21
-updated: 2021-01-17 15:36:53 UTC
+updated: 2021-01-19 20:12:48 UTC
 ---
 
 # Organization workflows app
