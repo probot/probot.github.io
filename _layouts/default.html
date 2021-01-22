@@ -1,19 +1,43 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/index.css?d={{ site.time | date: '%s' }}">
-    <link rel="stylesheet" href="/assets/css/syntax.css?d={{ site.time | date: '%s' }}">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="/assets/css/index.css?d={{ site.time | date: '%s' }}"
+    />
+    <link
+      rel="stylesheet"
+      href="/assets/css/syntax.css?d={{ site.time | date: '%s' }}"
+    />
     <!-- favicon files -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=jw3d9vxKo4">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=jw3d9vxKo4">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=jw3d9vxKo4">
-    <link rel="manifest" href="/site.webmanifest?v=jw3d9vxKo4">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=jw3d9vxKo4" color="#5bbad5">
-    <link rel="shortcut icon" href="/favicon.ico?v=jw3d9vxKo4">
-    <meta name="msapplication-TileColor" content="#66cce0">
-    <meta name="theme-color" content="#66cce0">
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/apple-touch-icon.png?v=jw3d9vxKo4"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/favicon-32x32.png?v=jw3d9vxKo4"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/favicon-16x16.png?v=jw3d9vxKo4"
+    />
+    <link rel="manifest" href="/site.webmanifest?v=jw3d9vxKo4" />
+    <link
+      rel="mask-icon"
+      href="/safari-pinned-tab.svg?v=jw3d9vxKo4"
+      color="#5bbad5"
+    />
+    <link rel="shortcut icon" href="/favicon.ico?v=jw3d9vxKo4" />
+    <meta name="msapplication-TileColor" content="#66cce0" />
+    <meta name="theme-color" content="#66cce0" />
     <!-- end of favicon files> -->
     {% seo %}
 
@@ -21,35 +45,25 @@
     <meta property="twitter:card" content="summary_large_image" />
 
     {% if page.screenshots %}
-      <meta property="og:image" content="{{ page.screenshots | first }}" />
-    {% else %}
-      <meta property="og:image" content="{{ "/assets/card.png" | absolute_url }}" />
-      <meta property="og:image:height" content="1280" />
-      <meta property="og:image:width" content="630" />
+    <meta property="og:image" content="{{ page.screenshots | first }}" />
+    {% else %} <meta property="og:image" content="{{ "/assets/card.png" |
+    absolute_url }}" />
+    <meta property="og:image:height" content="1280" />
+    <meta property="og:image:width" content="630" />
     {% endif %}
     <meta property="twitter:image:alt" content="{{ site.description }}" />
     <meta property="og:image:type" content="image/png" />
 
-    <meta property="twitter:image" content="{{ "/assets/card.png" | absolute_url }}" />
+    <meta property="twitter:image" content="{{ "/assets/card.png" | absolute_url
+    }}" />
     <meta property="twitter:image:height" content="1280" />
     <meta property="twitter:image:width" content="630" />
     <meta property="twitter:image:alt" content="{{ site.description }}" />
     <meta property="twitter:image:type" content="image/png" />
 
-    <meta property="og:type" content="website" /> 
-
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.21.0/moment.min.js" charset="utf-8"></script>
-    <script defer src="/assets/js/office-hours.js" charset="utf-8"></script>
+    <meta property="og:type" content="website" />
   </head>
   <body>
-    <a class="alt-text text-white d-block bg-brand-blue text-center text-white p-3 office-hours-nag d-none" href="/community/#office-hours">
-      Join us for office hours
-      <span class="js-office-hours-start-time" data-format="fromNow"></span>!
-    </a>
-    {% include nav.html %}
-
-    {{ content }}
-
-    {% include footer.html %}
+    {% include nav.html %} {{ content }} {% include footer.html %}
   </body>
 </html>
