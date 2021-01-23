@@ -11,7 +11,7 @@ authors:
 repository: SvanBoxel/organization-workflows
 host: https://organization-workflows-bot.azurewebsites.net/
 stars: 22
-updated: 2021-01-21 11:26:18 UTC
+updated: 2021-01-22 22:24:45 UTC
 installations: 
 organizations:
 - Santandersecurityresearch
