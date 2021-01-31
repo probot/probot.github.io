@@ -8,7 +8,7 @@ authors:
 - abhijeetps
 repository: abhijeetps/weekly-digest
 host: https://weekly-digest.now.sh
-stars: 192
+stars: 193
 updated: 2020-12-12 17:00:35 UTC
 installations: 292
 organizations:
