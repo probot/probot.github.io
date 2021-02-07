@@ -10,17 +10,17 @@ authors:
 - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 2215
+stars: 2220
 updated: 2021-02-05 05:03:06 UTC
-installations: 9193
+installations: 9220
 organizations:
 - ant-design
 - overtrue
 - hemanth
 - ameizi
+- bestony
 - CHEF-KOCH
 - HospitalRun
-- bestony
 - guanguans
 - lhie1
 - ericmjl
