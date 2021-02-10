@@ -9,8 +9,8 @@ authors:
 - kentaro-m
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
-stars: 131
-updated: 2021-01-16 21:14:58 UTC
+stars: 132
+updated: 2021-02-10 02:16:39 UTC
 installations: 744
 organizations:
 - flutter
