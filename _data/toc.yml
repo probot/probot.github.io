@@ -5,16 +5,17 @@ Getting Started:
   - docs/webhooks.md
   - docs/github-api.md
 Advanced:
-  - docs/http.md
-  - docs/simulating-webhooks.md
+  - docs/configuration.md
   - docs/testing.md
+  - docs/simulating-webhooks.md
   - docs/logging.md
+  - docs/deployment.md
+  - docs/http.md
   - docs/pagination.md
   - docs/extensions.md
-  - docs/configuration.md
-  - docs/deployment.md
   - docs/persistence.md
   - docs/best-practices.md
+
 Reference:
   - title: Probot
     url: "https://probot.github.io/api/latest/classes/probot.html"
@@ -22,5 +23,9 @@ Reference:
     url: "https://probot.github.io/api/latest/classes/context.html"
   - title: context.octokit
     url: "http://octokit.github.io/rest.js/"
+  - title: run
+    url: "https://probot.github.io/api/latest/index.html#run"
+  - title: createNodeMiddleware
+    url: "https://probot.github.io/api/latest/index.html#createnodemiddleware"
   - title: GitHub Webhook Events
     url: "https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/webhook-events-and-payloads"
