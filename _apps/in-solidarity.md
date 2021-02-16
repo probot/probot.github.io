@@ -9,7 +9,7 @@ authors:
 repository: jpoehnelt/in-solidarity-bot
 host: https://bot.in-solidarity.dev
 stars: 13
-updated: 2021-02-08 08:36:39 UTC
+updated: 2021-02-15 08:40:57 UTC
 ---
 
 A GitHub bot to add status checks for inclusive language. 
