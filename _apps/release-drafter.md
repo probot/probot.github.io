@@ -9,7 +9,7 @@ authors:
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 1636
-updated: 2021-02-24 06:39:46 UTC
+updated: 2021-02-25 05:12:43 UTC
 installations: 1255
 organizations:
 - fossasia

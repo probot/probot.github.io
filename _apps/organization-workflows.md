@@ -11,11 +11,12 @@ authors:
 repository: SvanBoxel/organization-workflows
 host: https://organization-workflows-bot.azurewebsites.net/
 stars: 27
-updated: 2021-02-23 17:36:06 UTC
+updated: 2021-02-25 21:00:13 UTC
 installations: 
 organizations:
 - Santandersecurityresearch
 - octodemo
+- visibilitysaurus
 - RohitDemo
 - NPD-Deloitte
 - org-workflow-test-organization

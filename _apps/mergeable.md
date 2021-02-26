@@ -8,8 +8,8 @@ authors:
 - jusx
 repository: jusx/mergeable
 host: https://mergeable-bot.herokuapp.com
-stars: 472
-updated: 2021-02-24 20:03:41 UTC
+stars: 471
+updated: 2021-02-25 21:34:27 UTC
 installations: 298
 organizations:
 - protocolbuffers

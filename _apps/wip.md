@@ -7,8 +7,8 @@ screenshots:
 authors:
 - gr2m
 repository: wip/app
-stars: 591
-updated: 2021-02-15 15:41:53 UTC
+stars: 590
+updated: 2021-02-25 06:19:36 UTC
 host: https://wip.vercel.app/ping
 installations: 1366
 organizations:
