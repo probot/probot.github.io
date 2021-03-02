@@ -10,7 +10,7 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 35
-updated: 2021-03-01 01:11:15 UTC
+updated: 2021-03-01 20:19:29 UTC
 installations: 191
 organizations:
 - vuetifyjs
