@@ -2,5 +2,6 @@
   "private": true,
   "dependencies": {
     "primer-css": "^8.0.0"
-  }
+  },
+  "repository": "github:probot/probot.github.io"
 }
