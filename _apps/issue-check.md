@@ -10,11 +10,10 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2021-03-07 13:54:33 UTC
-installations: 41
+updated: 2021-03-08 23:38:14 UTC
+installations: 40
 organizations:
 - Requarks
-- Maatwebsite
 - laraform
 - coolcode
 - CartoonFan
@@ -23,6 +22,7 @@ organizations:
 - frilox042
 - hemanth22
 - magnetica-studio
+- Vinebase
 ---
 
 ## What It Does
