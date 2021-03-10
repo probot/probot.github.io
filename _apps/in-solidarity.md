@@ -8,7 +8,7 @@ authors:
 - jpoehnelt
 repository: jpoehnelt/in-solidarity-bot
 host: https://bot.in-solidarity.dev
-stars: 14
+stars: 15
 updated: 2021-03-08 05:39:59 UTC
 ---
 
