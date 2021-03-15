@@ -11,7 +11,7 @@ repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
 updated: 2021-03-12 18:56:34 UTC
-installations: 40
+installations: 41
 organizations:
 - Requarks
 - laraform
