@@ -11,7 +11,7 @@ repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
 updated: 2021-03-17 23:02:20 UTC
-installations: 42
+installations: 43
 organizations:
 - Requarks
 - RevenueCat
