@@ -11,7 +11,7 @@ repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 35
 updated: 2021-03-22 04:56:34 UTC
-installations: 192
+installations: 193
 organizations:
 - vuetifyjs
 - RocketChat
