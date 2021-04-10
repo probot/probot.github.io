@@ -1,18 +1,11 @@
 ---
-# A human-friendly name of your listing
 title: Rezensent
-# A short description of what your app does
 description: The rezensent (german for reviewer) is a github app which help managing big pull requests in a repository divided by code ownership rules
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: https://github.com/apps/rezensent
-# Include a few screenshots that show your app in action
 screenshots:
 - https://user-images.githubusercontent.com/327445/114275835-5e81d800-9a24-11eb-8d59-8f1233986750.png
-# The GitHub usernames of anyone who authored the app
 authors: [ KnisterPeter ]
-# The repository where the code is located
 repository: KnisterPeter/rezensent
-# The address where this app is deployed
 host: https://rezensent.herokuapp.com/
 ---
 
