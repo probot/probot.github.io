@@ -9,7 +9,7 @@ authors:
 - tianhaoz95
 repository: tianhaoz95/check-group
 host: https://check-group.herokuapp.com
-stars: 7
+stars: 6
 updated: 2021-04-08 22:18:14 UTC
 ---
 
