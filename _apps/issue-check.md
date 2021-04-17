@@ -11,7 +11,7 @@ repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
 updated: 2021-04-16 02:04:51 UTC
-installations: 43
+installations: 42
 organizations:
 - RevenueCat
 - laraform
@@ -22,7 +22,7 @@ organizations:
 - frilox042
 - hemanth22
 - magnetica-studio
-- jonatadashi
+- Jankyboy
 ---
 
 ## What It Does
