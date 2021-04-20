@@ -57,7 +57,7 @@ It is loosely based on the idea of [googles rosie](https://cacm.acm.org/magazine
 ### Process description
 
 <p align="center">
-  <img src="./docs/process.drawio.svg" alt="process" />
+  <img src="https://raw.githubusercontent.com/KnisterPeter/rezensent/main/docs/process.drawio.svg" alt="process" />
 </p>
 
 ## Usage
