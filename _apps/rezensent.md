@@ -1,12 +1,16 @@
 ---
 title: Rezensent
-description: The rezensent (german for reviewer) is a github app which help managing big pull requests in a repository divided by code ownership rules
+description: The rezensent (german for reviewer) is a github app which help managing
+  big pull requests in a repository divided by code ownership rules
 slug: https://github.com/apps/rezensent
 screenshots:
 - https://user-images.githubusercontent.com/327445/114275835-5e81d800-9a24-11eb-8d59-8f1233986750.png
-authors: [ KnisterPeter ]
+authors:
+- KnisterPeter
 repository: KnisterPeter/rezensent
 host: https://rezensent.herokuapp.com/
+stars: 2
+updated: 2021-04-20 20:46:14 UTC
 ---
 
 # rezensent
