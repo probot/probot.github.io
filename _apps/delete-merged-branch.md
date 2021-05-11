@@ -10,7 +10,7 @@ authors:
 repository: svanboxel/delete-merged-branch
 host: https://delete-merged-branch.now.sh
 stars: 258
-updated: 2021-04-20 02:20:00 UTC
+updated: 2021-05-10 14:38:03 UTC
 installations: 2214
 organizations:
 - chrisbsmith
