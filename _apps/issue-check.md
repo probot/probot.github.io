@@ -11,7 +11,7 @@ repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
 updated: 2021-05-18 20:26:08 UTC
-installations: 44
+installations: 45
 organizations:
 - RevenueCat
 - coolcode
@@ -22,7 +22,7 @@ organizations:
 - velotoxicsounds
 - hemanth22
 - magnetica-studio
-- Jankyboy
+- SmallDreams
 ---
 
 ## What It Does

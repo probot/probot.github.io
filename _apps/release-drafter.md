@@ -8,7 +8,7 @@ authors:
 - toolmantim
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
-stars: 1802
+stars: 1804
 updated: 2021-05-19 18:30:23 UTC
 installations: 1255
 organizations:
