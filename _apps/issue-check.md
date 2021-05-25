@@ -10,7 +10,7 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2021-05-18 20:26:08 UTC
+updated: 2021-05-25 03:52:05 UTC
 installations: 45
 organizations:
 - RevenueCat
