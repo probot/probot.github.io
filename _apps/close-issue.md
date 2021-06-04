@@ -9,8 +9,8 @@ authors:
 - whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
-stars: 35
-updated: 2021-06-02 07:46:27 UTC
+stars: 36
+updated: 2021-06-03 09:29:59 UTC
 installations: 193
 organizations:
 - vuetifyjs
