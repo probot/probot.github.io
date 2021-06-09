@@ -15,8 +15,8 @@ installations: 73
 organizations:
 - owncloud
 - carla-simulator
-- Varying-Vagrant-Vagrants
 - intel-isl
+- Varying-Vagrant-Vagrants
 - microsoft
 - arkokoley
 - splash-cli
