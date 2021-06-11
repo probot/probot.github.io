@@ -10,7 +10,7 @@ authors:
 repository: KnisterPeter/rezensent
 host: https://rezensent.herokuapp.com/
 stars: 2
-updated: 2021-06-09 23:13:23 UTC
+updated: 2021-06-10 08:39:51 UTC
 ---
 
 # rezensent
