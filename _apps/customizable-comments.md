@@ -9,7 +9,7 @@ authors:
 repository: tizmagik/customizable-comments
 host: https://probot-cc.vercel.app
 stars: 1
-updated: 2021-05-09 19:50:03 UTC
+updated: 2021-06-12 06:30:06 UTC
 ---
 
 ## Configuration options
