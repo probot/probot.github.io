@@ -7,7 +7,7 @@ jobs:
   remote-sync:
     runs-on: ubuntu-latest
     env:
-      - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
     steps:
       - uses: actions/checkout@v2  
       - uses: actions/setup-ruby@v1
@@ -16,6 +16,6 @@ jobs:
       - run: bundle install
       - run: ./script/remote-sync
         env:
-          - GIT_AUTHOR_NAME: 'Brandon Keepers'
-          - GIT_AUTHOR_EMAIL: 'bkeepers@github.com'
+          GIT_AUTHOR_NAME: 'Brandon Keepers'
+          GIT_AUTHOR_EMAIL: 'bkeepers@github.com'
       - run: ./script/site-test
