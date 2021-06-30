@@ -4,12 +4,10 @@ on: [push, pull_request]
 jobs:
   run-tests:
     runs-on: ubuntu-latest
-    env:
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
     steps:
       - uses: actions/checkout@v2  
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.4.0'
       - run: bundle install
-      - run: uby test/*_test.rb
+      - run: ruby test/*_test.rb
