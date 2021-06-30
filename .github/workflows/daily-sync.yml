@@ -6,13 +6,11 @@ on:
 jobs:
   remote-sync:
     runs-on: ubuntu-latest
-    env:
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
     steps:
       - uses: actions/checkout@v2  
-      - uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.4'
+          ruby-version: '2.4.0'
       - run: bundle install
       - run: ./script/remote-sync
         env:
