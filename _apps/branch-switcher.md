@@ -8,7 +8,7 @@ authors:
 - dpb587
 - s4heid
 repository: s4heid/branch-switcher
-host: https://branch-switcher.now.sh
+host: https://branch-switcher.vercel.app
 stars: 12
 updated: 2021-06-09 19:53:02 UTC
 ---

@@ -9,7 +9,7 @@ screenshots:
 authors:
 - evenchange4
 repository: evenchange4/gh-polls-bot
-host: https://gh-polls-bot.now.sh
+host: https://gh-polls-bot.vercel.app
 stars: 189
 updated: 2018-01-15 01:35:10 UTC
 installations: 589

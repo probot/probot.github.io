@@ -11,7 +11,7 @@ authors:
 - cyberhck
 repository: fossapps/Handlebars-Issue-and-Pull-Requests
 stars: 4
-host: https://handlebar-templates.cyberhck.now.sh
+host: https://handlebar-templates.cyberhck.vercel.app
 updated: 2021-06-10 09:02:47 UTC
 ---
 

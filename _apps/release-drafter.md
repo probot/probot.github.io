@@ -7,7 +7,7 @@ screenshots:
 authors:
 - toolmantim
 repository: toolmantim/release-drafter
-host: https://release-drafter.now.sh
+host: https://release-drafter.vercel.app
 stars: 1838
 updated: 2021-06-10 20:58:51 UTC
 installations: 1255

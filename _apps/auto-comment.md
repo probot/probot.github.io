@@ -7,7 +7,7 @@ screenshots:
 authors:
 - boyney123
 repository: boyney123/auto-comment
-host: https://auto-comment.now.sh
+host: https://auto-comment.vercel.app
 stars: 22
 updated: 2019-09-26 14:00:33 UTC
 installations: 140

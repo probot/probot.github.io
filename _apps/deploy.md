@@ -7,7 +7,7 @@ screenshots:
 authors:
 - helaili
 repository: helaili/deploy
-host: https://probot-deploy-dotcom.now.sh
+host: https://probot-deploy-dotcom.vercel.app
 stars: 20
 updated: 2020-08-14 12:52:53 UTC
 installations: 43

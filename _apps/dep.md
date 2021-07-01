@@ -8,7 +8,7 @@ screenshots:
 authors:
 - z0al
 repository: z0al/dep
-host: https://probot-dep.now.sh
+host: https://probot-dep.vercel.app
 stars: 69
 updated: 2020-11-25 11:42:22 UTC
 installations: 206

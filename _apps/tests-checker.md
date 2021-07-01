@@ -7,7 +7,7 @@ screenshots:
 authors:
 - maks-rafalko
 repository: infection/tests-checker
-host: https://tests-checker.now.sh
+host: https://tests-checker.vercel.app
 stars: 31
 updated: 2021-05-09 17:08:25 UTC
 installations: 52

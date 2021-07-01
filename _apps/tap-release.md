@@ -7,7 +7,7 @@ screenshots:
 authors:
 - toolmantim
 repository: toolmantim/tap-release
-host: https://tap-release.now.sh
+host: https://tap-release.vercel.app
 stars: 42
 updated: 2021-06-06 21:24:14 UTC
 installations: 29

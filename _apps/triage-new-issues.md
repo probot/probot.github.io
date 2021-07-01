@@ -11,7 +11,7 @@ screenshots:
 authors:
 - tunnckoCore
 repository: tunnckoCoreLabs/triage-new-issues
-host: https://triage-new-issues.now.sh
+host: https://triage-new-issues.vercel.app
 stars: 20
 updated: 2021-05-10 17:47:03 UTC
 installations: 183
