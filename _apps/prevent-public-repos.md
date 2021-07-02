@@ -3,25 +3,25 @@ title: Prevent Public Repos
 description: Prevent Repos from being made public in an organization
 slug: prevent-public-repos
 screenshots:
-- https://user-images.githubusercontent.com/6920330/33576380-9a90cc92-d90d-11e7-9e61-6512240cdbf6.png
+  - https://user-images.githubusercontent.com/6920330/33576380-9a90cc92-d90d-11e7-9e61-6512240cdbf6.png
 authors:
-- issc29
+  - issc29
 repository: issc29/probot-prevent-public-repos
 host: https://probot-prevent-public-repos.herokuapp.com
 stars: 28
 updated: 2021-05-10 09:01:13 UTC
 installations: 359
 organizations:
-- dollarshaveclub
-- SPSCommerce
-- tokopedia
-- LiveRamp
-- telus
-- JuulLabs
-- LEGO
-- njzjz
-- Oteemo
-- RedVentures
+  - dollarshaveclub
+  - SPSCommerce
+  - tokopedia
+  - LiveRamp
+  - telus
+  - JuulLabs
+  - LEGO
+  - njzjz
+  - Oteemo
+  - RedVentures
 ---
 
 # Prevent-Public-Repos Probot App

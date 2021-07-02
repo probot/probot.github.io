@@ -3,25 +3,25 @@ title: invite-contributors
 description: Invite authors of merged pull requests to your organization
 slug: invite-contributors
 screenshots:
-- https://i.imgur.com/IoTF1aD.png
+  - https://i.imgur.com/IoTF1aD.png
 authors:
-- erickzhao
+  - erickzhao
 repository: erickzhao/invite-contributors
 stars: 32
 updated: 2018-05-05 14:10:11 UTC
 host: https://vast-stream-78160.herokuapp.com
 installations: 69
 organizations:
-- nteract
-- nextcloud
-- stylelint
-- gridsome
-- unoplatform
-- Laravel-Backpack
-- tuist
-- imolorhe
-- publiclab
-- TokTok
+  - nteract
+  - nextcloud
+  - stylelint
+  - gridsome
+  - unoplatform
+  - Laravel-Backpack
+  - tuist
+  - imolorhe
+  - publiclab
+  - TokTok
 ---
 
 # invite-contributors

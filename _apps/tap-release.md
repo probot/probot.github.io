@@ -3,25 +3,25 @@ title: Tap Release
 description: Update Homebrew taps when you publish new GitHub releases.
 slug: tap-release
 screenshots:
-- https://raw.githubusercontent.com/toolmantim/tap-release/master/design/screenshot.png
+  - https://raw.githubusercontent.com/toolmantim/tap-release/master/design/screenshot.png
 authors:
-- toolmantim
+  - toolmantim
 repository: toolmantim/tap-release
-host: https://tap-release.vercel.app
+host: https://tap-release.now.sh
 stars: 42
-updated: 2021-06-06 21:24:14 UTC
+updated: 2021-06-17 09:10:02 UTC
 installations: 29
 organizations:
-- infection
-- humbug
-- phogolabs
-- tophat
-- AugurProject
-- njzjz
-- buildkite
-- kentaro-m
-- GetStream
-- dmirubtsov
+  - infection
+  - humbug
+  - phogolabs
+  - tophat
+  - AugurProject
+  - njzjz
+  - buildkite
+  - kentaro-m
+  - GetStream
+  - dmirubtsov
 ---
 
 ## Usage

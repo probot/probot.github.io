@@ -3,26 +3,26 @@ title: Stale
 description: Close stale Issues and Pull Requests
 slug: stale
 screenshots:
-- https://user-images.githubusercontent.com/173/27765695-4c016050-5e7e-11e7-9016-c2f6d8c27da4.png
-- https://user-images.githubusercontent.com/173/27765705-93f94940-5e7e-11e7-8527-3a91bb64ca70.png
+  - https://user-images.githubusercontent.com/173/27765695-4c016050-5e7e-11e7-9016-c2f6d8c27da4.png
+  - https://user-images.githubusercontent.com/173/27765705-93f94940-5e7e-11e7-8527-3a91bb64ca70.png
 authors:
-- bkeepers
-stars: 1096
+  - bkeepers
+stars: 1098
 repository: probot/stale
 updated: 2021-05-09 22:21:19 UTC
 host: https://probot-stale.herokuapp.com
 installations: 1145
 organizations:
-- facebook
-- sebastianbergmann
-- atom
-- Homebrew
-- Shopify
-- thedaviddias
-- prettier
-- NARKOZ
-- nwjs
-- parse-community
+  - facebook
+  - sebastianbergmann
+  - atom
+  - Homebrew
+  - Shopify
+  - thedaviddias
+  - prettier
+  - NARKOZ
+  - nwjs
+  - parse-community
 ---
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.

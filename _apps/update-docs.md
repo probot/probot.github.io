@@ -1,28 +1,28 @@
 ---
 title: Update Docs
-description: Replies to newly opened pull requests that do not update a file in the
-  `/docs` folder or the `README`
+description: Replies to newly opened pull requests that do not update a file in
+  the `/docs` folder or the `README`
 slug: update-docs
 screenshots:
-- https://user-images.githubusercontent.com/13410355/28179044-97207bee-67b5-11e7-80d0-0c8ede4a325f.png
+  - https://user-images.githubusercontent.com/13410355/28179044-97207bee-67b5-11e7-80d0-0c8ede4a325f.png
 stars: 27
 authors:
-- hiimbex
+  - hiimbex
 repository: behaviorbot/update-docs
 updated: 2018-10-17 22:02:17 UTC
 host: https://probot-update-docs.herokuapp.com
-installations: 73
+installations: 74
 organizations:
-- owncloud
-- carla-simulator
-- intel-isl
-- Varying-Vagrant-Vagrants
-- microsoft
-- arkokoley
-- splash-cli
-- behaviorbot
-- robotology
-- atk4
+  - owncloud
+  - carla-simulator
+  - intel-isl
+  - Varying-Vagrant-Vagrants
+  - fwartner
+  - microsoft
+  - arkokoley
+  - splash-cli
+  - behaviorbot
+  - robotology
 ---
 
 

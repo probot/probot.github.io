@@ -3,25 +3,25 @@ title: Minimum reviews
 description: Enforce a minimum number of reviews on Pull Requests
 slug: minimum-reviews
 screenshots:
-- https://user-images.githubusercontent.com/24159/38566574-0015d8b6-3cb2-11e8-872f-e9495192581e.png
+  - https://user-images.githubusercontent.com/24159/38566574-0015d8b6-3cb2-11e8-872f-e9495192581e.png
 authors:
-- raulriera
+  - raulriera
 repository: raulriera/probot-minimum-reviews
 host: https://horn-produce.glitch.me/
 stars: 10
 updated: 2018-07-06 02:19:39 UTC
 installations: 39
 organizations:
-- RobertAudi
-- dtr-org
-- njzjz
-- symphonyoss
-- fullfacing
-- diegoazh
-- platzi
-- reedhhw
-- frilox042
-- hemanth22
+  - RobertAudi
+  - dtr-org
+  - njzjz
+  - symphonyoss
+  - fullfacing
+  - diegoazh
+  - platzi
+  - reedhhw
+  - frilox042
+  - hemanth22
 ---
 
 # Probot: Minimum Reviews

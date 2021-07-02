@@ -3,25 +3,25 @@ title: Similar Code Searcher
 description: Searches files similar with deleted code in Pull Request.
 slug: similar-code-searcher
 screenshots:
-- https://raw.githubusercontent.com/Ikuyadeu/similar-code-searcher/master/images/ScreenShot.png
+  - https://raw.githubusercontent.com/Ikuyadeu/similar-code-searcher/master/images/ScreenShot.png
 authors:
-- Ikuyadeu
+  - Ikuyadeu
 repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
 stars: 8
 updated: 2020-09-20 05:30:08 UTC
 installations: 28
 organizations:
-- hirezio
-- chrisyue
-- reedhhw
-- duncdrum
-- frilox042
-- byteshiva
-- soehlert
-- hemanth22
-- Ikuyadeu
-- eromano
+  - hirezio
+  - chrisyue
+  - reedhhw
+  - duncdrum
+  - frilox042
+  - byteshiva
+  - soehlert
+  - hemanth22
+  - Ikuyadeu
+  - eromano
 ---
 
 # Similar code Searcher

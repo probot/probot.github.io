@@ -3,25 +3,25 @@ title: Weekly Digest
 description: Weekly automated summary of activity on your GitHub repository
 slug: weekly-digest
 screenshots:
-- https://user-images.githubusercontent.com/20141002/41304450-d2bc9234-6e8d-11e8-965d-649ed2d04651.gif
+  - https://user-images.githubusercontent.com/20141002/41304450-d2bc9234-6e8d-11e8-965d-649ed2d04651.gif
 authors:
-- abhijeetps
+  - abhijeetps
 repository: abhijeetps/weekly-digest
-host: https://weekly-digest.vercel.app
+host: https://weekly-digest.now.sh
 stars: 204
 updated: 2021-06-09 21:07:27 UTC
 installations: 292
 organizations:
-- alibaba
-- foundation
-- serhii-londar
-- veggiemonk
-- getredash
-- talkgo
-- LightTable
-- vueComponent
-- nock
-- umijs
+  - alibaba
+  - foundation
+  - serhii-londar
+  - veggiemonk
+  - getredash
+  - talkgo
+  - LightTable
+  - vueComponent
+  - nock
+  - umijs
 ---
 > App built using [Probot](https://probot.github.io/) which generates a weekly automated summary of activity on your GitHub repository
 ## App in Action ##

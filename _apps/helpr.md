@@ -1,28 +1,27 @@
 ---
 title: helPR
-description: Assigns labels to issues based on the status of the PR associated with
-  it.
+description: Assigns labels to issues based on the status of the PR associated with it.
 slug: helpr
 screenshots:
-- https://raw.githubusercontent.com/rsarky/helpr/master/screenshots/usage-img1.jpg
+  - https://raw.githubusercontent.com/rsarky/helpr/master/screenshots/usage-img1.jpg
 authors:
-- rsarky
+  - rsarky
 repository: rsarky/helpr
 host: https://evening-depths-50399.herokuapp.com
 stars: 12
 updated: 2019-10-29 14:25:07 UTC
 installations: 69
 organizations:
-- aio-libs
-- cefsharp
-- moul
-- json-schema-org
-- bitnami-labs
-- GameServerManagers
-- tox-dev
-- wemake-services
-- Glavin001
-- infection
+  - aio-libs
+  - cefsharp
+  - moul
+  - json-schema-org
+  - bitnami-labs
+  - GameServerManagers
+  - tox-dev
+  - wemake-services
+  - Glavin001
+  - infection
 ---
 
 <p align="center">

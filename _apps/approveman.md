@@ -3,17 +3,17 @@ title: ApproveMan
 description: Approves pull requests with safe changes for protected branches.
 slug: approveman
 screenshots:
-- https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/approval.png
-- https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/check_status.png
+  - https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/approval.png
+  - https://github.com/tianhaoz95/approveman/raw/master/docs/asset/screenshots/check_status.png
 authors:
-- tianhaoz95
+  - tianhaoz95
 repository: tianhaoz95/approveman
 host: https://approveman.herokuapp.com
 stars: 7
-updated: 2021-06-14 08:49:50 UTC
+updated: 2021-07-02 08:08:46 UTC
 installations: 1
 organizations:
-- tianhaoz95
+  - tianhaoz95
 ---
 
 ApproveMan is a GitHub app that helps approve pull requests with safe changes.

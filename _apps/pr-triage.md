@@ -3,27 +3,27 @@ title: PR Triage
 description: Add a label depending on the pull request's status
 slug: pr-triage
 screenshots:
-- https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/main.png
-- https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/workflow.png
-- https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/privacy.png
+  - https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/main.png
+  - https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/workflow.png
+  - https://raw.githubusercontent.com/pr-triage/app/master/public/assets/screenshots/privacy.png
 authors:
-- sotayamashita
+  - sotayamashita
 repository: pr-triage/app
 host: https://pr-triage.glitch.me
 stars: 78
-updated: 2021-06-11 05:25:23 UTC
+updated: 2021-07-01 05:31:16 UTC
 installations: 65
 organizations:
-- getredash
-- thepracticaldev
-- kazupon
-- HcySunYang
-- awesome-css-group
-- Unibeautify
-- Human-Connection
-- TiagoDanin
-- vuejs
-- LinioIT
+  - getredash
+  - thepracticaldev
+  - kazupon
+  - HcySunYang
+  - awesome-css-group
+  - Unibeautify
+  - Human-Connection
+  - TiagoDanin
+  - vuejs
+  - LinioIT
 ---
 
 ## Motivation

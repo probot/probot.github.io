@@ -3,26 +3,26 @@ title: OOO
 description: Respond to @mentions with an auto-response when you are OOO
 slug: ooo
 screenshots:
-- https://user-images.githubusercontent.com/27806/34545993-8e21b866-f0b6-11e7-9cc4-750d6f9b2ed5.png
-- https://user-images.githubusercontent.com/27806/34633882-c505d878-f244-11e7-89c2-c367afdb738a.png
+  - https://user-images.githubusercontent.com/27806/34545993-8e21b866-f0b6-11e7-9cc4-750d6f9b2ed5.png
+  - https://user-images.githubusercontent.com/27806/34633882-c505d878-f244-11e7-89c2-c367afdb738a.png
 authors:
-- swinton
+  - swinton
 repository: swinton/probot-ooo
 host: https://probot-ooo.herokuapp.com
 stars: 34
 updated: 2018-01-06 15:08:10 UTC
 installations: 60
 organizations:
-- karthik
-- JasonEtco
-- openjournals
-- ropensci
-- wlandau
-- intermine
-- matthewmccullough
-- paulooosrj
-- suriyaa
-- annakrystalli
+  - karthik
+  - JasonEtco
+  - openjournals
+  - ropensci
+  - wlandau
+  - intermine
+  - matthewmccullough
+  - paulooosrj
+  - suriyaa
+  - annakrystalli
 ---
 
 # Probot: OOO

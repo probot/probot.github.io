@@ -3,25 +3,25 @@ title: Auto-comment
 description: Comments on new issues and pull requests based on your configuration.
 slug: auto-comment
 screenshots:
-- https://avatars3.githubusercontent.com/in/14394?s=88&amp;v=4
+  - https://avatars3.githubusercontent.com/in/14394?s=88&amp;v=4
 authors:
-- boyney123
+  - boyney123
 repository: boyney123/auto-comment
-host: https://auto-comment.vercel.app
+host: https://auto-comment.now.sh
 stars: 22
 updated: 2019-09-26 14:00:33 UTC
 installations: 140
 organizations:
-- ipfs
-- nhn
-- acmesh-official
-- Juanpe
-- adonisjs
-- ethereum
-- node-formidable
-- lvgl
-- cosmos
-- meetfranz
+  - ipfs
+  - nhn
+  - acmesh-official
+  - Juanpe
+  - adonisjs
+  - ethereum
+  - node-formidable
+  - lvgl
+  - cosmos
+  - meetfranz
 ---
 
 

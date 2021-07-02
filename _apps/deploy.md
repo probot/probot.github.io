@@ -3,25 +3,25 @@ title: Deploy
 description: Triggers a deployment event on GitHub based on pull request labels.
 slug: deploy
 screenshots:
-- https://user-images.githubusercontent.com/2787414/44789192-3f4c1a00-ab9c-11e8-9093-353dfbe1bc1e.gif
+  - https://user-images.githubusercontent.com/2787414/44789192-3f4c1a00-ab9c-11e8-9093-353dfbe1bc1e.gif
 authors:
-- helaili
+  - helaili
 repository: helaili/deploy
-host: https://probot-deploy-dotcom.vercel.app
+host: https://probot-deploy-dotcom.now.sh
 stars: 20
 updated: 2020-08-14 12:52:53 UTC
 installations: 43
 organizations:
-- njzjz
-- helaili
-- suhanlee
-- reedhhw
-- frilox042
-- thebookofeveryone
-- BlueBaseJS
-- logikinc
-- pmanlukas
-- BadIdeaFactory
+  - njzjz
+  - helaili
+  - suhanlee
+  - reedhhw
+  - frilox042
+  - thebookofeveryone
+  - BlueBaseJS
+  - logikinc
+  - pmanlukas
+  - BadIdeaFactory
 ---
 
 This app uses GitHub's deployment API and triggers a deployment event when a matching label is applied to a Pull Request. 

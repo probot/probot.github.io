@@ -3,25 +3,25 @@ title: todo
 description: Creates new issues from actionable comments in your code.
 slug: todo
 screenshots:
-- https://user-images.githubusercontent.com/10660468/31048765-83569c30-a5f2-11e7-933a-a119d43ad029.png
+  - https://user-images.githubusercontent.com/10660468/31048765-83569c30-a5f2-11e7-933a-a119d43ad029.png
 authors:
-- JasonEtco
+  - JasonEtco
 repository: JasonEtco/todo
 host: https://probot-todo.herokuapp.com
-stars: 699
-updated: 2021-06-11 14:32:58 UTC
+stars: 700
+updated: 2021-06-26 13:55:01 UTC
 installations: 626
 organizations:
-- mikeal
-- nteract
-- eclipse
-- mas-cli
-- ahmadawais
-- thibmaek
-- Laravel-Backpack
-- Radarr
-- heinrichreimer
-- caarlos0
+  - mikeal
+  - nteract
+  - eclipse
+  - mas-cli
+  - ahmadawais
+  - thibmaek
+  - Laravel-Backpack
+  - Radarr
+  - heinrichreimer
+  - caarlos0
 ---
 ## Usage
 

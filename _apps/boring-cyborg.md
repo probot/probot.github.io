@@ -1,30 +1,29 @@
 ---
 title: Boring Cyborg
-description: Add labels on PRs based on the FilePaths & Welcome First time users &
-  much more
+description: Add labels on PRs based on the FilePaths & Welcome First time users & much more
 slug: boring-cyborg
 screenshots:
-- https://raw.githubusercontent.com/kaxil/boring-cyborg/master/assets/usage-screenshot-1.png
-- https://raw.githubusercontent.com/kaxil/boring-cyborg/master/assets/usage-new-issue-new-user-screenshot.png
-- https://raw.githubusercontent.com/kaxil/boring-cyborg/master/assets/usage-first-merged-pr.gif
+  - https://raw.githubusercontent.com/kaxil/boring-cyborg/master/assets/usage-screenshot-1.png
+  - https://raw.githubusercontent.com/kaxil/boring-cyborg/master/assets/usage-new-issue-new-user-screenshot.png
+  - https://raw.githubusercontent.com/kaxil/boring-cyborg/master/assets/usage-first-merged-pr.gif
 authors:
-- kaxil
+  - kaxil
 repository: kaxil/boring-cyborg
 host: https://boring-cyborg.herokuapp.com
-stars: 50
+stars: 53
 updated: 2021-06-11 12:37:24 UTC
 installations: 145
 organizations:
-- apache
-- PyTorchLightning
-- quarkusio
-- golangci
-- Zettlr
-- bisq-network
-- jeremylong
-- lballabio
-- WyriHaximus
-- tensorflow
+  - apache
+  - PyTorchLightning
+  - quarkusio
+  - golangci
+  - Zettlr
+  - bisq-network
+  - jeremylong
+  - lballabio
+  - WyriHaximus
+  - tensorflow
 ---
 
 ## Features

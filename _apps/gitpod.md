@@ -3,23 +3,23 @@ title: Gitpod
 description: Open issues and pull requests in Gitpod
 slug: gitpod-io
 screenshots:
-- https://user-images.githubusercontent.com/3082655/45426649-1a2bd100-b69d-11e8-9790-91cd6850bc63.png
+  - https://user-images.githubusercontent.com/3082655/45426649-1a2bd100-b69d-11e8-9790-91cd6850bc63.png
 authors:
-- gitpod-io
+  - gitpod-io
 repository: gitpod-io/gitpod-bot
-host: https://gitpod-bot.vercel.app
+host: https://gitpod-bot.now.sh
 stars: 12
 updated: 2019-02-12 20:00:54 UTC
 installations: 15
 organizations:
-- caouecs
-- TypeFox
-- sr229
-- gitpod-io
-- hemanth22
-- JanitorTechnology
-- Sayo-nika
-- dbenchi
+  - caouecs
+  - TypeFox
+  - sr229
+  - gitpod-io
+  - hemanth22
+  - JanitorTechnology
+  - Sayo-nika
+  - dbenchi
 ---
 
 Open issues and pull requests in [Gitpod](http://www.gitpod.io).

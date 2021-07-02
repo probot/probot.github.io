@@ -3,9 +3,9 @@ title: Customizable Comments
 description: Auto-replies with customizable comments based on template vars
 slug: probot-cc
 screenshots:
-- https://github.com/tizmagik/customizable-comments/raw/a8fe5d59a127040ab6842dbf2c681e7690970544/public/probot-cc-sample.png
+  - https://github.com/tizmagik/customizable-comments/raw/a8fe5d59a127040ab6842dbf2c681e7690970544/public/probot-cc-sample.png
 authors:
-- tizmagik
+  - tizmagik
 repository: tizmagik/customizable-comments
 host: https://probot-cc.vercel.app
 stars: 1

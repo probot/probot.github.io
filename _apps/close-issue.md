@@ -3,26 +3,26 @@ title: Close Issue
 description: Comment on the issues that do not include some contents then close them.
 slug: close-issue-app
 screenshots:
-- https://raw.githubusercontent.com/offu/close-issue-app/master/screenshot.png
+  - https://raw.githubusercontent.com/offu/close-issue-app/master/screenshot.png
 authors:
-- helloqiu
-- whtsky
+  - helloqiu
+  - whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 37
-updated: 2021-06-14 02:54:46 UTC
+updated: 2021-07-01 02:58:44 UTC
 installations: 193
 organizations:
-- vuetifyjs
-- RocketChat
-- react-boilerplate
-- arendst
-- vueComponent
-- fullcalendar
-- android-hacker
-- CopyTranslator
-- travis-ci
-- netbox-community
+  - vuetifyjs
+  - RocketChat
+  - react-boilerplate
+  - arendst
+  - vueComponent
+  - fullcalendar
+  - android-hacker
+  - CopyTranslator
+  - travis-ci
+  - netbox-community
 ---
 [![Build Status](https://travis-ci.org/offu/close-issue-app.svg?branch=master)](https://travis-ci.org/offu/close-issue-app)
 [![codecov](https://codecov.io/gh/offu/close-issue-app/branch/master/graph/badge.svg)](https://codecov.io/gh/offu/close-issue-app)  
