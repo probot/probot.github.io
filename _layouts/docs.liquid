@@ -51,8 +51,7 @@ layout: default
                 {% else %}
                   {% for doc in collections.docs %}
                   {% assign documentbase = "docs/" | append: doc.template.parsed.base %}
-                  {% assign documentbasepath = doc.template.parsed.base | slug %}
-                  {% assign documentbaseurl = "/docs/" | append: documentbasepath %}
+                  {% assign documentbaseurl = "/docs/" | append: doc.template.parsed.name %}
                     {% if documentbase == item %}
                       {% assign targeturl = documentbaseurl %}
                       {% assign targettext = doc.data.title %}
