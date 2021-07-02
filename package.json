@@ -1,7 +1,44 @@
 {
   "private": true,
-  "dependencies": {
-    "primer-css": "^8.0.0"
+  "scripts": {
+    "format": "prettier --write '**/*.js' '**/*.scss' '**/*.html'",
+    "sass": "node script/sass.js",
+    "watch": "npm-run-all --parallel watch:sass watch:eleventy",
+    "watch:sass": "node script/watchsass.js",
+    "watch:eleventy": "eleventy --serve",
+    "build": "eleventy",
+    "lint": "eslint script/sync.ts",
+    "sync-data": "ts-node script/sync.ts"
   },
-  "repository": "github:probot/probot.github.io"
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0-canary.37",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.1",
+    "@primer/css": "^18.0.0-next.0-rc.f591dfde",
+    "@primer/octicons": "^14.2.2",
+    "@yarnpkg/fslib": "^2.5.0-rc.6",
+    "domutils": "^2.7.0",
+    "html-minifier": "^4.0.0",
+    "liquidjs": "^9.25.1",
+    "markdown-it": "^12.1.0",
+    "sass": "^1.35.1",
+    "supports-color": "^9.0.1"
+  },
+  "repository": "github:probot/probot.github.io",
+  "devDependencies": {
+    "@octokit/rest": "^18.6.6",
+    "@types/node": "^15.14.0",
+    "@types/node-fetch": "^2.5.10",
+    "@typescript-eslint/eslint-plugin": "^4.28.1",
+    "@typescript-eslint/parser": "^4.28.1",
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "node-fetch": "^3.0.0-beta.9",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.3.2",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.4.0-dev.20210617",
+    "yaml": "2.0.0-6"
+  }
 }

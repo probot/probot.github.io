@@ -1,0 +1,44 @@
+name: Sync app data
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Cache yarn packages
+        uses: actions/cache@v2
+        with:
+          path: |
+            .yarn/cache
+          key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+
+      - name: Install dependencies & sync data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          yarn install
+          yarn sync-data
+
+      - name: Determine default branch
+        run: |
+          DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
+          echo "default_branch=$DEFAULT_BRANCH" >> $GITHUB_ENV
+          echo "default_branch_ref=refs/heads/$DEFAULT_BRANCH" >> $GITHUB_ENV
+
+      - name: Commit & Push changes
+        uses: actions-js/push@4decc2887d2770f29177082be3c8b04d342f5b64
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: 'chore: Sync data'
+          branch: ${{ env.default_branch }}

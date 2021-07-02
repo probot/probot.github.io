@@ -1,0 +1,12 @@
+---
+pagination:
+  data: collections.docs
+  size: 1
+  alias: docs
+permalink: "/docs/{{ docs.fileSlug }}/"
+layout: docs.liquid
+---
+
+{%- for item in pagination.items %}
+  {{ item._templateContent }}
+{% endfor -%}

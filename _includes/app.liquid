@@ -1,0 +1,58 @@
+<div class="col-lg-4 col-md-6 mb-3 mt-3 d-flex flex-column pt-4">
+  <a
+    href="/apps/{{ app.slug }}/"
+    class="d-flex flex-column color-bg-primary rounded-1 box-shadow border text-inherit no-underline flex-1"
+    style="height: 100%"
+  >
+    <h3 class="h4 px-3 pt-3">{{ app.title }}</h3>
+    <p class="color-text-secondary lh-condensed px-3 pb-3">{{ app.description }}</p>
+    <div
+      class="color-text-tertiary pl-3 pr-2 py-2 color-bg-tertiary-light border-top"
+      style="
+        margin-top: auto;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+      "
+    >
+      <div class="d-flex flex-row">
+        {% if app.installations %}
+          {% if app.installations > 10000 %}
+            <div
+              class="col-4 tooltipped tooltipped-s"
+              aria-label="{{ app.installations }} installations"
+            >
+              {% octicon "download" height=16 class="v-align-middle" %}
+              <span class="v-align-middle">{{ app.installations }}</span>
+            </div>
+          {% else %}
+            <div
+              class="col-3 tooltipped tooltipped-s"
+              aria-label="{{ app.installations }} installations"
+            >
+              {% octicon "download" height=16 class="v-align-middle" %}
+              <span class="v-align-middle">{{ app.installations }}</span>
+            </div>
+          {% endif %}
+        {% endif %}
+        <div
+          class="col-3 tooltipped tooltipped-s"
+          aria-label="{{ app.stars }} stars"
+        >
+          {% octicon "star" height=16 class="v-align-middle" %}
+          <span class="v-align-middle">{{ app.stars }}</span>
+        </div>
+        <div class="col-9 text-right">
+          {% for author in app.authors %}
+          <img
+            class="avatar tooltipped tooltipped-s"
+            alt="Made by {{ author }}"
+            aria-label="Made by {{ author }}"
+            height="24"
+            src="https://github.com/{{ author }}.png"
+          />
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </a>
+</div>

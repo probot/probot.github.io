@@ -1,0 +1,12 @@
+---
+pagination:
+  data: collections.apps
+  size: 1
+  alias: app
+permalink: "/apps/{{ app.data.slug | slug }}/index.html"
+layout: app.liquid
+---
+
+{%- for item in pagination.items %}
+  {{ item.data }}
+{% endfor -%}

@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "ES2021",
+        "esModuleInterop": true,
+        "moduleResolution": "node"
+    },
+    "ts-node": {},
+}

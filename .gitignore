@@ -1,6 +1,12 @@
-.jekyll-metadata
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+.env
+private
+lib/tsconfig.tsbuildinfo
 _site
-Gemfile.lock
-vendor
-bin
-.bundle
+node_modules

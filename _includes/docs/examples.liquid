@@ -1,0 +1,7 @@
+{% assign apps = collections.apps | sample:4 %}
+
+<ul>
+{% for app in apps limit:6 %}
+  <li><a href="/apps/{{ app.data.slug }}">{{ app.data.title }}</a> - {{ app.data.description }}</li>
+{% endfor %}
+</ul>

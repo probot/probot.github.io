@@ -1,0 +1,10 @@
+README.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+LICENSE
+node_modules
+_submodules
+.yarn
+api
+assets/sass
+.github

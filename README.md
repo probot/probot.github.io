@@ -12,23 +12,18 @@ We also use this website to show off some of the cool probot apps built by the c
 
 ## Install and Usage
 
-If you'd like to work on this repository, clone it. We use [Jekyll](https://jekyllrb.com/) to build the website, hosted on [GitHub Pages](https://pages.github.com/). We also use Git submodules to pull docs from the docs folder in  [probot/probot](https://github.com/probot/probot/tree/master/docs).
+If you'd like to work on this repository, clone it. We use [11ty](https://www.11ty.dev/) to build the website, hosted on [GitHub Pages](https://pages.github.com/). We also use Git submodules to pull docs from the docs folder in  [probot/probot](https://github.com/probot/probot/tree/master/docs).
 
 Once you've cloned this repo, run these commands in this directory:
 
-```sh
+```bash
 # Only needed the first time:
-$ script/bootstrap
+$ yarn
 # And each time you work locally:
-$ script/server
-# Below is the expected output:
-Server address: http://127.0.0.1:4000
-Server running... press ctrl-c to stop.
+$ yarn watch
 ```
 
-You should then be able to navigate to the server address, and see live edits you make render in your browser. You'll likely have to familiarize yourself with how Jekyll works to do larger edits, but it's worth the effort!
-
-Another note: You can see more commands we use, such as our native build and server functions, in the [`script`](https://github.com/probot/probot.github.io/tree/master/script) folder. Go take a look!
+You should then be able to navigate to the server address, and see live edits you make render in your browser. You'll likely have to familiarize yourself with how 11ty works to do larger edits, but it's worth the effort!
 
 ## Contribute
 
