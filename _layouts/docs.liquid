@@ -50,8 +50,8 @@ layout: default
                   {% assign targettext = item.title %}
                 {% else %}
                   {% for doc in collections.docs %}
-                  {% assign documentbase = "docs/" | append: doc.template.parsed.base %}
-                  {% assign documentbaseurl = "/docs/" | append: doc.template.parsed.base %}
+                  {% assign documentbase = "docs/" | append: doc.template.parsed.base | replace: ".md", "" %}
+                  {% assign documentbaseurl = "/docs/" | append: doc.template.parsed.base | replace: ".md", "" %}
                     {% if documentbase == item %}
                       {% assign targeturl = documentbaseurl %}
                       {% assign targettext = doc.data.title %}
