@@ -49,6 +49,7 @@ layout: default
                   {% assign targeturl = item.url %}
                   {% assign targettext = item.title %}
                 {% else %}
+                  {% for doc in collections.docs %}
                   {% assign documentbase = "docs/" | append: doc.template.parsed.base %}
                   {% assign documentbasepath = doc.template.parsed.base | slug %}
                   {% assign documentbaseurl = "/docs/" | append: documentbasepath %}
