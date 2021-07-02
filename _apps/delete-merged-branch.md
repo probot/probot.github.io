@@ -8,7 +8,7 @@ screenshots:
 authors:
 - svanboxel
 repository: svanboxel/delete-merged-branch
-host: https://delete-merged-branch.now.sh
+host: https://delete-merged-branch.vercel.app
 stars: 260
 updated: 2021-06-10 07:11:26 UTC
 installations: 2214

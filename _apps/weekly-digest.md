@@ -7,7 +7,7 @@ screenshots:
 authors:
 - abhijeetps
 repository: abhijeetps/weekly-digest
-host: https://weekly-digest.now.sh
+host: https://weekly-digest.vercel.app
 stars: 204
 updated: 2021-06-09 21:07:27 UTC
 installations: 292

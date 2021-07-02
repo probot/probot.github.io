@@ -9,7 +9,7 @@ screenshots:
 authors:
 - cyberhck
 repository: fossapps/pr_label_enforcer
-host: https://prlabelenforcer.cyberhck.now.sh/
+host: https://prlabelenforcer.cyberhck.vercel.app/
 stars: 3
 updated: 2021-06-10 09:05:31 UTC
 ---
