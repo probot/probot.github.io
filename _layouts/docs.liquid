@@ -12,7 +12,7 @@ layout: default
           {% assign next = doc %}
         {% endif %}
 
-        {% if doc.next == page.inputPath %}
+        {% if doc.data.next == docs.inputPath %}
           {% assign previous = doc %}
         {% endif %}
       {% endfor %}
@@ -21,12 +21,12 @@ layout: default
         <div class="col-6">
           {% if previous %}
             {% octicon "chevron-left" class="v-align-text-bottom" %}
-            <a href="{{ previous.url }}">{{ previous.title }}</a>
+            <a href="/docs/{{ previous.fileSlug }}">{{ previous.data.title }}</a>
           {% endif %}
         </div>
         <div class="col-6 text-right">
           {% if next %}
-            <a href="{{ next.url }}">{{ next.title }}</a>
+            <a href="/docs/{{ next.fileSlug }}">{{ next.data.title }}</a>
             {% octicon "chevron-right" class="v-align-text-bottom" %}
           {% endif %}
         </div>

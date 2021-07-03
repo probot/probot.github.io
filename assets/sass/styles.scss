@@ -48,3 +48,8 @@ body {
 .flex-1 {
   flex: 1;
 }
+
+// Display newlines in Markdown
+.markdown-body code br, .markdown-body tt br {
+  display: unset !important;
+}
