@@ -37,7 +37,7 @@ jobs:
           echo "default_branch_ref=refs/heads/$DEFAULT_BRANCH" >> $GITHUB_ENV
 
       - name: Commit & Push changes
-        uses: actions-js/push@4decc2887d2770f29177082be3c8b04d342f5b64
+        uses: davidolrik/push@b88b2c57f3a4c23bf2abf091c319e77088dd0172
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: 'chore: Sync data'
