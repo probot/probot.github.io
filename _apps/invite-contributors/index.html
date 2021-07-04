@@ -1,0 +1,10 @@
+<h1>invite-contributors</h1><p><a href="https://travis-ci.org/erickzhao/invite-contributors"><img src="https://api.travis-ci.org/erickzhao/invite-contributors.svg?branch=master" alt="Build Status"></a><a href="https://codecov.io/gh/erickzhao/invite-contributors"><img src="https://codecov.io/gh/erickzhao/invite-contributors/branch/master/graph/badge.svg" alt="codecov"></a></p><p><strong>invite-contributors</strong> is a GitHub App built with <a href="https://github.com/probot/probot">probot</a> that automatically invites new contributors to your repository's organization once they get a Pull Request merged.</p><h2>Usage</h2><ol><li>Configure the GitHub App.</li><li>invite-contributors will automatically invite new users who have their pull requests merged to your organization.</li><li>More options are available if you add a <code>.github/invite-contributors.yml</code> file into your repository such as below.</li></ol><pre><code># If true, this will add new contributors as outside collaborators
+# to the repo their PR was merged in. Team name is ignored if this
+# flag is set to true.
+isOutside: false
+
+# Specify team name to add new contributors to a specific team
+# within your organization.
+# Use team name or team-name-slug
+team: MY TEAM NAME
+</code></pre><h2>Contributing</h2><p>Anyone can contribute with <a href="https://github.com/erickzhao/invite-contributors/issues">issues</a> and <a href="https://github.com/erickzhao/invite-contributors/pulls">PRs</a>. If you're submitting a pull request, always create a new branch to work your changes, and try squashing commits down if possible. Always test any new code and make sure <code>npm test</code> passes and code coverage is adequate before opening a PR.</p>
