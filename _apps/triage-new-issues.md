@@ -1,31 +1,31 @@
 ---
 title: Triage New Issues
-description: Adds `triage` label to newly-created issues and then removes it when
-  other label(s) are added
+description: Adds `triage` label to newly-created issues and then removes it
+  when other label(s) are added
 slug: triage-new-issues
 screenshots:
-- https://i.imgur.com/bdbDaPz.png
-- https://i.imgur.com/HMndYuP.png
-- https://i.imgur.com/fOp0Est.png
-- https://i.imgur.com/ldrHDzZ.png
+  - https://i.imgur.com/bdbDaPz.png
+  - https://i.imgur.com/HMndYuP.png
+  - https://i.imgur.com/fOp0Est.png
+  - https://i.imgur.com/ldrHDzZ.png
 authors:
-- tunnckoCore
+  - tunnckoCore
 repository: tunnckoCoreLabs/triage-new-issues
-host: https://triage-new-issues.vercel.app
-stars: 20
-updated: 2021-05-10 17:47:03 UTC
+host: https://triage-new-issues.now.sh
+stars: 22
+updated: 2021-06-21 19:58:38 UTC
 installations: 183
 organizations:
-- pypa
-- playframework
-- adonisjs
-- Semantic-Org
-- CachetHQ
-- iterative
-- Azure
-- microsoft
-- Laravel-Backpack
-- json-schema-org
+  - pypa
+  - playframework
+  - adonisjs
+  - Semantic-Org
+  - CachetHQ
+  - iterative
+  - Azure
+  - microsoft
+  - Laravel-Backpack
+  - json-schema-org
 ---
 
 

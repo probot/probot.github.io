@@ -3,29 +3,29 @@ title: Developer Certificate of Origin
 description: Enforce the DCO on Pull Requests
 slug: dco
 screenshots:
-- https://user-images.githubusercontent.com/13410355/42352738-35f4e690-8071-11e8-9c8c-260e5868bfc8.png
-- https://user-images.githubusercontent.com/13410355/42352794-85fe1c9c-8071-11e8-834a-05a4aeb8cc90.png
-- https://user-images.githubusercontent.com/13410355/42352795-8617c052-8071-11e8-82f1-d9fbb2e9934c.png
-- https://user-images.githubusercontent.com/13410355/42352737-35da3d0e-8071-11e8-99ae-6e7068e257e1.png
-stars: 197
+  - https://user-images.githubusercontent.com/13410355/42352738-35f4e690-8071-11e8-9c8c-260e5868bfc8.png
+  - https://user-images.githubusercontent.com/13410355/42352794-85fe1c9c-8071-11e8-834a-05a4aeb8cc90.png
+  - https://user-images.githubusercontent.com/13410355/42352795-8617c052-8071-11e8-82f1-d9fbb2e9934c.png
+  - https://user-images.githubusercontent.com/13410355/42352737-35da3d0e-8071-11e8-99ae-6e7068e257e1.png
+stars: 200
 authors:
-- bkeepers
-- hiimbex
+  - bkeepers
+  - hiimbex
 repository: probot/dco
 updated: 2021-06-11 19:37:35 UTC
 host: https://probot-dco.herokuapp.com
 installations: 1403
 organizations:
-- moby
-- prometheus
-- helm
-- hyperledger
-- nextcloud
-- pi-hole
-- src-d
-- fluent
-- gradle
-- envoyproxy
+  - moby
+  - prometheus
+  - helm
+  - hyperledger
+  - nextcloud
+  - pi-hole
+  - src-d
+  - fluent
+  - gradle
+  - envoyproxy
 ---
 
 

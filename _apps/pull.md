@@ -3,27 +3,27 @@ title: Pull
 description: Keep your forks up-to-date.
 slug: pull
 screenshots:
-- https://user-images.githubusercontent.com/5880908/90766824-2c1b4300-e2ba-11ea-857e-6b0648b8acf3.png
-- https://user-images.githubusercontent.com/5880908/40864471-046ffcd2-65c2-11e8-83cb-706e24bde80d.png
-- https://user-images.githubusercontent.com/5880908/40864529-32647474-65c2-11e8-9cdd-d325f2d7a6e4.png
+  - https://user-images.githubusercontent.com/5880908/90766824-2c1b4300-e2ba-11ea-857e-6b0648b8acf3.png
+  - https://user-images.githubusercontent.com/5880908/40864471-046ffcd2-65c2-11e8-83cb-706e24bde80d.png
+  - https://user-images.githubusercontent.com/5880908/40864529-32647474-65c2-11e8-9cdd-d325f2d7a6e4.png
 authors:
-- wei
+  - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 2911
-updated: 2021-06-11 10:59:05 UTC
-installations: 12472
+stars: 2944
+updated: 2021-06-30 23:01:08 UTC
+installations: 12635
 organizations:
-- overtrue
-- hemanth
-- ameizi
-- bestony
-- CHEF-KOCH
-- guanguans
-- lhie1
-- wei
-- instantbox
-- ericmjl
+  - overtrue
+  - hemanth
+  - ameizi
+  - bestony
+  - CHEF-KOCH
+  - guanguans
+  - lhie1
+  - wei
+  - instantbox
+  - ericmjl
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)

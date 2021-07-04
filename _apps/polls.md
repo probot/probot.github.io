@@ -3,27 +3,27 @@ title: Polls
 description: Create polls in GitHub issues.
 slug: polls
 screenshots:
-- https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/screenshot.png
-- https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/demo.gif
-- https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/logo.png
+  - https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/screenshot.png
+  - https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/demo.gif
+  - https://raw.githubusercontent.com/evenchange4/gh-polls-bot/master/docs/logo.png
 authors:
-- evenchange4
+  - evenchange4
 repository: evenchange4/gh-polls-bot
-host: https://gh-polls-bot.vercel.app
+host: https://gh-polls-bot.now.sh
 stars: 189
 updated: 2018-01-15 01:35:10 UTC
 installations: 589
 organizations:
-- npm
-- PowerShell
-- overtrue
-- istio
-- apex
-- Automattic
-- RxSwiftCommunity
-- jaegertracing
-- huihut
-- RasaHQ
+  - npm
+  - PowerShell
+  - overtrue
+  - istio
+  - apex
+  - Automattic
+  - RxSwiftCommunity
+  - jaegertracing
+  - huihut
+  - RasaHQ
 ---
 
 # GitHub Polls Bot

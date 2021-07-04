@@ -1,0 +1,14 @@
+.markdown-body {
+  h1 { @extend .h2-mktg; }
+  h2 { @extend .h3-mktg; }
+  h3 { @extend .h3-mktg; }
+
+  h1, h2, h3 {
+    margin-top: $spacer-6;
+
+    &:first-child {
+      margin-top: 0;
+      margin-bottom: $spacer-6;
+    }
+  }
+}

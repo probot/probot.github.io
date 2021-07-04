@@ -3,25 +3,25 @@ title: ESLint Disable Watcher
 description: Comments on pull requests that try to disable eslint rules.
 slug: eslint-disable-watcher
 screenshots:
-- https://user-images.githubusercontent.com/318208/36699828-d1a92b82-1b45-11e8-9a4d-91da0852d7da.png
+  - https://user-images.githubusercontent.com/318208/36699828-d1a92b82-1b45-11e8-9a4d-91da0852d7da.png
 authors:
-- koddsson
+  - koddsson
 repository: koddsson/eslint-disable-probot
 host: https://eslint-disable-probot.herokuapp.com
 stars: 43
 updated: 2019-01-30 18:12:45 UTC
 installations: 55
 organizations:
-- ant-design
-- thibmaek
-- theme-next
-- ember-intl
-- levibostian
-- buschtoens
-- telus
-- bluet
-- Dekoruma
-- odykyi
+  - ant-design
+  - thibmaek
+  - theme-next
+  - ember-intl
+  - levibostian
+  - buschtoens
+  - telus
+  - bluet
+  - Dekoruma
+  - odykyi
 ---
 ## Usage
 

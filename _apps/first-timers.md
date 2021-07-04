@@ -3,26 +3,26 @@ title: First Timers
 description: Create starter issues to help onboard new open source contributors
 slug: first-timers
 screenshots:
-- https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png
+  - https://raw.githubusercontent.com/hoodiehq/first-timers-bot/master/assets/Issue-Done.png
 authors:
-- agonzalez0515
-- Techforchange
+  - agonzalez0515
+  - Techforchange
 stars: 246
 repository: hoodiehq/first-timers-bot
-updated: 2021-06-14 14:02:57 UTC
-host: https://first-timers-bot.vercel.app
+updated: 2021-06-28 15:05:21 UTC
+host: https://first-timers-bot.now.sh
 installations: 349
 organizations:
-- jekyll
-- videojs
-- processing
-- Moya
-- semantic-release
-- hoodiehq
-- skywinder
-- mikaelbr
-- terkelg
-- jeremykenedy
+  - jekyll
+  - videojs
+  - processing
+  - Moya
+  - semantic-release
+  - hoodiehq
+  - skywinder
+  - mikaelbr
+  - terkelg
+  - jeremykenedy
 ---
 
 # first-timers-bot

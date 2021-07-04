@@ -1,28 +1,28 @@
 ---
 title: Sentiment Bot
-description: Replies to toxic comments with a maintainer designated reply and a link
-  to the repo's code of conduct
+description: Replies to toxic comments with a maintainer designated reply and a
+  link to the repo's code of conduct
 slug: sentiment-bot
 screenshots:
-- https://user-images.githubusercontent.com/13410355/29323857-fcfe4b4e-8196-11e7-9a08-6184fd46edbb.png
+  - https://user-images.githubusercontent.com/13410355/29323857-fcfe4b4e-8196-11e7-9a08-6184fd46edbb.png
 stars: 73
 authors:
-- hiimbex
+  - hiimbex
 repository: behaviorbot/sentiment-bot
 updated: 2018-10-25 18:45:35 UTC
 host: https://probot-sentiment-bot.herokuapp.com
 installations: 169
 organizations:
-- ant-design
-- nlohmann
-- arendst
-- kartik-v
-- probot
-- git-for-windows
-- theme-next
-- tiaanduplessis
-- MvvmCross
-- mitchellkrogza
+  - ant-design
+  - nlohmann
+  - arendst
+  - kartik-v
+  - probot
+  - git-for-windows
+  - theme-next
+  - tiaanduplessis
+  - MvvmCross
+  - mitchellkrogza
 ---
 
 Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct. It does so by taking data from a `.github/config.yml`.

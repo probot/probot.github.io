@@ -1,27 +1,27 @@
 ---
 title: Untrivializer
-description: An app that asks if you're really sure something is trivial when you
-  make a comment in Github issues.
-slug: https://github.com/apps/untrivializer
+description: An app that asks if you're really sure something is trivial when
+  you make a comment in Github issues.
+slug: untrivializer
 screenshots:
-- https://raw.githubusercontent.com/entendu/untrivializer/master/docs/ss.png
+  - https://raw.githubusercontent.com/entendu/untrivializer/master/docs/ss.png
 authors:
-- entendu
+  - entendu
 repository: entendu/untrivializer
 host: https://puffy-aftermath.glitch.me
 stars: 11
 updated: 2018-09-27 01:14:12 UTC
 installations: 16
 organizations:
-- theme-next
-- marketplacer
-- njzjz
-- Kristinita
-- reedhhw
-- entendu
-- frilox042
-- fanai-inc
-- andrewmurraydavid
+  - theme-next
+  - marketplacer
+  - njzjz
+  - Kristinita
+  - reedhhw
+  - entendu
+  - frilox042
+  - fanai-inc
+  - andrewmurraydavid
 ---
 
 # untrivializer

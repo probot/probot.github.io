@@ -3,25 +3,25 @@ title: Release Drafter
 description: Drafts your next release notes as pull requests are merged into master.
 slug: release-drafter
 screenshots:
-- https://raw.githubusercontent.com/toolmantim/release-drafter/master/design/screenshot.png
+  - https://raw.githubusercontent.com/toolmantim/release-drafter/master/design/screenshot.png
 authors:
-- toolmantim
+  - toolmantim
 repository: toolmantim/release-drafter
-host: https://release-drafter.vercel.app
-stars: 1838
-updated: 2021-06-10 20:58:51 UTC
+host: https://release-drafter.now.sh
+stars: 1882
+updated: 2021-07-02 00:06:38 UTC
 installations: 1255
 organizations:
-- fossasia
-- gorilla
-- jenkinsci
-- akka
-- microsoft
-- DevExpress
-- beautify-web
-- moovweb
-- concourse
-- theme-next
+  - fossasia
+  - gorilla
+  - jenkinsci
+  - akka
+  - microsoft
+  - DevExpress
+  - beautify-web
+  - moovweb
+  - concourse
+  - theme-next
 ---
 
 ## Usage

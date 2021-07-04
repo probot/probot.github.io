@@ -1,28 +1,28 @@
 ---
 title: Remove Outside Collaborators
-description: Monitors and instantly removes any outside collaborators added to your
-  Organization.
+description: Monitors and instantly removes any outside collaborators added to
+  your Organization.
 slug: remove-outside-collaborators
 screenshots:
-- https://user-images.githubusercontent.com/7875028/44161210-a17c2980-a08a-11e8-8adc-3ef69031d67c.png
+  - https://user-images.githubusercontent.com/7875028/44161210-a17c2980-a08a-11e8-8adc-3ef69031d67c.png
 authors:
-- hollywood
+  - hollywood
 repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
 stars: 18
 updated: 2020-05-08 15:28:25 UTC
 installations: 80
 organizations:
-- tracelytics
-- times
-- LiveRamp
-- telus
-- Hollywood
-- Thezone1975
-- OpenAIM
-- reedhhw
-- GameWith
-- TrapTeamCCNZ
+  - tracelytics
+  - times
+  - LiveRamp
+  - telus
+  - Hollywood
+  - Thezone1975
+  - OpenAIM
+  - reedhhw
+  - GameWith
+  - TrapTeamCCNZ
 ---
 
 # Remove Outside Collaborators

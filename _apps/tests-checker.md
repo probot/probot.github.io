@@ -3,25 +3,25 @@ title: Tests Checker
 description: Requires writing the tests in Pull Requests.
 slug: tests-checker
 screenshots:
-- https://user-images.githubusercontent.com/3725595/45590526-b7f3fa00-b942-11e8-972d-143c0b367017.png
+  - https://user-images.githubusercontent.com/3725595/45590526-b7f3fa00-b942-11e8-972d-143c0b367017.png
 authors:
-- maks-rafalko
+  - maks-rafalko
 repository: infection/tests-checker
-host: https://tests-checker.vercel.app
+host: https://tests-checker.now.sh
 stars: 31
 updated: 2021-05-09 17:08:25 UTC
 installations: 52
 organizations:
-- ant-design
-- antvis
-- fastify
-- mcollina
-- infection
-- commons-app
-- chrisyue
-- open-data-plan
-- retr0h
-- maks-rafalko
+  - ant-design
+  - antvis
+  - fastify
+  - mcollina
+  - infection
+  - commons-app
+  - chrisyue
+  - open-data-plan
+  - retr0h
+  - maks-rafalko
 ---
 
 # Tests Checker
@@ -65,7 +65,7 @@ If you don't want to change anything, you can skip creating this file.
 
 This is needed if you want to deploy this bot to your server or want to contribute to it. Please note, that `tests-checker` is ready to use. You just need to install Github Application as mentioned in above.
 
-```sh
+```bash
 # Install dependencies
 npm install
 

@@ -3,26 +3,26 @@ title: Dep
 description: A dependency manager for your Pull Requests.
 slug: dep
 screenshots:
-- https://github.com/z0al/dep/raw/master/docs/assets/comment.png
-- https://github.com/z0al/dep/raw/master/docs/assets/status.png
+  - https://github.com/z0al/dep/raw/master/docs/assets/comment.png
+  - https://github.com/z0al/dep/raw/master/docs/assets/status.png
 authors:
-- z0al
+  - z0al
 repository: z0al/dep
-host: https://probot-dep.vercel.app
+host: https://probot-dep.now.sh
 stars: 69
 updated: 2020-11-25 11:42:22 UTC
 installations: 206
 organizations:
-- ant-design
-- AvaloniaUI
-- wp-cli
-- Laravel-Backpack
-- thefrontside
-- google
-- timvideos
-- SymbiFlow
-- su2code
-- decidim
+  - ant-design
+  - AvaloniaUI
+  - wp-cli
+  - Laravel-Backpack
+  - thefrontside
+  - google
+  - timvideos
+  - SymbiFlow
+  - su2code
+  - decidim
 ---
 
 <p align="center">

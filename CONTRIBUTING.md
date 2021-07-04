@@ -22,14 +22,12 @@ We also use the label 'help wanted' to show issues we want help on! If you'd lik
 ## Submitting a pull request
 
 1. [Fork][fork] and clone the repository
-1. Configure and install the dependencies: `script/bootstrap`
+1. Configure and install the dependencies: `yarn`
 1. Create a new branch: `git checkout -b my-branch-name`
-1. Run the server: `script/server`
+1. Run the server: `yarn watch`
 1. Make your changes
 1. Push to your fork and [submit a pull request][pr]
 1. Pat your self on the back and wait for your pull request to be reviewed and merged.
-
-**Note:** on Windows, instead of `script/bootstrap` you'll need to run `bundle install` and `npm install`. Instead of `script/server`, you'll need to run `bundle exec jekyll serve`.
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 

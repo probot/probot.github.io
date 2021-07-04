@@ -3,25 +3,25 @@ title: CI Reporter
 description: Pastes the error output of a failing build into the relevant PR.
 slug: ci-reporter
 screenshots:
-- https://user-images.githubusercontent.com/10660468/36135324-78809222-1058-11e8-99cd-6cc100971066.png
+  - https://user-images.githubusercontent.com/10660468/36135324-78809222-1058-11e8-99cd-6cc100971066.png
 authors:
-- JasonEtco
+  - JasonEtco
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
 stars: 41
 updated: 2020-09-23 13:54:00 UTC
 installations: 312
 organizations:
-- ant-design
-- pugjs
-- mxcl
-- vueComponent
-- apache
-- poteto
-- styleguidist
-- thibmaek
-- ForbesLindesay
-- iterative
+  - ant-design
+  - pugjs
+  - mxcl
+  - vueComponent
+  - apache
+  - poteto
+  - styleguidist
+  - thibmaek
+  - ForbesLindesay
+  - iterative
 ---
 ## Usage
 

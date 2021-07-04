@@ -1,28 +1,28 @@
 ---
 title: Background Check
-description: Notifies maintainers when new contributors who have been toxic in the
-  past join the project
+description: Notifies maintainers when new contributors who have been toxic in
+  the past join the project
 slug: background-check
 screenshots:
-- https://raw.githubusercontent.com/probot/background-check/master/assets/demonstration.png
+  - https://raw.githubusercontent.com/probot/background-check/master/assets/demonstration.png
 authors:
-- itaditya
+  - itaditya
 repository: probot/background-check
 host: https://probot-background-check.herokuapp.com
 stars: 24
 updated: 2021-03-05 18:30:17 UTC
 installations: 69
 organizations:
-- kartik-v
-- probot
-- theme-next
-- publiclab
-- debugger22
-- cherrypy
-- fvcproductions
-- Richienb
-- campus-experts
-- techqueria
+  - kartik-v
+  - probot
+  - theme-next
+  - publiclab
+  - debugger22
+  - cherrypy
+  - fvcproductions
+  - Richienb
+  - campus-experts
+  - techqueria
 ---
 
 When a new contributor comments on your repository, sentiment analysis is run on their recent public comments. If 5 or more comments stand out as toxic, then an issue is opened for this user in `probot-background-check/{your-github-username}-discussions` private repository so that you and other maintainers can review these toxic comments and discuss whether or not you all want to allow this hostile user to participate in the community.

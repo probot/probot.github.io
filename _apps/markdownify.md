@@ -3,25 +3,25 @@ title: Markdownify
 description: Adds links for rendered edited markdown files to the bottom of pull requests
 slug: markdownify
 screenshots:
-- https://user-images.githubusercontent.com/13410355/45131041-2d98e280-b159-11e8-92cc-3b80f4897b98.png
+  - https://user-images.githubusercontent.com/13410355/45131041-2d98e280-b159-11e8-92cc-3b80f4897b98.png
 authors:
-- hiimbex
+  - hiimbex
 repository: hiimbex/markdownify
 host: https://desolate-river-85665.herokuapp.com
 stars: 9
 updated: 2018-12-27 06:51:10 UTC
-installations: 86
+installations: 84
 organizations:
-- atom
-- ant-design
-- aio-libs
-- HeroTransitions
-- umijs
-- probot
-- benbalter
-- octokit
-- Provenance-Emu
-- stefanbuck
+  - atom
+  - ant-design
+  - aio-libs
+  - HeroTransitions
+  - umijs
+  - probot
+  - benbalter
+  - octokit
+  - Provenance-Emu
+  - stefanbuck
 ---
 
 ## How it works
