@@ -17,13 +17,6 @@ jobs:
           node-version: '16'
           cache: 'yarn'
 
-      - name: Cache yarn packages
-        uses: actions/cache@v2
-        with:
-          path: |
-            .yarn/cache
-          key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
-
       - name: Install dependencies & sync data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
