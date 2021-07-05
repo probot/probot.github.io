@@ -15,13 +15,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '16'
-
-      - name: Cache yarn packages
-        uses: actions/cache@v2
-        with:
-          path: |
-            .yarn/cache
-          key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+          cache: 'yarn'
 
       - name: Install dependencies & sync data
         env:
