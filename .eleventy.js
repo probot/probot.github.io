@@ -38,13 +38,7 @@ module.exports = function (eleventyConfig) {
     });
 
     eleventyConfig.addCollection("apps", function(collectionApi) {
-        return collectionApi.getFilteredByGlob("_apps/*.md").sort((a, b) => {
-            // If both apps have 0 installations / unknown number of installations, check their starts
-            if((b.data.installations == 0 && a.data.installations == 0) || (!a.data.installations && !b.data.installations)) {
-                return (b.data.starts || 0) - (a.data.starts || 0);
-            }
-            return (b.data.installations || 0) - (a.data.installations || 0);
-        });
+        return collectionApi.getFilteredByGlob("_apps/*.md").sort((a, b) => b.data.starts - a.data.starts);
     });
 
     eleventyConfig.addCollection("docs", function(collectionApi) {
