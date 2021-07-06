@@ -28,6 +28,8 @@ jobs:
           yarn
           yarn sass
           yarn build
+          # Prevent GitHub from trying to use Jekyll
+          touh _site/.nojekyll
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
