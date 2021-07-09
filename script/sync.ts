@@ -82,10 +82,11 @@ files.forEach(async (path) => {
         let stats: Record<string, unknown> = YAML.parse(
           await statsFromServer.text()
         );
-        app.installations = stats.installations;
-        app.organizations = (<Array<unknown>>stats.popular).map(
-          (org: any) => org.login
-        );
+        if (stats.popular) {
+          app.organizations = (<Array<unknown>>stats.popular).map(
+            (org: any) => org.login
+          );
+        }
       }
     }
 
