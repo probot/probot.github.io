@@ -9,8 +9,8 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2021-07-05 17:39:59 UTC
-installations: 47
+updated: 2021-07-08 15:09:51 UTC
+installations: 46
 organizations:
   - RevenueCat
   - coolcode
