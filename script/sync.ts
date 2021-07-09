@@ -76,8 +76,6 @@ files.forEach(async (path) => {
     //@ts-expect-error
     app.updated = new Date(repo.data.pushed_at).toRubyString();
 
-    // app.installations is no longer used
-    if (app.installations) delete app.installations;
     if (app.host) {
       const statsFromServer = await fetch(app.host + "/probot/stats");
       if (statsFromServer.status === 200) {
