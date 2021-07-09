@@ -15,25 +15,6 @@
       "
     >
       <div class="d-flex flex-row">
-        {% if app.installations %}
-          {% if app.installations > 10000 %}
-            <div
-              class="col-4 tooltipped tooltipped-s"
-              aria-label="{{ app.installations }} installations"
-            >
-              {% octicon "download" height=16 class="v-align-middle" %}
-              <span class="v-align-middle">{{ app.installations }}</span>
-            </div>
-          {% else %}
-            <div
-              class="col-3 tooltipped tooltipped-s"
-              aria-label="{{ app.installations }} installations"
-            >
-              {% octicon "download" height=16 class="v-align-middle" %}
-              <span class="v-align-middle">{{ app.installations }}</span>
-            </div>
-          {% endif %}
-        {% endif %}
         <div
           class="col-3 tooltipped tooltipped-s"
           aria-label="{{ app.stars }} stars"

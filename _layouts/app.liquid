@@ -15,9 +15,6 @@ layout: default
           Add to GitHub
         </a>
         <div class="color-text-tertiary">
-          {% if app.data.installations %}
-          <div class="mr-2 d-inline tooltipped tooltipped-s" aria-label="{{ app.data.installations }} installations">{% octicon "download" height=16 class="v-align-middle" %} <span class="">{{ app.data.installations }}</span></div>
-          {% endif %}
           <div class="d-inline tooltipped tooltipped-s" aria-label="{{ app.data.stars }} stars">{% octicon "star" height=16 class="v-align-middle" %} <span class="">{{ app.data.stars }}</span></div>
         </div>
       </div>

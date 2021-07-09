@@ -10,7 +10,6 @@ repository: wip/app
 stars: 614
 updated: 2021-07-05 23:17:38 UTC
 host: https://wip.vercel.app/ping
-installations: 1366
 organizations:
   - electron
   - dotnet

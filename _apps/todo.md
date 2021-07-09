@@ -10,7 +10,6 @@ repository: JasonEtco/todo
 host: https://probot-todo.herokuapp.com
 stars: 701
 updated: 2021-06-26 13:55:01 UTC
-installations: 626
 organizations:
   - mikeal
   - nteract
