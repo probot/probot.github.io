@@ -9,7 +9,7 @@ authors:
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2021-07-09 16:52:45 UTC
+updated: 2021-07-10 16:52:27 UTC
 organizations:
   - RevenueCat
   - coolcode
