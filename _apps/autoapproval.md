@@ -8,6 +8,6 @@ authors:
   - dkhmelenko
 repository: dkhmelenko/autoapproval
 host: https://powerful-river-42210.herokuapp.com
-stars: 12
+stars: 13
 updated: 2021-07-09 04:00:59 UTC
 ---
