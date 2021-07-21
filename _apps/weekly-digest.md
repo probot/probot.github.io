@@ -8,7 +8,7 @@ authors:
   - abhijeetps
 repository: abhijeetps/weekly-digest
 host: https://weekly-digest.now.sh
-stars: 206
+stars: 207
 updated: 2021-06-09 21:07:27 UTC
 organizations:
   - alibaba
