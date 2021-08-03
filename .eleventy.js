@@ -24,8 +24,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(syntaxHighlight);
 
     // Reduce HTML output size
-    eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-        if( this.outputPath && this.outputPath.endsWith(".html") ) {
+    eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
+        if(outputPath && outputPath.endsWith(".html") ) {
           let minified = htmlmin.minify(content, {
             useShortDoctype: true,
             removeComments: true,
@@ -41,7 +41,7 @@ module.exports = function (eleventyConfig) {
         return collectionApi.getFilteredByGlob("_apps/*.md").sort((a, b) => b.data.stars - a.data.stars);
     });
 
-    eleventyConfig.addCollection("docs", function(collectionApi) {
+    eleventyConfig.addCollection("docs", (collectionApi) => {
         return collectionApi.getFilteredByGlob("_docs/*.md");
     });
 
@@ -63,7 +63,7 @@ module.exports = function (eleventyConfig) {
         linkify: true
     });
 
-    eleventyConfig.addFilter('markdown', function(value) {
+    eleventyConfig.addFilter('markdown', (value) => {
         return markdown.render(value);
     });
 
