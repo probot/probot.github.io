@@ -37,8 +37,8 @@ module.exports = function (eleventyConfig) {
         return content;
     });
 
-    eleventyConfig.addCollection("apps", function(collectionApi) {
-        return collectionApi.getFilteredByGlob("_apps/*.md").sort((a, b) => b.data.starts - a.data.starts);
+    eleventyConfig.addCollection("apps", (collectionApi) => {
+        return collectionApi.getFilteredByGlob("_apps/*.md").sort((a, b) => b.data.stars - a.data.stars);
     });
 
     eleventyConfig.addCollection("docs", function(collectionApi) {

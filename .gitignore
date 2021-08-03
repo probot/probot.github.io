@@ -10,3 +10,4 @@ private
 lib/tsconfig.tsbuildinfo
 _site
 node_modules
+assets/dist
