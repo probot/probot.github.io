@@ -42,7 +42,7 @@ layout: default.liquid
     </p>
 
     <div class="d-md-flex flex-wrap gutter flex-auto">
-      {% assign apps = collections.apps | sort: 'stars' | reverse %} {% for app
+      {% assign apps = collections.apps %} {% for app
       in apps limit:6 %} {% include "app" app: app.data %} {% endfor %}
     </div>
 
