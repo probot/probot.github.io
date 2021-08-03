@@ -8,8 +8,8 @@ authors:
   - jpoehnelt
 repository: jpoehnelt/in-solidarity-bot
 host: https://bot.in-solidarity.dev
-stars: 20
-updated: 2021-07-26 16:10:17 UTC
+stars: 21
+updated: 2021-08-02 16:08:06 UTC
 ---
 
 A GitHub bot to add status checks for inclusive language. 
