@@ -7,4 +7,5 @@ const result = sass.renderSync({
   outputStyle: "compressed",
 });
 
+fs.mkdirSync("assets/dist");
 fs.writeFileSync("assets/dist/styles.css", result.css.toString());
