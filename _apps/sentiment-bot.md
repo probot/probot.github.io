@@ -19,8 +19,8 @@ organizations:
   - probot
   - git-for-windows
   - theme-next
+  - PrestaShop
   - tiaanduplessis
-  - MvvmCross
   - mitchellkrogza
 ---
 
