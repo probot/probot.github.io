@@ -9,8 +9,8 @@ authors:
   - whtsky
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
-stars: 35
-updated: 2021-08-18 21:48:49 UTC
+stars: 34
+updated: 2021-08-20 19:07:23 UTC
 organizations:
   - vuetifyjs
   - RocketChat
