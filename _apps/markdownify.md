@@ -8,7 +8,7 @@ authors:
   - hiimbex
 repository: hiimbex/markdownify
 host: https://desolate-river-85665.herokuapp.com
-stars: 10
+stars: 11
 updated: 2018-12-27 06:51:10 UTC
 organizations:
   - atom
