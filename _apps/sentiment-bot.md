@@ -9,7 +9,7 @@ stars: 73
 authors:
   - hiimbex
 repository: behaviorbot/sentiment-bot
-updated: 2018-10-25 18:45:35 UTC
+updated: 2021-09-06 15:42:47 UTC
 host: https://probot-sentiment-bot.herokuapp.com
 organizations:
   - ant-design

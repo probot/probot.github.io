@@ -9,7 +9,7 @@ authors:
   - Techforchange
 stars: 250
 repository: hoodiehq/first-timers-bot
-updated: 2021-08-30 14:56:24 UTC
+updated: 2021-09-06 15:09:32 UTC
 host: https://first-timers-bot.now.sh
 organizations:
   - jekyll
