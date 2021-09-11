@@ -9,7 +9,7 @@ authors:
   - swinton
 repository: swinton/probot-ooo
 host: https://probot-ooo.herokuapp.com
-stars: 35
+stars: 36
 updated: 2018-01-06 15:08:10 UTC
 organizations:
   - karthik
