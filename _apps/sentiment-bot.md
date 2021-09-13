@@ -17,8 +17,8 @@ organizations:
   - arendst
   - kartik-v
   - probot
-  - git-for-windows
   - theme-next
+  - git-for-windows
   - PrestaShop
   - tiaanduplessis
   - mitchellkrogza
