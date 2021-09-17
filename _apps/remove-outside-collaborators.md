@@ -17,11 +17,11 @@ organizations:
   - LiveRamp
   - telus
   - Hollywood
-  - Thezone1975
-  - OpenAIM
   - reedhhw
+  - OpenAIM
   - GameWith
-  - TrapTeamCCNZ
+  - Thezone1975
+  - genesys
 ---
 
 # Remove Outside Collaborators
