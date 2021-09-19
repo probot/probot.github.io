@@ -22,7 +22,7 @@ organizations:
   - lhie1
   - wei
   - instantbox
-  - ericmjl
+  - rvrsh3ll
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
