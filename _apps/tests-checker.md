@@ -8,7 +8,7 @@ authors:
   - maks-rafalko
 repository: infection/tests-checker
 host: https://tests-checker.now.sh
-stars: 32
+stars: 33
 updated: 2021-09-20 23:57:42 UTC
 organizations:
   - ant-design
