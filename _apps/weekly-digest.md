@@ -9,7 +9,7 @@ authors:
 repository: abhijeetps/weekly-digest
 host: https://weekly-digest.now.sh
 stars: 212
-updated: 2021-09-21 21:34:30 UTC
+updated: 2021-10-06 16:46:09 UTC
 organizations:
   - alibaba
   - foundation
