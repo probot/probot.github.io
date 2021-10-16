@@ -19,8 +19,8 @@ organizations:
   - Hollywood
   - reedhhw
   - GameWith
-  - Thezone1975
   - OpenAIM
+  - Thezone1975
   - genesys
 ---
 
