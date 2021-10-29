@@ -10,7 +10,7 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 3237
+stars: 3239
 updated: 2021-10-21 01:15:53 UTC
 organizations:
   - overtrue
@@ -22,7 +22,7 @@ organizations:
   - lhie1
   - wei
   - instantbox
-  - rvrsh3ll
+  - ericmjl
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
