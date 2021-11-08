@@ -1,20 +1,16 @@
 ---
-# A human-friendly name of your listing
 title: repo(st)
-# A short description of what your app does
 description: A 🤖  for posting new GitHub discussions using pull requests 📬
-# The slug of your hosted app on GitHub (https://github.com/apps/YOUR-SLUG)
 slug: repo-st
-# Include a few screenshots that show your app in action
 screenshots:
-- https://github.com/philip-gai/repost/blob/main/docs/assets/repost-demo.gif
-- https://user-images.githubusercontent.com/17363579/140188546-4f1bf1a8-331b-41ff-832b-63b94b472ce1.png
-# The GitHub usernames of anyone who authored the app
-authors: [ philip-gai ]
-# The repository where the code is located
+  - https://github.com/philip-gai/repost/blob/main/docs/assets/repost-demo.gif
+  - https://user-images.githubusercontent.com/17363579/140188546-4f1bf1a8-331b-41ff-832b-63b94b472ce1.png
+authors:
+  - philip-gai
 repository: philip-gai/repost
-# The address where this app is deployed
 host: https://repost.azurewebsites.net
+stars: 1
+updated: 2021-11-05 18:48:47 UTC
 ---
 
 # (repo)st
