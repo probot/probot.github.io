@@ -33,6 +33,6 @@ jobs:
       - name: Commit & Push changes
         uses: davidolrik/push@b88b2c57f3a4c23bf2abf091c319e77088dd0172
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PROBOTBOT_PAT }}
           message: 'chore: Sync data'
           branch: ${{ env.default_branch }}
