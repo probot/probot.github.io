@@ -20,7 +20,7 @@ organizations:
   - velotoxicsounds
   - hemanth22
   - magnetica-studio
-  - imjmakki
+  - MiyoKouseki
 ---
 
 ## What It Does
