@@ -11,7 +11,7 @@ authors:
 repository: evenchange4/gh-polls-bot
 host: https://gh-polls-bot.now.sh
 stars: 200
-updated: 2018-01-15 01:35:10 UTC
+updated: 2021-11-11 01:07:55 UTC
 organizations:
   - npm
   - PowerShell
