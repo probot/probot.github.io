@@ -12,8 +12,8 @@ repository: behaviorbot/update-docs
 updated: 2018-10-17 22:02:17 UTC
 host: https://probot-update-docs.herokuapp.com
 organizations:
-  - owncloud
   - carla-simulator
+  - owncloud
   - isl-org
   - Varying-Vagrant-Vagrants
   - microsoft
