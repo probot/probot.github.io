@@ -21,8 +21,8 @@ organizations:
   - guanguans
   - lhie1
   - wei
-  - rvrsh3ll
   - ericmjl
+  - rvrsh3ll
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)

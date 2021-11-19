@@ -9,7 +9,7 @@ authors:
   - z0al
 repository: z0al/dep
 host: https://probot-dep.now.sh
-stars: 70
+stars: 71
 updated: 2020-11-25 11:42:22 UTC
 organizations:
   - ant-design
