@@ -10,7 +10,7 @@ authors:
   - kaxil
 repository: kaxil/boring-cyborg
 host: https://boring-cyborg.herokuapp.com
-stars: 62
+stars: 61
 updated: 2021-09-21 20:31:51 UTC
 organizations:
   - apache
