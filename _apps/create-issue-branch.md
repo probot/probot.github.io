@@ -8,8 +8,8 @@ authors:
   - robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
-stars: 206
-updated: 2021-11-26 19:27:40 UTC
+stars: 207
+updated: 2021-11-27 06:48:37 UTC
 organizations:
   - pterm
   - zchee
