@@ -7,8 +7,8 @@ screenshots:
 authors:
   - gr2m
 repository: wip/app
-stars: 636
-updated: 2021-11-26 23:04:05 UTC
+stars: 635
+updated: 2021-11-29 23:02:05 UTC
 host: https://wip.vercel.app/ping
 organizations:
   - electron
