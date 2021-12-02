@@ -8,7 +8,7 @@ authors:
 repository: probot/settings
 screenshots:
   - https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png
-updated: 2021-11-30 04:12:31 UTC
+updated: 2021-12-01 05:24:57 UTC
 host: https://github-configurer.herokuapp.com
 organizations:
   - apollographql
