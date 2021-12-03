@@ -14,6 +14,7 @@ host: https://probot-update-docs.herokuapp.com
 organizations:
   - carla-simulator
   - owncloud
+  - guanguans
   - isl-org
   - Varying-Vagrant-Vagrants
   - microsoft
@@ -21,7 +22,6 @@ organizations:
   - arkokoley
   - splash-cli
   - behaviorbot
-  - robotology
 ---
 
 

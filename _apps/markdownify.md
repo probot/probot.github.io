@@ -17,10 +17,10 @@ organizations:
   - HeroTransitions
   - umijs
   - probot
+  - guanguans
   - benbalter
   - octokit
   - Provenance-Emu
-  - stefanbuck
 ---
 
 ## How it works
