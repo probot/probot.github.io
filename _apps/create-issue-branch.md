@@ -8,8 +8,8 @@ authors:
   - robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
-stars: 211
-updated: 2021-12-10 00:01:29 UTC
+stars: 212
+updated: 2021-12-10 06:56:10 UTC
 organizations:
   - guanguans
   - pterm

@@ -8,7 +8,7 @@ authors:
   - JasonEtco
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
-stars: 44
+stars: 43
 updated: 2020-09-23 13:54:00 UTC
 organizations:
   - ant-design
