@@ -12,7 +12,7 @@ authors:
 repository: probot/semantic-pull-requests
 host: https://probot-semantic-pull-requests.herokuapp.com
 stars: 1068
-updated: 2021-12-16 19:26:53 UTC
+updated: 2021-12-21 11:03:13 UTC
 organizations:
   - electron
   - ant-design
