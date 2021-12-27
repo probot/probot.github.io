@@ -15,12 +15,12 @@ organizations:
   - coolcode
   - laraform
   - CartoonFan
+  - XZot1K
   - reedhhw
   - SmallDreams
   - hemanth22
   - velotoxicsounds
   - magnetica-studio
-  - MiyoKouseki
 ---
 
 ## What It Does
