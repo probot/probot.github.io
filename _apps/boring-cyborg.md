@@ -10,8 +10,8 @@ authors:
   - kaxil
 repository: kaxil/boring-cyborg
 host: https://boring-cyborg.herokuapp.com
-stars: 61
-updated: 2021-09-21 20:31:51 UTC
+stars: 62
+updated: 2021-12-27 23:30:10 UTC
 organizations:
   - apache
   - PyTorchLightning
