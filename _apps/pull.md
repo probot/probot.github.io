@@ -10,15 +10,15 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 3389
+stars: 3392
 updated: 2021-12-27 15:44:31 UTC
 organizations:
   - overtrue
   - hemanth
   - ameizi
   - bestony
-  - CHEF-KOCH
   - guanguans
+  - CHEF-KOCH
   - lhie1
   - wei
   - ericmjl
