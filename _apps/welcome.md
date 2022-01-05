@@ -10,7 +10,7 @@ stars: 151
 authors:
   - hiimbex
 repository: behaviorbot/welcome
-updated: 2021-12-11 11:06:00 UTC
+updated: 2022-01-04 14:49:50 UTC
 host: https://probot-welcome.herokuapp.com
 organizations:
   - vuejs
