@@ -16,12 +16,12 @@ organizations:
   - times
   - LiveRamp
   - telus
+  - Kandy-IO
   - Hollywood
   - reedhhw
   - GameWith
-  - Thezone1975
   - OpenAIM
-  - genesys
+  - Thezone1975
 ---
 
 # Remove Outside Collaborators
