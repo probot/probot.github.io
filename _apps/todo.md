@@ -9,7 +9,7 @@ authors:
 repository: JasonEtco/todo
 host: https://probot-todo.herokuapp.com
 stars: 720
-updated: 2021-12-26 19:04:41 UTC
+updated: 2022-01-15 01:13:04 UTC
 organizations:
   - mikeal
   - nteract
