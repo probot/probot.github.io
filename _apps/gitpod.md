@@ -8,7 +8,7 @@ authors:
   - gitpod-io
 repository: gitpod-io/gitpod-bot
 host: https://gitpod-bot.now.sh
-stars: 13
+stars: 14
 updated: 2019-02-12 20:00:54 UTC
 organizations:
   - caouecs
