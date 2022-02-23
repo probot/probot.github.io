@@ -18,14 +18,14 @@ Advanced:
 
 Reference:
   - title: Probot
-    url: "https://probot.github.io/api/latest/classes/probot.html"
+    url: "https://probot.github.io/api/latest/classes/probot.Probot.html"
   - title: context
-    url: "https://probot.github.io/api/latest/classes/context.html"
+    url: "https://probot.github.io/api/latest/classes/context.Context.html"
   - title: context.octokit
     url: "http://octokit.github.io/rest.js/"
   - title: run
-    url: "https://probot.github.io/api/latest/index.html#run"
+    url: "https://probot.github.io/api/latest/modules/run.html"
   - title: createNodeMiddleware
-    url: "https://probot.github.io/api/latest/index.html#createnodemiddleware"
+    url: "https://probot.github.io/api/latest/modules/create_node_middleware.html"
   - title: GitHub Webhook Events
     url: "https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/webhook-events-and-payloads"
