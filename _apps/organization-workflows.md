@@ -30,7 +30,7 @@ organizations:
 This GitHub app allows you to centrally manage and run multiple [GitHub Actions](https://github.com/features/actions) workflows across multiple repositories. Currently this is a limitation in GitHub Actions, as it only allows you to configure and manage Actions workflows on a repository level. This app helps you - for example - to centrally define central workflows for linting, compliance checks, and more.
 
 ## Installation
-You can install the app by [clicking here](https://github.com/apps/organization-workflows-production). Make sure you install it on all repositories:
+You can install the app by [clicking here](https://github.com/apps/organization-workflows). Make sure you install it on all repositories:
 
 <img width="400" alt="Screenshot 2020-12-18 at 17 12 00" src="https://user-images.githubusercontent.com/24505883/102635920-4247eb80-4154-11eb-9ec2-0cb8bc58196c.png">
 
