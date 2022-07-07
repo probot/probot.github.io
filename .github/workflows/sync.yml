@@ -32,3 +32,13 @@ jobs:
           git add .
           # do not error if there is nothing to commit
           git commit -m "chore: Sync data" && git push || true
+          yarn sass
+          yarn build
+          # Prevent GitHub from trying to use Jekyll
+          touch _site/.nojekyll
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./_site
+          github_token: ${{ secrets.GITHUB_TOKEN }}
