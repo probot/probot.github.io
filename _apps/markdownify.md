@@ -18,9 +18,9 @@ organizations:
   - umijs
   - probot
   - guanguans
-  - benbalter
   - octokit
   - Provenance-Emu
+  - cherrypy
 ---
 
 ## How it works

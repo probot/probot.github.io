@@ -3,11 +3,14 @@ title: Auto-Me-Bot
 description: A Probot app that takes care of your GitHub repos for you
 slug: auto-me-bot
 screenshots:
-- https://raw.githubusercontent.com/TomerFi/auto-me-bot/main/docs/img/all-handlers-success.png
-- https://raw.githubusercontent.com/TomerFi/auto-me-bot/main/docs/img/all-handlers-fail.png
-authors: [ TomerFi ]
+  - https://raw.githubusercontent.com/TomerFi/auto-me-bot/main/docs/img/all-handlers-success.png
+  - https://raw.githubusercontent.com/TomerFi/auto-me-bot/main/docs/img/all-handlers-fail.png
+authors:
+  - TomerFi
 repository: TomerFi/auto-me-bot
 host: https://3sdx7swi5bbpfw5w2jpjwuag3q0ezsva.lambda-url.us-east-1.on.aws/
+stars: 2
+updated: 2022-07-04 15:05:32 UTC
 ---
 
 ## Auto-Me-Bot

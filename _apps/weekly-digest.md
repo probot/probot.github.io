@@ -8,8 +8,8 @@ authors:
   - abhijeetps
 repository: abhijeetps/weekly-digest
 host: https://weekly-digest.now.sh
-stars: 213
-updated: 2021-10-06 16:46:09 UTC
+stars: 220
+updated: 2022-06-01 16:05:45 UTC
 organizations:
   - alibaba
   - foundation

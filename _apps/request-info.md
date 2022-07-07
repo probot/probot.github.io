@@ -5,11 +5,11 @@ description: Requests more info on issues and pull requests with the default
 slug: request-info
 screenshots:
   - https://user-images.githubusercontent.com/13410355/28132821-d37bf2a8-66f2-11e7-9e7b-5930ba65d67a.png
-stars: 99
+stars: 103
 authors:
   - hiimbex
 repository: behaviorbot/request-info
-updated: 2021-10-13 02:38:23 UTC
+updated: 2022-02-21 13:08:05 UTC
 host: https://probot-request-info.herokuapp.com
 organizations:
   - Homebrew

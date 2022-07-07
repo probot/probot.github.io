@@ -8,8 +8,8 @@ authors:
   - riyadhalnur
 repository: riyadhalnur/issuelabeler
 host: https://issuelabeler.verticalaxisbd.com
-stars: 17
-updated: 2021-02-15 15:36:44 UTC
+stars: 21
+updated: 2022-06-30 22:07:32 UTC
 organizations:
   - pymc-devs
   - Provenance-Emu

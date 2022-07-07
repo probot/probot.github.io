@@ -10,19 +10,19 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 3437
-updated: 2022-01-11 23:01:21 UTC
+stars: 3827
+updated: 2022-06-30 23:01:17 UTC
 organizations:
   - overtrue
   - hemanth
   - ameizi
+  - moul
   - bestony
   - guanguans
   - CHEF-KOCH
+  - detailyang
   - lhie1
   - wei
-  - rvrsh3ll
-  - ericmjl
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)

@@ -8,8 +8,8 @@ authors:
   - bkeepers
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
-stars: 87
-updated: 2021-03-05 18:30:09 UTC
+stars: 92
+updated: 2022-03-03 20:48:17 UTC
 organizations:
   - overtrue
   - PowerShell
