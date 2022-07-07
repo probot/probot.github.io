@@ -27,6 +27,8 @@ jobs:
 
       - name: Commit & Push changes
         run: |
+          git submodule init
+          git submodule update 
           git config user.name Probot Bot
           git config user.email probotbot@users.noreply.github.com
           git add .
