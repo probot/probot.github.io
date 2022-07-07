@@ -1,6 +1,5 @@
 import { Octokit } from "@octokit/rest";
 import YAML from "yaml";
-import fetch from "node-fetch";
 import fs from "fs";
 
 function pad(number: number) {

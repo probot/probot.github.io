@@ -10,14 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.PROBOTBOT_PAT }}
+      - uses: actions/checkout@v3
 
       - name: Install Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '18'
           cache: 'yarn'
 
       - name: Install dependencies & sync data
@@ -34,3 +32,13 @@ jobs:
           git add .
           # do not error if there is nothing to commit
           git commit -m "chore: Sync data" && git push || true
+          yarn sass
+          yarn build
+          # Prevent GitHub from trying to use Jekyll
+          touch _site/.nojekyll
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./_site
+          github_token: ${{ secrets.GITHUB_TOKEN }}
