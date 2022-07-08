@@ -9,7 +9,7 @@ Git remote heroku added
 </code></pre></li><li><p>Go back to your <a href="https://github.com/settings/apps">app settings page</a> and update the <strong>Webhook URL</strong> to the URL of your deployment, e.g. <code>http://arcane-lowlands-8408.herokuapp.com/</code>.</p></li><li><p>Configure the Heroku app, replacing the <code>APP_ID</code> and <code>WEBHOOK_SECRET</code> with the values for those variables, and setting the path for the <code>PRIVATE_KEY</code>:</p><pre><code>$ heroku config:set APP_ID=aaa \
     WEBHOOK_SECRET=bbb \
     PRIVATE_KEY=&quot;$(cat ~/Downloads/*.private-key.pem)&quot;
-</code></pre></li><li><p>Deploy the app to heroku with <code>git push</code>:</p><pre><code>$ git push heroku master
+</code></pre></li><li><p>Deploy the app to heroku with <code>git push</code>:</p><pre><code>$ git push heroku main
 ...
 -----&gt; Node.js app detected
 ...
