@@ -10,7 +10,7 @@ authors:
   - sotayamashita
 repository: pr-triage/app
 host: https://pr-triage.glitch.me
-stars: 86
+stars: 87
 updated: 2022-05-31 08:44:05 UTC
 organizations:
   - getredash
