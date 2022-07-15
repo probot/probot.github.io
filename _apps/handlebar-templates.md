@@ -9,7 +9,7 @@ screenshots:
 authors:
   - cyberhck
 repository: fossapps/Handlebars-Issue-and-Pull-Requests
-stars: 5
+stars: 6
 host: https://handlebar-templates.cyberhck.now.sh
 updated: 2022-07-07 10:58:13 UTC
 ---
