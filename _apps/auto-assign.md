@@ -10,7 +10,7 @@ authors:
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
 stars: 198
-updated: 2022-07-02 16:00:00 UTC
+updated: 2022-07-16 06:53:43 UTC
 organizations:
   - flutter
   - ant-design
