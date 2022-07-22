@@ -9,14 +9,14 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 248
-updated: 2022-07-20 06:33:02 UTC
+updated: 2022-07-21 06:45:16 UTC
 organizations:
   - guanguans
   - pojntfx
   - theodorusclarence
   - ALBINPRAVEEN
-  - nielse63
   - kwebio
+  - nielse63
   - TotallyInformation
   - CoreProc
   - deep5050
