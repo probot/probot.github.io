@@ -1,6 +1,7 @@
 ---
 title: self-approval
-description: A GitHub App built with Probot that allows Pull Request authors to self-approve their Pull Requests.
+description: A GitHub App built with Probot that allows Pull Request authors to
+  self-approve their Pull Requests.
 slug: self-approval
 screenshots:
   - https://raw.githubusercontent.com/CubikTech/self-approval/main/screenshot.png
@@ -8,6 +9,8 @@ authors:
   - Cubik65536
 repository: CubikTech/self-approval
 host: https://self-approval.cubik65536.top
+stars: 0
+updated: 2022-08-25 00:55:24 UTC
 ---
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that allows Pull Request authors to self-approve their Pull Requests.
