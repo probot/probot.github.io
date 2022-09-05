@@ -6,6 +6,7 @@
 !.yarn/versions
 .pnp.*
 .env
+.netlify
 private
 lib/tsconfig.tsbuildinfo
 _site
