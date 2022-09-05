@@ -25,7 +25,7 @@ For some repositories, the Pull Request have to be approved before it can be mer
 
 ## Setup
 
-```sh
+```shell
 # Install dependencies
 npm install
 
@@ -76,7 +76,7 @@ Go to the `.env` file and change the value of `PORT` to the port you want to use
 
 In order to use the bot, the config file should be provided. Config file should be defined in your repository. Config file is the yml file with the path `.github/self-approval-pull-request.yml`. And the file should have these 3 entries: `self_approval_comments`, `from_author` and `apply_labels`.
 
-------
+---
 
 ### self_approval_comments
 
@@ -88,7 +88,7 @@ self_approval_comments:
   - "I self-certify!"
 ```
 
-------
+---
 
 ### from_author
 
@@ -102,7 +102,7 @@ from_author:
 
 Assign an empty array if you want everyone can self-approve their Pull Requests (example: `from_author: []`).
 
-------
+---
 
 ### apply_labels
 
@@ -116,7 +116,7 @@ apply_labels:
 
 Assign an empty array if no labels should be applied to PRs (example: `apply_labels: []`).
 
-------
+---
 
 ## Contributing
 
