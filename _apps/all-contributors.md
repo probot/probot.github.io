@@ -7,8 +7,8 @@ screenshots:
 authors:
   - jakebolam
 repository: all-contributors/all-contributors-bot
-stars: 455
-updated: 2022-08-09 19:00:12 UTC
+stars: 457
+updated: 2022-09-06 20:35:38 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
 organizations:
   - formatjs
