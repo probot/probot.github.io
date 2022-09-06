@@ -14,7 +14,7 @@
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
     "@primer/css": "^20.0.0",
-    "@primer/octicons": "^16.3.1",
+    "@primer/octicons": "^17.0.0",
     "domutils": "^3.0.0",
     "html-minifier": "^4.0.0",
     "liquidjs": "^9.35.0",
