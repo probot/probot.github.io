@@ -13,7 +13,7 @@
   "dependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
-    "@primer/css": "^19.4.0",
+    "@primer/css": "^20.0.0",
     "@primer/octicons": "^16.3.1",
     "domutils": "^2.8.0",
     "html-minifier": "^4.0.0",
