@@ -316,12 +316,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/css@npm:^19.4.0":
-  version: 19.4.0
-  resolution: "@primer/css@npm:19.4.0"
+"@primer/css@npm:^20.0.0":
+  version: 20.4.4
+  resolution: "@primer/css@npm:20.4.4"
   dependencies:
-    "@primer/primitives": ^7.4.0
-  checksum: 52d344b1e0aa63b8b11b4481d61ac5ae4ad6eb1cc135bea99bb7141492c2386cc3ed9139aaa572d45ecebbecc517b29d2820f8af6138fdfd681579ec2178ad45
+    "@primer/primitives": ^7.9.0
+  checksum: ee8ee385781d8742cede8cda5dd829a3c13e0f65155a25d589d36da93b1005870cfec92f882bf53586e79b7c39d8bd20ffa21873faed73956e0a7f39f184717c
   languageName: node
   linkType: hard
 
@@ -334,10 +334,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/primitives@npm:^7.4.0":
-  version: 7.4.1
-  resolution: "@primer/primitives@npm:7.4.1"
-  checksum: dfe9aeccdad728269965116508ffe18d071b8adb1379f107cba505d573b715e9b2f20d77044c4e6ed901a017ee02d2123511286fee190af617dfeb18e7c303c1
+"@primer/primitives@npm:^7.9.0":
+  version: 7.9.0
+  resolution: "@primer/primitives@npm:7.9.0"
+  checksum: 8e076b26975ec7fdeea211c62c5135eb8fc16dee319a61047654bbabcdfd7f13d5683355498b7f62bc81b9bf5ae71efc6af355c1aa6c416bf43ec7184c2c53c3
   languageName: node
   linkType: hard
 
@@ -4492,7 +4492,7 @@ fsevents@~2.3.2:
     "@11ty/eleventy": ^1.0.0
     "@11ty/eleventy-plugin-syntaxhighlight": ^4.0.0
     "@octokit/rest": ^19.0.0
-    "@primer/css": ^19.4.0
+    "@primer/css": ^20.0.0
     "@primer/octicons": ^16.3.1
     "@types/node": ^18.0.3
     "@typescript-eslint/eslint-plugin": ^5.12.1
