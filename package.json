@@ -18,7 +18,7 @@
     "domutils": "^2.8.0",
     "html-minifier": "^4.0.0",
     "liquidjs": "^9.35.0",
-    "markdown-it": "^12.3.2",
+    "markdown-it": "^13.0.0",
     "sass": "^1.49.8",
     "supports-color": "^9.2.1"
   },
