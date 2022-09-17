@@ -11,7 +11,7 @@ authors:
 repository: wei/pull
 host: https://pull.git.ci
 stars: 3970
-updated: 2022-09-12 23:01:24 UTC
+updated: 2022-09-16 23:38:31 UTC
 organizations:
   - overtrue
   - hemanth
