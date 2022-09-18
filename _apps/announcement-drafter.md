@@ -10,7 +10,7 @@ authors:
 repository: philip-gai/announcement-drafter
 host: https://announcement-drafter.azurewebsites.net
 stars: 8
-updated: 2022-09-03 07:35:19 UTC
+updated: 2022-09-17 06:37:04 UTC
 ---
 
 # Announcement Drafter
