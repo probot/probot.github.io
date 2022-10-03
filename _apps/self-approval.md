@@ -10,7 +10,7 @@ authors:
 repository: CubikTech/self-approval
 host: https://self-approval.cubik65536.top
 stars: 1
-updated: 2022-10-01 07:07:33 UTC
+updated: 2022-10-02 22:59:55 UTC
 ---
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that allows Pull Request authors to self-approve their Pull Requests.
