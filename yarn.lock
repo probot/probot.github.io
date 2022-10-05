@@ -4487,7 +4487,7 @@ __metadata:
     supports-color: ^9.2.1
     ts-node: ^10.5.0
     typescript: ^4.5.5
-    yaml: 2.1.2
+    yaml: 2.1.3
   languageName: unknown
   linkType: soft
 
@@ -5515,10 +5515,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yaml@npm:2.1.2":
-  version: 2.1.2
-  resolution: "yaml@npm:2.1.2"
-  checksum: 89f3d96215405990aa17cdacd78c17537d415e20be3eb7ff1a058a9b1d7136d4a61a84e6b47daa82558a977ae08751a6c1a80b88f99ee7cbdd51ddd78cd0d8f6
+"yaml@npm:2.1.3":
+  version: 2.1.3
+  resolution: "yaml@npm:2.1.3"
+  checksum: 91316062324a93f9cb547469092392e7d004ff8f70c40fecb420f042a4870b2181557350da56c92f07bd44b8f7a252b0be26e6ade1f548e1f4351bdd01c9d3c7
   languageName: node
   linkType: hard
 
