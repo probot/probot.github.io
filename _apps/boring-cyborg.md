@@ -33,6 +33,8 @@ automated comment.
 * Insert Issue (Jira/Github etc) link in PR description based on the Issue ID in PR title.
 * Verifies if commits/PR titles match the regular expression specified
 * Check if a branch is up to date with the master when specific files are modified in the PR. This is helpful when you desire the changes to be applied sequentially, for example, alembic migrations.
+* Add reviewers to PR based on labels present on the PR. This is especially helpful if you are auto-assigning labels based on functional areas of ownership.
+
 
 ## Usage
 
@@ -55,11 +57,32 @@ labelPRBasedOnFilePath:
   # Complex: Add 'area/core' label to any change within the 'core' package
   area/core:
     - src/core/*
-    - src/core/**/*  
+    - src/core/**/*
 
   # Add 'test' label to any change to *.spec.js files within the source dir
   test:
     - src/**/*.spec.js
+
+# Various Flags to control behaviour of the "Labeler"
+labelerFlags:
+  # If this flag is changed to 'false', labels would only be added when the PR is first created and not when existing
+  # PR is updated.
+  # The default is 'true' which means the labels would be added when PR is updated even if they were removed by the user
+  labelOnPRUpdates: true
+
+##### Reviewer #########################################################################################################
+# Enable "Reviewer" for your PR that would add reviewers to PRs based on the lables that exist on the PR. You have the option to set a default reviewer that gets added to every PR, or you can omit that config variable to skip it.
+addReviewerBasedOnLabel:
+  # add list of reviewers to add by default to all PRs
+  defaultReviewers:
+    - tyler-mairose-sp
+  # specify PR labels that you want to auto assign reviewers based on
+  labels:
+    label1:
+      - tyler-mairose-sp
+      - jordan-violet-sp
+    label2:
+      - kaxil
 
 ##### Greetings ########################################################################################################
 # Comment to be posted to welcome users when they open their first PR
@@ -119,7 +142,7 @@ verifyTitles:
 ###### PR/Branch Up-To-Date Checker ####################################################################################
 # Check if the branch is up to date with master when certain files are modified
 checkUpToDate:
-  # The default branch is "master", change the branch if you want to check against a different target branch  
+  # The default branch is "master", change the branch if you want to check against a different target branch
   targetBranch: master
   files:
   # File paths that you want to check for
