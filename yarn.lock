@@ -3174,7 +3174,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"liquidjs@npm:^9.35.0, liquidjs@npm:^9.40.0":
+"liquidjs@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "liquidjs@npm:10.0.0"
+  bin:
+    liquid: bin/liquid.js
+    liquidjs: bin/liquid.js
+  checksum: f86850f24a6be67aa7d09741a0256311d9e1e9efe0aaed59184cff2d44973d6d4311b1045379682e561eab212e005dcb2ca7a58f45dd5fb617cc39b5ddbd6e0d
+  languageName: node
+  linkType: hard
+
+"liquidjs@npm:^9.40.0":
   version: 9.43.0
   resolution: "liquidjs@npm:9.43.0"
   bin:
@@ -4447,7 +4457,7 @@ __metadata:
     eslint-plugin-prettier: ^4.0.0
     eslint-plugin-promise: ^6.0.0
     html-minifier: ^4.0.0
-    liquidjs: ^9.35.0
+    liquidjs: ^10.0.0
     markdown-it: ^13.0.0
     npm-run-all: ^4.1.5
     prettier: ^2.5.1
