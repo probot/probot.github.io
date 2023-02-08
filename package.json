@@ -11,7 +11,7 @@
     "sync-data": "ts-node script/sync.ts"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
     "@primer/css": "^20.0.0",
     "@primer/octicons": "^17.0.0",
