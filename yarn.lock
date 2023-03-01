@@ -508,12 +508,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/octicons@npm:^17.0.0":
-  version: 17.12.0
-  resolution: "@primer/octicons@npm:17.12.0"
+"@primer/octicons@npm:^18.0.0":
+  version: 18.0.0
+  resolution: "@primer/octicons@npm:18.0.0"
   dependencies:
     object-assign: ^4.1.1
-  checksum: 520ca84d98c7384bfcff98abb18d5963c139abc051b9e8dd84a51b79999e15437e7305922442f2a475ecfe27ba64cc21bbe674d4f04adf9eae9785c5b4bb4f42
+  checksum: 9ef0c26c1fe5937d2036d3b3a6074d00fd40121c7a1e3b1d3c77b55ee0c563f262eea40f60e950cd2a7105e7dc4f11156298a208b1dc7dfdd532c0976a7154aa
   languageName: node
   linkType: hard
 
@@ -4137,7 +4137,7 @@ __metadata:
     "@11ty/eleventy-plugin-syntaxhighlight": ^4.0.0
     "@octokit/rest": ^19.0.0
     "@primer/css": ^20.0.0
-    "@primer/octicons": ^17.0.0
+    "@primer/octicons": ^18.0.0
     "@types/node": ^18.0.3
     "@typescript-eslint/eslint-plugin": ^5.12.1
     "@typescript-eslint/parser": ^5.12.1
