@@ -661,10 +661,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.0.3":
-  version: 18.18.5
-  resolution: "@types/node@npm:18.18.5"
-  checksum: 8/fc8c9b2bf226270cf9085a7dac76ce09dd7c3519ec9b687ee2b50385954ab3709c45ca82d002d1536e24286803cd194d7ab7008acebdcd6681b8b19d4277fa5c
+"@types/node@npm:^20.0.0":
+  version: 20.8.7
+  resolution: "@types/node@npm:20.8.7"
+  dependencies:
+    undici-types: "npm:~5.25.1"
+  checksum: e82b87e7f3f4c12acc5803db21f9144d5e87c20841db9ae98746958e038064700ab04294d08a3714a3df8bd710a974998e2e423443a5d031840cbba17fa126a7
   languageName: node
   linkType: hard
 
@@ -4403,7 +4405,7 @@ __metadata:
     "@octokit/rest": "npm:^20.0.0"
     "@primer/css": "npm:^21.0.0"
     "@primer/octicons": "npm:^19.0.0"
-    "@types/node": "npm:^18.0.3"
+    "@types/node": "npm:^20.0.0"
     "@typescript-eslint/eslint-plugin": "npm:^6.0.0"
     "@typescript-eslint/parser": "npm:^6.0.0"
     domutils: "npm:^3.0.0"
@@ -5123,6 +5125,13 @@ __metadata:
     has-symbols: "npm:^1.0.3"
     which-boxed-primitive: "npm:^1.0.2"
   checksum: 8/b7a1cf5862b5e4b5deb091672ffa579aa274f648410009c81cca63fed3b62b610c4f3b773f912ce545bb4e31edc3138975b5bc777fc6e4817dca51affb6380e9
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~5.25.1":
+  version: 5.25.3
+  resolution: "undici-types@npm:5.25.3"
+  checksum: 60a47c6db451c00d27186d86a41fbd9677fa1f6d1a5350bff342c3985bd79fc3f5a638ebf56bbce21df46c701a687db43b3fbd588e1726e58047cea14d182fef
   languageName: node
   linkType: hard
 
