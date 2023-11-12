@@ -34,13 +34,26 @@ jobs:
           git add .
           # do not error if there is nothing to commit
           git commit -m "chore: Sync data" && git push || true
-          yarn sass
-          yarn build
-          # Prevent GitHub from trying to use Jekyll
-          touch _site/.nojekyll
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+
+      - name: Build CSS
+        run: yarn sass
+
+      - name: Build with Eleventy
+        run: yarn build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
         with:
-          publish_dir: ./_site
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          path: ./_site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
