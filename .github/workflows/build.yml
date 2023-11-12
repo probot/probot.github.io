@@ -48,6 +48,9 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
+      - name: Build CSS
+        run: yarn sass
+
       - name: Build with Eleventy
         run: yarn build
 
