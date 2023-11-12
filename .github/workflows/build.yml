@@ -1,38 +1,69 @@
 name: Build Eleventy
 
 on:
+  # Runs on pushes targeting the default branch
   push:
-    branches:
-      - main
-      - master
+    branches: [$default-branch]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
+  # Build job
   build:
     runs-on: ubuntu-22.04
-
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Install Node.js
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '16'
-          cache: 'yarn'
+          node-version: "18"
+          cache: ${{ steps.detect-package-manager.outputs.manager }}
 
-      - name: Install dependencies & build
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git submodule init
-          git submodule update 
-          yarn
-          yarn sass
-          yarn build
-          # Prevent GitHub from trying to use Jekyll
-          touch _site/.nojekyll
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Restore yarn cache
+        uses: actions/cache@v3
         with:
-          publish_dir: ./_site
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          path: |
+            .yarn/cache
+          # Generate a new cache whenever packages or source files change.
+          key: ${{ runner.os }}-website-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-${{ hashFiles('**.[jt]s', '**.[jt]sx') }}
+          # If source files changed but packages didn't, rebuild from a prior cache.
+          restore-keys: |
+            ${{ runner.os }}-website-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build with Eleventy
+        run: yarn build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./_site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
