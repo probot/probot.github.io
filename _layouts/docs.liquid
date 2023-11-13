@@ -8,11 +8,11 @@ layout: default
       {{ content }}
 
       {% for doc in collections.docs %}
-        {% if docs.data.next == doc.inputPath %}
+        {% if docs.data.next == doc.fileSlug %}
           {% assign next = doc %}
         {% endif %}
 
-        {% if doc.data.next == docs.inputPath %}
+        {% if doc.data.next == docs.fileSlug %}
           {% assign previous = doc %}
         {% endif %}
       {% endfor %}
