@@ -8,11 +8,22 @@ layout: default
       {{ content }}
 
       {% for doc in collections.docs %}
-        {% if docs.data.next == doc.fileSlug %}
+        {% if not docs.fileSlug %}
+          {% assign currentSlug = "README" %}
+        {% else %}
+          {% assign currentSlug = docs.fileSlug %}
+        {% endif %}
+        {% if not docs.data.next %}
+          {% assign nextSlug = "hello-world" %}
+        {% else %}
+          {% assign nextSlug = docs.data.next %}
+        {% endif %}
+
+        {% if nextSlug == doc.fileSlug %}
           {% assign next = doc %}
         {% endif %}
 
-        {% if doc.data.next == docs.fileSlug %}
+        {% if doc.data.next == currentSlug %}
           {% assign previous = doc %}
         {% endif %}
       {% endfor %}
