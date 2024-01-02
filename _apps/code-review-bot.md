@@ -5,7 +5,7 @@ slug: cr-bot
 screenshots:
 - https://user-images.githubusercontent.com/13167934/218536087-9c951161-88ca-42b4-8cef-0cc1cd62eff2.png
 authors: [ anc95 ]
-repository: https://github.com/anc95/ChatGPT-CodeReview
+repository: anc95/ChatGPT-CodeReview
 ---
 
 
