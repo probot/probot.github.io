@@ -10,8 +10,8 @@ authors:
   - kuldeepkeshwar
 repository: kuldeepkeshwar/size-plugin-bot
 host: https://size-plugin-bot.glitch.me
-stars: 76
-updated: 2022-07-07 10:51:37 UTC
+stars: 82
+updated: 2023-01-04 21:53:47 UTC
 organizations:
   - antvis
   - tannerlinsley

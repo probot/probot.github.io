@@ -1,6 +1,9 @@
 ---
 title: Repo Assistant AI
-description: This GitHub App help maintainers identify and label duplicate issues automatically. Using the power of OpenAI's embeddings and Supabase's database, this app streamlines your workflow by finding similarities between issues. Also more features to come in the future!
+description: This GitHub App help maintainers identify and label duplicate
+  issues automatically. Using the power of OpenAI's embeddings and Supabase's
+  database, this app streamlines your workflow by finding similarities between
+  issues. Also more features to come in the future!
 slug: repo-assistant-ai
 screenshots:
   - https://github.com/guillermoscript/repo-assistant/assets/52298929/bd364cae-cf70-4819-8294-47d5b0ca5007
@@ -11,6 +14,8 @@ screenshots:
 authors:
   - guillermoscript
 repository: guillermoscript/repo-assistant
+stars: 2
+updated: 2024-01-07 16:50:40 UTC
 ---
 
 # Repo Assistant AI

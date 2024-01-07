@@ -9,7 +9,7 @@ authors:
 repository: infection/tests-checker
 host: https://tests-checker.now.sh
 stars: 38
-updated: 2022-07-06 23:44:07 UTC
+updated: 2023-05-03 09:19:54 UTC
 organizations:
   - ant-design
   - antvis

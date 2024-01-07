@@ -7,8 +7,8 @@ screenshots:
 authors:
   - jpoehnelt
 repository: jpoehnelt/in-solidarity-bot
-stars: 33
-updated: 2022-10-10 16:42:13 UTC
+stars: 39
+updated: 2023-12-25 16:37:43 UTC
 ---
 
 A GitHub bot to add status checks for inclusive language. 

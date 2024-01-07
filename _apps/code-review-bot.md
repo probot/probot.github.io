@@ -3,9 +3,12 @@ title: Code review bot
 description: A code review bot powered by ChatGPT
 slug: cr-bot
 screenshots:
-- https://user-images.githubusercontent.com/13167934/218536087-9c951161-88ca-42b4-8cef-0cc1cd62eff2.png
-authors: [ anc95 ]
+  - https://user-images.githubusercontent.com/13167934/218536087-9c951161-88ca-42b4-8cef-0cc1cd62eff2.png
+authors:
+  - anc95
 repository: anc95/ChatGPT-CodeReview
+stars: 3344
+updated: 2023-12-10 23:45:49 UTC
 ---
 
 

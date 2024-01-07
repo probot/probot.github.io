@@ -8,8 +8,8 @@ authors:
   - toolmantim
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
-stars: 48
-updated: 2022-09-25 20:41:12 UTC
+stars: 51
+updated: 2023-12-16 02:30:34 UTC
 organizations:
   - infection
   - humbug

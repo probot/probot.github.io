@@ -7,12 +7,12 @@ screenshots:
   - https://user-images.githubusercontent.com/13410355/42352794-85fe1c9c-8071-11e8-834a-05a4aeb8cc90.png
   - https://user-images.githubusercontent.com/13410355/42352795-8617c052-8071-11e8-82f1-d9fbb2e9934c.png
   - https://user-images.githubusercontent.com/13410355/42352737-35da3d0e-8071-11e8-99ae-6e7068e257e1.png
-stars: 246
+stars: 274
 authors:
   - bkeepers
   - hiimbex
 repository: probot/dco
-updated: 2022-06-25 08:51:11 UTC
+updated: 2023-05-14 16:44:22 UTC
 host: https://probot-dco.herokuapp.com
 organizations:
   - moby

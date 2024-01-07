@@ -9,8 +9,8 @@ authors:
   - s4heid
 repository: s4heid/branch-switcher
 host: https://branch-switcher.now.sh
-stars: 15
-updated: 2022-10-01 04:02:02 UTC
+stars: 17
+updated: 2023-03-04 03:55:05 UTC
 ---
 
 # branch-switcher
