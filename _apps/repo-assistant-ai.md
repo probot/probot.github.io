@@ -14,8 +14,8 @@ screenshots:
 authors:
   - guillermoscript
 repository: guillermoscript/repo-assistant
-stars: 4
-updated: 2024-01-07 16:50:40 UTC
+stars: 5
+updated: 2024-01-13 20:45:52 UTC
 ---
 
 # Repo Assistant AI
