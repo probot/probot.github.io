@@ -8,7 +8,7 @@ authors:
   - jbjonesjr
   - bkeepers
 repository: probot/reminders
-stars: 152
+stars: 154
 updated: 2024-01-09 21:46:36 UTC
 host: https://probot-reminders.herokuapp.com
 organizations:

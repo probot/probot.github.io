@@ -10,7 +10,7 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 5437
+stars: 5439
 updated: 2024-01-10 19:20:26 UTC
 organizations:
   - overtrue
