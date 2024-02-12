@@ -15,7 +15,7 @@ authors:
   - guillermoscript
 repository: guillermoscript/repo-assistant
 stars: 10
-updated: 2024-01-13 20:45:52 UTC
+updated: 2024-02-11 18:13:58 UTC
 ---
 
 # Repo Assistant AI
