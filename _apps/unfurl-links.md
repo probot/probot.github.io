@@ -8,7 +8,7 @@ authors:
   - bkeepers
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
-stars: 105
+stars: 106
 updated: 2024-02-06 02:24:13 UTC
 organizations:
   - overtrue
