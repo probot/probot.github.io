@@ -10,7 +10,7 @@ authors:
   - evenchange4
 repository: evenchange4/gh-polls-bot
 host: https://gh-polls-bot.now.sh
-stars: 210
+stars: 211
 updated: 2021-11-11 01:07:55 UTC
 organizations:
   - npm
