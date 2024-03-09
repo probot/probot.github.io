@@ -3,10 +3,13 @@ title: astroloja
 description: Get notified whenever someone stars or "unstars" your project.
 slug: astroloja
 screenshots:
-- https://res.cloudinary.com/meje/image/upload/v1696001788/astroloja.png
-authors: [ kaf-lamed-beyt ]
+  - https://res.cloudinary.com/meje/image/upload/v1696001788/astroloja.png
+authors:
+  - kaf-lamed-beyt
 repository: kaf-lamed-beyt/stargazer
 host: https://stargazer-swart.vercel.app/
+stars: 17
+updated: 2023-06-29 11:08:22 UTC
 ---
 
 # stargazer
