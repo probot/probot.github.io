@@ -9,7 +9,7 @@ authors:
   - entendu
 repository: entendu/untrivializer
 host: https://puffy-aftermath.glitch.me
-stars: 11
+stars: 12
 updated: 2018-09-27 01:14:12 UTC
 organizations:
   - theme-next
