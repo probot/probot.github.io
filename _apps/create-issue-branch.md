@@ -9,7 +9,7 @@ authors:
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
 stars: 314
-updated: 2024-04-22 06:54:36 UTC
+updated: 2024-04-23 06:47:21 UTC
 organizations:
   - peers
   - guanguans
