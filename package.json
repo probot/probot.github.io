@@ -36,7 +36,7 @@
     "prettier": "^3.0.0",
     "ts-node": "^10.5.0",
     "typescript": "^5.0.0",
-    "yaml": "2.4.1"
+    "yaml": "2.4.2"
   },
   "packageManager": "yarn@4.1.1"
 }
