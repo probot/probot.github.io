@@ -38,5 +38,5 @@
     "typescript": "^5.0.0",
     "yaml": "2.4.2"
   },
-  "packageManager": "yarn@4.2.0"
+  "packageManager": "yarn@4.2.1"
 }
