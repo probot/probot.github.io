@@ -10,7 +10,7 @@ authors:
 repository: self-approval/app
 host: https://self-approval.ixor.tech
 stars: 3
-updated: 2024-04-01 07:29:18 UTC
+updated: 2024-05-01 07:46:33 UTC
 ---
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that allows Pull Request authors to self-approve their Pull Requests.
