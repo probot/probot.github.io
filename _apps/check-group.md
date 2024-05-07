@@ -10,7 +10,7 @@ authors:
 repository: tianhaoz95/check-group
 host: https://check-group.herokuapp.com
 stars: 19
-updated: 2024-05-03 20:48:29 UTC
+updated: 2024-05-06 20:25:12 UTC
 ---
 
 Groups CI checks based on the sub-projects for monorepo projects.
