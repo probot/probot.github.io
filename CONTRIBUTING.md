@@ -24,6 +24,7 @@ We also use the label 'help wanted' to show issues we want help on! If you'd lik
 1. [Fork][fork] and clone the repository
 1. Configure and install the dependencies: `yarn`
 1. Create a new branch: `git checkout -b my-branch-name`
+1. Build dist/styles.css in assets/ if dist doesn't exist: `yarn sass`
 1. Run the server: `yarn watch`
 1. Make your changes
 1. Push to your fork and [submit a pull request][pr]
@@ -57,15 +58,14 @@ description: What your app does
 slug: Shortened version of app name
 # Include a few screenshots that show your app in action
 screenshots:
-- https://somewebsite.com/your-screenshot.png
+  - https://somewebsite.com/your-screenshot.png
 # The GitHub usernames of anyone who authored the app
-authors: [ your-username, other-usernames ]
+authors: [your-username, other-usernames]
 # The repository where the code is located
 repository: your-username/your-app
 # The address where this app is deployed
 host: https://my-probot-app.awesomecloudhost.com
 ---
-
 Any documentation can go here. Many apps just use their README.md here.
 ```
 
