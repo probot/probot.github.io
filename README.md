@@ -12,13 +12,15 @@ We also use this website to show off some of the cool probot apps built by the c
 
 ## Install and Usage
 
-If you'd like to work on this repository, clone it. We use [11ty](https://www.11ty.dev/) to build the website, hosted on [GitHub Pages](https://pages.github.com/). We also use Git submodules to pull docs from the docs folder in  [probot/probot](https://github.com/probot/probot/tree/master/docs).
+If you'd like to work on this repository, clone it. We use [11ty](https://www.11ty.dev/) to build the website, hosted on [GitHub Pages](https://pages.github.com/). We also use Git submodules to pull docs from the docs folder in [probot/probot](https://github.com/probot/probot/tree/master/docs).
 
 Once you've cloned this repo, run these commands in this directory:
 
 ```bash
 # Only needed the first time:
 $ yarn
+# To build dist/styles.css in assets/ if dist doesn't exist
+$ yarn sass
 # And each time you work locally:
 $ yarn watch
 ```
