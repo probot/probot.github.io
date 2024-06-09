@@ -3,10 +3,10 @@ title: Issue Assigner
 description: A bot for managing issue assignments
 slug: issue-assigner
 screenshots:
-  - https://github.com/Varun-Kolanu/issue-assigner/blob/main/assets/maintainer-opened-issue.jpg
-  - https://github.com/Varun-Kolanu/issue-assigner/blob/main/assets/claim-issue.jpg
-  - https://github.com/Varun-Kolanu/issue-assigner/blob/main/assets/have-existing-issues.jpg
-  - https://github.com/Varun-Kolanu/issue-assigner/blob/main/assets/abandon-issue.jpg
+  - https://github.com/Varun-Kolanu/issue-assigner/blob/main/assets/maintainer-opened-issue.jpg?raw=true
+  - https://github.com/Varun-Kolanu/issue-assigner/blob/main/assets/claim-issue.jpg?raw=true
+  - https://github.com/Varun-Kolanu/issue-assigner/blob/main/assets/have-existing-issues.jpg?raw=true
+  - https://github.com/Varun-Kolanu/issue-assigner/blob/main/assets/abandon-issue.jpg?raw=true
 authors:
   - Varun-Kolanu
 repository: Varun-Kolanu/issue-assigner
