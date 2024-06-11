@@ -11,8 +11,8 @@ authors:
   - Varun-Kolanu
 repository: Varun-Kolanu/issue-assigner
 host: https://issue-assigner.onrender.com
-stars: 1
-updated: 2024-06-08 19:43:50 UTC
+stars: 2
+updated: 2024-06-10 08:50:12 UTC
 ---
 
 # Features

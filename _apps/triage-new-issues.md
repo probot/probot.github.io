@@ -12,7 +12,7 @@ authors:
   - tunnckoCore
 repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
-stars: 23
+stars: 24
 updated: 2022-12-07 18:19:27 UTC
 organizations:
   - pypa
