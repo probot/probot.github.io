@@ -8,8 +8,8 @@ authors:
   - robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
-stars: 315
-updated: 2024-06-11 06:53:29 UTC
+stars: 316
+updated: 2024-06-12 06:47:55 UTC
 organizations:
   - peers
   - guanguans
