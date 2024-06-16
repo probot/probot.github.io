@@ -12,7 +12,7 @@ authors:
 repository: Varun-Kolanu/issue-assigner
 host: https://issue-assigner.onrender.com
 stars: 4
-updated: 2024-06-14 18:41:57 UTC
+updated: 2024-06-15 01:42:01 UTC
 ---
 
 # Features
