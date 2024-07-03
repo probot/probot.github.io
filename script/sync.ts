@@ -1,6 +1,9 @@
+/* eslint-disable @typescript-eslint/no-unsafe-member-access */
+
 import { Octokit } from "@octokit/rest";
-import YAML from "yaml";
-import fs from "fs";
+import * as YAML from "yaml";
+import * as fs from "fs";
+import { join, extname } from "path";
 
 function pad(number: number) {
   if (number < 10) {
@@ -12,8 +15,13 @@ function pad(number: number) {
 // Modified version of the toISOString polyfill from https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString
 // because I couldn't find a function which outputs the dates like it happened on ruby
 // but the diff from the TS output and the ruby output should be as low as possible
-// @ts-expect-error
-Date.prototype.toRubyString = function () {
+declare global {
+  interface Date {
+    toRubyString(): string;
+  }
+}
+
+Date.prototype.toRubyString = function (this: Date) {
   return (
     this.getUTCFullYear() +
     "-" +
@@ -31,59 +39,57 @@ Date.prototype.toRubyString = function () {
 };
 
 const client = new Octokit({
-  auth: process.env.GITHUB_TOKEN || "",
+  auth: process.env.GITHUB_TOKEN ?? "",
 });
 
 function walk(directory: string, filepaths: string[] = []): string[] {
   const files = fs.readdirSync(directory);
-  for (let filename of files) {
-    const filepath = require("path").join(directory, filename);
+  for (const filename of files) {
+    const filepath = join(directory, filename);
     if (fs.statSync(filepath).isDirectory()) {
       walk(filepath, filepaths);
-    } else if (require("path").extname(filename) === ".md") {
+    } else if (extname(filename) === ".md") {
       filepaths.push(filepath);
     }
   }
   return filepaths;
 }
 
-const files = walk(require("path").join(__dirname, "..", "_apps"));
+const files = walk(join(__dirname, "..", "_apps"));
 
-files.forEach(async (path) => {
-  let data: string = "";
+for (const path of files) {
+  let data = "";
   try {
     try {
       // @ts-expect-error
-      data = fs
-        .readFileSync(path)
-        .toString()
-        .match(/^---(((?!---).|[\r\n])*)[\r\n]---$/m)[0];
+      data = /^---(((?!---).|[\r\n])*)[\r\n]---$/m.exec(
+        fs.readFileSync(path).toString(),
+      )[0];
     } catch {
       console.error(`Error parsing ${path}`);
       console.log(data);
       process.exit(1);
     }
-    let app = YAML.parse(data.replaceAll("---", ""));
+    const app = YAML.parse(data.replaceAll("---", ""));
     console.log(`Syncing ${app.title}`);
 
-    const repoName = app["repository"].split("/");
+    const repoName = app.repository.split("/");
     const repo = await client.rest.repos.get({
       owner: repoName[0],
       repo: repoName[1],
     });
     app.stars = repo.data.stargazers_count;
-    //@ts-expect-error
     app.updated = new Date(repo.data.pushed_at).toRubyString();
 
     if (app.host) {
       const statsFromServer = await fetch(app.host + "/probot/stats");
       if (statsFromServer.status === 200) {
-        let stats: Record<string, unknown> = YAML.parse(
-          await statsFromServer.text()
+        const stats: Record<string, unknown> = YAML.parse(
+          await statsFromServer.text(),
         );
         if (stats.popular) {
-          app.organizations = (<Array<unknown>>stats.popular).map(
-            (org: any) => org.login
+          app.organizations = (stats.popular as unknown[]).map(
+            (org: any) => org.login as string,
           );
         }
       }
@@ -93,7 +99,7 @@ files.forEach(async (path) => {
     content = content.replace(
       data,
       `---
-${YAML.stringify(app)}---`
+${YAML.stringify(app)}---`,
     );
     fs.writeFileSync(path, content);
     console.log(`Done for ${app.title}`);
@@ -107,4 +113,4 @@ ${YAML.stringify(app)}---`
     console.log(e);
     process.exit(1);
   }
-});
+}

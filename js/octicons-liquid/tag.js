@@ -1,7 +1,7 @@
 // From https://github.com/github/docs/blob/fa3bb7d4f5dcfdd1b998e1f6892000935e51c851/lib/liquid-tags/octicon.js
 
-const { TokenizationError } = require('liquidjs')
-const octicons = require('@primer/octicons')
+import { TokenizationError } from 'liquidjs'
+import octicons from '@primer/octicons'
 
 const OptionsSyntax = /([a-zA-Z-]+)="([a-zA-Z0-9\d-_\s]+)"*/g
 const Syntax = new RegExp('"(?<icon>[a-zA-Z-]+)"(?<options>(?:\\s' + OptionsSyntax.source + ')*)')
@@ -14,7 +14,7 @@ const SyntaxHelp = 'Syntax Error in tag \'octicon\' - Valid syntax: octicon "<na
  * {% octicon "check" %}
  * {% octicon "check" width="64" aria-label="Example label" %}
  */
-module.exports = {
+export default {
   parse (tagToken) {
     const match = tagToken.args.match(Syntax)
     if (!match) {
