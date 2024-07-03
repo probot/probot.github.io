@@ -8,10 +8,10 @@
     "watch:eleventy": "eleventy --serve",
     "build": "eleventy",
     "lint": "eslint script/sync.ts",
-    "sync-data": "ts-node script/sync.ts"
+    "sync-data": "ts-node-esm script/sync.ts"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy": "^3.0.0-alpha.14",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "@primer/css": "^21.0.0",
     "@primer/octicons": "^19.0.0",
@@ -26,17 +26,17 @@
   "devDependencies": {
     "@octokit/rest": "^21.0.0",
     "@types/node": "^20.0.0",
-    "@typescript-eslint/eslint-plugin": "^7.0.0",
-    "@typescript-eslint/parser": "^7.0.0",
     "eslint": "^9.0.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "npm-run-all2": "^6.0.0",
     "prettier": "^3.0.0",
-    "ts-node": "^10.5.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.0.0",
+    "typescript-eslint": "^8.0.0-alpha.37",
     "yaml": "2.4.5"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.3.1",
+  "type": "module"
 }

@@ -1,13 +1,14 @@
-const htmlmin = require("html-minifier");
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const {Liquid} = require("liquidjs");
-const markdownIt = require("markdown-it");
+import htmlmin from "html-minifier";
+import syntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
+import {Liquid} from "liquidjs";
+import markdownIt from "markdown-it";
+import octiconTag from "./js/octicons-liquid/tag.js";
 
 function watchAndPass(file, config) {
     config.addWatchTarget(file);
     config.addPassthroughCopy(file);
 }
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
     watchAndPass("./assets/js", eleventyConfig);
     watchAndPass("./assets/dist", eleventyConfig);
     watchAndPass("./assets/img", eleventyConfig);
@@ -53,7 +54,7 @@ module.exports = function (eleventyConfig) {
         root: ["_includes"]
     };
     const liquid = new Liquid(options);
-    liquid.registerTag('octicon', require("./js/octicons-liquid/tag.js"));
+    liquid.registerTag('octicon', octiconTag);
     eleventyConfig.setLibrary("liquid", liquid);
 
     // Customize markdown-it settings
