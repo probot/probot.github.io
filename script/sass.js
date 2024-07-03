@@ -1,5 +1,5 @@
-const sass = require("sass");
-const fs = require("fs");
+import fs from 'fs';
+import sass from 'sass';
 
 const result = sass.renderSync({
   file: "assets/sass/styles.scss",
