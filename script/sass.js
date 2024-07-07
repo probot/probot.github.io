@@ -1,11 +1,19 @@
-import fs from 'fs';
-import sass from 'sass';
+import fs from "fs";
+import * as sass from "sass";
+import customImporter from "./sass_importer.js";
 
-const result = sass.renderSync({
-  file: "assets/sass/styles.scss",
-  includePaths: ["node_modules"],
-  outputStyle: "compressed",
+const result = sass.compileString(
+  sass
+    .compile("assets/sass/styles.scss", {
+      importers: [customImporter],
+    })
+    .css.replaceAll("@import '@primer", "@use 'pkg:@primer"),
+  {
+    importers: [sass.NodePackageImporter()],
+  }
+);
+
+fs.mkdirSync("assets/dist", {
+  recursive: true,
 });
-
-fs.mkdirSync("assets/dist");
-fs.writeFileSync("assets/dist/styles.css", result.css.toString());
+fs.writeFileSync("assets/dist/styles.css", result.css);
