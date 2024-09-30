@@ -6,7 +6,7 @@ import * as fs from "fs";
 import { join, extname } from "path";
 import { fileURLToPath } from 'url';
 
-const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
+const __dirname = fileURLToPath(new URL('.', import.meta.url));
 
 function pad(number: number) {
   if (number < 10) {
