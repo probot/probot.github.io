@@ -8,7 +8,7 @@
     "watch:eleventy": "eleventy --serve",
     "build": "eleventy",
     "lint": "eslint script/sync.ts",
-    "sync-data": "ts-node-esm script/sync.ts"
+    "sync-data": "node --loader=ts-node/esm script/sync.ts"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0-alpha.14",
