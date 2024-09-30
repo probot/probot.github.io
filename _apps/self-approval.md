@@ -8,7 +8,6 @@ screenshots:
 authors:
   - Cubik65536
 repository: self-approval/app
-host: https://self-approval.ixor.tech
 stars: 3
 updated: 2024-06-01 07:50:54 UTC
 ---

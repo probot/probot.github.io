@@ -1,6 +1,7 @@
 ---
 title: Darkest-PR
-description: Darkest-PR is a GitHub app/bot for responding to actions and events in your repository using contextual quotes from Darkest Dungeon.
+description: Darkest-PR is a GitHub app/bot for responding to actions and events
+  in your repository using contextual quotes from Darkest Dungeon.
 slug: darkest-pr
 screenshots:
   - https://raw.githubusercontent.com/skywarth/darkest-PR/master/resc/screenshots/PR-closed-no-merge-1.png
@@ -14,6 +15,8 @@ screenshots:
 authors: skywarth
 repository: skywarth/darkest-PR
 host: https://darkest-pr.vercel.app/
+stars: 19
+updated: 2024-09-19 04:36:13 UTC
 ---
 
 # Darkest-PR

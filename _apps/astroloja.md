@@ -8,7 +8,7 @@ authors:
   - kaf-lamed-beyt
 repository: kaf-lamed-beyt/stargazer
 host: https://stargazer-swart.vercel.app/
-stars: 17
+stars: 18
 updated: 2023-06-29 11:08:22 UTC
 ---
 

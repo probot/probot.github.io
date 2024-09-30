@@ -1,12 +1,15 @@
+/* eslint-disable @typescript-eslint/no-unsafe-call */
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 
 import { Octokit } from "@octokit/rest";
 import * as YAML from "yaml";
 import * as fs from "fs";
 import { join, extname } from "path";
-import { fileURLToPath } from 'url';
+import { fileURLToPath } from "url";
 
-const __dirname = fileURLToPath(new URL('.', import.meta.url));
+const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
 function pad(number: number) {
   if (number < 10) {
