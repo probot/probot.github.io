@@ -8,8 +8,8 @@ screenshots:
 authors:
   - Cubik65536
 repository: self-approval/app
-stars: 3
-updated: 2024-06-01 07:50:54 UTC
+stars: 4
+updated: 2024-07-26 23:41:31 UTC
 ---
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that allows Pull Request authors to self-approve their Pull Requests.
