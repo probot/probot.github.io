@@ -10,15 +10,15 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 6228
+stars: 6231
 updated: 2024-09-26 03:14:21 UTC
 organizations:
   - overtrue
   - hemanth
   - spicetify
   - moul
-  - v5tech
   - nefarius
+  - v5tech
   - guanguans
   - bestony
   - major
