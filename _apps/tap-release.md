@@ -9,7 +9,7 @@ authors:
 repository: toolmantim/tap-release
 host: https://tap-release.now.sh
 stars: 52
-updated: 2024-10-29 02:29:36 UTC
+updated: 2024-11-09 18:47:31 UTC
 organizations:
   - infection
   - humbug
