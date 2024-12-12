@@ -10,7 +10,7 @@ authors:
 repository: TomerFi/auto-me-bot
 host: https://3sdx7swi5bbpfw5w2jpjwuag3q0ezsva.lambda-url.us-east-1.on.aws/
 stars: 8
-updated: 2024-12-09 16:21:13 UTC
+updated: 2024-12-11 16:51:33 UTC
 ---
 
 ## Auto-Me-Bot
