@@ -20,7 +20,7 @@
     "liquidjs": "^10.0.0",
     "markdown-it": "^14.0.0",
     "sass": "^1.49.8",
-    "supports-color": "^9.2.1"
+    "supports-color": "^10.0.0"
   },
   "repository": "github:probot/probot.github.io",
   "devDependencies": {
