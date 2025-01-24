@@ -10,7 +10,7 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 6403
+stars: 6407
 updated: 2024-12-10 00:52:55 UTC
 organizations:
   - overtrue
@@ -22,7 +22,7 @@ organizations:
   - guanguans
   - bestony
   - major
-  - kenzok8
+  - imsyy
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
