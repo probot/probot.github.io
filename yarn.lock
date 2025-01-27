@@ -247,6 +247,94 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@github/auto-check-element@npm:^5.2.0":
+  version: 5.6.0
+  resolution: "@github/auto-check-element@npm:5.6.0"
+  dependencies:
+    "@github/mini-throttle": "npm:^2.1.0"
+  checksum: 10c0/dd16bfef61f24ebc8d8b30700a02e0d3e8456be7256aeb126751a754459f968d23cc33d32fb6d246ea89204408ca1d1754f3a83f2fa3173af2792ae128455817
+  languageName: node
+  linkType: hard
+
+"@github/auto-complete-element@npm:^3.6.2":
+  version: 3.6.2
+  resolution: "@github/auto-complete-element@npm:3.6.2"
+  dependencies:
+    "@github/combobox-nav": "npm:^2.1.7"
+  checksum: 10c0/5b769169cdedb95840cf303ad02016ebc8c367293761004e08766ac547acf01528e78bef3a5e3cef48cfee98cea1bd0f63833d7f1b053f53013f910e2c6efe0d
+  languageName: node
+  linkType: hard
+
+"@github/catalyst@npm:^1.6.0":
+  version: 1.7.0
+  resolution: "@github/catalyst@npm:1.7.0"
+  checksum: 10c0/39740d8e2712fb8029ea9fc48f544fcb59f0b61e96226c0bba68ddf97cb2e1e11aaa76c7fcb3e673b49b7fdea68c1116855db6e8ccf1fb04ac8f5aa12c8059cf
+  languageName: node
+  linkType: hard
+
+"@github/clipboard-copy-element@npm:^1.3.0":
+  version: 1.3.0
+  resolution: "@github/clipboard-copy-element@npm:1.3.0"
+  checksum: 10c0/96b08347570ac5bb8aca6fac99b11f4766e54a61e10a79a892f3568d0776fd5f6ea33bbbefbfbf74f489b487f8b0492da3368569ec8119648995d24031969986
+  languageName: node
+  linkType: hard
+
+"@github/combobox-nav@npm:^2.1.7":
+  version: 2.3.1
+  resolution: "@github/combobox-nav@npm:2.3.1"
+  checksum: 10c0/1718fd92fc30c95588276ef269c628a01109f2af0c2059a6b5f6842698d8522b300c86751066746a4e03ecc1943d7bfa6f11397d7f6c796a67f29cf6aa37d506
+  languageName: node
+  linkType: hard
+
+"@github/details-menu-element@npm:^1.0.12":
+  version: 1.0.13
+  resolution: "@github/details-menu-element@npm:1.0.13"
+  checksum: 10c0/defef5904b69c6e9a00e19f077c44ac758570e0c66c36459d024fa589a2cbd10e0e8c3a04870fda799a1f60ea314955fdf894f9505f56c2dfde7534dcb13a928
+  languageName: node
+  linkType: hard
+
+"@github/image-crop-element@npm:^5.0.0":
+  version: 5.0.0
+  resolution: "@github/image-crop-element@npm:5.0.0"
+  checksum: 10c0/06930cbd1a1f0aa7207d6e5750c670649fa1dff876204e1a4dff5d3cd915b2af0ad4d50752b16533804fb32933fb757484e63ef2b4c62642d16abd70b7ce7c18
+  languageName: node
+  linkType: hard
+
+"@github/include-fragment-element@npm:^6.1.1":
+  version: 6.3.0
+  resolution: "@github/include-fragment-element@npm:6.3.0"
+  checksum: 10c0/ee8e9c7e1905949efcca95d95013a39a35a1ef4d43ec7515faeb16cd2cd58ff67dabd197b4bf3c6c420a76b7821f14c92c3a6730bbc415288bfb1d649a59a5e7
+  languageName: node
+  linkType: hard
+
+"@github/mini-throttle@npm:^2.1.0":
+  version: 2.1.1
+  resolution: "@github/mini-throttle@npm:2.1.1"
+  checksum: 10c0/a2861c204fb9342084d9710c98c5808e33bc796ac55b6b9796d085605e97e207ebb81fd60f50a9cf63f879df13a23eea504ce6c7185fd378f474a12709f2e59f
+  languageName: node
+  linkType: hard
+
+"@github/relative-time-element@npm:^4.0.0":
+  version: 4.4.5
+  resolution: "@github/relative-time-element@npm:4.4.5"
+  checksum: 10c0/f29f0b6d0d24791ef31b4f54c5454eabd9d29e1b61b6b87acdcb7b0a2f19776320de7e47df71ae663a160125cd0f17c5d7be8476bf066523012fa34c87ff668b
+  languageName: node
+  linkType: hard
+
+"@github/remote-input-element@npm:^0.4.0":
+  version: 0.4.0
+  resolution: "@github/remote-input-element@npm:0.4.0"
+  checksum: 10c0/9cb81d0bc51eff956cee574b795c4f25f59d236b9e0a5b96baba2fb30bec6995cc7853c0aeb4b1713fb6f9b834015661b5e152f37581a94b6508ad37a446604a
+  languageName: node
+  linkType: hard
+
+"@github/tab-container-element@npm:^3.1.2":
+  version: 3.4.0
+  resolution: "@github/tab-container-element@npm:3.4.0"
+  checksum: 10c0/42aa4ada9cef1d8abe116f0b44a370c0c2da573e41090159126e87ef6534feadf33c6924540680245e4c3ddde018d382cf89cfff0c40748dc57e2f38a56392ab
+  languageName: node
+  linkType: hard
+
 "@humanfs/core@npm:^0.19.1":
   version: 0.19.1
   resolution: "@humanfs/core@npm:0.19.1"
@@ -320,6 +408,13 @@ __metadata:
     "@jridgewell/resolve-uri": "npm:^3.0.3"
     "@jridgewell/sourcemap-codec": "npm:^1.4.10"
   checksum: 10c0/fa425b606d7c7ee5bfa6a31a7b050dd5814b4082f318e0e4190f991902181b4330f43f4805db1dd4f2433fd0ed9cc7a7b9c2683f1deeab1df1b0a98b1e24055b
+  languageName: node
+  linkType: hard
+
+"@lit-labs/ssr-dom-shim@npm:^1.2.0":
+  version: 1.3.0
+  resolution: "@lit-labs/ssr-dom-shim@npm:1.3.0"
+  checksum: 10c0/743a9b295ef2f186712f08883da553c9990be291409615309c99aa4946cfe440a184e4213c790c24505c80beb86b9cfecf10b5fb30ce17c83698f8424f48678d
   languageName: node
   linkType: hard
 
@@ -495,6 +590,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@oddbird/popover-polyfill@npm:^0.5.2":
+  version: 0.5.2
+  resolution: "@oddbird/popover-polyfill@npm:0.5.2"
+  checksum: 10c0/d9ed7ae0cb760f69ddf64edb0419a77ae74a3dee40dec5c991b84e7c679cdb92760616dd2de46c088fa53072eb4bf7f5d4db5e5d618d9e3e3c32e63a6625c210
+  languageName: node
+  linkType: hard
+
 "@parcel/watcher-android-arm64@npm:2.5.0":
   version: 2.5.0
   resolution: "@parcel/watcher-android-arm64@npm:2.5.0"
@@ -653,12 +755,28 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@primer/behaviors@npm:^1.3.4":
+  version: 1.8.0
+  resolution: "@primer/behaviors@npm:1.8.0"
+  checksum: 10c0/a532e270845edb6216b7321871b05b329e03453164346f8b61e76324feb681e3b93a0fd51fb94845f5c873d0c0808b183980a531e32f18ab89f0dd496f0ce83a
+  languageName: node
+  linkType: hard
+
 "@primer/css@npm:^21.0.0":
   version: 21.5.1
   resolution: "@primer/css@npm:21.5.1"
   peerDependencies:
     "@primer/primitives": 9.x || 10.x
   checksum: 10c0/363a564026d3fa44b14783323ca9aae9eab05dd5667176e90077b9f9f6d73fd91f15c215ab597e9925036c6c666ba0539122b6ae0a80cb81934b943873f3b7df
+  languageName: node
+  linkType: hard
+
+"@primer/live-region-element@npm:^0.7.1":
+  version: 0.7.2
+  resolution: "@primer/live-region-element@npm:0.7.2"
+  dependencies:
+    "@lit-labs/ssr-dom-shim": "npm:^1.2.0"
+  checksum: 10c0/e7143a62be00ad731ffe7ea832400b3e2b4b85e14ce06c48c00eaea99c894c4ec57af37e9f063499c3f9a8df31db086147b0741a41cae4690a7975acf53f922d
   languageName: node
   linkType: hard
 
@@ -675,6 +793,29 @@ __metadata:
   version: 10.3.4
   resolution: "@primer/primitives@npm:10.3.4"
   checksum: 10c0/d69805fa11e3c2849274cac4e2d158955b6cbf9185c7b52a3fdfbf375b53bd221b5a31e0b519d9ef78810c3785f20898f8e8e5676e5ec248b3d1a0a0b75118d4
+  languageName: node
+  linkType: hard
+
+"@primer/view-components@npm:^0.36.5":
+  version: 0.36.5
+  resolution: "@primer/view-components@npm:0.36.5"
+  dependencies:
+    "@github/auto-check-element": "npm:^5.2.0"
+    "@github/auto-complete-element": "npm:^3.6.2"
+    "@github/catalyst": "npm:^1.6.0"
+    "@github/clipboard-copy-element": "npm:^1.3.0"
+    "@github/details-menu-element": "npm:^1.0.12"
+    "@github/image-crop-element": "npm:^5.0.0"
+    "@github/include-fragment-element": "npm:^6.1.1"
+    "@github/relative-time-element": "npm:^4.0.0"
+    "@github/remote-input-element": "npm:^0.4.0"
+    "@github/tab-container-element": "npm:^3.1.2"
+    "@oddbird/popover-polyfill": "npm:^0.5.2"
+    "@primer/behaviors": "npm:^1.3.4"
+    "@primer/live-region-element": "npm:^0.7.1"
+  peerDependencies:
+    "@primer/primitives": 9.x || 10.x
+  checksum: 10c0/b1eb6274cf07c65da82f2185df78de3f50403531247c8df1adc78c5386e4c473ef0a1954faee610a8c085fd5b1df72eded8099ef9055de35795e4fe1969db2c4
   languageName: node
   linkType: hard
 
@@ -3307,6 +3448,7 @@ __metadata:
     "@primer/css": "npm:^21.0.0"
     "@primer/octicons": "npm:^19.0.0"
     "@primer/primitives": "npm:^10.3.4"
+    "@primer/view-components": "npm:^0.36.5"
     "@types/node": "npm:^22.0.0"
     domutils: "npm:^3.0.0"
     eslint: "npm:^9.0.0"

@@ -16,6 +16,7 @@
     "@primer/css": "^21.0.0",
     "@primer/octicons": "^19.0.0",
     "@primer/primitives": "^10.3.4",
+    "@primer/view-components": "^0.36.5",
     "domutils": "^3.0.0",
     "html-minifier": "^4.0.0",
     "liquidjs": "^10.0.0",
