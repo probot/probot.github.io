@@ -671,6 +671,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@primer/primitives@npm:^10.3.4":
+  version: 10.3.4
+  resolution: "@primer/primitives@npm:10.3.4"
+  checksum: 10c0/d69805fa11e3c2849274cac4e2d158955b6cbf9185c7b52a3fdfbf375b53bd221b5a31e0b519d9ef78810c3785f20898f8e8e5676e5ec248b3d1a0a0b75118d4
+  languageName: node
+  linkType: hard
+
 "@sindresorhus/slugify@npm:^2.2.1":
   version: 2.2.1
   resolution: "@sindresorhus/slugify@npm:2.2.1"
@@ -3299,6 +3306,7 @@ __metadata:
     "@octokit/rest": "npm:^21.0.0"
     "@primer/css": "npm:^21.0.0"
     "@primer/octicons": "npm:^19.0.0"
+    "@primer/primitives": "npm:^10.3.4"
     "@types/node": "npm:^22.0.0"
     domutils: "npm:^3.0.0"
     eslint: "npm:^9.0.0"
