@@ -9,9 +9,7 @@ layout: default.liquid
         class="d-md-flex flex-md-items-center flex-md-row-reverse flex-md-justify-center gutter-md-spacious"
       >
         <div class="col-md-8 text-center text-md-left">
-          <h1 class="h2 text-uppercase lh-condensed text-brand-blue">
-            Probot
-          </h1>
+          <h1 class="h2 text-uppercase lh-condensed text-brand-blue">Probot</h1>
           <h2 class="h2 lh-condensed">
             GitHub Apps to automate <br />and improve your workflow
           </h2>
@@ -42,8 +40,8 @@ layout: default.liquid
     </p>
 
     <div class="d-md-flex flex-wrap gutter flex-auto">
-      {% assign apps = collections.apps %} {% for app
-      in apps limit:6 %} {% include "app" app: app.data %} {% endfor %}
+      {% assign apps = collections.apps %} {% for app in apps limit:6 %} {%
+      include "app" app: app.data %} {% endfor %}
     </div>
 
     <div class="text-center my-6">
@@ -101,14 +99,10 @@ layout: default.liquid
             class="rounded-2 overflow-hidden border"
             style="margin-left: 60px"
           >
-{% highlight javascript %}
-export default (app) => {
-  app.on('issues.opened', async context => { 
-    const params = context.issue({ body: 'Hello World!' })
-    await context.octokit.issues.createComment(params) 
-  })
-}
-{% endhighlight %}
+            {% highlight javascript %} export default (app) => {
+            app.on('issues.opened', async context => { const params =
+            context.issue({ body: 'Hello World!' }) await
+            context.octokit.issues.createComment(params) }) } {% endhighlight %}
           </div>
         </div>
       </div>

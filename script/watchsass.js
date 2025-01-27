@@ -10,7 +10,7 @@ const result = sass.compileString(
     .css.replaceAll("@import '@primer", "@use 'pkg:@primer"),
   {
     importers: [sass.NodePackageImporter()],
-  }
+  },
 );
 
 fs.writeFileSync("assets/dist/styles.css", result.css);
@@ -26,7 +26,7 @@ fs.watch("assets/sass", () => {
       .css.replaceAll("@import '@primer", "@use 'pkg:@primer"),
     {
       importers: [sass.NodePackageImporter()],
-    }
+    },
   );
 
   fs.writeFileSync("assets/dist/styles.css", result.css);

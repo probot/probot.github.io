@@ -50,6 +50,7 @@ body {
 }
 
 // Display newlines in Markdown
-.markdown-body code br, .markdown-body tt br {
+.markdown-body code br,
+.markdown-body tt br {
   display: unset !important;
 }
