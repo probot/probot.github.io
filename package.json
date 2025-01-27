@@ -11,7 +11,7 @@
     "sync-data": "node --loader=ts-node/esm script/sync.ts"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0-alpha.14",
+    "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "@primer/css": "^21.0.0",
     "@primer/octicons": "^19.0.0",
@@ -34,7 +34,7 @@
     "prettier": "^3.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.0.0",
-    "typescript-eslint": "^8.0.0-alpha.37",
+    "typescript-eslint": "^8.0.0",
     "yaml": "2.6.1"
   },
   "packageManager": "yarn@4.6.0",
