@@ -489,7 +489,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/endpoint@npm:^10.0.0":
+"@octokit/endpoint@npm:^10.1.3":
   version: 10.1.3
   resolution: "@octokit/endpoint@npm:10.1.3"
   dependencies:
@@ -564,15 +564,25 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/request@npm:^9.0.0":
-  version: 9.1.3
-  resolution: "@octokit/request@npm:9.1.3"
+"@octokit/request-error@npm:^6.1.6":
+  version: 6.1.7
+  resolution: "@octokit/request-error@npm:6.1.7"
   dependencies:
-    "@octokit/endpoint": "npm:^10.0.0"
-    "@octokit/request-error": "npm:^6.0.1"
-    "@octokit/types": "npm:^13.1.0"
+    "@octokit/types": "npm:^13.6.2"
+  checksum: 10c0/24bd6f98b1d7b2d4062de34777b4195d3cc4dc40c3187a0321dd588291ec5e13b5760765aacdef3a73796a529d3dec0bfb820780be6ef526a3e774d13566b5b0
+  languageName: node
+  linkType: hard
+
+"@octokit/request@npm:^9.0.0":
+  version: 9.2.1
+  resolution: "@octokit/request@npm:9.2.1"
+  dependencies:
+    "@octokit/endpoint": "npm:^10.1.3"
+    "@octokit/request-error": "npm:^6.1.6"
+    "@octokit/types": "npm:^13.6.2"
+    fast-content-type-parse: "npm:^2.0.0"
     universal-user-agent: "npm:^7.0.2"
-  checksum: 10c0/41c26387ca9b5b3081a17eebea0c7d6b0122f6b2cb21c2fd7ef63ca587a828448e40b33973416f615fed139c659598f2ae7a1370cc103738f0f6f3297b5fc4ab
+  checksum: 10c0/4ec8ae8a9f323ecbe99abde97d21916c200a48a87be7b88407a4f15f2b4fcdc19f48fd5164d3e768a4712ef0702c06e4ff7f65dac562ec7f703eb9a532aebce2
   languageName: node
   linkType: hard
 
@@ -588,7 +598,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/types@npm:^13.0.0, @octokit/types@npm:^13.1.0, @octokit/types@npm:^13.6.0, @octokit/types@npm:^13.6.1":
+"@octokit/types@npm:^13.0.0, @octokit/types@npm:^13.6.0, @octokit/types@npm:^13.6.1":
   version: 13.6.1
   resolution: "@octokit/types@npm:13.6.1"
   dependencies:
@@ -1964,6 +1974,13 @@ __metadata:
   dependencies:
     is-extendable: "npm:^0.1.0"
   checksum: 10c0/ee1cb0a18c9faddb42d791b2d64867bd6cfd0f3affb711782eb6e894dd193e2934a7f529426aac7c8ddb31ac5d38000a00aa2caf08aa3dfc3e1c8ff6ba340bd9
+  languageName: node
+  linkType: hard
+
+"fast-content-type-parse@npm:^2.0.0":
+  version: 2.0.1
+  resolution: "fast-content-type-parse@npm:2.0.1"
+  checksum: 10c0/e5ff87d75a35ae4cf377df1dca46ec49e7abbdc8513689676ecdef548b94900b50e66e516e64470035d79b9f7010ef15d98c24d8ae803a881363cc59e0715e19
   languageName: node
   linkType: hard
 
