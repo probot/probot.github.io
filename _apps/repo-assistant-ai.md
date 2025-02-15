@@ -14,7 +14,7 @@ screenshots:
 authors:
   - guillermoscript
 repository: guillermoscript/repo-assistant
-stars: 32
+stars: 33
 updated: 2025-01-09 02:02:36 UTC
 ---
 
