@@ -812,9 +812,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/view-components@npm:^0.36.5":
-  version: 0.36.5
-  resolution: "@primer/view-components@npm:0.36.5"
+"@primer/view-components@npm:^0.37.0":
+  version: 0.37.0
+  resolution: "@primer/view-components@npm:0.37.0"
   dependencies:
     "@github/auto-check-element": "npm:^5.2.0"
     "@github/auto-complete-element": "npm:^3.6.2"
@@ -831,7 +831,7 @@ __metadata:
     "@primer/live-region-element": "npm:^0.7.1"
   peerDependencies:
     "@primer/primitives": 9.x || 10.x
-  checksum: 10c0/b1eb6274cf07c65da82f2185df78de3f50403531247c8df1adc78c5386e4c473ef0a1954faee610a8c085fd5b1df72eded8099ef9055de35795e4fe1969db2c4
+  checksum: 10c0/1453dd554c2820d58b926f92735c1314b694efb75bf723cacf28b0c049fcb66daaa64152984456d044f190240510a36ef54544afaf979e5663542816bc9be815
   languageName: node
   linkType: hard
 
@@ -3464,7 +3464,7 @@ __metadata:
     "@primer/css": "npm:^21.0.0"
     "@primer/octicons": "npm:^19.0.0"
     "@primer/primitives": "npm:^10.3.4"
-    "@primer/view-components": "npm:^0.36.5"
+    "@primer/view-components": "npm:^0.37.0"
     "@types/node": "npm:^22.0.0"
     domutils: "npm:^3.0.0"
     eslint: "npm:^9.0.0"
