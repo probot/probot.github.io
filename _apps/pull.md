@@ -21,8 +21,8 @@ organizations:
   - v5tech
   - guanguans
   - bestony
-  - major
   - imsyy
+  - major
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
