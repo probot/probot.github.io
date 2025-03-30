@@ -10,7 +10,7 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 6492
+stars: 6493
 updated: 2024-12-10 00:52:55 UTC
 organizations:
   - hemanth
@@ -18,8 +18,8 @@ organizations:
   - moul
   - nefarius
   - v5tech
-  - guanguans
   - imsyy
+  - guanguans
   - bestony
   - major
   - kenzok8
