@@ -10,7 +10,7 @@ authors:
 repository: offu/close-issue-app
 host: https://close-issue-app.herokuapp.com
 stars: 39
-updated: 2025-03-27 08:10:32 UTC
+updated: 2025-03-31 18:53:46 UTC
 organizations:
   - vuetifyjs
   - RocketChat
