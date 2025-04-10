@@ -556,11 +556,11 @@ __metadata:
   linkType: hard
 
 "@octokit/request-error@npm:^6.0.1":
-  version: 6.1.5
-  resolution: "@octokit/request-error@npm:6.1.5"
+  version: 6.1.7
+  resolution: "@octokit/request-error@npm:6.1.7"
   dependencies:
-    "@octokit/types": "npm:^13.0.0"
-  checksum: 10c0/37afef6c072d987ddf50b3438bcc974741a22ee7f788172876f92b5228ed43f5c4c1556a1d73153508d6c8d3a3d2344c7fefb6cde8678c7f63c2115b8629c49b
+    "@octokit/types": "npm:^13.6.2"
+  checksum: 10c0/24bd6f98b1d7b2d4062de34777b4195d3cc4dc40c3187a0321dd588291ec5e13b5760765aacdef3a73796a529d3dec0bfb820780be6ef526a3e774d13566b5b0
   languageName: node
   linkType: hard
 
