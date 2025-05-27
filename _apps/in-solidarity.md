@@ -7,7 +7,7 @@ screenshots:
 authors:
   - jpoehnelt
 repository: jpoehnelt/in-solidarity-bot
-stars: 43
+stars: 44
 updated: 2023-12-25 16:37:43 UTC
 ---
 
