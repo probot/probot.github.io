@@ -763,12 +763,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/css@npm:^21.0.0":
-  version: 21.5.1
-  resolution: "@primer/css@npm:21.5.1"
+"@primer/css@npm:^22.0.0":
+  version: 22.0.0
+  resolution: "@primer/css@npm:22.0.0"
   peerDependencies:
     "@primer/primitives": 9.x || 10.x
-  checksum: 10c0/363a564026d3fa44b14783323ca9aae9eab05dd5667176e90077b9f9f6d73fd91f15c215ab597e9925036c6c666ba0539122b6ae0a80cb81934b943873f3b7df
+  checksum: 10c0/2f01118d3c908abce5059a9c01adf8685d066c0780bb7f00b8104fc68743f2fec83b2b696429ec58e735cdd0a3438edc7e45c5b1384f49e86bdcfac91b520bdb
   languageName: node
   linkType: hard
 
@@ -3473,7 +3473,7 @@ __metadata:
     "@11ty/eleventy": "npm:^3.0.0"
     "@11ty/eleventy-plugin-syntaxhighlight": "npm:^5.0.0"
     "@octokit/rest": "npm:^22.0.0"
-    "@primer/css": "npm:^21.0.0"
+    "@primer/css": "npm:^22.0.0"
     "@primer/octicons": "npm:^19.0.0"
     "@primer/primitives": "npm:^10.3.4"
     "@primer/view-components": "npm:^0.37.0"
