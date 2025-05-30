@@ -16,7 +16,6 @@
     "@primer/css": "^22.0.0",
     "@primer/octicons": "^19.0.0",
     "@primer/primitives": "^10.3.4",
-    "@primer/view-components": "^0.37.0",
     "domutils": "^3.0.0",
     "html-minifier": "^4.0.0",
     "liquidjs": "^10.0.0",
@@ -39,6 +38,6 @@
     "typescript-eslint": "^8.0.0",
     "yaml": "2.8.0"
   },
-  "packageManager": "yarn@4.9.0",
+  "packageManager": "yarn@4.9.1",
   "type": "module"
 }
