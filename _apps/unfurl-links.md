@@ -9,7 +9,7 @@ authors:
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
 stars: 114
-updated: 2025-06-06 11:45:25 UTC
+updated: 2025-06-08 11:09:39 UTC
 organizations:
   - overtrue
   - PowerShell
