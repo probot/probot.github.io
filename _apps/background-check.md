@@ -9,7 +9,7 @@ authors:
   - itaditya
 repository: probot/background-check
 host: https://probot-background-check.herokuapp.com
-stars: 28
+stars: 29
 updated: 2023-12-16 00:54:12 UTC
 organizations:
   - kartik-v
