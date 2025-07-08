@@ -15,7 +15,7 @@ screenshots:
 authors: skywarth
 repository: skywarth/darkest-PR
 host: https://darkest-pr.vercel.app/
-stars: 22
+stars: 23
 updated: 2025-06-01 23:39:52 UTC
 ---
 
