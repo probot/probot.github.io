@@ -1,6 +1,6 @@
 ---
-title: Screenshot bot Argus
-description: Bot to watch for repository's workflows with tests and pin screenshots differences images to bot's comment of pull request.
+title: Argus Screenshot bot
+description: A bot that monitors test workflows and posts visual diffs (screenshot comparisons) as comments on pull requests.
 slug: screenshot-report-bot
 screenshots:
   - https://raw.githubusercontent.com/taiga-family/argus/refs/heads/main/.demo/error-report.png
@@ -12,9 +12,8 @@ repository: taiga-family/argus
 host: https://screenshot-report-bot.vercel.app
 ---
 
-**Screenshot bot Argus** is a GitHub App built with [Probot](https://github.com/probot/probot)
-to watch for repository's workflows with tests, download artifacts with screenshots differences images,
-and pin these images to bot's comment of pull request.
+**Argus screenshot bot** is a GitHub App built with [Probot](https://github.com/probot/probot) that helps teams catch unintended visual changes by posting screenshot comparisons as comments on pull requests.
+It monitors test workflows that generate screenshot artifacts, downloads visual diffs, and attaches them in a comment on the pull request.
 
 > **Why "Argus"?** Argus is a many-eyed "all-seeing" giant in Greek mythology.
 > This character is known for having generated the saying "the eyes of Argus"
@@ -26,8 +25,8 @@ Read more about this tool in the article:<br/>
 
 ## Setup :rocket:
 
-GitHub Action is recommended approach to use bot.<br />
-However, its deployment as GitHub App is option too.
+Deployment of the bot using GitHub actions is the preferred approach.<br />
+Deployment as a GitHub app is supported as well.
 
 ### As GitHub Action
 
@@ -58,17 +57,17 @@ jobs:
 
 ### As GitHub App
 
-You can deploy your own Github App using this code and recipes from [Probot documentation](https://probot.github.io/docs/deployment)
-or use already hosted **[screenshot‑report‑bot](https://github.com/apps/screenshot-report-bot/installations/new)**
+You can deploy your own Github App using this code and recipes from the [Probot documentation](https://probot.github.io/docs/deployment)
+or use an already hosted **[screenshot‑report‑bot](https://github.com/apps/screenshot-report-bot/installations/new)**
 
 ## Bot configurations :gear:
 
-Bot has configurable params which can be unique for every GitHub repository.<br>
-Every param is optional, and you can skip this section if default configuration satisfies you.
+The bot has configurable parameters which can be unique for every GitHub repository.<br>
+Every parameter is optional, and you can skip this section if the default configuration satisfies your needs.
 
-To pass custom params for bot you should create `screenshot-bot.config.yml` file inside the `.github` directory of repository.
+In order to pass custom parameters to the bot, you should create a `screenshot-bot.config.yml` file inside the `.github` directory of your repository.
 
-**Example of `screenshot-bot.config.yml` file content** (you can paste it as it is) and **default values** of each param:
+**Example of a `screenshot-bot.config.yml` file's contents** (you can paste it as it is) with **default values** for each param:
 
 ```yaml
 # array of RegExp strings to match images inside artifacts (by their path or file name)
@@ -104,37 +103,36 @@ workflows: [
 branches-ignore: []
 ```
 
-## What bot can do? :bulb:
+## What can the bot do? :bulb:
 
--   Holds first PR comment.
-    All workflow updates edit already existing bot comment.
-    No endless stream of comments from bot!
--   Sets loading state comment when PR is opened or new commits are pushed to PR.
+-  Posts an initial comment in the PR and updates it as workflows are run.
+   No endless stream of comments from the bot!
+-   Sets loading state in a comment when the PR is opened or when new commits are pushed.
     ![loading-demo](https://raw.githubusercontent.com/taiga-family/argus/refs/heads/main/.demo/loading.png)
--   Downloads artifacts from workflow with tests, finds screenshots diffs images, and pins them to the tests failure report.
+-   Downloads artifacts from workflows with tests, finds screenshots diffs images, and pins them to the tests failure report.
     ![error-report-demo](https://raw.githubusercontent.com/taiga-family/argus/refs/heads/main/.demo/error-report.png)
--   Removes all uploaded images (for current PR) after closing pull request.
+-   Removes all uploaded images (for the current PR) after closing the pull request.
     ![closed-pr-demo](https://raw.githubusercontent.com/taiga-family/argus/refs/heads/main/.demo/pr-closed.png)
 
 ## About Permissions :closed_lock_with_key:
 
-If you use bot as GitHub Action it is required to provide `permissions` property in your `yml` file.<br>
-If you use bot as GitHub App it asks for some permissions at the beginning of the bot's installation.<br>
-All requested permissions are really needed, and we do not ask for more permissions than necessary.
+If you use the bot as a GitHub Action, it is required to provide the `permissions` property in your `yml` file.<br>
+If you use the bot as a GitHub App, it will ask for some permissions at the beginning of the bot's installation.<br>
+All requested permissions are necessary, and we do not ask for more permissions than needed.
 
 #### Permissions
 
 Bot requires the following repository's **permissions**:
 
--   `actions: read` - to get list of workflow run artifacts and download these artifacts.
--   `contents: write` - to create new branch for storage of screenshot diffs images
-    and to ability to upload/delete these screenshot diffs images.
+-   `actions: read` - to get the list of workflow run artifacts and download those artifacts.
+-   `contents: write` - to create a new branch for the storage of screenshot diffs images
+    and to have the ability to upload/delete these screenshot diffs images.
 -   `metadata: read` - mandatory for Github App.
 -   `pull_requests: write` - to create/edit PR's comment with bot's tests reports.
 
 #### Events
 
-Bot listens to the following repository's **events**:
+The bot listens to the following repository **events**:
 
--   `pull_request` — bot listens to pull request closing to delete all saved screenshots for current closed PR.
--   `workflow_run` — bot listens to workflow completion to download artifacts and send tests report as PR comment.
+-   `pull_request` — bot listens to the `pull request.closed` event in order to delete all saved screenshots for the closed PR.
+-   `workflow_run` — bot listens to the `workflow_run.completed` event in order to download artifacts and send tests report as PR comment.
