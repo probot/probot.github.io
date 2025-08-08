@@ -247,21 +247,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@github/auto-check-element@npm:^5.2.0":
-  version: 5.6.0
-  resolution: "@github/auto-check-element@npm:5.6.0"
+"@github/auto-check-element@npm:^6.0.0":
+  version: 6.0.0
+  resolution: "@github/auto-check-element@npm:6.0.0"
   dependencies:
     "@github/mini-throttle": "npm:^2.1.0"
-  checksum: 10c0/dd16bfef61f24ebc8d8b30700a02e0d3e8456be7256aeb126751a754459f968d23cc33d32fb6d246ea89204408ca1d1754f3a83f2fa3173af2792ae128455817
+  checksum: 10c0/8c566661996b0a1ead00414ba358fc304892ef28495bcfaf44df45b928132ab5fdb3553e707b9b4a2b20f2af60470b208a73924be0f3245b11ced79e0e68913c
   languageName: node
   linkType: hard
 
-"@github/auto-complete-element@npm:^3.6.2":
-  version: 3.6.2
-  resolution: "@github/auto-complete-element@npm:3.6.2"
+"@github/auto-complete-element@npm:^3.8.0":
+  version: 3.8.0
+  resolution: "@github/auto-complete-element@npm:3.8.0"
   dependencies:
     "@github/combobox-nav": "npm:^2.1.7"
-  checksum: 10c0/5b769169cdedb95840cf303ad02016ebc8c367293761004e08766ac547acf01528e78bef3a5e3cef48cfee98cea1bd0f63833d7f1b053f53013f910e2c6efe0d
+  checksum: 10c0/6236d0239201200dbe595d1b3c0fa4a4538a5f19f53c9e7d18abf6989515cdee830e426c2c50ecdd10af49218c5a8db6d80b2aa9138c3aa3f08093e089b9f436
   languageName: node
   linkType: hard
 
@@ -300,10 +300,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@github/include-fragment-element@npm:^6.1.1":
-  version: 6.3.0
-  resolution: "@github/include-fragment-element@npm:6.3.0"
-  checksum: 10c0/ee8e9c7e1905949efcca95d95013a39a35a1ef4d43ec7515faeb16cd2cd58ff67dabd197b4bf3c6c420a76b7821f14c92c3a6730bbc415288bfb1d649a59a5e7
+"@github/include-fragment-element@npm:^6.3.0":
+  version: 6.4.0
+  resolution: "@github/include-fragment-element@npm:6.4.0"
+  checksum: 10c0/fa763d304ac270b8c45362479871119768f1b86984ec808d11d945cc61b10bac566360355fde19d31d5c31db3f69d4b9f832aba5508c84bbaad29391291dba9c
   languageName: node
   linkType: hard
 
@@ -411,10 +411,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lit-labs/ssr-dom-shim@npm:^1.2.0":
-  version: 1.3.0
-  resolution: "@lit-labs/ssr-dom-shim@npm:1.3.0"
-  checksum: 10c0/743a9b295ef2f186712f08883da553c9990be291409615309c99aa4946cfe440a184e4213c790c24505c80beb86b9cfecf10b5fb30ce17c83698f8424f48678d
+"@lit-labs/ssr-dom-shim@npm:^1.2.1":
+  version: 1.4.0
+  resolution: "@lit-labs/ssr-dom-shim@npm:1.4.0"
+  checksum: 10c0/eb8b4c6ed83db48e2f2c8c038f88e0ac302214918e5c1209458cb82a35ce27ce586100c5692885b2c5520f6941b2c3512f26c4d7b7dd48f13f17f1668553395a
   languageName: node
   linkType: hard
 
@@ -772,12 +772,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/live-region-element@npm:^0.7.1":
-  version: 0.7.2
-  resolution: "@primer/live-region-element@npm:0.7.2"
+"@primer/live-region-element@npm:^0.8.0":
+  version: 0.8.0
+  resolution: "@primer/live-region-element@npm:0.8.0"
   dependencies:
-    "@lit-labs/ssr-dom-shim": "npm:^1.2.0"
-  checksum: 10c0/e7143a62be00ad731ffe7ea832400b3e2b4b85e14ce06c48c00eaea99c894c4ec57af37e9f063499c3f9a8df31db086147b0741a41cae4690a7975acf53f922d
+    "@lit-labs/ssr-dom-shim": "npm:^1.2.1"
+  checksum: 10c0/a72b38701924e16e778c535b71bab713e4b6f3cb02c57151dcdb4473e9d68f6ce01d75e7e56d4a6482a3d7437f3042a65cf374f4be9ba77612fd240083593fb7
   languageName: node
   linkType: hard
 
@@ -797,26 +797,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/view-components@npm:^0.37.0":
-  version: 0.37.0
-  resolution: "@primer/view-components@npm:0.37.0"
+"@primer/view-components@npm:^0.43.0":
+  version: 0.43.6
+  resolution: "@primer/view-components@npm:0.43.6"
   dependencies:
-    "@github/auto-check-element": "npm:^5.2.0"
-    "@github/auto-complete-element": "npm:^3.6.2"
+    "@github/auto-check-element": "npm:^6.0.0"
+    "@github/auto-complete-element": "npm:^3.8.0"
     "@github/catalyst": "npm:^1.6.0"
     "@github/clipboard-copy-element": "npm:^1.3.0"
     "@github/details-menu-element": "npm:^1.0.12"
     "@github/image-crop-element": "npm:^5.0.0"
-    "@github/include-fragment-element": "npm:^6.1.1"
+    "@github/include-fragment-element": "npm:^6.3.0"
     "@github/relative-time-element": "npm:^4.0.0"
     "@github/remote-input-element": "npm:^0.4.0"
     "@github/tab-container-element": "npm:^3.1.2"
     "@oddbird/popover-polyfill": "npm:^0.5.2"
     "@primer/behaviors": "npm:^1.3.4"
-    "@primer/live-region-element": "npm:^0.7.1"
+    "@primer/live-region-element": "npm:^0.8.0"
   peerDependencies:
-    "@primer/primitives": 9.x || 10.x
-  checksum: 10c0/1453dd554c2820d58b926f92735c1314b694efb75bf723cacf28b0c049fcb66daaa64152984456d044f190240510a36ef54544afaf979e5663542816bc9be815
+    "@primer/primitives": 10.x || 11.x
+  checksum: 10c0/ba6274aaf68a5b78d252653abd4d63a808e3f7c40acca242a3d6efa9ccf85ffa003aa60a6301cba9b69a74976b0d444d586e7df8b97cc9cfaf5a5a3d9275e390
   languageName: node
   linkType: hard
 
@@ -3476,7 +3476,7 @@ __metadata:
     "@primer/css": "npm:^21.0.0"
     "@primer/octicons": "npm:^19.0.0"
     "@primer/primitives": "npm:^11.0.0"
-    "@primer/view-components": "npm:^0.37.0"
+    "@primer/view-components": "npm:^0.43.0"
     "@types/node": "npm:^22.0.0"
     domutils: "npm:^3.0.0"
     eslint: "npm:^9.0.0"
