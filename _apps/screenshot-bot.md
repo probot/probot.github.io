@@ -1,6 +1,7 @@
 ---
 title: Argus Screenshot bot
-description: A bot that monitors test workflows and posts visual diffs (screenshot comparisons) as comments on pull requests.
+description: A bot that monitors test workflows and posts visual diffs
+  (screenshot comparisons) as comments on pull requests.
 slug: screenshot-report-bot
 screenshots:
   - https://raw.githubusercontent.com/taiga-family/argus/refs/heads/main/.demo/error-report.png
@@ -10,6 +11,8 @@ authors:
   - nsbarsukov
 repository: taiga-family/argus
 host: https://screenshot-report-bot.vercel.app
+stars: 19
+updated: 2025-08-15 09:28:13 UTC
 ---
 
 **Argus screenshot bot** is a GitHub App built with [Probot](https://github.com/probot/probot) that helps teams catch unintended visual changes by posting screenshot comparisons as comments on pull requests.
