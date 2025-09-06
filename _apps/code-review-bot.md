@@ -7,7 +7,7 @@ screenshots:
 authors:
   - anc95
 repository: anc95/ChatGPT-CodeReview
-stars: 4352
+stars: 4353
 updated: 2025-08-04 08:14:30 UTC
 ---
 
