@@ -8,7 +8,7 @@ authors:
   - boyney123
 repository: boyney123/auto-comment
 host: https://auto-comment.now.sh
-stars: 25
+stars: 24
 updated: 2019-09-26 14:00:33 UTC
 organizations:
   - ipfs
