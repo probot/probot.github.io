@@ -12,7 +12,7 @@ authors:
 repository: taiga-family/argus
 host: https://screenshot-report-bot.vercel.app
 stars: 19
-updated: 2025-10-09 18:34:49 UTC
+updated: 2025-10-11 14:20:23 UTC
 ---
 
 **Argus screenshot bot** is a GitHub App built with [Probot](https://github.com/probot/probot) that helps teams catch unintended visual changes by posting screenshot comparisons as comments on pull requests.
