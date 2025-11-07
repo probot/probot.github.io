@@ -2,7 +2,7 @@
 title: Settings
 description: Pull Requests for repository settings
 slug: settings
-stars: 1003
+stars: 1004
 authors:
   - bkeepers
 repository: probot/settings
