@@ -9,7 +9,7 @@ authors:
   - hollywood
 repository: hollywood/remove-outside-collaborators
 host: https://remove-outside-collaborators.herokuapp.com
-stars: 21
+stars: 22
 updated: 2020-05-08 15:28:25 UTC
 organizations:
   - tracelytics
