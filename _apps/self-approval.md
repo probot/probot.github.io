@@ -8,7 +8,7 @@ screenshots:
 authors:
   - Cubik65536
 repository: self-approval/app
-stars: 4
+stars: 5
 updated: 2024-07-26 23:41:31 UTC
 ---
 
