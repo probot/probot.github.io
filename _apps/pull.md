@@ -11,7 +11,7 @@ authors:
 repository: wei/pull
 host: https://pull.git.ci
 stars: 6866
-updated: 2025-09-13 16:00:59 UTC
+updated: 2025-11-24 23:26:07 UTC
 organizations:
   - spicetify
   - hemanth
