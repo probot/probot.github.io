@@ -12,7 +12,7 @@ authors:
   - bkeepers
   - hiimbex
 repository: probot/dco
-updated: 2025-12-01 19:03:37 UTC
+updated: 2025-12-02 18:37:12 UTC
 host: https://probot-dco.herokuapp.com
 organizations:
   - moby
