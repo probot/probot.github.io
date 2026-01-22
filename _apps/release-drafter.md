@@ -9,7 +9,7 @@ authors:
 repository: toolmantim/release-drafter
 host: https://release-drafter.now.sh
 stars: 3814
-updated: 2026-01-20 01:02:10 UTC
+updated: 2026-01-21 19:11:33 UTC
 organizations:
   - fossasia
   - gorilla
