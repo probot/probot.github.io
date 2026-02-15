@@ -27,7 +27,7 @@
   "repository": "github:probot/probot.github.io",
   "devDependencies": {
     "@octokit/rest": "^22.0.0",
-    "@types/node": "^22.0.0",
+    "@types/node": "^24.0.0",
     "eslint": "^10.0.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
