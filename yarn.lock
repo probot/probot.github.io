@@ -271,10 +271,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@github/catalyst@npm:^1.6.0":
-  version: 1.7.0
-  resolution: "@github/catalyst@npm:1.7.0"
-  checksum: 10c0/39740d8e2712fb8029ea9fc48f544fcb59f0b61e96226c0bba68ddf97cb2e1e11aaa76c7fcb3e673b49b7fdea68c1116855db6e8ccf1fb04ac8f5aa12c8059cf
+"@github/catalyst@npm:^1.8.0":
+  version: 1.8.0
+  resolution: "@github/catalyst@npm:1.8.0"
+  checksum: 10c0/b6e8196a3e903032d192224e6c9c55e0b8accb41f59f44a777e4c392d0da3d4c026d37d52b833df223d4153cf11d238de8024abc0b5c60d9841c59e2ff566af8
   languageName: node
   linkType: hard
 
@@ -320,10 +320,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@github/relative-time-element@npm:^4.0.0":
-  version: 4.4.5
-  resolution: "@github/relative-time-element@npm:4.4.5"
-  checksum: 10c0/f29f0b6d0d24791ef31b4f54c5454eabd9d29e1b61b6b87acdcb7b0a2f19776320de7e47df71ae663a160125cd0f17c5d7be8476bf066523012fa34c87ff668b
+"@github/relative-time-element@npm:^5.0.0":
+  version: 5.0.0
+  resolution: "@github/relative-time-element@npm:5.0.0"
+  checksum: 10c0/c458228d064a02cddd0a245c03da31d53f10f912f60f6adb1707e663a3e1bbf7989ec43cd29294b7c5ab9ed27121f030ae3f53886637085ca5f1045675855962
   languageName: node
   linkType: hard
 
@@ -819,18 +819,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/view-components@npm:^0.44.0":
-  version: 0.44.0
-  resolution: "@primer/view-components@npm:0.44.0"
+"@primer/view-components@npm:^0.51.0":
+  version: 0.51.2
+  resolution: "@primer/view-components@npm:0.51.2"
   dependencies:
     "@github/auto-check-element": "npm:^6.0.0"
     "@github/auto-complete-element": "npm:^3.8.0"
-    "@github/catalyst": "npm:^1.6.0"
+    "@github/catalyst": "npm:^1.8.0"
     "@github/clipboard-copy-element": "npm:^1.3.0"
     "@github/details-menu-element": "npm:^1.0.12"
     "@github/image-crop-element": "npm:^5.0.0"
     "@github/include-fragment-element": "npm:^6.3.0"
-    "@github/relative-time-element": "npm:^4.0.0"
+    "@github/relative-time-element": "npm:^5.0.0"
     "@github/remote-input-element": "npm:^0.4.0"
     "@github/tab-container-element": "npm:^3.1.2"
     "@oddbird/popover-polyfill": "npm:^0.5.2"
@@ -838,7 +838,7 @@ __metadata:
     "@primer/live-region-element": "npm:^0.8.0"
   peerDependencies:
     "@primer/primitives": 10.x || 11.x
-  checksum: 10c0/8251b948056fcbae7b31949a591513a344693e764c70597500c884e3ad210a9483e32d93ab9e7604b2dc0c79780d3e8cb3954f963f1017888eabf2a86fe25a84
+  checksum: 10c0/455c0fc2eb9ec8918ce4320f729ed9fd94dd02de87ddea2a1aa12d98827166920d0e8b342d8e516ea5b8c052dbfa83a884f678037964b0b98517e061b0afd5c3
   languageName: node
   linkType: hard
 
@@ -3470,7 +3470,7 @@ __metadata:
     "@primer/css": "npm:^21.0.0"
     "@primer/octicons": "npm:^19.0.0"
     "@primer/primitives": "npm:^11.0.0"
-    "@primer/view-components": "npm:^0.44.0"
+    "@primer/view-components": "npm:^0.51.0"
     "@types/node": "npm:^24.0.0"
     domutils: "npm:^3.0.0"
     eslint: "npm:^10.0.0"
