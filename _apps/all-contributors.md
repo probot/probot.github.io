@@ -8,7 +8,7 @@ authors:
   - jakebolam
 repository: all-contributors/all-contributors-bot
 stars: 618
-updated: 2026-03-01 00:32:51 UTC
+updated: 2026-03-18 16:40:41 UTC
 host: https://gkioebvccg.execute-api.us-east-1.amazonaws.com/prod
 organizations:
   - formatjs
