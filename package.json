@@ -19,7 +19,7 @@
     "@primer/view-components": "^0.44.0",
     "domutils": "^4.0.0",
     "html-minifier": "^4.0.0",
-    "liquidjs": "^10.0.0",
+    "liquidjs": "^10.25.7",
     "markdown-it": "^14.0.0",
     "sass": "^1.49.8",
     "supports-color": "^10.0.0"
