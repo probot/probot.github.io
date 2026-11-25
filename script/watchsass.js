@@ -13,6 +13,8 @@ const result = sass.compileString(
   },
 );
 
+fs.mkdirSync("assets/dist", { recursive: true });
+
 fs.writeFileSync("assets/dist/styles.css", result.css);
 
 console.log(`Watching for file changes in assets/sass`);
